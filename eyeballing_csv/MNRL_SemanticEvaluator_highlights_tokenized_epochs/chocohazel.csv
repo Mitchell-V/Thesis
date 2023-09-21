@@ -1,0 +1,646 @@
+scoreLLM score,ann,prd_id,brand,title,highlights,properties,taxonomies,full_text,full_text_no_sep,Unnamed: 0,search_query,scorePropensity score
+0.26736188,5371,535137,AH,Vegan mayo met truffelsmaak,,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Truffel pesto mayonaise",ah [SEP] vegan mayo met truffelsmaak [SEP]  [SEP] mayonaise,ah vegan mayo met truffelsmaak mayonaise,null,null,null
+0.23939854,10338,476433,Flower Farm,Smeren zonder palm,,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor op brood 3/4 margarine (smeerbaar)",flower farm [SEP] smeren zonder palm [SEP]  [SEP] margarine kuipje,flower farm smeren zonder palm margarine kuipje,null,null,null
+0.22257496,6153,537158,AH,Champignonsoep verspakket,,"['Geen gluten' 'Laag zout' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' 'Geen mosterd' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam']","Aardappel groente fruit Salades pizza maaltijden Groente
+ Verspakket Soeppakketten (vers) Groentepakket",ah [SEP] champignonsoep verspakket [SEP]  [SEP] onbewerkt verspakket soep,ah champignonsoep verspakket onbewerkt verspakket soep,null,null,null
+0.21899723,13745,189298,AH,Belgische Mayonaise,Bereid met vrije-uitloopeieren Volgens Belgische receptuur,"['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Mayonaise (in pot)",ah [SEP] belgische mayonaise [SEP] Bereid met vrije-uitloopeieren Volgens Belgische receptuur [SEP] mayonaise,ah belgische mayonaise mayonaise,null,null,null
+0.21149303,18888,509346,AH,Vegan mayo,"AH Vegan mayo heeft de heerlijke romige smaak en 100% plantaardig Heerlijk bij frites, snacks, gebakken aardappelen en op sandwiches Ook ideaal voor het bereiden van saladedressings","['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Laag suiker' 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen mosterd' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Mayonaise (in pot)","ah [SEP] vegan mayo [SEP] AH Vegan mayo heeft de heerlijke romige smaak en 100% plantaardig Heerlijk bij frites, snacks, gebakken aardappelen en op sandwiches Ook ideaal voor het bereiden van saladedressings [SEP] mayonaise",ah vegan mayo mayonaise,null,null,null
+0.2109021,15508,203323,AH Excellent,Belgische mayonaise,,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Mayonaise (in pot)",ah excellent [SEP] belgische mayonaise [SEP]  [SEP] mayonaise,ah excellent belgische mayonaise mayonaise,null,null,null
+0.20985395,923,124141,AH,Rijkgevulde champignonsoep,Een heerlijke rijkgevulde champignonsoep met bieslook Met hollandse champignons Extra gevuld en romig van smaak,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij']","Soepen sauzen kruiden olie Conserven Soepen Soepen in blik
+ Soep (opwarmen) Champignonsoep in blik Soep in blik",ah [SEP] rijkgevulde champignonsoep [SEP] Een heerlijke rijkgevulde champignonsoep met bieslook Met hollandse champignons Extra gevuld en romig van smaak [SEP] maaltijdsoep 1 persoons blik,ah rijkgevulde champignonsoep maaltijdsoep 1 persoons blik,null,null,null
+0.20777059,10077,517427,Bonne Maman,Financiers amandes,"Heerlijke amandel cakejes gemaakt volgens traditioneel frans recept met een rijke roomboter- amandelsmaak. Authentieke franse receptuur Heerlijk rijke boter- en amandelsmaak Individueel verpakt, zo blijft het product altijd vers Zonder bewaarmiddelen, kleur- of kunstmatige smaakstoffen","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen lupine' ""Geen pinda's""
+ 'Vegetarisch' 'Geen melk' 'Geen selderij' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Geen eieren']",Snoep koek chips en chocolade Koek Cake Cakejes,"bonne maman [SEP] financiers amandes [SEP] Heerlijke amandel cakejes gemaakt volgens traditioneel frans recept met een rijke roomboter- amandelsmaak. Authentieke franse receptuur Heerlijk rijke boter- en amandelsmaak Individueel verpakt, zo blijft het product altijd vers Zonder bewaarmiddelen, kleur- of kunstmatige smaakstoffen [SEP] verpakt premium",bonne maman financiers amandes verpakt premium,null,null,null
+0.20712516,8665,541732,AH,Champignonsoep verspakket,"Met dit pakket heb je alles bij de hand om een lekkere champignonsoep te maken, die je met trots op tafel kunt zetten. Dit pakket bevat: AH Champignonsoep verspakket 1x AH Bieslook 25 gram 1x AH Kookroom 250 ml 1x",[],"Aardappel groente fruit Salades pizza maaltijden Groente
+ Verspakket Soeppakketten (vers) Groentepakket","ah [SEP] champignonsoep verspakket [SEP] Met dit pakket heb je alles bij de hand om een lekkere champignonsoep te maken, die je met trots op tafel kunt zetten. Dit pakket bevat: AH Champignonsoep verspakket 1x AH Bieslook 25 gram 1x AH Kookroom 250 ml 1x [SEP] ",ah champignonsoep verspakket ,null,null,null
+0.20602652,14577,537223,Mister Kitchen's,Original mayo vegan,"Frisse vegan mayo die eivrij, lactosevrij, glutenvrij, maar vooral onweerstaanbaar is. Het 100% plantaardige alternatief voor jouw favoriete mayonaise, rechtstreeks uit de keuken van mister kitchen. Veganistisch  en  vegetarisch Glutenvrij, eivrij  en  lactosevrij Op basis van plantaardige eiwitten Perfect voor friet, groente en salade","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen sulfiet' 'Laag suiker'
+ 'Geen schelpdieren (schaaldieren)' 'Vegetarisch' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' 'Geen mosterd' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen lactose' 'Veganistisch' 'Geen sesam' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Mayonaise (minder vet)","mister kitchen's [SEP] original mayo vegan [SEP] Frisse vegan mayo die eivrij, lactosevrij, glutenvrij, maar vooral onweerstaanbaar is. Het 100% plantaardige alternatief voor jouw favoriete mayonaise, rechtstreeks uit de keuken van mister kitchen. Veganistisch  en  vegetarisch Glutenvrij, eivrij  en  lactosevrij Op basis van plantaardige eiwitten Perfect voor friet, groente en salade [SEP] partysauzen",mister kitchen's original mayo vegan partysauzen,null,null,null
+0.20581624,4175,944,AH,Mienestjes,"Mie met een lekkere stevige bite De nestjes koken mooi los, zonder te kleven Ideaal voor bamischotels, ook lekker in de noodlesoep Tip: vul de mie aan met vlees of kip, garnalen, bamigroenten, champignons en breng op smaak met bijvoorbeeld sambal, ketjap, knoflook en gemberpoeder. Geef er gebakken ei of reepjes omelet, zilveruitjes, augurken, atjar tjampoer en kroepoek bij. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen noten' 'Geen selderij' 'Geen eieren']","Pasta rijst en wereldkeuken Oosterse keuken Pasta rijst noedels
+ Noedels mie Mie","ah [SEP] mienestjes [SEP] Mie met een lekkere stevige bite De nestjes koken mooi los, zonder te kleven Ideaal voor bamischotels, ook lekker in de noodlesoep Tip: vul de mie aan met vlees of kip, garnalen, bamigroenten, champignons en breng op smaak met bijvoorbeeld sambal, ketjap, knoflook en gemberpoeder. Geef er gebakken ei of reepjes omelet, zilveruitjes, augurken, atjar tjampoer en kroepoek bij. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] noodles, mie en bami","ah mienestjes noodles, mie en bami",null,null,null
+0.20182842,4414,228602,Koopmans,Stroopwafel cake met stukjes karamel,"Stroopwafelcake = cake + stroopwafel. Ja, graag! Met de Koopmans oud-hollandse stroopwafelcake bakmix maak je een ouderwets lekkere cake met verstopte stukjes stroopwafel en karamel. Een echte Hollandse cake met verstopte stukjes stroopwafel Lekker smeuig, met stukjes karamel Zelf toevoegen: 200 g boter, 4 eieren, bloem en 4 stroopwafels 1 pak is genoeg voor circa 25 plakken","['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen eieren']","Bakkerij en banket Snoep koek chips en chocolade Zelf bakken
+ Bakmix Cakemix","koopmans [SEP] stroopwafel cake met stukjes karamel [SEP] Stroopwafelcake = cake + stroopwafel. Ja, graag! Met de Koopmans oud-hollandse stroopwafelcake bakmix maak je een ouderwets lekkere cake met verstopte stukjes stroopwafel en karamel. Een echte Hollandse cake met verstopte stukjes stroopwafel Lekker smeuig, met stukjes karamel Zelf toevoegen: 200 g boter, 4 eieren, bloem en 4 stroopwafels 1 pak is genoeg voor circa 25 plakken [SEP] zm stuks",koopmans stroopwafel cake met stukjes karamel zm stuks,null,null,null
+0.20082182,10658,504934,Yum Yum,Kip 5-pack,"Yum yum kip is een lekkere thaise instant noodlesoep met kipsmaak, naar smaak te verrijken met peper, kruiden en olie. Snel en makkelijk te bereiden De kruiden zijn naar eigen smaak toe te voegen Lekker met een gekookt eitje, bosui en gebakken uitjes Authentiek uit Thailand","['Geen gluten' 'Geen lactose' 'Geen soja' 'Laag suiker' 'Geen selderij'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Geen vis'
+ 'Laag vet' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Tussendoortjes Soep (tussendoor) Oosterse keuken Warm tussendoor
+ Pasta rijst noedels Soepen Noedelsoep Noedels mie","yum yum [SEP] kip 5-pack [SEP] Yum yum kip is een lekkere thaise instant noodlesoep met kipsmaak, naar smaak te verrijken met peper, kruiden en olie. Snel en makkelijk te bereiden De kruiden zijn naar eigen smaak toe te voegen Lekker met een gekookt eitje, bosui en gebakken uitjes Authentiek uit Thailand [SEP] stevig tussendoor zak",yum yum kip 5-pack stevig tussendoor zak,null,null,null
+0.19882786,9764,130084,Yum Yum,Chicken flavour instant noodles,"Yum yum kip is een lekkere thaise instant noodlesoep met kipsmaak, naar smaak te verrijken met peper, kruiden en olie. Snel en makkelijk te bereiden De kruiden zijn naar eigen smaak toe te voegen Lekker met een gekookt eitje, bosui en gebakken uitjes Authentiek uit Thailand","['Geen gluten' 'Geen lactose' 'Geen soja' 'Laag suiker' 'Geen selderij'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Geen vis' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Tussendoortjes Soep (tussendoor) Oosterse keuken Warm tussendoor
+ Pasta rijst noedels Soepen Noedelsoep Noedels mie","yum yum [SEP] chicken flavour instant noodles [SEP] Yum yum kip is een lekkere thaise instant noodlesoep met kipsmaak, naar smaak te verrijken met peper, kruiden en olie. Snel en makkelijk te bereiden De kruiden zijn naar eigen smaak toe te voegen Lekker met een gekookt eitje, bosui en gebakken uitjes Authentiek uit Thailand [SEP] stevig tussendoor zak",yum yum chicken flavour instant noodles stevig tussendoor zak,null,null,null
+0.19794823,8496,37065,AH,Rijkgevulde champignonsoep,Een heerlijke rijkgevulde champignonsoep met bieslook Met hollandse champignons Extra gevuld en romig van smaak Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij']","Soepen sauzen kruiden olie Conserven Soepen Soepen in blik
+ Soep (opwarmen) Champignonsoep in blik Soep in blik",ah [SEP] rijkgevulde champignonsoep [SEP] Een heerlijke rijkgevulde champignonsoep met bieslook Met hollandse champignons Extra gevuld en romig van smaak Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] maaltijdsoep meerpersoons blik,ah rijkgevulde champignonsoep maaltijdsoep meerpersoons blik,null,null,null
+0.19658381,7236,199231,AH Biologisch,Mayonaise,"Met zonnebloemolie Volle smaak, extra romig","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Laag vet' 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen noten' 'Geen mosterd' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Mayonaise (in pot)","ah biologisch [SEP] mayonaise [SEP] Met zonnebloemolie Volle smaak, extra romig [SEP] mayonaise",ah biologisch mayonaise mayonaise,null,null,null
+0.19646573,2797,388284,Go-Tan,Egg wok noodles bio,Biologische eiernoedels in handige nestjes. Smakelijke basis voor de Aziatische maaltijd. Biologisch 100% natuurlijk Zonder toevoegingen,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Geen selderij' 'Geen eieren']","Pasta rijst en wereldkeuken Oosterse keuken Pasta rijst noedels
+ Noedels mie Noedels","go-tan [SEP] egg wok noodles bio [SEP] Biologische eiernoedels in handige nestjes. Smakelijke basis voor de Aziatische maaltijd. Biologisch 100% natuurlijk Zonder toevoegingen [SEP] noodles, mie en bami","go-tan egg wok noodles bio noodles, mie en bami",null,null,null
+0.19615835,15859,384852,Honig,Mienestjes origineel,Honig mie nestjes zijn in 195 geintroduceerd en sindsdien niet meer weg te denken uit de Nederlandse keuken. Mie nestjes voor 6 personen Bereidingstijd: 9-10 minuten Variatietip: voeg aan tafel een scheutje ketjap of Chilisaus toe Boordevol groenten en gemakkelijk in gebruik,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen selderij'
+ 'Geen eieren']","Pasta rijst en wereldkeuken Oosterse keuken Pasta rijst noedels
+ Noedels mie Mie","honig [SEP] mienestjes origineel [SEP] Honig mie nestjes zijn in 195 geintroduceerd en sindsdien niet meer weg te denken uit de Nederlandse keuken. Mie nestjes voor 6 personen Bereidingstijd: 9-10 minuten Variatietip: voeg aan tafel een scheutje ketjap of Chilisaus toe Boordevol groenten en gemakkelijk in gebruik [SEP] noodles, mie en bami","honig mienestjes origineel noodles, mie en bami",null,null,null
+0.19498844,11191,199152,Go-Tan,Mungo vermicelli soe-oen,"Go-Tan soe-oen, ook wel vermicelli genoemd, is gemaakt van mungbonen (basis van taugé). Soe-oen wordt in gerechten (soto) gebruikt en in snacks zoals pasteitjes. Vegetarisch, natruimarm","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)'
+ 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Pasta rijst en wereldkeuken Oosterse keuken Pasta rijst noedels
+ Noedels mie Rijstnoedels","go-tan [SEP] mungo vermicelli soe-oen [SEP] Go-Tan soe-oen, ook wel vermicelli genoemd, is gemaakt van mungbonen (basis van taugé). Soe-oen wordt in gerechten (soto) gebruikt en in snacks zoals pasteitjes. Vegetarisch, natruimarm [SEP] noodles, mie en bami","go-tan mungo vermicelli soe-oen noodles, mie en bami",null,null,null
+0.19491178,47,515768,AH,Mix voor vegan carrot cake,,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen lupine'
+ 'Nutri-Score D' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen selderij' 'Geen eieren']","Bakkerij en banket Snoep koek chips en chocolade Zelf bakken
+ Bakmix Cakemix",ah [SEP] mix voor vegan carrot cake [SEP]  [SEP] zm cake en koek,ah mix voor vegan carrot cake zm cake en koek,null,null,null
+0.19442947,3675,548919,AH,Mosterdsoep verspakket,,"['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Geen selderij' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen noten' 'Geen mosterd' 'Geen eieren' 'Geen gluten']","Aardappel groente fruit Salades pizza maaltijden Groente
+ Verspakket Soeppakketten (vers) Groentepakket",ah [SEP] mosterdsoep verspakket [SEP]  [SEP] onbewerkt verspakket soep,ah mosterdsoep verspakket onbewerkt verspakket soep,null,null,null
+0.19086753,11733,543647,AH,Macaroni vlugkokend,,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' ""Geen pinda's"" 'Geen lupine' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Geen selderij' 'Geen eieren']","Pasta rijst en wereldkeuken Pasta rijst noedels
+ Mediterrane keuken Pasta Italiaanse keuken Italiaanse pasta
+ Macaroni",ah [SEP] macaroni vlugkokend [SEP]  [SEP] zachte tarwe,ah macaroni vlugkokend zachte tarwe,null,null,null
+0.19075581,9669,420243,Jean Bâton,Vegan mayo,In Jean Bâton Vegan Mayo hebben we eidooier vervangen door plantaardige ingrediënten. Verder gebruiken we alleen de ingrediënten die ook in een ‘gewone’ mayonaise horen. Gluten vrij Vegan,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Mayonaise (in pot)",jean bâton [SEP] vegan mayo [SEP] In Jean Bâton Vegan Mayo hebben we eidooier vervangen door plantaardige ingrediënten. Verder gebruiken we alleen de ingrediënten die ook in een ‘gewone’ mayonaise horen. Gluten vrij Vegan [SEP] mayonaise,jean bâton vegan mayo mayonaise,null,null,null
+0.19040522,5995,553099,AH,mayonaise pakket,AH Mayonaise 3x,[],"Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Mayonaise (in pot)",ah [SEP] mayonaise pakket [SEP] AH Mayonaise 3x [SEP] ,ah mayonaise pakket ,null,null,null
+0.18624523,15540,551084,AH,Tomatensoep verspakket,Met dit verspakket staat in een handomdraai een zelfgemaakte tomatensoep op de eettafel. AH Tomatensoep verspakket 1x AH Rundersoepballetjes 250 gram 1x Honig Krulvermicelli middel 250 gram 1x,[],"Aardappel groente fruit Salades pizza maaltijden Groente
+ Verspakket Soeppakketten (vers) Groentepakket",ah [SEP] tomatensoep verspakket [SEP] Met dit verspakket staat in een handomdraai een zelfgemaakte tomatensoep op de eettafel. AH Tomatensoep verspakket 1x AH Rundersoepballetjes 250 gram 1x Honig Krulvermicelli middel 250 gram 1x [SEP] ,ah tomatensoep verspakket ,null,null,null
+0.18573047,4790,480978,Mazzetti,Organic cremaceto,Heerlijke biologische crema met 60% aceto balsamico di modena. 100% biologisch Bevat geen conserveringsmiddel Met de handige schenktuit decoreer je gerechten extra makkelijk,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Soepen sauzen kruiden olie Smaakmakers Azijn Balsamico (crema),mazzetti [SEP] organic cremaceto [SEP] Heerlijke biologische crema met 60% aceto balsamico di modena. 100% biologisch Bevat geen conserveringsmiddel Met de handige schenktuit decoreer je gerechten extra makkelijk [SEP] azijnen,mazzetti organic cremaceto azijnen,null,null,null
+0.1854446,2028,56175,AH,Javawafels,Wafels met vanillecrème. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen selderij' 'Geen eieren']","Snoep koek chips en chocolade Koek
+ Stroopwafel stroopkoek wafels Wafels",ah [SEP] javawafels [SEP] Wafels met vanillecrème. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] verpakt trommel,ah javawafels verpakt trommel,null,null,null
+0.18375716,7968,544849,Jean Bâton,Mayo absolutely vegan,"In Jean Bâton vegan mayo hebben we eidooier vervangen door plantaardige ingredienten. Verder gebruiken we alleen de ingredienten die ook in een gewone mayonaise horen. In een handige knijpfles, ideaal om te doseren en je gerecht op te maken Vegan Gluten vrij Zonder kunstmatige, geur, kleur en smaakstoffen","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)' 'Vegetarisch'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' 'Geen mosterd' ""Geen pinda's""
+ 'Laag vet' 'Geen selderij' 'Geen lactose' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Mayonaise (minder vet)","jean bâton [SEP] mayo absolutely vegan [SEP] In Jean Bâton vegan mayo hebben we eidooier vervangen door plantaardige ingredienten. Verder gebruiken we alleen de ingredienten die ook in een gewone mayonaise horen. In een handige knijpfles, ideaal om te doseren en je gerecht op te maken Vegan Gluten vrij Zonder kunstmatige, geur, kleur en smaakstoffen [SEP] mayonaise",jean bâton mayo absolutely vegan mayonaise,null,null,null
+0.18195312,17432,551086,AH,Marokkaanse couscous verspakket,"Wat handig! Met dit pakket maak je in een handomdraai lekkere Marokkaanse couscous, die je met trots op tafel kunt zetten. Zo heb je altijd een bijzondere maaltijd, met lekkere ingredienten en veel groente. AH Marokkaanse couscous verspakket 1x AH Kikkererwten 0% zout toegevoegd 1x",[],"Aardappel groente fruit Salades pizza maaltijden Groente
+ Verspakket Maaltijdpakketten (vers) Groentepakket
+ Mediterrane maaltijdpakketten (vers)","ah [SEP] marokkaanse couscous verspakket [SEP] Wat handig! Met dit pakket maak je in een handomdraai lekkere Marokkaanse couscous, die je met trots op tafel kunt zetten. Zo heb je altijd een bijzondere maaltijd, met lekkere ingredienten en veel groente. AH Marokkaanse couscous verspakket 1x AH Kikkererwten 0% zout toegevoegd 1x [SEP] ",ah marokkaanse couscous verspakket ,null,null,null
+0.1817224,5960,546632,Mama,Instant noodles kip,"Instant noedels. Overheerlijk, snel en eenvoudig te bereiden Voeg naar eigen smaak ingredienten toe Varieer en voer koriander, lente ui of een gekookt ei toe","['Geen gluten' 'Geen lactose' 'Geen soja' 'Laag suiker' 'Geen selderij'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Geen vis'
+ 'Laag vet' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen noten' 'Vegetarisch' 'Geen eieren']","Pasta rijst en wereldkeuken Oosterse keuken Pasta rijst noedels
+ Noedels mie Noedels","mama [SEP] instant noodles kip [SEP] Instant noedels. Overheerlijk, snel en eenvoudig te bereiden Voeg naar eigen smaak ingredienten toe Varieer en voer koriander, lente ui of een gekookt ei toe [SEP] stevig tussendoor zak",mama instant noodles kip stevig tussendoor zak,null,null,null
+0.18130097,5269,904,AH,Mayonaise,"Deze AH Mayonaise is extra romig en zacht van smaak en lekker bij frites, gebakken aardappels en kip. Ook ideaal als basis van een dressing Met mosterd bereid Ook voor bij de BBQ! Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen noten' 'Geen mosterd' 'Geen eieren' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Mayonaise (in pot)","ah [SEP] mayonaise [SEP] Deze AH Mayonaise is extra romig en zacht van smaak en lekker bij frites, gebakken aardappels en kip. Ook ideaal als basis van een dressing Met mosterd bereid Ook voor bij de BBQ! Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] mayonaise",ah mayonaise mayonaise,null,null,null
+0.17987415,13078,214269,AH,Cakevormpjes,Handige cakevormpjes van papier geschikt voor in de oven. Maak lekkere cupcakes met deze cakevormpjes! Eenvoudig met gelijke hoeveelheid beslag te vullen,[],"Pasta rijst en wereldkeuken Koken tafelen vrije tijd
+ Bakkerij en banket Snoep koek chips en chocolade Zelf bakken
+ Koken Bakproducten Bakvormen Keukengerei
+ Bak accessoires bakvormen Garneringen toevoegingen",ah [SEP] cakevormpjes [SEP] Handige cakevormpjes van papier geschikt voor in de oven. Maak lekkere cupcakes met deze cakevormpjes! Eenvoudig met gelijke hoeveelheid beslag te vullen [SEP] bt baktoevoegingen,ah cakevormpjes bt baktoevoegingen,null,null,null
+0.17843989,10948,486707,De Zaanse Hoeve,Jong belegen 48+ blokjes,Kaas blokjes Smaak: mild Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Kaas vleeswaren tapas Kaas Kaas voor borrel Kaasblokjes,de zaanse hoeve [SEP] jong belegen 48+ blokjes [SEP] Kaas blokjes Smaak: mild Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] kzb s tussendoor,de zaanse hoeve jong belegen 48+ blokjes kzb s tussendoor,null,null,null
+0.1780203,15653,490272,AH,Huismix ongezouten,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ Notenmix (bakje)",ah [SEP] huismix ongezouten [SEP]  [SEP] 3v6 noten,ah huismix ongezouten 3v6 noten,null,null,null
+0.1778492,442,505776,Oma's Soep,Champignon,"Verse soep gemaakt naar authentiek recept van oma. De opbrengst wordt gebruikt om eenzame ouderen blij te maken! Omas soep organiseert activiteiten voor ouderen in 8 steden in Nederland. Unieke heerlijke soepen van oma Koper steunt onze ouderen Gezonde soep van verse groenten en kruiden Urenlang getrokken uit champignons, oregano, tijm en verse peterselie","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij']","Soepen sauzen kruiden olie Salades pizza maaltijden
+ Verse soepen Soepen Soep (zelf bereiden)","oma's soep [SEP] champignon [SEP] Verse soep gemaakt naar authentiek recept van oma. De opbrengst wordt gebruikt om eenzame ouderen blij te maken! Omas soep organiseert activiteiten voor ouderen in 8 steden in Nederland. Unieke heerlijke soepen van oma Koper steunt onze ouderen Gezonde soep van verse groenten en kruiden Urenlang getrokken uit champignons, oregano, tijm en verse peterselie [SEP] soepen",oma's soep champignon soepen,null,null,null
+0.17666478,13761,467626,AH,Mayonaise,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen lactose'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen noten' 'Geen mosterd' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Mayonaise (in pot)",ah [SEP] mayonaise [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] mayonaise,ah mayonaise mayonaise,null,null,null
+0.17651665,10635,407798,AH Glutenvrij,Cakemix,"Bak zelf een lekkere, luchtige cake met deze glutenvrije cakemix op basis van rijstmeel en maismeel. Glutenvrij Zelf margarine en ei toevoegen Versieren naar keuze","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Glutenvrij
+ Bakproducten Glutenvrije bakproducten Bakkerij glutenvrij
+ Bakproducten (glutenvrij) Bak mixen Zoete bakmix (glutenvrij)","ah glutenvrij [SEP] cakemix [SEP] Bak zelf een lekkere, luchtige cake met deze glutenvrije cakemix op basis van rijstmeel en maismeel. Glutenvrij Zelf margarine en ei toevoegen Versieren naar keuze [SEP] bakmixen",ah glutenvrij cakemix bakmixen,null,null,null
+0.17576209,13018,546634,Mama,Instant noodles groente,"Instant noedels. Overheerlijk, snel en eenvoudig te bereiden Voeg naar eigen smaak ingredienten toe Varieer en voer koriander, lente ui of een gekookt ei toe","['Geen gluten' 'Geen lactose' 'Geen soja' 'Laag suiker' 'Geen selderij'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine'
+ 'Geen schelpdieren (schaaldieren)' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Geen vis' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen noten' 'Vegetarisch' 'Geen eieren']","Pasta rijst en wereldkeuken Oosterse keuken Pasta rijst noedels
+ Noedels mie Noedels","mama [SEP] instant noodles groente [SEP] Instant noedels. Overheerlijk, snel en eenvoudig te bereiden Voeg naar eigen smaak ingredienten toe Varieer en voer koriander, lente ui of een gekookt ei toe [SEP] stevig tussendoor zak",mama instant noodles groente stevig tussendoor zak,null,null,null
+0.17476457,303,227158,Mazzetti,Cremaceto classico 55% balsam azijn,Mazzetti cremaceto is een cremige saus op basis van 55% balsamicoazijn.,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen sulfiet' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Smaakmakers Sauzen Azijn
+ Sladressing slasaus Balsamico-azijn",mazzetti [SEP] cremaceto classico 55% balsam azijn [SEP] Mazzetti cremaceto is een cremige saus op basis van 55% balsamicoazijn. [SEP] azijnen,mazzetti cremaceto classico 55% balsam azijn azijnen,null,null,null
+0.17461106,6498,173850,AH,Cakerol met aardbeien en crèmevulling,Met 18% aardbeienjam- en 18% crèmevulling Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Koek Cake Cakes,ah [SEP] cakerol met aardbeien en crèmevulling [SEP] Met 18% aardbeienjam- en 18% crèmevulling Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] doorzicht cake,ah cakerol met aardbeien en crèmevulling doorzicht cake,null,null,null
+0.17449597,5504,425942,AH,Romige mayonaise,"Deze AH Mayonaise is extra romig en zacht van smaak en lekker bij frites, gebakken aardappels en kip. De basis van een dressing Bereid met eieren van vrije uitloop kippen Met mosterd bereid Onmisbaar bij de BBQ! Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen noten' 'Geen mosterd' 'Geen eieren' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Mayonaise (in pot)","ah [SEP] romige mayonaise [SEP] Deze AH Mayonaise is extra romig en zacht van smaak en lekker bij frites, gebakken aardappels en kip. De basis van een dressing Bereid met eieren van vrije uitloop kippen Met mosterd bereid Onmisbaar bij de BBQ! Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] mayonaise",ah romige mayonaise mayonaise,null,null,null
+0.17437312,16590,517906,AH,Extra dunne maïswafels met zeezout 4pack,,"['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Tussendoortjes Maiswafels
+ Crackers rijstwafels",ah [SEP] extra dunne maïswafels met zeezout 4pack [SEP]  [SEP] rijstwafels,ah extra dunne maïswafels met zeezout 4pack rijstwafels,null,null,null
+0.1743521,3631,512158,Unox,Romige champignon soep met ui,"Unox speciaal romige champignonsoep in zak zet je in een handomdraai op tafel en is goed voor ruim 1 kom soep. Unox romige champignonsoep in zak is een heerlijke vegetarische soep Een heerlijk romige soep in zak gevuld met champignon, ui en bieslook Verwarm de champignonsoep in een pan of 2,5 minuten in de magnetron Gemaakt met duurzaam geteelde groenten en met de vertrouwde smaak van unox","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Geen eieren']","Soepen sauzen kruiden olie Soepen Soep (opwarmen) Soep in zak
+ Champignonsoep in zak","unox [SEP] romige champignon soep met ui [SEP] Unox speciaal romige champignonsoep in zak zet je in een handomdraai op tafel en is goed voor ruim 1 kom soep. Unox romige champignonsoep in zak is een heerlijke vegetarische soep Een heerlijk romige soep in zak gevuld met champignon, ui en bieslook Verwarm de champignonsoep in een pan of 2,5 minuten in de magnetron Gemaakt met duurzaam geteelde groenten en met de vertrouwde smaak van unox [SEP] maaltijdsoep 1 persoons overig",unox romige champignon soep met ui maaltijdsoep 1 persoons overig,null,null,null
+0.17432204,8738,514207,AH,Tomaten groentesoep verspakket,,"['Laag zout' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Veganistisch'
+ 'Laag suiker' 'Geen selderij' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' 'Geen mosterd' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Salades pizza maaltijden Groente
+ Verspakket Soeppakketten (vers) Groentepakket",ah [SEP] tomaten groentesoep verspakket [SEP]  [SEP] onbewerkt verspakket soep,ah tomaten groentesoep verspakket onbewerkt verspakket soep,null,null,null
+0.17392151,7549,183515,Go-Tan,Egg noodles organic,"Biologische egg noodles zijn noedels gemaakt van tarwemeel. Deze mie-soort heeft haar oorsprong in Zuidoost-Azië. Vegetarisch, biologisch","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'biologisch' ""Geen pinda's"" 'Geen melk' 'Geen lupine'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Geen selderij' 'Geen eieren']","Pasta rijst en wereldkeuken Oosterse keuken Pasta rijst noedels
+ Noedels mie Noedels","go-tan [SEP] egg noodles organic [SEP] Biologische egg noodles zijn noedels gemaakt van tarwemeel. Deze mie-soort heeft haar oorsprong in Zuidoost-Azië. Vegetarisch, biologisch [SEP] noodles, mie en bami","go-tan egg noodles organic noodles, mie en bami",null,null,null
+0.17320633,13389,37169,Honig,Basis voor vermicellisoep,"Honig vermicellisoep is een heldere soep, rijkgevuld met vermicelli, fijne groenten en tuinkruiden. Door het toevoegen van verse ingredienten maak je zo een heerlijke, zelfgemaakte soep. Vermicellisoep voor 6 personen Bereidingstijd: 20 minuten Zelf toevoegen: 15g rundersoepballetjes, 125g wortel, 3 grote lente-uitjes Varieer met je favoriete groenten","['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Geen eieren']","Soepen sauzen kruiden olie Soepen Soep (zelf bereiden)
+ Vermicelli soep","honig [SEP] basis voor vermicellisoep [SEP] Honig vermicellisoep is een heldere soep, rijkgevuld met vermicelli, fijne groenten en tuinkruiden. Door het toevoegen van verse ingredienten maak je zo een heerlijke, zelfgemaakte soep. Vermicellisoep voor 6 personen Bereidingstijd: 20 minuten Zelf toevoegen: 15g rundersoepballetjes, 125g wortel, 3 grote lente-uitjes Varieer met je favoriete groenten [SEP] zelfmaaksoep droog",honig basis voor vermicellisoep zelfmaaksoep droog,null,null,null
+0.17264464,16988,518922,AH,Kleintje goudse jong kom 48+,,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas
+ niet gekoppelde tax elementen DEZE KNOOP NIET TONEN Kaas
+ Kaas beleg Stukken kaas Jonge kaas broodbeleg Kaas voor beleg
+ Jonge kaas (stuk)",ah [SEP] kleintje goudse jong kom 48+ [SEP]  [SEP] kb bb plak variatie,ah kleintje goudse jong kom 48+ kb bb plak variatie,null,null,null
+0.17177403,5358,387180,Mora,Oven en airfryer bamischijven,"Ovenheerlijk genieten met de vegetarische bamischijf uit de oven. Gevuld met heerlijk gekruide mie en groenten in een krokant jasje Genieten uit de oven Zonder kunstmatige geur-, kleur- en smaakstoffen","['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']",Diepvries Diepvries snacks Maaltijdsnacks Nasi/bami snacks,"mora [SEP] oven en airfryer bamischijven [SEP] Ovenheerlijk genieten met de vegetarische bamischijf uit de oven. Gevuld met heerlijk gekruide mie en groenten in een krokant jasje Genieten uit de oven Zonder kunstmatige geur-, kleur- en smaakstoffen [SEP] specials",mora oven en airfryer bamischijven specials,null,null,null
+0.17172755,5996,903,AH,Mayonaise,"Deze AH Mayonaise is extra romig en zacht van smaak en lekker bij frites, gebakken aardappels en kip. Ook ideaal als basis van een dressing Bereid met scharreleieren Met mosterd bereid Ook voor bij de BBQ!","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen noten' 'Geen mosterd' 'Geen eieren' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Mayonaise (in pot)","ah [SEP] mayonaise [SEP] Deze AH Mayonaise is extra romig en zacht van smaak en lekker bij frites, gebakken aardappels en kip. Ook ideaal als basis van een dressing Bereid met scharreleieren Met mosterd bereid Ook voor bij de BBQ! [SEP] mayonaise",ah mayonaise mayonaise,null,null,null
+0.17122436,16585,517297,AH,Bosbessen muffins crumble topping,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Snoep koek chips en chocolade Koek Cake Cakejes,ah [SEP] bosbessen muffins crumble topping [SEP]  [SEP] verpakt cake,ah bosbessen muffins crumble topping verpakt cake,null,null,null
+0.1710065,14316,199232,AH Biologisch,Halvanaise,Met zonnebloemolie Vol van smaak,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Laag vet'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen noten' 'Geen mosterd' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Mayonaise (minder vet)",ah biologisch [SEP] halvanaise [SEP] Met zonnebloemolie Vol van smaak [SEP] mayonaise,ah biologisch halvanaise mayonaise,null,null,null
+0.17065404,14002,193937,Unox,Champignonsoep,"Unox romige champignonsoep in zak zet je in een handomdraai op tafel en is goed voor ruim 2 kommen soep. Unox romige champignonsoep is een heerlijke vegetarische soep Een heerlijk romige soep in zak gevuld met champignon, ui en bieslook Verwarm de champignonsoep in een pan of 2,5 minuten in de magnetron Klaar in een handomdraai en goed voor ruim twee kommen soep","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Geen eieren']","Soepen sauzen kruiden olie Soepen Soep (opwarmen) Soep in zak
+ Champignonsoep in zak","unox [SEP] champignonsoep [SEP] Unox romige champignonsoep in zak zet je in een handomdraai op tafel en is goed voor ruim 2 kommen soep. Unox romige champignonsoep is een heerlijke vegetarische soep Een heerlijk romige soep in zak gevuld met champignon, ui en bieslook Verwarm de champignonsoep in een pan of 2,5 minuten in de magnetron Klaar in een handomdraai en goed voor ruim twee kommen soep [SEP] maaltijdsoep meerpersoons ov",unox champignonsoep maaltijdsoep meerpersoons ov,null,null,null
+0.17030217,9654,534870,Oliehoorn,Zeedijk mayonaise,"Oliehoorn zeedijk mayonaise gemaakt volgens traditioneel recept met natuurlijke ingredienten voor een verfijnde smaak. Een onderscheidende mayonaise met een karakteristieke smaak Het fenomeen uit amsterdam, afkomstig van slagerij vet Zoet-pittige mayonaise met een unieke samenstelling van kerrie en kruiden Mayonaise met kerrie en kruiden","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Mayonaise (snacksauzen)","oliehoorn [SEP] zeedijk mayonaise [SEP] Oliehoorn zeedijk mayonaise gemaakt volgens traditioneel recept met natuurlijke ingredienten voor een verfijnde smaak. Een onderscheidende mayonaise met een karakteristieke smaak Het fenomeen uit amsterdam, afkomstig van slagerij vet Zoet-pittige mayonaise met een unieke samenstelling van kerrie en kruiden Mayonaise met kerrie en kruiden [SEP] mayonaise",oliehoorn zeedijk mayonaise mayonaise,null,null,null
+0.17009416,16348,517276,AH,Cake met citroensmaak witte chocolade,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Snoep koek chips en chocolade Koek Cake Cakes,ah [SEP] cake met citroensmaak witte chocolade [SEP]  [SEP] verpakt cake,ah cake met citroensmaak witte chocolade verpakt cake,null,null,null
+0.16974336,12844,505662,Dr. Oetker,Botercreme,Met Dr. Oetker botercreme maak je heel gemakkelijk een lekkere luchtige creme. Perfect voor het versieren van jouw cupcakes of taart! Heerlijk luchtige botercreme Gemakkelijk te bereiden Perfect voor het versieren van jouw cupcakes of taart,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen noten' 'Geen selderij' 'Geen eieren']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Garneringen toevoegingen Toevoegingen toppings versiering
+ Taart decoratie",dr. oetker [SEP] botercreme [SEP] Met Dr. Oetker botercreme maak je heel gemakkelijk een lekkere luchtige creme. Perfect voor het versieren van jouw cupcakes of taart! Heerlijk luchtige botercreme Gemakkelijk te bereiden Perfect voor het versieren van jouw cupcakes of taart [SEP] bt baktoevoegingen,dr. oetker botercreme bt baktoevoegingen,null,null,null
+0.16738486,16,419481,Honig,Macaroni vlugkokend,Honig macaroni vlugkokend heeft een korte kooktijd en is hierdoor extra geschikt voor een snelle pastamaaltijd. Voor 3 personen Bereidingstijd: 4-5 minuten Lekker snel De vertrouwde basis voor jouw Italiaanse recept,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen selderij'
+ 'Geen eieren']","Pasta rijst en wereldkeuken Pasta rijst noedels
+ Mediterrane keuken Pasta Italiaanse keuken Italiaanse pasta
+ Macaroni",honig [SEP] macaroni vlugkokend [SEP] Honig macaroni vlugkokend heeft een korte kooktijd en is hierdoor extra geschikt voor een snelle pastamaaltijd. Voor 3 personen Bereidingstijd: 4-5 minuten Lekker snel De vertrouwde basis voor jouw Italiaanse recept [SEP] zachte tarwe,honig macaroni vlugkokend zachte tarwe,null,null,null
+0.16729379,6486,420242,Jean Bâton,Mayonaise biologische,"Jean Bâton Biologische Mayonaise maken we van 100% biologische ingrediënten, zonder toevoegingen of conserveermiddelen. En zonder suiker, lekker friszuur van smaak. Biologisch Geen suiker toegevoegd Gluten vrij","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Laag vet' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Mayonaise (in pot)","jean bâton [SEP] mayonaise biologische [SEP] Jean Bâton Biologische Mayonaise maken we van 100% biologische ingrediënten, zonder toevoegingen of conserveermiddelen. En zonder suiker, lekker friszuur van smaak. Biologisch Geen suiker toegevoegd Gluten vrij [SEP] mayonaise",jean bâton mayonaise biologische mayonaise,null,null,null
+0.16690427,1844,366065,Echte Boter,Pakje ongezouten,Echte boter pakje ongezouten. Puur natuur Nederlandse roomboter Vol en romig van smaak,"['Geen lactose' 'Laag zout' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Laag suiker'
+ 'Geen schelpdieren (schaaldieren)' 'Vegetarisch' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor de keuken Ongezouten roomboter",echte boter [SEP] pakje ongezouten [SEP] Echte boter pakje ongezouten. Puur natuur Nederlandse roomboter Vol en romig van smaak [SEP] roomboter wikkel,echte boter pakje ongezouten roomboter wikkel,null,null,null
+0.1667059,2589,551129,AH,Groentesoep verspakket,"Wat handig! Met dit pakket maak je in een handomdraai een lekkere, verse groentesoep, die je met trots op tafel kunt zetten. AH Groentesoep verspakket 1x Honig Krulvermicelli middel 250 gram 1x",[],"Aardappel groente fruit Salades pizza maaltijden Groente
+ Verspakket Soeppakketten (vers) Groentepakket","ah [SEP] groentesoep verspakket [SEP] Wat handig! Met dit pakket maak je in een handomdraai een lekkere, verse groentesoep, die je met trots op tafel kunt zetten. AH Groentesoep verspakket 1x Honig Krulvermicelli middel 250 gram 1x [SEP] ",ah groentesoep verspakket ,null,null,null
+0.16662152,3777,429232,AH,Mayo truffel,"Een echt kwaliteitsproduct, zo mag je deze truffelmayo wel noemen. De volle en romige mayonaise is op smaak gebracht met zwarte zomertruffel. Een gouden combinatie bij carpaccio of een zalmburger en een feest op de borrelplank. Bereid met vrije uitloopeieren Heerlijk bij vlees- of visgerechten Ook lekker met een broodje oude kaas","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen noten' 'Geen mosterd' 'Geen eieren' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Truffel pesto mayonaise","ah [SEP] mayo truffel [SEP] Een echt kwaliteitsproduct, zo mag je deze truffelmayo wel noemen. De volle en romige mayonaise is op smaak gebracht met zwarte zomertruffel. Een gouden combinatie bij carpaccio of een zalmburger en een feest op de borrelplank. Bereid met vrije uitloopeieren Heerlijk bij vlees- of visgerechten Ook lekker met een broodje oude kaas [SEP] mayonaise",ah mayo truffel mayonaise,null,null,null
+0.16612108,8825,419484,Honig,Macaroni vlugkokend,Honig macaroni vlugkokend heeft een korte kooktijd en is hierdoor extra geschikt voor een snelle pastamaaltijd. Macaroni vlugkokend voor 3 personen Bereidingstijd: 4-5 minuten Lekker snel De vertrouwde basis voor jouw Italiaanse recept,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen selderij'
+ 'Geen eieren']","Pasta rijst en wereldkeuken Pasta rijst noedels
+ Mediterrane keuken Pasta Italiaanse keuken Italiaanse pasta
+ Macaroni",honig [SEP] macaroni vlugkokend [SEP] Honig macaroni vlugkokend heeft een korte kooktijd en is hierdoor extra geschikt voor een snelle pastamaaltijd. Macaroni vlugkokend voor 3 personen Bereidingstijd: 4-5 minuten Lekker snel De vertrouwde basis voor jouw Italiaanse recept [SEP] zachte tarwe,honig macaroni vlugkokend zachte tarwe,null,null,null
+0.16588086,5955,538135,Jean Bâton,Mayo absolutely vegan light,"In jeanbâton absolutely vegan light hebben we eidooier vervangen door plantaardige ingredienten en de hoeveelheid olie met 67% verlaagd. Toch is deze vegan mayo net zo lekker als een gewone mayonaise. 67% minder vet dan standaard jean bâton vegan mayo Vegan Gluten vrij Zonder kunstmatige, geur, kleur en smaakstoffen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen mosterd' 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Mayonaise (minder vet)","jean bâton [SEP] mayo absolutely vegan light [SEP] In jeanbâton absolutely vegan light hebben we eidooier vervangen door plantaardige ingredienten en de hoeveelheid olie met 67% verlaagd. Toch is deze vegan mayo net zo lekker als een gewone mayonaise. 67% minder vet dan standaard jean bâton vegan mayo Vegan Gluten vrij Zonder kunstmatige, geur, kleur en smaakstoffen [SEP] mayonaise",jean bâton mayo absolutely vegan light mayonaise,null,null,null
+0.16581811,9061,466150,Flower Farm,Bakken zonder palmolie,100% plantaardig 100% natuurlijke ingredienten en zonder conserveermiddelen,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor de keuken Vloeibare margarine",flower farm [SEP] bakken zonder palmolie [SEP] 100% plantaardig 100% natuurlijke ingredienten en zonder conserveermiddelen [SEP] margarine vloeibaar,flower farm bakken zonder palmolie margarine vloeibaar,null,null,null
+0.16575113,20409,142800,,Beau monde bel,Beau monde is al decennia lang het grootste glamourblad van Nederland. 43936,['Laag zout' 'Laag vet' 'Laag suiker'],"Koken tafelen vrije tijd Reisartikelen Boeken tijdschriften
+ Tijdschriften vrouwen", [SEP] beau monde bel [SEP] Beau monde is al decennia lang het grootste glamourblad van Nederland. 43936 [SEP] ts glossy, beau monde bel ts glossy,null,null,null
+0.16563812,48,216627,Verstegen,Vetsin,Door de toevoeging van ve-tsin krijgt menig gerecht een vollere smaak. Let echter wel op met doseren. Ve-tsin wordt veel toegepast in de Aziatische keuken Mooie tafelstrooier met handig alfabet design,"['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']",Soepen sauzen kruiden olie Kruiden Gedroogde kruiden Ve-tsin,verstegen [SEP] vetsin [SEP] Door de toevoeging van ve-tsin krijgt menig gerecht een vollere smaak. Let echter wel op met doseren. Ve-tsin wordt veel toegepast in de Aziatische keuken Mooie tafelstrooier met handig alfabet design [SEP] kruiden pot,verstegen vetsin kruiden pot,null,null,null
+0.16536425,16714,36767,Soubry,Chinese mie,"Authentieke Chinese Mie. Snel klaar zonder koken ! 250 gr vlees, vis of garnalen, roerbakgroenten en kruiden naar keuze Lekker voor uw Thais of Indonesiche recepten zonder koken. 4 minuten","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Geen selderij' 'Geen eieren']","Pasta rijst en wereldkeuken Oosterse keuken Pasta rijst noedels
+ Noedels mie Mie","soubry [SEP] chinese mie [SEP] Authentieke Chinese Mie. Snel klaar zonder koken ! 250 gr vlees, vis of garnalen, roerbakgroenten en kruiden naar keuze Lekker voor uw Thais of Indonesiche recepten zonder koken. 4 minuten [SEP] noodles, mie en bami","soubry chinese mie noodles, mie en bami",null,null,null
+0.16500998,2332,470803,Oma's Soep,Tomaat met verse basilicum,"Omas soep organiseert dagelijks kookdagen waar ouderen en jongeren samen soep maken. Naast de gezelligheid, ontstaan unieke recepten, bomvol vitamines. Zo kan iedereen thuis genieten van omas soep. Unieke heerlijke soepen van opa en oma Koper steunt onze ouderen Verse groenten en kruiden Vol met verse basilicum","['Geen gluten' 'Geen melk' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij']","Soepen sauzen kruiden olie Salades pizza maaltijden
+ Verse soepen Soepen Soep (zelf bereiden)","oma's soep [SEP] tomaat met verse basilicum [SEP] Omas soep organiseert dagelijks kookdagen waar ouderen en jongeren samen soep maken. Naast de gezelligheid, ontstaan unieke recepten, bomvol vitamines. Zo kan iedereen thuis genieten van omas soep. Unieke heerlijke soepen van opa en oma Koper steunt onze ouderen Verse groenten en kruiden Vol met verse basilicum [SEP] soepen",oma's soep tomaat met verse basilicum soepen,null,null,null
+0.16428739,10230,447689,Yum Yum,Bami soep japanse kip,Yum yum bami soep shoyu saus is een lekkere thaise instant noodlesoep met een combinatie van kippensmaak gemixt met Japanse shoyu sojasaus en wakame zeewier. Snel en makkelijk te bereiden De kruiden zijn naar eigen smaak toe te voegen Authentiek uit Thailand,"['Geen gluten' 'Geen lactose' 'Geen soja' 'Laag suiker' 'Geen selderij'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine'
+ 'Geen schelpdieren (schaaldieren)' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Geen vis' 'Laag zout'
+ 'Veganistisch' 'Geen eieren' 'Geen noten' 'Vegetarisch']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Tussendoortjes Soep (tussendoor) Oosterse keuken Warm tussendoor
+ Pasta rijst noedels Soepen Noedelsoep Noedels mie",yum yum [SEP] bami soep japanse kip [SEP] Yum yum bami soep shoyu saus is een lekkere thaise instant noodlesoep met een combinatie van kippensmaak gemixt met Japanse shoyu sojasaus en wakame zeewier. Snel en makkelijk te bereiden De kruiden zijn naar eigen smaak toe te voegen Authentiek uit Thailand [SEP] stevig tussendoor zak,yum yum bami soep japanse kip stevig tussendoor zak,null,null,null
+0.16418299,3785,123406,Langnese,Bee easy bloemen honing,Langnese Bee Easy Bloemenhoning 250g.,"['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Vegetarisch' 'Laag vet' 'Geen selderij' 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Geen gluten']",Ontbijtgranen en beleg Zoet broodbeleg Honing,langnese [SEP] bee easy bloemen honing [SEP] Langnese Bee Easy Bloemenhoning 250g. [SEP] honing,langnese bee easy bloemen honing honing,null,null,null
+0.16403973,2163,162983,Koopmans,Mix voor fijne cake,"Onze fijne cake is een echte klassieker! Bak met deze bakmix een smeuige authentieke Hollandse cake en geniet met het hele gezin van versgebakken cake. Lekker smeuig, zoals een cake moet zijn Heerlijke krokante korst 1 pak is genoeg voor circa 25 plakken Zelf toevoegen: 150 boter, 50 ml melk en 4 eieren","['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen noten' 'Geen selderij' 'Geen eieren']","Bakkerij en banket Snoep koek chips en chocolade Zelf bakken
+ Bakmix Cakemix","koopmans [SEP] mix voor fijne cake [SEP] Onze fijne cake is een echte klassieker! Bak met deze bakmix een smeuige authentieke Hollandse cake en geniet met het hele gezin van versgebakken cake. Lekker smeuig, zoals een cake moet zijn Heerlijke krokante korst 1 pak is genoeg voor circa 25 plakken Zelf toevoegen: 150 boter, 50 ml melk en 4 eieren [SEP] zm cake en koek",koopmans mix voor fijne cake zm cake en koek,null,null,null
+0.16397734,4643,493546,LU,Moelleux trio original,"De heerlijk zachte en smeuige LU zachte cake zijn gemaakt met echte boter, duurzame tarwe en vrije uitloop eieren. Een feestelijk cakeje om echt mee uit te pakken! Met vanille glazuur en hagelslag Handig per stuk verpakt Makkelijk om mee te nemen","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Vegetarisch'
+ 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Koek Cake Cakejes,"lu [SEP] moelleux trio original [SEP] De heerlijk zachte en smeuige LU zachte cake zijn gemaakt met echte boter, duurzame tarwe en vrije uitloop eieren. Een feestelijk cakeje om echt mee uit te pakken! Met vanille glazuur en hagelslag Handig per stuk verpakt Makkelijk om mee te nemen [SEP] verpakt cake",lu moelleux trio original verpakt cake,null,null,null
+0.16372094,14344,492758,AH,Zandkoekjes,,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen selderij' 'Geen eieren']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Bak mixen Bakmix Koekjesmix",ah [SEP] zandkoekjes [SEP]  [SEP] zm cake en koek,ah zandkoekjes zm cake en koek,null,null,null
+0.16341773,8339,502305,AH,Snoepgroente komkommer,,"['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Tussendoortjes Seizoensgroente (lente)
+ Groente Snoepgroente Komkommer (snoepgroente) Komkommer
+ Komkommer avocado",ah [SEP] snoepgroente komkommer [SEP]  [SEP] komkommer,ah snoepgroente komkommer komkommer,null,null,null
+0.16337225,778,106862,Langnese,Bee easy,Langnese Bee Easy Bloemenhoning 500g,"['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Vegetarisch' 'Laag vet' 'Geen selderij' 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Geen gluten']",Ontbijtgranen en beleg Zoet broodbeleg Honing,langnese [SEP] bee easy [SEP] Langnese Bee Easy Bloemenhoning 500g [SEP] honing,langnese bee easy honing,null,null,null
+0.16331601,6764,412135,Nissin,Demae ramen chicken,"Soep met instant noedels, kipsmaak. Soep met instant noedels Authentieke aziatische noedelsoep Klaar in slechts 3 minuten Te nuttigen als snack of maaltijd","['Geen gluten' 'Geen lactose' 'Geen soja' 'Laag suiker' 'Geen selderij'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine'
+ 'Geen schelpdieren (schaaldieren)' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen sulfiet' 'Geen sesam' 'Geen vis' 'Laag zout' 'Veganistisch'
+ 'Geen eieren' 'Geen noten' 'Geen mosterd' 'Vegetarisch']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Tussendoortjes Soep (tussendoor) Oosterse keuken Warm tussendoor
+ Pasta rijst noedels Soepen Noedelsoep Noedels mie","nissin [SEP] demae ramen chicken [SEP] Soep met instant noedels, kipsmaak. Soep met instant noedels Authentieke aziatische noedelsoep Klaar in slechts 3 minuten Te nuttigen als snack of maaltijd [SEP] stevig tussendoor zak",nissin demae ramen chicken stevig tussendoor zak,null,null,null
+0.16315728,3061,140744,AH,Notenmix ongezouten,"Notenmix naturel, ongezouten.","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ Notenmix (bakje)","ah [SEP] notenmix ongezouten [SEP] Notenmix naturel, ongezouten. [SEP] ongezouten noten",ah notenmix ongezouten ongezouten noten,null,null,null
+0.16310921,2288,538246,AH,Pedaalemmerzakken trekband lavendel 35l,,['Laag zout' 'Laag vet' 'Laag suiker'],"Huishouden Huishoudfolies huishoudzakken Vuilniszakken
+ Treksluitzakken",ah [SEP] pedaalemmerzakken trekband lavendel 35l [SEP]  [SEP] pedaalemmerzakken,ah pedaalemmerzakken trekband lavendel 35l pedaalemmerzakken,null,null,null
+0.163028,797,415336,AH,Roomijswafels,Roomijswafels met heerlijk zacht vanille roomijs en een zakje krokante wafels. 4 roomijsjes 8 krokante wafels Leuk om uit te delen,['Nutri-Score C'],"Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Room handijs",ah [SEP] roomijswafels [SEP] Roomijswafels met heerlijk zacht vanille roomijs en een zakje krokante wafels. 4 roomijsjes 8 krokante wafels Leuk om uit te delen [SEP] handijs room,ah roomijswafels handijs room,null,null,null
+0.16187689,11272,212517,Yum Yum,Vegetable flavour instant noodles,Yum Yum groenten is een lekkere Thaise instant noodlesoep met groentesmaak. Snel en makkelijk te bereiden De kruiden zijn naar eigen smaak toe te voegen Als beste getest bij Kassa (test 2013) Als beste getest bij Kassa (test 2013),"['Geen gluten' 'Geen lactose' 'Geen soja' 'Laag suiker' 'Geen selderij'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Geen vis' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Tussendoortjes Soep (tussendoor) Oosterse keuken Warm tussendoor
+ Pasta rijst noedels Soepen Noedelsoep Noedels mie",yum yum [SEP] vegetable flavour instant noodles [SEP] Yum Yum groenten is een lekkere Thaise instant noodlesoep met groentesmaak. Snel en makkelijk te bereiden De kruiden zijn naar eigen smaak toe te voegen Als beste getest bij Kassa (test 2013) Als beste getest bij Kassa (test 2013) [SEP] stevig tussendoor zak,yum yum vegetable flavour instant noodles stevig tussendoor zak,null,null,null
+0.16164409,594,451863,Look-O-Look,Dynamietstaafjes aardbei,Look-o-look snoepstaafjes in de smaak aardbei. Snoepstaafjes met zachte fruitkern voor een verassende unieke smaak. Ideaal om uit te delen of voor in de snoeppot Met fruitsap,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']",Snoep koek chips en chocolade Snoep Zachte snoep Snoepmix,look-o-look [SEP] dynamietstaafjes aardbei [SEP] Look-o-look snoepstaafjes in de smaak aardbei. Snoepstaafjes met zachte fruitkern voor een verassende unieke smaak. Ideaal om uit te delen of voor in de snoeppot Met fruitsap [SEP] snoep,look-o-look dynamietstaafjes aardbei snoep,null,null,null
+0.16128445,7603,469323,,Hollandse Stroopwafels,Deze smaakvolle stroopwafels zijn een echte traktatie voor bij de koffie of thee. Smaakvolle stroopwafels Nog lekkerder als de koek even wordt opgewarmd op een kop koffie/thee Een echte traktatie voor bij de koffie of thee,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen selderij' 'Geen eieren']","Snoep koek chips en chocolade Koek
+ Stroopwafel stroopkoek wafels Stroopwafels", [SEP] hollandse stroopwafels [SEP] Deze smaakvolle stroopwafels zijn een echte traktatie voor bij de koffie of thee. Smaakvolle stroopwafels Nog lekkerder als de koek even wordt opgewarmd op een kop koffie/thee Een echte traktatie voor bij de koffie of thee [SEP] doorzicht stroopwafel, hollandse stroopwafels doorzicht stroopwafel,null,null,null
+0.16104092,3595,515705,AH,Stoommaaltijd truffel tapenade,,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij']","Salades pizza maaltijden Verse kant- en-klaar maaltijden
+ Stoommaaltijden",ah [SEP] stoommaaltijd truffel tapenade [SEP]  [SEP] stoommaaltijden,ah stoommaaltijd truffel tapenade stoommaaltijden,null,null,null
+0.16093914,16816,509294,LU,Zachte cake naturel,"De heerlijk zachte en smeuige LU petit moelleux zachte cake zijn gemaakt met echte boter, duurzame tarwe en vrije uitloop eieren. Een feestelijk cakeje om echt mee uit te pakken! Heerlijke zachte cake Handig per stuk verpakt Makkelijk om mee te nemen Zonder kunstmatige kleurstoffen en conserveringsmiddelen","['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen noten' 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Koek Cake Cakes,"lu [SEP] zachte cake naturel [SEP] De heerlijk zachte en smeuige LU petit moelleux zachte cake zijn gemaakt met echte boter, duurzame tarwe en vrije uitloop eieren. Een feestelijk cakeje om echt mee uit te pakken! Heerlijke zachte cake Handig per stuk verpakt Makkelijk om mee te nemen Zonder kunstmatige kleurstoffen en conserveringsmiddelen [SEP] verpakt cake",lu zachte cake naturel verpakt cake,null,null,null
+0.16083772,12400,212415,Yum Yum,Beef flavour instant noodles,Yum Yum rund is een lekkere Thaise instant noodlesoep met rund en pittige bouillonsmaak. Snel en makkelijk te bereiden De kruiden zijn naar eigen smaak toe te voegen Als beste getest bij Kassa (test 2013) Als beste getest bij Kassa (test 2013),"['Geen gluten' 'Geen lactose' 'Geen soja' 'Laag suiker'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Geen vis' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Tussendoortjes Soep (tussendoor) Oosterse keuken Warm tussendoor
+ Pasta rijst noedels Soepen Noedelsoep Noedels mie",yum yum [SEP] beef flavour instant noodles [SEP] Yum Yum rund is een lekkere Thaise instant noodlesoep met rund en pittige bouillonsmaak. Snel en makkelijk te bereiden De kruiden zijn naar eigen smaak toe te voegen Als beste getest bij Kassa (test 2013) Als beste getest bij Kassa (test 2013) [SEP] stevig tussendoor zak,yum yum beef flavour instant noodles stevig tussendoor zak,null,null,null
+0.16056088,4890,505600,Koopmans,Vegan cake,"Maak eenvoudig een vegan cake. Luchtig en smeuig, zoals je dat van Koopmans gewend bent, alleen nu 100% plantaardig. Zo zet je een cake op tafel waarvan je zeker weet dat iedereen m lust! De 100% plantaardige cake, voor iedereen Goed voor circa 25 heerlijke smeuige plakken cake Voeg zelf alleen margarine en sojadrink toe Je kunt er veel(zijdig) lekkers mee bakken","['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen noten' 'Geen selderij' 'Geen eieren']","Bakkerij en banket Snoep koek chips en chocolade Zelf bakken
+ Bakmix Cakemix","koopmans [SEP] vegan cake [SEP] Maak eenvoudig een vegan cake. Luchtig en smeuig, zoals je dat van Koopmans gewend bent, alleen nu 100% plantaardig. Zo zet je een cake op tafel waarvan je zeker weet dat iedereen m lust! De 100% plantaardige cake, voor iedereen Goed voor circa 25 heerlijke smeuige plakken cake Voeg zelf alleen margarine en sojadrink toe Je kunt er veel(zijdig) lekkers mee bakken [SEP] zm cake en koek",koopmans vegan cake zm cake en koek,null,null,null
+0.16043437,2137,82822,Tempo,Complete care zakdoekjes,Tempo Complete care verlicht de ademhaling en kalmeert de huid bij verkoudheid door de speciale combinatie van ademvrij-olie en verwennende balsem . 4-laags zakdoekje Combinatie van ademvrij-olie en verwennende balsam Verlicht de ademhaling en kalmeer de huid bij verkoudheid,['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Huishouden Tissues watten Zakdoekjes tissues
+ Zakdoekjes",tempo [SEP] complete care zakdoekjes [SEP] Tempo Complete care verlicht de ademhaling en kalmeert de huid bij verkoudheid door de speciale combinatie van ademvrij-olie en verwennende balsem . 4-laags zakdoekje Combinatie van ademvrij-olie en verwennende balsam Verlicht de ademhaling en kalmeer de huid bij verkoudheid [SEP] zakdoekjes,tempo complete care zakdoekjes zakdoekjes,null,null,null
+0.1603474,1197,450938,Indo mie,Mi goreng instant noodles 5-pack,Indische noedels. Authentiek uit indonesie Makkelijk in gebruik,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen sulfiet'
+ 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij' 'Geen eieren']","Pasta rijst en wereldkeuken Oosterse keuken Pasta rijst noedels
+ Noedels mie Noedels",indo mie [SEP] mi goreng instant noodles 5-pack [SEP] Indische noedels. Authentiek uit indonesie Makkelijk in gebruik [SEP] stevig tussendoor zak,indo mie mi goreng instant noodles 5-pack stevig tussendoor zak,null,null,null
+0.16019687,9698,517358,AH,Red velvet muffin met crumble topping,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Snoep koek chips en chocolade Koek Cake Cakejes,ah [SEP] red velvet muffin met crumble topping [SEP]  [SEP] verpakt cake,ah red velvet muffin met crumble topping verpakt cake,null,null,null
+0.16002378,14283,545925,AH,Vegan romige champignonsoep,,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Soepen sauzen kruiden olie Soepen Soep (opwarmen) Soep in zak
+ Champignonsoep in zak",ah [SEP] vegan romige champignonsoep [SEP]  [SEP] maaltijdsoep meerpersoons ov,ah vegan romige champignonsoep maaltijdsoep meerpersoons ov,null,null,null
+0.159922,15538,421481,Yum Yum,Curry flavour instant noodles,Yum Yum kerrie is een lekkere Thaise instant noodlesoep met kerriesmaak. Snel en makkelijk te bereiden De kruiden zijn naar eigen smaak toe te voegen Als beste getest bij Kassa 2013,"['Geen gluten' 'Geen lactose' 'Geen soja' 'Laag suiker' 'Geen selderij'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Geen vis'
+ 'Laag vet' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch']","Pasta rijst en wereldkeuken Oosterse keuken Pasta rijst noedels
+ Noedels mie Noedels",yum yum [SEP] curry flavour instant noodles [SEP] Yum Yum kerrie is een lekkere Thaise instant noodlesoep met kerriesmaak. Snel en makkelijk te bereiden De kruiden zijn naar eigen smaak toe te voegen Als beste getest bij Kassa 2013 [SEP] stevig tussendoor zak,yum yum curry flavour instant noodles stevig tussendoor zak,null,null,null
+0.15984392,6302,440742,AH,Mini stroopwafels,"Deze mini wafels met zachte stroopvulling zijn een echte traktatie bij de koffie of thee of ieder ander moment van de dag. Bereid met 14% roomboter Extra veel verwenmomenten in één verpakking Hersluitbaar, met handige sluitzegel Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Geen selderij']",Snoep koek chips en chocolade Koek Koek bites,"ah [SEP] mini stroopwafels [SEP] Deze mini wafels met zachte stroopvulling zijn een echte traktatie bij de koffie of thee of ieder ander moment van de dag. Bereid met 14% roomboter Extra veel verwenmomenten in één verpakking Hersluitbaar, met handige sluitzegel Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] doorzicht stroopwafel",ah mini stroopwafels doorzicht stroopwafel,null,null,null
+0.15969288,3469,487230,AH,Macadamiamix ongezouten,"Een heerlijke mix van macadamia's, cashews en pecans Lekker voor op de borrel of tijdens een feestje Ook zo uit het vuistje Makkelijk afsluitbaar","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Diverse (zakje)","ah [SEP] macadamiamix ongezouten [SEP] Een heerlijke mix van macadamia's, cashews en pecans Lekker voor op de borrel of tijdens een feestje Ook zo uit het vuistje Makkelijk afsluitbaar [SEP] ongezouten noten",ah macadamiamix ongezouten ongezouten noten,null,null,null
+0.1596412,6242,553274,AH,Marokkaanse harira verspakket,,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen mosterd']","Aardappel groente fruit Salades pizza maaltijden Groente
+ Verspakket Maaltijdpakketten (vers) Groentepakket
+ Wereldkeuken maaltijdpakketten (vers)",ah [SEP] marokkaanse harira verspakket [SEP]  [SEP] onbewerkt verspakket soep,ah marokkaanse harira verspakket onbewerkt verspakket soep,null,null,null
+0.15939043,8133,436005,AH,Papieren cupcake vorm,"100 stuks papieren cakevormpjes. Hiermee maak je zelf de lekkerste cakejes. Past in standaard cupcake/muffin vorm, maakt schoonmaken simpel Met 4 verschillende patronen Met groene stippen, roze stippen, gekleurde strepen en rozen In handige verpakking",['Laag zout' 'Laag vet' 'Laag suiker'],"Pasta rijst en wereldkeuken Koken tafelen vrije tijd
+ Bakkerij en banket Snoep koek chips en chocolade Zelf bakken
+ Koken Bakproducten Bakvormen Keukengerei
+ Bak accessoires bakvormen Garneringen toevoegingen","ah [SEP] papieren cupcake vorm [SEP] 100 stuks papieren cakevormpjes. Hiermee maak je zelf de lekkerste cakejes. Past in standaard cupcake/muffin vorm, maakt schoonmaken simpel Met 4 verschillende patronen Met groene stippen, roze stippen, gekleurde strepen en rozen In handige verpakking [SEP] bakken",ah papieren cupcake vorm bakken,null,null,null
+0.15934005,16781,418857,Nivea,Express body lotion,48u lang intensieve verzorging en een voelbaar zachtere huid: NIVEA Express Body Lotion.,['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Gezondheid Verzorging Zelfzorg Lichaamsverzorging
+ Schimmelinfecties huidverzorging Huidverzorging
+ Bodylotion en bodymilk Bodylotion Bodylotion alle huidtypes",nivea [SEP] express body lotion [SEP] 48u lang intensieve verzorging en een voelbaar zachtere huid: NIVEA Express Body Lotion. [SEP] hand body producten,nivea express body lotion hand body producten,null,null,null
+0.1592931,2289,537154,AH,Paprikasoep verspakket,,"['Geen gluten' 'Laag zout' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' 'Geen mosterd' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam']","Aardappel groente fruit Salades pizza maaltijden Groente
+ Verspakket Soeppakketten (vers) Groentepakket",ah [SEP] paprikasoep verspakket [SEP]  [SEP] onbewerkt verspakket soep,ah paprikasoep verspakket onbewerkt verspakket soep,null,null,null
+0.15926176,2603,57238,AH,Eierwafels met poedersuiker,"Deze luchtige wafels zijn een echte traktatie! Ook warm erg lekker Voor ontbijt, lunch of gewoon als tussendoortje Probeer de eierwafels ook eens met chocoladepasta, aardbeien en slagroom Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen lupine'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen selderij' 'Geen eieren']","Snoep koek chips en chocolade Koek
+ Stroopwafel stroopkoek wafels Wafels","ah [SEP] eierwafels met poedersuiker [SEP] Deze luchtige wafels zijn een echte traktatie! Ook warm erg lekker Voor ontbijt, lunch of gewoon als tussendoortje Probeer de eierwafels ook eens met chocoladepasta, aardbeien en slagroom Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] doorzicht koek groot",ah eierwafels met poedersuiker doorzicht koek groot,null,null,null
+0.15889701,13031,484149,AH,Stoomsoep tom kha kai,"Stoomsoep tom kha kai met scharrelhaasjes. Met noodles, paksoi, kastanje champignon, rode paprika, bosui, rode peper Met gemarineerde kipfilethaasjes Met 125gr groente per portie In 7 minuten een heerlijke maaltijd op tafel","['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Geen vis' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']","Salades pizza maaltijden Verse kant- en-klaar maaltijden
+ Stoommaaltijden","ah [SEP] stoomsoep tom kha kai [SEP] Stoomsoep tom kha kai met scharrelhaasjes. Met noodles, paksoi, kastanje champignon, rode paprika, bosui, rode peper Met gemarineerde kipfilethaasjes Met 125gr groente per portie In 7 minuten een heerlijke maaltijd op tafel [SEP] stoommaaltijden",ah stoomsoep tom kha kai stoommaaltijden,null,null,null
+0.15857588,9412,505269,AH,Woknoedels,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score D'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij']","Pasta rijst en wereldkeuken Oosterse keuken Pasta rijst noedels
+ Noedels mie Noedels","ah [SEP] woknoedels [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] noodles, mie en bami","ah woknoedels noodles, mie en bami",null,null,null
+0.1584861,10088,164101,Knorr,Maaltijdmix macaroni,"Met de knorr natuurlijk lekker kruidenmixen maak
+				  je de lekkerste gerechten vol met natuurlijke ingredienten in een mum
+				  van tijd. Met duurzaam geteelde tomaten Gedroogd en gemengd met kruiden en 						specerijen Zonder toegevoegde smaakversterkers Zonder conserveermiddelen","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Geen eieren']","Pasta rijst en wereldkeuken Maaltijdpakketten mixen
+ Mediterrane keuken Maaltijdmixen Italiaanse keuken Italiaanse mix","knorr [SEP] maaltijdmix macaroni [SEP] Met de knorr natuurlijk lekker kruidenmixen maak
+				  je de lekkerste gerechten vol met natuurlijke ingredienten in een mum
+				  van tijd. Met duurzaam geteelde tomaten Gedroogd en gemengd met kruiden en 						specerijen Zonder toegevoegde smaakversterkers Zonder conserveermiddelen [SEP] maaltijdmixen",knorr maaltijdmix macaroni maaltijdmixen,null,null,null
+0.1581859,3640,519836,Knorr,Maaltijdmix mexicaanse wraps,"Proef de wereldse smaken van Knorr Wereldkeuken Mexicaanse Wraps Maaltijdmix, een eenvoudig te bereiden gerecht met lekker veel groente. Ontdek de Knorr Wereldkeuken Mexicaanse Wraps Maaltijdmix De basis voor een heerlijke maaltijd bereid je met deze Knorr maaltijdmix Mix zonder conserveermiddelen, kunstmatige kleurstoffen of smaakversterkers Deze maaltijd is geschikt voor veganisten of voor een dagje zonder vlees","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Geen eieren']","Pasta rijst en wereldkeuken Mexicaanse keuken
+ Maaltijdpakketten mixen Maaltijdmixen Mexicaanse kruidenmix","knorr [SEP] maaltijdmix mexicaanse wraps [SEP] Proef de wereldse smaken van Knorr Wereldkeuken Mexicaanse Wraps Maaltijdmix, een eenvoudig te bereiden gerecht met lekker veel groente. Ontdek de Knorr Wereldkeuken Mexicaanse Wraps Maaltijdmix De basis voor een heerlijke maaltijd bereid je met deze Knorr maaltijdmix Mix zonder conserveermiddelen, kunstmatige kleurstoffen of smaakversterkers Deze maaltijd is geschikt voor veganisten of voor een dagje zonder vlees [SEP] maaltijdmixen",knorr maaltijdmix mexicaanse wraps maaltijdmixen,null,null,null
+0.15744974,6791,456899,AH,Boterhamzakjes middel,Middelgrote boterhamzakjes met handige sluitstrips voor het bewaren en meenemen van bijvoorbeeld boterhammen. De zakjes zijn smaak- en reukvrij Met handige sluitclips Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,['Laag zout' 'Laag vet' 'Prijsfavoriet' 'Laag suiker'],Koken tafelen vrije tijd Koken Keukengerei Keukenaccessoires,ah [SEP] boterhamzakjes middel [SEP] Middelgrote boterhamzakjes met handige sluitstrips voor het bewaren en meenemen van bijvoorbeeld boterhammen. De zakjes zijn smaak- en reukvrij Met handige sluitclips Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] vershoudzakken,ah boterhamzakjes middel vershoudzakken,null,null,null
+0.15686682,4620,388281,Go-Tan,Wok noodles bio,Biologische tarwenoedels in handige nestjes. Smakelijke basis voor de Aziatische maaltijd. Biologisch 100% natuurlijk Zonder toevoegingen,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Geen selderij' 'Geen eieren']","Pasta rijst en wereldkeuken Oosterse keuken Pasta rijst noedels
+ Noedels mie Noedels","go-tan [SEP] wok noodles bio [SEP] Biologische tarwenoedels in handige nestjes. Smakelijke basis voor de Aziatische maaltijd. Biologisch 100% natuurlijk Zonder toevoegingen [SEP] noodles, mie en bami","go-tan wok noodles bio noodles, mie en bami",null,null,null
+0.15642968,17085,520111,AH,Ongezouten geel fruit notenmix,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen sulfiet' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Ontbijtgranen Wholefoods
+ Noten (superfoods) Ontbijtverrijkers (toppings) Noten en fruitmix",ah [SEP] ongezouten geel fruit notenmix [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] ongezouten noten,ah ongezouten geel fruit notenmix ongezouten noten,null,null,null
+0.1561699,1700,505659,Koopmans,Boterkoek,Koopmans boterkoek is een bakmix waarmee je in een handomdraai een ouderwets lekkere smeuige boterkoek bakt. Ouderwets lekker Authentiek volle en romige smaak Eenvoudig te maken Voor circa 16 stukken,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen noten' 'Geen selderij' 'Geen eieren']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Bak mixen Bakmix Koekjesmix",koopmans [SEP] boterkoek [SEP] Koopmans boterkoek is een bakmix waarmee je in een handomdraai een ouderwets lekkere smeuige boterkoek bakt. Ouderwets lekker Authentiek volle en romige smaak Eenvoudig te maken Voor circa 16 stukken [SEP] zm cake en koek,koopmans boterkoek zm cake en koek,null,null,null
+0.15575872,4791,124113,AH,Boterhamzakjes,Boterhamzakjes groot met sluitclips. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,['Laag zout' 'Laag vet' 'Laag suiker' 'Prijsfavoriet'],"Koken tafelen vrije tijd Huishouden Tafelen
+ Huishoudfolies huishoudzakken Wegwerpservies Boterhamzakjes
+ Plastic zakjes",ah [SEP] boterhamzakjes [SEP] Boterhamzakjes groot met sluitclips. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] vershoudzakken,ah boterhamzakjes vershoudzakken,null,null,null
+0.15560818,8330,198386,AH,Tomatensoep verspakket,"Met dit verspakket staat in een handomdraai een zelfgemaakte tomatensoep op de eettafel. En het mooie is: het pakket bevat precies de juiste hoeveelheden. No waste, dus. Voor 4-6 personen Geef de soep een Italiaans tintje door een beetje pesto door de soep te roeren Zelf toevoegen: 1 el (olijf)olie, 750 ml water, peper","['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Geen selderij' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen mosterd' 'Vegetarisch' 'Geen gluten']","Aardappel groente fruit Salades pizza maaltijden Groente
+ Verspakket Soeppakketten (vers) Groentepakket","ah [SEP] tomatensoep verspakket [SEP] Met dit verspakket staat in een handomdraai een zelfgemaakte tomatensoep op de eettafel. En het mooie is: het pakket bevat precies de juiste hoeveelheden. No waste, dus. Voor 4-6 personen Geef de soep een Italiaans tintje door een beetje pesto door de soep te roeren Zelf toevoegen: 1 el (olijf)olie, 750 ml water, peper [SEP] onbewerkt verspakket soep",ah tomatensoep verspakket onbewerkt verspakket soep,null,null,null
+0.1555266,2125,37135,Honig,Basis voor Franse champignonsoep,"Honig franse champignonsoep is een heerlijke, gebonden cremesoep gevuld met stukjes champignon. De lichte kruiding geeft je zelfgemaakte soep een smaak die vrijwel iedereen lekker vindt. Franse champignonsoep voor 6 personen Bereidingstijd: 20 minuten Zelf toevoegen: 25g champignons, 2 eetl. Verse bieslook Varieer met je favoriete groenten","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten']","Soepen sauzen kruiden olie Soepen Soep (zelf bereiden)
+ Champignonsoep (zelf bereiden)","honig [SEP] basis voor franse champignonsoep [SEP] Honig franse champignonsoep is een heerlijke, gebonden cremesoep gevuld met stukjes champignon. De lichte kruiding geeft je zelfgemaakte soep een smaak die vrijwel iedereen lekker vindt. Franse champignonsoep voor 6 personen Bereidingstijd: 20 minuten Zelf toevoegen: 25g champignons, 2 eetl. Verse bieslook Varieer met je favoriete groenten [SEP] zelfmaaksoep droog",honig basis voor franse champignonsoep zelfmaaksoep droog,null,null,null

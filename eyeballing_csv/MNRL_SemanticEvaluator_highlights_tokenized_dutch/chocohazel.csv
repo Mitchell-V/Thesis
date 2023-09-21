@@ -1,0 +1,554 @@
+scoreLLM score,ann,prd_id,brand,title,highlights,properties,taxonomies,full_text,full_text_no_sep,Unnamed: 0,search_query,scorePropensity score
+0.14772758,6107,143001,Unox,Rundvleesragout,Unox rundvlees ragout is heerlijk in een pasteibakje of op een geroosterd broodje! Rijkgevuld met mals rundvlees Beloond met het beter leven keurmerk 1 ster Gemakkelijk te bereiden Ca. 4 porties,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen selderij' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch']","Vlees kip vis vega Pasta rijst en wereldkeuken
+ Soepen sauzen kruiden olie Conserven Hollandse keuken
+ Rookworst ragout Vleesconserven Ragout",unox [SEP] rundvleesragout [SEP] Unox rundvlees ragout is heerlijk in een pasteibakje of op een geroosterd broodje! Rijkgevuld met mals rundvlees Beloond met het beter leven keurmerk 1 ster Gemakkelijk te bereiden Ca. 4 porties [SEP] ragouts,unox rundvleesragout ragouts,null,null,null
+0.14246151,9086,30929,AH,Rundvleesragout,"Heerlijk rijkgevulde, romige rundvleesragout Rijkgevuld met rundvlees Ook lekker met rijst, in een wrap of op toast Met 1 ster Beter leven keurmerk rundvlees Serveer in (kant-en-klare) ragoutbakjes of met brood Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen selderij' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score C'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch']","Vlees kip vis vega Pasta rijst en wereldkeuken
+ Soepen sauzen kruiden olie Conserven Hollandse keuken
+ Rookworst ragout Vleesconserven Ragout","ah [SEP] rundvleesragout [SEP] Heerlijk rijkgevulde, romige rundvleesragout Rijkgevuld met rundvlees Ook lekker met rijst, in een wrap of op toast Met 1 ster Beter leven keurmerk rundvlees Serveer in (kant-en-klare) ragoutbakjes of met brood Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] ragouts",ah rundvleesragout ragouts,null,null,null
+0.1254763,2723,1542,AH,Kalfsragout,"Heerlijk rijkgevulde, romige kalfsragout. Met 1 ster beter leven keurmerk kalfsvlees Serveer in (kant-en-klare) ragoutbakjes of met brood Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen selderij' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score C'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch']","Vlees kip vis vega Pasta rijst en wereldkeuken
+ Soepen sauzen kruiden olie Conserven Hollandse keuken
+ Rookworst ragout Vleesconserven Ragout","ah [SEP] kalfsragout [SEP] Heerlijk rijkgevulde, romige kalfsragout. Met 1 ster beter leven keurmerk kalfsvlees Serveer in (kant-en-klare) ragoutbakjes of met brood Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] ragouts",ah kalfsragout ragouts,null,null,null
+0.12360443,8394,137881,AH,Sinas 6pack,Een echte dorstlesser! Sparkling Sinas Regular in handige voordeelverpakking. Frisdrank met sinaasappelsmaak Gekoeld het lekkerst Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score E' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Frisdrank sappen koffie thee Frisdrank Sinas Sinas (fles),ah [SEP] sinas 6pack [SEP] Een echte dorstlesser! Sparkling Sinas Regular in handige voordeelverpakking. Frisdrank met sinaasappelsmaak Gekoeld het lekkerst Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] orange gvp,ah sinas 6pack orange gvp,null,null,null
+0.12168945,373,492714,AH,Schuurspons hard,Deze harde schuurspons heeft een extra sterk schuuroppervlak. Met anti-bacterieel behandeld schuim ter voorkomen van vervelende geurtjes Blijvend fris en hygienisch 3 stuks,['Laag zout' 'Laag vet' 'Laag suiker'],Huishouden Schoonmaak benodigdheden Sponzen,ah [SEP] schuurspons hard [SEP] Deze harde schuurspons heeft een extra sterk schuuroppervlak. Met anti-bacterieel behandeld schuim ter voorkomen van vervelende geurtjes Blijvend fris en hygienisch 3 stuks [SEP] sponzen,ah schuurspons hard sponzen,null,null,null
+0.118989415,14408,123804,Unox,Ragout champignon,Unox champignon ragout is heerlijk voor bij de feestdagen! Rijkgevuld met champignons Zonder kunstmatige geur- en smaakstoffen Gemakkelijk te bereiden Gemaakt met de beste ingredienten,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen selderij' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten']","Vlees kip vis vega Pasta rijst en wereldkeuken
+ Soepen sauzen kruiden olie Conserven Hollandse keuken
+ Rookworst ragout Vleesconserven Ragout",unox [SEP] ragout champignon [SEP] Unox champignon ragout is heerlijk voor bij de feestdagen! Rijkgevuld met champignons Zonder kunstmatige geur- en smaakstoffen Gemakkelijk te bereiden Gemaakt met de beste ingredienten [SEP] ragouts,unox ragout champignon ragouts,null,null,null
+0.11728516,10478,33269,AH,Champignonragout,Heerlijk rijkgevulde champignonragout. Serveer in (kant-en-klare) ragoutbakjes of met brood. Eet smakelijk! Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen selderij' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Nutri-Score C'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten']","Vlees kip vis vega Pasta rijst en wereldkeuken
+ Soepen sauzen kruiden olie Conserven Hollandse keuken
+ Rookworst ragout Vleesconserven Ragout",ah [SEP] champignonragout [SEP] Heerlijk rijkgevulde champignonragout. Serveer in (kant-en-klare) ragoutbakjes of met brood. Eet smakelijk! Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] ragouts,ah champignonragout ragouts,null,null,null
+0.117091596,285,548346,Iglo,'s Favorieten pakket,Voor 4 personen: Ook zon zin in heerlijke vissticks en romige spinazie a la crème? Geniet nu van de grootste favorieten van Iglo. Iglo Spinazie a la crème 750gram 1x Iglo Vissticks 20 stuks 1x,[],"Aardappel groente fruit Diepvries Groente Diepvries groente
+ Spinazie andijvie witlof Spinazie (diepvries) Spinazie",iglo [SEP] 's favorieten pakket [SEP] Voor 4 personen: Ook zon zin in heerlijke vissticks en romige spinazie a la crème? Geniet nu van de grootste favorieten van Iglo. Iglo Spinazie a la crème 750gram 1x Iglo Vissticks 20 stuks 1x [SEP] ,iglo 's favorieten pakket ,null,null,null
+0.11518481,1603,467793,AH,Knoflooksaus,"Romige, frisse knoflooksaus, heerlijk bij de shoarma of barbecue. Knoflooksaus. Bereid met magere yoghurt Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen noten' 'Geen mosterd' 'Geen selderij' 'Geen eieren'
+ 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Knoflooksaus aioli Knoflooksaus","ah [SEP] knoflooksaus [SEP] Romige, frisse knoflooksaus, heerlijk bij de shoarma of barbecue. Knoflooksaus. Bereid met magere yoghurt Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] partysauzen",ah knoflooksaus partysauzen,null,null,null
+0.11359361,4293,492713,AH,Schuurspons zacht,Deze zachte schuurspons reinigt grondig zonder krassen. Met anti-bacterieel behandeld schuim ter voorkomen van vervelende geurtjes Blijvend fris en hygienisch 3 stuks,['Laag zout' 'Laag vet' 'Laag suiker'],Huishouden Schoonmaak benodigdheden Sponzen,ah [SEP] schuurspons zacht [SEP] Deze zachte schuurspons reinigt grondig zonder krassen. Met anti-bacterieel behandeld schuim ter voorkomen van vervelende geurtjes Blijvend fris en hygienisch 3 stuks [SEP] sponzen,ah schuurspons zacht sponzen,null,null,null
+0.11299257,9085,126897,AH,Schuurspons hard,Schuurspons met sterk schuuroppervlak. Verwijdert hardnekkig vuil Extra groot voor pratisch gebruik Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,['Laag zout' 'Laag vet' 'Laag suiker' 'Prijsfavoriet'],Huishouden Schoonmaak benodigdheden Sponzen,ah [SEP] schuurspons hard [SEP] Schuurspons met sterk schuuroppervlak. Verwijdert hardnekkig vuil Extra groot voor pratisch gebruik Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] sponzen,ah schuurspons hard sponzen,null,null,null
+0.11278536,2450,189610,Jos Poell,Mini pasteitjes,12 luchtige mini pasteitjes geshikt voor amuse of lekker borrelhapje. Even opwarmen voor gebruik,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen lupine' 'Geen sulfiet'
+ 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen selderij'
+ 'Geen eieren']","Vlees kip vis vega Pasta rijst en wereldkeuken
+ Soepen sauzen kruiden olie Conserven Hollandse keuken
+ Rookworst ragout Vleesconserven Ragout",jos poell [SEP] mini pasteitjes [SEP] 12 luchtige mini pasteitjes geshikt voor amuse of lekker borrelhapje. Even opwarmen voor gebruik [SEP] ragouts,jos poell mini pasteitjes ragouts,null,null,null
+0.1125052,16533,123803,Unox,Kalfsragout,Unox Kalfsragout is rijkgevuld met vlees van de beste kwaliteit. Smaakt heerlijk op een pasteitje of bijvoorbeeld op een geroosterd broodje. Rijkgevuld met Hollands kalfsvlees Beloond met het Beter Leven kenmerk,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen selderij' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen mosterd' 'Vegetarisch']","Vlees kip vis vega Pasta rijst en wereldkeuken
+ Soepen sauzen kruiden olie Conserven Hollandse keuken
+ Rookworst ragout Vleesconserven Ragout",unox [SEP] kalfsragout [SEP] Unox Kalfsragout is rijkgevuld met vlees van de beste kwaliteit. Smaakt heerlijk op een pasteitje of bijvoorbeeld op een geroosterd broodje. Rijkgevuld met Hollands kalfsvlees Beloond met het Beter Leven kenmerk [SEP] ragouts,unox kalfsragout ragouts,null,null,null
+0.109508865,12102,63925,AH,Sinas light,"Lekker fris. Sparkling sinas light is een echte dorstlesser. Frisdrank met sinaasappelsmaak Gekoeld het lekkerst 1,5 liter Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'light'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Frisdrank sappen koffie thee Frisdrank Sinas Sinas (fles),"ah [SEP] sinas light [SEP] Lekker fris. Sparkling sinas light is een echte dorstlesser. Frisdrank met sinaasappelsmaak Gekoeld het lekkerst 1,5 liter Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] orange gvp",ah sinas light orange gvp,null,null,null
+0.109066874,10408,1593,AH,Rinse appelstroop,Heerlijk voor op de boterham of pannenkoek! Van nature rijk aan ijzer Bereid met veel frisse appels Ook lekker in combinatie met kaas en worst Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Pasta rijst en wereldkeuken Zoet broodbeleg
+ Bakproducten Stroop Appelstroop perenstroop",ah [SEP] rinse appelstroop [SEP] Heerlijk voor op de boterham of pannenkoek! Van nature rijk aan ijzer Bereid met veel frisse appels Ook lekker in combinatie met kaas en worst Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] stroop,ah rinse appelstroop stroop,null,null,null
+0.10893886,17155,200584,AH,Pannenspons roestvrijstaal,"Pannenspons van roestvrijstaal voor het verwijderen van hardnekkig vuil van braadpannen, ovenschalen, ovenroosters, barbecues, gereedschappen etc. Voor grondig reinigen van hardnekkig vuil Vochtig gebruiken en na gebruik goed uitspoelen Prijsfavorieten: topkwaliteit en altijd laaggeprijsd",['Laag zout' 'Laag vet' 'Prijsfavoriet' 'Laag suiker'],Huishouden Schoonmaak benodigdheden Sponzen,"ah [SEP] pannenspons roestvrijstaal [SEP] Pannenspons van roestvrijstaal voor het verwijderen van hardnekkig vuil van braadpannen, ovenschalen, ovenroosters, barbecues, gereedschappen etc. Voor grondig reinigen van hardnekkig vuil Vochtig gebruiken en na gebruik goed uitspoelen Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] sponzen",ah pannenspons roestvrijstaal sponzen,null,null,null
+0.108834594,290,434821,AH,Glas facet 240 ml,"Deze wegwerpglazen zijn hartstikke handig voor de picknick, BBQ of feestjes. Proost! Voor eenmalig gebruik Precies wat je nodig hebt tijdens een (tuin)feestje of borrel Maak het jezelf gemakkelijk!",['Laag zout' 'Laag vet' 'Laag suiker'],"Koken tafelen vrije tijd Tafelen Koken Feestje gelegenheid
+ Wegwerpservies Barbecue benodigdheden Serviesgoed bestek
+ Feestje - servies Wegwerp servies Wegwerpbekers Plastic bekers
+ Bekers","ah [SEP] glas facet 240 ml [SEP] Deze wegwerpglazen zijn hartstikke handig voor de picknick, BBQ of feestjes. Proost! Voor eenmalig gebruik Precies wat je nodig hebt tijdens een (tuin)feestje of borrel Maak het jezelf gemakkelijk! [SEP] disposables",ah glas facet 240 ml disposables,null,null,null
+0.10765483,7046,1545,AH,Kipragout,"Heerlijk rijkgevulde, romige kipragout. Rijkgevuld met kippenvlees Ook lekker met rijst, in een wrap of op toast Met 1 ster Beter Leven keurmerk kippenvlees Serveer in (kant-en-klare) ragoutbakjes of met brood Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen selderij' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score C'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen noten'
+ 'Vegetarisch' 'Geen eieren']","Vlees kip vis vega Pasta rijst en wereldkeuken
+ Soepen sauzen kruiden olie Conserven Hollandse keuken
+ Rookworst ragout Vleesconserven Ragout","ah [SEP] kipragout [SEP] Heerlijk rijkgevulde, romige kipragout. Rijkgevuld met kippenvlees Ook lekker met rijst, in een wrap of op toast Met 1 ster Beter Leven keurmerk kippenvlees Serveer in (kant-en-klare) ragoutbakjes of met brood Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] ragouts",ah kipragout ragouts,null,null,null
+0.10608254,157,520480,AH,Runderknakworst 4-pack,AH Runderknakworst 4-pack AH Runderknakworst 4x,[],Soepen sauzen kruiden olie Conserven Vleesconserven Knakworst,ah [SEP] runderknakworst 4-pack [SEP] AH Runderknakworst 4-pack AH Runderknakworst 4x [SEP] ,ah runderknakworst 4-pack ,null,null,null
+0.10508691,9801,475412,Unox,Rund good noodles,Unox good noodles: daar kun je lekker lang op door! Unox good noodles met de smaak van rund Heerlijk als tussendoortje of als kleine maaltijd Klaar in 3 minuten Zonder toegevoegde kunstmatige kleurstoffen en conserveermiddelen,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Vegetarisch' 'Geen eieren']","Soepen sauzen kruiden olie Tussendoortjes Soep (tussendoor)
+ Warm tussendoor Soepen Kopsoep",unox [SEP] rund good noodles [SEP] Unox good noodles: daar kun je lekker lang op door! Unox good noodles met de smaak van rund Heerlijk als tussendoortje of als kleine maaltijd Klaar in 3 minuten Zonder toegevoegde kunstmatige kleurstoffen en conserveermiddelen [SEP] stevig tussendoor zak,unox rund good noodles stevig tussendoor zak,null,null,null
+0.10280724,17027,124179,Unox,Hollandse aspergesoep,De aspergesoep is een van de heerlijke soepen van unox.. Gemaakt met de beste groenten Goed voor ruim 2 kommen soep Rijk aan smaak Zonder toegevoegde smaakversterkers en kunstmatige kleurstoffen,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen selderij' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten']","Soepen sauzen kruiden olie Soepen Soep (opwarmen) Soep in zak
+ Aspergesoep in zak",unox [SEP] hollandse aspergesoep [SEP] De aspergesoep is een van de heerlijke soepen van unox.. Gemaakt met de beste groenten Goed voor ruim 2 kommen soep Rijk aan smaak Zonder toegevoegde smaakversterkers en kunstmatige kleurstoffen [SEP] maaltijdsoep meerpersoons ov,unox hollandse aspergesoep maaltijdsoep meerpersoons ov,null,null,null
+0.102317855,1521,216639,Verstegen,Knoflook poeder,"Knoflook behoort, net als ui, prei en bieslook, tot de looksoorten. Een bekend specerij met een scherpe en krachtige geur. Iets zoet met licht scherpe nasmaak Geschikt voor pasta's, stoofschotels, maar ook dressings en marinade's worden op smaak gebracht met knoflook","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Aardappel groente fruit Soepen sauzen kruiden olie Kruiden
+ Kruiden knoflook pepers Groente Knoflook Gedroogde kruiden
+ Prei ui knoflook Knoflookpoeder","verstegen [SEP] knoflook poeder [SEP] Knoflook behoort, net als ui, prei en bieslook, tot de looksoorten. Een bekend specerij met een scherpe en krachtige geur. Iets zoet met licht scherpe nasmaak Geschikt voor pasta's, stoofschotels, maar ook dressings en marinade's worden op smaak gebracht met knoflook [SEP] kruiden pot",verstegen knoflook poeder kruiden pot,null,null,null
+0.10227503,17326,364883,AH Greenfields,Hachee,"Rundvlees voorgesneden in blokjes, van runderen uit Ierland. Gesneden ui, hacheekruiden en een scheutje azijn toevoegen om traditionele hachee te maken. Ook geschikt voor andere stoofpotjes. Rundvlees van runderen uit Ierland Bereiding: braadpan, ca. 4 tot 4,5 uur Door 'zuur' toe te voegen (bijvoorbeeld azijn) wordt het vlees extra mals Tip: heel geschikt om een dag van te voren te bereiden","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Vlees kip vis vega Vlees Rundvlees Stoofvlees,"ah greenfields [SEP] hachee [SEP] Rundvlees voorgesneden in blokjes, van runderen uit Ierland. Gesneden ui, hacheekruiden en een scheutje azijn toevoegen om traditionele hachee te maken. Ook geschikt voor andere stoofpotjes. Rundvlees van runderen uit Ierland Bereiding: braadpan, ca. 4 tot 4,5 uur Door 'zuur' toe te voegen (bijvoorbeeld azijn) wordt het vlees extra mals Tip: heel geschikt om een dag van te voren te bereiden [SEP] stoofvlees",ah greenfields hachee stoofvlees,null,null,null
+0.10194267,17351,31496,Mr Muscle,Ovenreiniger spray,Mr muscle ovenreiniger spray heeft een unieke schuimformule met actieve schuurwerking dat aangekoekte resten in de oven op lost. Verwijdert hardnekkig vet en vuil Schuimformule met actieve schuurwerking Aangekoekte resten makkelijk weg te vegen,['Laag zout' 'Laag vet' 'Laag suiker'],Huishouden Schoonmaakmiddelen Keukenreiniger,mr muscle [SEP] ovenreiniger spray [SEP] Mr muscle ovenreiniger spray heeft een unieke schuimformule met actieve schuurwerking dat aangekoekte resten in de oven op lost. Verwijdert hardnekkig vet en vuil Schuimformule met actieve schuurwerking Aangekoekte resten makkelijk weg te vegen [SEP] speciale reinigers,mr muscle ovenreiniger spray speciale reinigers,null,null,null
+0.10190146,6252,104411,AH,Stamppot spruitjes braadworst,"Spruitjesstamppot. Spruitjes, prei, aardappel Jus Braadworst 155g groente","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen sulfiet' 'Laag suiker' 'Geen selderij' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Nutri-Score B' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen mosterd' 'Vegetarisch']","Salades pizza maaltijden Verse kant- en-klaar maaltijden
+ Hollandse maaltijden Stamppot","ah [SEP] stamppot spruitjes braadworst [SEP] Spruitjesstamppot. Spruitjes, prei, aardappel Jus Braadworst 155g groente [SEP] langer vers hollands",ah stamppot spruitjes braadworst langer vers hollands,null,null,null
+0.10122631,9529,506381,AH,Stoofvlees gekruid,"Een heerlijke stoofvlees speciaal voor u op lage temperatuur, langzaam gegaard. Alleen nog opwarmen, snel op tafel en ouderwets genieten. Mals en zacht rundvlees in een kruidige saus. Ouderwets genieten. Lekker en slechts 20 minuten in de oven . Lekker met rijst, aardappeltjes of friet. Geschikt voor 2-3 personen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Vlees kip vis vega Vlees Rundvlees Stoofvlees,"ah [SEP] stoofvlees gekruid [SEP] Een heerlijke stoofvlees speciaal voor u op lage temperatuur, langzaam gegaard. Alleen nog opwarmen, snel op tafel en ouderwets genieten. Mals en zacht rundvlees in een kruidige saus. Ouderwets genieten. Lekker en slechts 20 minuten in de oven . Lekker met rijst, aardappeltjes of friet. Geschikt voor 2-3 personen [SEP] ovenvlees",ah stoofvlees gekruid ovenvlees,null,null,null
+0.101095006,13087,514393,AH,Gesneden verspakket pokebowl (Compleet),"Wat handig! Met dit pakket maak je in een handomdraai een lekkere pokebowl, die je met trots op tafel kunt zetten. Voor 2-3 personen. Inclusief 100 gram gerookte zalm en 1 avocado. AH verspakket pokebowl 1x AH avocado 1x AH gerookte zalmfilet 1x",[],"Aardappel groente fruit Salades pizza maaltijden Groente
+ Verspakket Maaltijdpakketten (vers) Groentepakket
+ Oosterse maaltijdpakketten (vers)","ah [SEP] gesneden verspakket pokebowl (compleet) [SEP] Wat handig! Met dit pakket maak je in een handomdraai een lekkere pokebowl, die je met trots op tafel kunt zetten. Voor 2-3 personen. Inclusief 100 gram gerookte zalm en 1 avocado. AH verspakket pokebowl 1x AH avocado 1x AH gerookte zalmfilet 1x [SEP] ",ah gesneden verspakket pokebowl (compleet) ,null,null,null
+0.10097164,11614,515668,AH,Stamppot prei braadworst,,"['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen sulfiet' 'Laag suiker' 'Geen selderij' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Nutri-Score B' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen mosterd' 'Vegetarisch']","Salades pizza maaltijden Verse kant- en-klaar maaltijden
+ Hollandse maaltijden Stamppot",ah [SEP] stamppot prei braadworst [SEP]  [SEP] langer vers hollands,ah stamppot prei braadworst langer vers hollands,null,null,null
+0.10080464,4498,417468,AH,Garnalen met knoflooksaus,"Gekookte, gepelde grote garnalen met een romige knoflook-dipsaus Smaak: romig Perfect voor bij de borrel, of lekker als tussendoortje","['Geen melk' 'Geen soja' 'Geen vis' 'Geen sulfiet' 'Laag suiker'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score D' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Kaas vleeswaren tapas Borrelhapjes Borrelhapjes met vis,"ah [SEP] garnalen met knoflooksaus [SEP] Gekookte, gepelde grote garnalen met een romige knoflook-dipsaus Smaak: romig Perfect voor bij de borrel, of lekker als tussendoortje [SEP] borrelhapjes koud",ah garnalen met knoflooksaus borrelhapjes koud,null,null,null
+0.100728795,6082,163497,Multy,Schuursponsen,Schuursponsen. Verwijdert hardnekkig vuil Voor dagelijks gebruik Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,['Laag zout' 'Laag vet' 'Laag suiker' 'Prijsfavoriet'],Huishouden Schoonmaak benodigdheden Sponzen,multy [SEP] schuursponsen [SEP] Schuursponsen. Verwijdert hardnekkig vuil Voor dagelijks gebruik Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] sponzen,multy schuursponsen sponzen,null,null,null
+0.10042277,6674,475325,AH,Pittige knoflooksaus,Lekker bij de BBQ of broodje shoarmabroodje. In handige knijpfles Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Prijsfavoriet' 'Geen noten' 'Geen selderij' 'Geen eieren'
+ 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Knoflooksaus aioli Knoflooksaus",ah [SEP] pittige knoflooksaus [SEP] Lekker bij de BBQ of broodje shoarmabroodje. In handige knijpfles Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] partysauzen,ah pittige knoflooksaus partysauzen,null,null,null
+0.099993765,14025,238947,AH,Biefstukpuntjes,"Mals, sappig rundvlees in blokjes waarmee je in een handomdraai een heerlijke maaltijd op tafel zet. Maak er eens een spiesje van of meng ze met kant-en-klare wokgroente. Rundvlees Bereiding: koekenpan/wok, ca. 3-5 minuten Snel klaar, dus ideaal voor doordeweekse dagen VacuÃ¼m verpakt om de volle smaak en sappige structuur optimaal te behouden","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Vlees Rundvlees Biefstuk entrecote
+ Biefstuk Runderbiefstuk (vers)","ah [SEP] biefstukpuntjes [SEP] Mals, sappig rundvlees in blokjes waarmee je in een handomdraai een heerlijke maaltijd op tafel zet. Maak er eens een spiesje van of meng ze met kant-en-klare wokgroente. Rundvlees Bereiding: koekenpan/wok, ca. 3-5 minuten Snel klaar, dus ideaal voor doordeweekse dagen VacuÃ¼m verpakt om de volle smaak en sappige structuur optimaal te behouden [SEP] reepjes blokjes",ah biefstukpuntjes reepjes blokjes,null,null,null
+0.099969774,5370,426437,AH Excellent,Flat iron steak,"De flat iron steak is een steak die gesneden is van het sukadestuk van het rund en is zeer geschikt om te bakken of te grillen. Lekker met een frisse salade en rozemarijnaardappeltjes. Rundvlees Bereiding: koekenpan of grill, ca. 4-12 minuten Vacuüm verpakt om malsheid, vleesaroma's en -sappen optimaal te behouden Tip: prik niet met een vork in het vlees, zo blijft het mals en sappig","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Vlees Rundvlees Biefstuk entrecote
+ Biefstuk Runderbiefstuk (vers)","ah excellent [SEP] flat iron steak [SEP] De flat iron steak is een steak die gesneden is van het sukadestuk van het rund en is zeer geschikt om te bakken of te grillen. Lekker met een frisse salade en rozemarijnaardappeltjes. Rundvlees Bereiding: koekenpan of grill, ca. 4-12 minuten Vacuüm verpakt om malsheid, vleesaroma's en -sappen optimaal te behouden Tip: prik niet met een vork in het vlees, zo blijft het mals en sappig [SEP] steak",ah excellent flat iron steak steak,null,null,null
+0.09984074,11675,140671,AH,Pangasiusfilet,"Vers ingevroren voor de beste kwaliteit Graatvrij, minimaal 5 stuks Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Geen vis' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij'
+ 'Geen gluten']","Vlees kip vis vega Diepvries Diepvries vlees vis Vis
+ Diepvries vis Pangasius (diepvries)","ah [SEP] pangasiusfilet [SEP] Vers ingevroren voor de beste kwaliteit Graatvrij, minimaal 5 stuks Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] vis basis ongepaneerd",ah pangasiusfilet vis basis ongepaneerd,null,null,null
+0.09954886,11392,396476,Undurraga,Sauvignon blanc doos,"Sappige borrelwijn met fris citrusfruit en het geurige van passievrucht. Voor zo en bij lichte gerechten met vis of kip. Kleur, smaak: Wit: fris  en  droog Druivenras: sauvignon blanc Land, streek: Chili, Central Valley Lekker bij: salade, vis Bekroond: Hamersma,7,5","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen sulfiet' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sesam' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen selderij'
+ 'Geen eieren' 'Geen gluten']","Wijn en bubbels Witte wijn Wijn per doos Witte wijn per doos
+ Fris & fruitig witte wijn (per doos)","undurraga [SEP] sauvignon blanc doos [SEP] Sappige borrelwijn met fris citrusfruit en het geurige van passievrucht. Voor zo en bij lichte gerechten met vis of kip. Kleur, smaak: Wit: fris  en  droog Druivenras: sauvignon blanc Land, streek: Chili, Central Valley Lekker bij: salade, vis Bekroond: Hamersma,7,5 [SEP] zuid-amerika",undurraga sauvignon blanc doos zuid-amerika,null,null,null
+0.09880191,14592,547903,Unox,knaks pakket,Unox knaks pakket Calve Saus Broodje Unox 250ML 1x Unox Knaks 400G 1x Unox Vegetarische party knaks 1x Unox Party kip knaks 1x AH pistolet wit 1x,[],Soepen sauzen kruiden olie Conserven Vleesconserven Knakworst,unox [SEP] knaks pakket [SEP] Unox knaks pakket Calve Saus Broodje Unox 250ML 1x Unox Knaks 400G 1x Unox Vegetarische party knaks 1x Unox Party kip knaks 1x AH pistolet wit 1x [SEP] ,unox knaks pakket ,null,null,null
+0.097917564,4817,199778,AH,Runder gehaktballetjes Hollands,"12 verse, naturel gehaktballetjes van rundvlees. Snel klaar en lekker bij 1001 gerechten. Probeer eens in een curry met sperziebonen en rijst of met pasta en tomatensaus. Rundvlees Bereiding: koekenpan, ca. 10 minuten Ook lekker bij de borrel met een dipsaus erbij Aan een spiesje ook prima te bereiden op de bbq","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Vlees kip vis vega Vlees Rundvlees Gehaktbal (rundvlees),"ah [SEP] runder gehaktballetjes hollands [SEP] 12 verse, naturel gehaktballetjes van rundvlees. Snel klaar en lekker bij 1001 gerechten. Probeer eens in een curry met sperziebonen en rijst of met pasta en tomatensaus. Rundvlees Bereiding: koekenpan, ca. 10 minuten Ook lekker bij de borrel met een dipsaus erbij Aan een spiesje ook prima te bereiden op de bbq [SEP] ballen",ah runder gehaktballetjes hollands ballen,null,null,null
+0.097901344,11512,62324,AH,Roomboter stroopkoeken,10 heerlijke brosse stroopkoeken met roomboter-stroopvulling. Voor bij de koffie of als lekkernij tussendoor. Bereid met roomboter Lekker voor bij de koffie of thee Visite? Succes verzekerd met deze stroopkoeken! Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen noten' 'Geen selderij' 'Geen eieren']","Snoep koek chips en chocolade Koek
+ Stroopwafel stroopkoek wafels Stroopkoeken",ah [SEP] roomboter stroopkoeken [SEP] 10 heerlijke brosse stroopkoeken met roomboter-stroopvulling. Voor bij de koffie of als lekkernij tussendoor. Bereid met roomboter Lekker voor bij de koffie of thee Visite? Succes verzekerd met deze stroopkoeken! Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] doorzicht stroopwafel,ah roomboter stroopkoeken doorzicht stroopwafel,null,null,null
+0.09772889,16338,92489,L'Oréal,Oogreinigingslotion,Oogreinigingslotion: Verwijdert doeltreffend langhoudende make-up.,[],"Drogisterij Verzorging Gezichtsverzorging Gezichtsreiniging
+ Gezichtsreiniging vrouw",l'oréal [SEP] oogreinigingslotion [SEP] Oogreinigingslotion: Verwijdert doeltreffend langhoudende make-up. [SEP] gelaatsproducten,l'oréal oogreinigingslotion gelaatsproducten,null,null,null
+0.09739308,4770,494050,AH,Nasi goreng,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Salades pizza maaltijden Verse kant- en-klaar maaltijden
+ Oosterse maaltijden Aziatisch tafelen",ah [SEP] nasi goreng [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] grootverpakking,ah nasi goreng grootverpakking,null,null,null
+0.097277686,9564,515448,AH,Paddenstoelengehakt,Maak er bijvoorbeeld lasagne of chili sin carne mee! op basis van kastanjechampignons Vegan Nog niet gekruid zodat je dit naar eigen smaak zelf kan doen.,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Groente Paddenstoelen
+ Kastanje-champignons",ah [SEP] paddenstoelengehakt [SEP] Maak er bijvoorbeeld lasagne of chili sin carne mee! op basis van kastanjechampignons Vegan Nog niet gekruid zodat je dit naar eigen smaak zelf kan doen. [SEP] koolhydraat overig,ah paddenstoelengehakt koolhydraat overig,null,null,null
+0.09705056,8442,99213,Moselland,Riesling classic,"Frisse, droge wijn met milde zuren. Fruitig en een tikkeltje kruidig en daardoor zo lekker bij de zilte smaak van garnalen, zeekraal en sushi. Kleur, smaak: wit, fris en droog Druivenras: riesling Land, streek: Duitsland, Mosel Lekker bij: salade, vis Bekroond: Hamersma,7","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen sulfiet' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sesam' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Wijn en bubbels Witte wijn Riesling Riesling (Duitsland),"moselland [SEP] riesling classic [SEP] Frisse, droge wijn met milde zuren. Fruitig en een tikkeltje kruidig en daardoor zo lekker bij de zilte smaak van garnalen, zeekraal en sushi. Kleur, smaak: wit, fris en droog Druivenras: riesling Land, streek: Duitsland, Mosel Lekker bij: salade, vis Bekroond: Hamersma,7 [SEP] duitsland",moselland riesling classic duitsland,null,null,null
+0.096952274,232,494826,Unox,Good Noodles Garnaal,Unox good noodles: daar kun je lekker lang op door! Unox good noodles met de smaak van garnaal Heerlijk als tussendoortje of als kleine maaltijd Klaar in 3 minuten Zonder kunstmatige kleurstoffen enconserveermiddelen,"['Geen gluten' 'Geen lactose' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen mosterd' 'Vegetarisch']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Tussendoortjes Soep (tussendoor) Oosterse keuken Warm tussendoor
+ Pasta rijst noedels Soepen Noedelsoep Noedels mie",unox [SEP] good noodles garnaal [SEP] Unox good noodles: daar kun je lekker lang op door! Unox good noodles met de smaak van garnaal Heerlijk als tussendoortje of als kleine maaltijd Klaar in 3 minuten Zonder kunstmatige kleurstoffen enconserveermiddelen [SEP] stevig tussendoor cup,unox good noodles garnaal stevig tussendoor cup,null,null,null
+0.096664555,16498,199779,AH,Steak de boeuf,"Een steak de boeuf is een magere 'steak' van gemalen rundvlees. Heerlijk met frietjes of krieltjes en een groene salade. Rundvlees Bereiding: koekenpan, ca. 11-13 minuten Ook geschikt voor BBQ en grill Bevat 12% vet","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Vlees Rundvlees Hamburgers
+ Hamburger (vers)","ah [SEP] steak de boeuf [SEP] Een steak de boeuf is een magere 'steak' van gemalen rundvlees. Heerlijk met frietjes of krieltjes en een groene salade. Rundvlees Bereiding: koekenpan, ca. 11-13 minuten Ook geschikt voor BBQ en grill Bevat 12% vet [SEP] tartaar",ah steak de boeuf tartaar,null,null,null
+0.09604295,20229,219946,Fontanafredda,Langhe nebbiolo,"Alleen in de Piemonte worden er van de nebbiolodruif juweeltjes als deze gemaakt. Op een verfijnde manier vol en krachtig. Dinerwijn, bijvoorbeeld bij eend. Kleur, smaak: rood, stevig Druivenras: nebbiolo Land, streek: Italie, Piemonte Lekker bij: rund, kip","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen sulfiet' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sesam' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Wijn en bubbels Rode wijn Overige rode wijn Nebbiolo,"fontanafredda [SEP] langhe nebbiolo [SEP] Alleen in de Piemonte worden er van de nebbiolodruif juweeltjes als deze gemaakt. Op een verfijnde manier vol en krachtig. Dinerwijn, bijvoorbeeld bij eend. Kleur, smaak: rood, stevig Druivenras: nebbiolo Land, streek: Italie, Piemonte Lekker bij: rund, kip [SEP] italie",fontanafredda langhe nebbiolo italie,null,null,null
+0.09557849,11103,232651,Vileda,Schuursponsen glitzi power 2-pack,Vileda Glitzi Power inox is de nieuwe revolutie binnen de metalen schuursponsjes die veel langer meegaat! Gaat 5x langer mee dan het traditionele metalen sponsje Extra hygiëne: vuil zet zich niet vast op de spons Zeer duurzaam,['Laag zout' 'Laag vet' 'Laag suiker'],Huishouden Schoonmaak benodigdheden Sponzen,vileda [SEP] schuursponsen glitzi power 2-pack [SEP] Vileda Glitzi Power inox is de nieuwe revolutie binnen de metalen schuursponsjes die veel langer meegaat! Gaat 5x langer mee dan het traditionele metalen sponsje Extra hygiëne: vuil zet zich niet vast op de spons Zeer duurzaam [SEP] sponzen,vileda schuursponsen glitzi power 2-pack sponzen,null,null,null
+0.095372535,17009,360206,Vileda,Schuursponsen Slalom Soft 2-Pack,Viscosespons met schuurgedeelte speciaal ontwikkeld voor delicate oppervlakken. Sterk absorberend Bevat een antibacteriële stof om de bacteriegroei af te remmen Speciale vorm om prettig in de hand te liggen Getest door een extern instituut,['Laag zout' 'Laag vet' 'Laag suiker'],Huishouden Schoonmaak benodigdheden Sponzen,vileda [SEP] schuursponsen slalom soft 2-pack [SEP] Viscosespons met schuurgedeelte speciaal ontwikkeld voor delicate oppervlakken. Sterk absorberend Bevat een antibacteriële stof om de bacteriegroei af te remmen Speciale vorm om prettig in de hand te liggen Getest door een extern instituut [SEP] sponzen,vileda schuursponsen slalom soft 2-pack sponzen,null,null,null
+0.09532677,6347,137766,AH,Sinas light 6pack,"Een echte dorstlesser! Sparkling Sinas Light bevat
+					 91% minder kcal dan AH sinas regular. Frisdrank met sinaasappelsmaak in handige 						  voordeelverpakking Gekoeld het lekkerst Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'light'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Frisdrank sappen koffie thee Frisdrank Sinas Sinas (fles),"ah [SEP] sinas light 6pack [SEP] Een echte dorstlesser! Sparkling Sinas Light bevat
+					 91% minder kcal dan AH sinas regular. Frisdrank met sinaasappelsmaak in handige 						  voordeelverpakking Gekoeld het lekkerst Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] orange gvp",ah sinas light 6pack orange gvp,null,null,null
+0.09516069,10213,197297,AH,Perssinaasappelen,"De perssinaasappel heeft een friszoete smaak. Ideaal voor een
+				  vers glaasje jus d'orange, maar ook lekker door een gezonde smoothie. Smaak: perssinaasappel heeft een friszoete  						smaak Gezondheid: Rijk aan vitamine C en vezels. Bron van  						foliumzuur","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Seizoensfruit (lente) Fruit
+ Seizoensfruit (herfst) Seizoensfruit Verse sinaasappels
+ Sinaasappels mandarijnen Sinaasappels","ah [SEP] perssinaasappelen [SEP] De perssinaasappel heeft een friszoete smaak. Ideaal voor een
+				  vers glaasje jus d'orange, maar ook lekker door een gezonde smoothie. Smaak: perssinaasappel heeft een friszoete  						smaak Gezondheid: Rijk aan vitamine C en vezels. Bron van  						foliumzuur [SEP] perssinaasappelen",ah perssinaasappelen perssinaasappelen,null,null,null
+0.09505534,14142,545536,AH,Goudse oud 48+ plakken 4-pack,Altijd fijn voor de voorraad! Dit pakket bestaat uit: AH Goudse oud 48+ plakken 4x,[],"Ontbijtgranen en beleg Kaas vleeswaren tapas Kaas Kaas beleg
+ Oude kaas broodbeleg Kaas voor beleg Plakken kaas
+ Oude kaas (plakken)",ah [SEP] goudse oud 48+ plakken 4-pack [SEP] Altijd fijn voor de voorraad! Dit pakket bestaat uit: AH Goudse oud 48+ plakken 4x [SEP] ,ah goudse oud 48+ plakken 4-pack ,null,null,null
+0.09501762,8485,489414,AH,Roerbak garnalen knoflook,Knoflook garnalen uit Ecuador. Volle smaak met stevige bite Heerlijk door een pasta of salade. Maar ook heel erg lekker om te serveren als borrelhapje of amuse. De garnalen zijn geblancheerd. Voor consumptie nog even verhitten. GeÃ¯ntegreerde en transparante keten .,"['Geen melk' 'Geen soja' 'Geen vis' 'Geen sulfiet' 'Laag suiker'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Vis Schaal- & schelpdieren Garnalen
+ Verse vis Garnalen (vers)",ah [SEP] roerbak garnalen knoflook [SEP] Knoflook garnalen uit Ecuador. Volle smaak met stevige bite Heerlijk door een pasta of salade. Maar ook heel erg lekker om te serveren als borrelhapje of amuse. De garnalen zijn geblancheerd. Voor consumptie nog even verhitten. GeÃ¯ntegreerde en transparante keten . [SEP] tropische garnalen,ah roerbak garnalen knoflook tropische garnalen,null,null,null
+0.09496189,3280,526747,Lay's,Oven baked cheese & onion,Knapperig ovengebakken chips met de heerlijke smaak combinatie van kaas en ui. Bevat 5-6 porties Geen kunstmatige kleurstoffen Zonder conserveeringsmiddelen,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Chips Chips minder vet zout
+ Chips minder vet",lay's [SEP] oven baked cheese & onion [SEP] Knapperig ovengebakken chips met de heerlijke smaak combinatie van kaas en ui. Bevat 5-6 porties Geen kunstmatige kleurstoffen Zonder conserveeringsmiddelen [SEP] verantwoorde chips,lay's oven baked cheese & onion verantwoorde chips,null,null,null
+0.0949596,14209,121630,AH Greenfields,Biefstuk,"Greenfields biefstuk is afkomstig van de dikke lende, één van de meest malse delen van het rund. Naar smaak rood, medium of doorbakken te bereiden. Klassiek lekker met sla en gebakken aardappelen. Rundvlees van runderen uit Ierland Bereiding: koekenpan, 4 tot 8 min., afhankelijk van de gewenste gaarheid. Vacuüm verpakt om vleesaromas en sappen optimaal te behouden Tip: prik niet met een vork in het vlees, zo blijft het mals en sappig.","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' 'scharrelvlees' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Vlees Rundvlees Biefstuk entrecote
+ Biefstuk Runderbiefstuk (vers)","ah greenfields [SEP] biefstuk [SEP] Greenfields biefstuk is afkomstig van de dikke lende, één van de meest malse delen van het rund. Naar smaak rood, medium of doorbakken te bereiden. Klassiek lekker met sla en gebakken aardappelen. Rundvlees van runderen uit Ierland Bereiding: koekenpan, 4 tot 8 min., afhankelijk van de gewenste gaarheid. Vacuüm verpakt om vleesaromas en sappen optimaal te behouden Tip: prik niet met een vork in het vlees, zo blijft het mals en sappig. [SEP] steak",ah greenfields biefstuk steak,null,null,null
+0.09465922,14859,544669,AH,Goudse jong 48+ plakken voordeel 4-pack,Altijd fijn voor de voorraad! Dit pakket bestaat uit: AH Goudse jong 48+ plakken voordeel 4x,[],"Ontbijtgranen en beleg Kaas vleeswaren tapas Kaas Kaas beleg
+ Jong belegen kaas broodbeleg Kaas voor beleg Plakken kaas
+ Jong belegen kaas (plakken)",ah [SEP] goudse jong 48+ plakken voordeel 4-pack [SEP] Altijd fijn voor de voorraad! Dit pakket bestaat uit: AH Goudse jong 48+ plakken voordeel 4x [SEP] ,ah goudse jong 48+ plakken voordeel 4-pack ,null,null,null
+0.09463816,10970,537247,AH,Diepvrieszakken met sluitstrip 3 liter,,['Laag zout' 'Laag vet' 'Laag suiker'],"Koken tafelen vrije tijd Huishouden Tafelen
+ Huishoudfolies huishoudzakken Wegwerpservies Hersluitbare zakjes
+ Plastic zakjes",ah [SEP] diepvrieszakken met sluitstrip 3 liter [SEP]  [SEP] diepvrieszakken,ah diepvrieszakken met sluitstrip 3 liter diepvrieszakken,null,null,null
+0.09452081,19458,544744,AH,Goudse jong belegen 48+ plakken 4-pack,Altijd fijn voor de voorraad! Dit pakket bestaat uit: AH Goudse jong belegen 48+ plakken voordeel 4x,[],"Ontbijtgranen en beleg Kaas vleeswaren tapas Kaas Kaas beleg
+ Jong belegen kaas broodbeleg Kaas voor beleg Plakken kaas
+ Jong belegen kaas (plakken)",ah [SEP] goudse jong belegen 48+ plakken 4-pack [SEP] Altijd fijn voor de voorraad! Dit pakket bestaat uit: AH Goudse jong belegen 48+ plakken voordeel 4x [SEP] ,ah goudse jong belegen 48+ plakken 4-pack ,null,null,null
+0.0941554,10607,409033,De zwaluw,Aanmaaklucifers,"Ideaal voor het aanmaken van uw openhaard, barbecue of outdoor. 20 stuks breken en vonken niet compact en multifunctioneel ontsteken niet vanzelf en gloeien niet na",['Laag zout' 'Laag vet' 'Laag suiker'],"Koken tafelen vrije tijd Huishouden Lucifers aanstekers Koken
+ Tabak Barbecue benodigdheden Lucifers","de zwaluw [SEP] aanmaaklucifers [SEP] Ideaal voor het aanmaken van uw openhaard, barbecue of outdoor. 20 stuks breken en vonken niet compact en multifunctioneel ontsteken niet vanzelf en gloeien niet na [SEP] aansteek",de zwaluw aanmaaklucifers aansteek,null,null,null
+0.09405092,18917,212261,Nûby,Afsluitbare bakjes,6-pack afsluitbare bakjes. Ideaal om mee te nemen en om uit te eten. Zeer geschikt als voorraad bakjes.,[],"Koken tafelen vrije tijd Koken Bewaardozen lunchtrommel
+ Bewaardozen",nûby [SEP] afsluitbare bakjes [SEP] 6-pack afsluitbare bakjes. Ideaal om mee te nemen en om uit te eten. Zeer geschikt als voorraad bakjes. [SEP] ,nûby afsluitbare bakjes ,null,null,null
+0.093763344,14630,59698,AH Excellent,Ossenhaas,"Excellent zuid-amerikaanse ossenhaas is het meest malse en zachtste stukje rundvlees, gesneden van de runderhaas van het rund. Het heeft een fijne structuur en bevat bijna geen vet. Ook geschikt voor BBQ en grill. Lekker met een pepersaus. Zuid-amerikaans rundvlees, minimaal 28 dagen gerijpt Bereiding: koekenpan, 4 tot 8 min., afhankelijk van de gewenste gaarheid Vacuum verpakt om malsheid, vleesaromas en -sappen optimaal te behouden Tip: prik niet met een vork in de ossenhaas, zo blijft deze mals en sappig","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Vlees kip vis vega Vlees Rundvlees Ossenhaas,"ah excellent [SEP] ossenhaas [SEP] Excellent zuid-amerikaanse ossenhaas is het meest malse en zachtste stukje rundvlees, gesneden van de runderhaas van het rund. Het heeft een fijne structuur en bevat bijna geen vet. Ook geschikt voor BBQ en grill. Lekker met een pepersaus. Zuid-amerikaans rundvlees, minimaal 28 dagen gerijpt Bereiding: koekenpan, 4 tot 8 min., afhankelijk van de gewenste gaarheid Vacuum verpakt om malsheid, vleesaromas en -sappen optimaal te behouden Tip: prik niet met een vork in de ossenhaas, zo blijft deze mals en sappig [SEP] steak",ah excellent ossenhaas steak,null,null,null
+0.093743995,1004,487396,AH,Diamanthaas,De ah diamanthaas is mager rundvlees met een zachte smaak en uiterst mals Makkelijk en snel te bereiden Van het beste deel uit de runderschouder,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Vlees Rundvlees Biefstuk entrecote
+ Biefstuk Runderbiefstuk (vers)",ah [SEP] diamanthaas [SEP] De ah diamanthaas is mager rundvlees met een zachte smaak en uiterst mals Makkelijk en snel te bereiden Van het beste deel uit de runderschouder [SEP] steak,ah diamanthaas steak,null,null,null
+0.09374046,1827,399016,AH,Garnalen in knoflookmarinade,"Gepelde en gekookte garnalen in een kruidige knoflookmarinade. Het perfecte tapashapje, voor bij de borrel of bijvoorbeeld in een salade. Hapklaar, om direct te eten In een kruidige knoflook marinade Lekker als tapas, bij de borrel, in een salade of in een pasta Gekweekt in asc gecertificeerde aquacultuur","['Geen melk' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Kaas vleeswaren tapas Borrelhapjes Borrelhapjes met vis,"ah [SEP] garnalen in knoflookmarinade [SEP] Gepelde en gekookte garnalen in een kruidige knoflookmarinade. Het perfecte tapashapje, voor bij de borrel of bijvoorbeeld in een salade. Hapklaar, om direct te eten In een kruidige knoflook marinade Lekker als tapas, bij de borrel, in een salade of in een pasta Gekweekt in asc gecertificeerde aquacultuur [SEP] borrelhapjes koud",ah garnalen in knoflookmarinade borrelhapjes koud,null,null,null
+0.09359727,252,548351,Iglo,Vissticks met Spinazie en Friet pakket,Voor 4 personen: Zet in een handomdraai een heerlijk maaltijd op tafel! Altijd handig om op voorraad te hebben voor avonden wanneer je snel iets lekkers wilt maken. Iglo Spinazie a la crème 750gram 1x Iglo Vissticks 20 stuks 1x AH Franse Friet 1x,[],"Aardappel groente fruit Diepvries Groente Diepvries groente
+ Spinazie andijvie witlof Spinazie (diepvries) Spinazie",iglo [SEP] vissticks met spinazie en friet pakket [SEP] Voor 4 personen: Zet in een handomdraai een heerlijk maaltijd op tafel! Altijd handig om op voorraad te hebben voor avonden wanneer je snel iets lekkers wilt maken. Iglo Spinazie a la crème 750gram 1x Iglo Vissticks 20 stuks 1x AH Franse Friet 1x [SEP] ,iglo vissticks met spinazie en friet pakket ,null,null,null
+0.093588315,16092,451534,AH Greenfields,Runder rookvlees kleinverpakking,Gedroogd en gerookt met beukenhout. Mager vleeswaar In verfijnde plakken gesneden Ideale portieverpakking zodat je niets hoeft weg te gooien,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Rookvlees Rookvlees (versafdeling)",ah greenfields [SEP] runder rookvlees kleinverpakking [SEP] Gedroogd en gerookt met beukenhout. Mager vleeswaar In verfijnde plakken gesneden Ideale portieverpakking zodat je niets hoeft weg te gooien [SEP] rosbief rookvlees,ah greenfields runder rookvlees kleinverpakking rosbief rookvlees,null,null,null
+0.093362555,3056,378693,AH,Gesneden champignons,Lekker en snel! Deze gesneden champignons zijn ideaal in vlees- of Aziatische gerechten of op een pizza funghi. Lekker met roomsaus voor op de pasta Ook voor het maken van ragout,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Groente Paddenstoelen Champignons
+ Champignons (vers)",ah [SEP] gesneden champignons [SEP] Lekker en snel! Deze gesneden champignons zijn ideaal in vlees- of Aziatische gerechten of op een pizza funghi. Lekker met roomsaus voor op de pasta Ook voor het maken van ragout [SEP] gesneden,ah gesneden champignons gesneden,null,null,null
+0.09333721,7080,165821,Unox,Stevige goulashsoep,"Unox stevige goulashsoep is gemaakt met pastaschelpjes, beter leven rundvlees en flink wat heerlijke tomaten en paprika. Maar liefst 80 gram groenten per kom soep Gemaakt met de beste, natuurlijke ingredienten Goed voor een ruime kom soep Zonder kunstmatige kleur-, geur- en smaakstoffen","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen sulfiet'
+ 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Vegetarisch' 'Geen eieren']","Soepen sauzen kruiden olie Conserven Soepen Soepen in blik
+ Soep (opwarmen) Soep in blik Goulashsoep in blik","unox [SEP] stevige goulashsoep [SEP] Unox stevige goulashsoep is gemaakt met pastaschelpjes, beter leven rundvlees en flink wat heerlijke tomaten en paprika. Maar liefst 80 gram groenten per kom soep Gemaakt met de beste, natuurlijke ingredienten Goed voor een ruime kom soep Zonder kunstmatige kleur-, geur- en smaakstoffen [SEP] maaltijdsoep 1 persoons blik",unox stevige goulashsoep maaltijdsoep 1 persoons blik,null,null,null
+0.09325421,18765,177032,Steneker,Groningse jongens,"Droge varkensworst Authentiek gekruid Lekker bij de borrel, tussendoortje of maaltijdcomponent","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Kaas vleeswaren tapas Droge worst Droge worst - metworst,"steneker [SEP] groningse jongens [SEP] Droge varkensworst Authentiek gekruid Lekker bij de borrel, tussendoortje of maaltijdcomponent [SEP] boerenmetworsten",steneker groningse jongens boerenmetworsten,null,null,null
+0.09325114,1250,500620,AH,Argentijnse garnaal,Rauw en ongepeld Vers ingevroren voor de beste kwaliteit,"['Geen melk' 'Geen soja' 'Geen vis' 'Geen sulfiet' 'Laag suiker'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Diepvries Diepvries vlees vis Vis
+ Schaal- & schelpdieren Diepvries schelpdieren Garnalen Verse vis
+ Diepvries vis Garnalen (diepvries)",ah [SEP] argentijnse garnaal [SEP] Rauw en ongepeld Vers ingevroren voor de beste kwaliteit [SEP] vis schaal schelpdieren,ah argentijnse garnaal vis schaal schelpdieren,null,null,null
+0.09308441,15976,553275,AH,Borrelpakket vega,Haal alles in huis voor de borrel! AH Groene olijven met basilicum 1x AH Scrocchi Rozemarijn Zeezout 1x AH Vegan falafel 1x AH Clemont Rouge 70+ 1x,[],Kaas vleeswaren tapas Borrelhapjes Borrelschotel,ah [SEP] borrelpakket vega [SEP] Haal alles in huis voor de borrel! AH Groene olijven met basilicum 1x AH Scrocchi Rozemarijn Zeezout 1x AH Vegan falafel 1x AH Clemont Rouge 70+ 1x [SEP] ,ah borrelpakket vega ,null,null,null
+0.0930124,4928,546665,Nongshim,Chapagetti,"Instant noedels. Overheerlijk, snel en eenvoudig te bereiden Voeg naar eigen smaak ingredienten toe Varieer en voer koriander, lente ui of een gekookt ei toe","['Geen gluten' 'Geen lactose' 'Geen soja' 'Laag suiker' 'Geen selderij'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine' ""Geen pinda's""
+ 'Geen schelpdieren (schaaldieren)' 'Geen melk' 'Laag vet' 'Geen sulfiet'
+ 'Geen sesam' 'Geen vis' 'Laag zout' 'Veganistisch' 'Geen noten'
+ 'Geen mosterd' 'Vegetarisch' 'Geen eieren']","Pasta rijst en wereldkeuken Oosterse keuken Pasta rijst noedels
+ Noedels mie Noedels","nongshim [SEP] chapagetti [SEP] Instant noedels. Overheerlijk, snel en eenvoudig te bereiden Voeg naar eigen smaak ingredienten toe Varieer en voer koriander, lente ui of een gekookt ei toe [SEP] stevig tussendoor zak",nongshim chapagetti stevig tussendoor zak,null,null,null
+0.09299374,14887,451877,Look-O-Look,Snoep kettingen & horloges,"Look-o-look dextrose snoepkettingen en horloges voor veel snoepplezier. Origineel snoep: leuk om te trakteren of als sieraad Dextrose snoepjes als sierraad, leuk om te snoepen of om te dragen","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']",Snoep koek chips en chocolade Snoep Trakteren Mini snoepjes,"look-o-look [SEP] snoep kettingen & horloges [SEP] Look-o-look dextrose snoepkettingen en horloges voor veel snoepplezier. Origineel snoep: leuk om te trakteren of als sieraad Dextrose snoepjes als sierraad, leuk om te snoepen of om te dragen [SEP] snoep",look-o-look snoep kettingen & horloges snoep,null,null,null
+0.09291051,8872,550130,AH,Pappardelle ragù,Tomatensaus met rode wijn. Langzaam gegaard rundvlees en gerookte spekjes Kerstomaatjes 170 gram groente Nutriscore a,"['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Vegetarisch' 'Geen eieren']","Salades pizza maaltijden Verse kant- en-klaar maaltijden
+ Italiaanse maaltijden Traditionele Italiaanse gerechten",ah [SEP] pappardelle ragù [SEP] Tomatensaus met rode wijn. Langzaam gegaard rundvlees en gerookte spekjes Kerstomaatjes 170 gram groente Nutriscore a [SEP] verse maaltijd,ah pappardelle ragù verse maaltijd,null,null,null
+0.09278032,6773,124176,Unox,Tandoori good noodles,Unox good noodles: daar kun je lekker lang op door! Unox good noodles met de smaak van tandoori Heerlijk als tussendoortje of als kleine maaltijd Klaar in 3 minuten Zonder toegevoegde kunstmatige kleurstoffen en conserveermiddelen,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Geen eieren']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Tussendoortjes Soep (tussendoor) Oosterse keuken Warm tussendoor
+ Pasta rijst noedels Soepen Noedelsoep Noedels mie",unox [SEP] tandoori good noodles [SEP] Unox good noodles: daar kun je lekker lang op door! Unox good noodles met de smaak van tandoori Heerlijk als tussendoortje of als kleine maaltijd Klaar in 3 minuten Zonder toegevoegde kunstmatige kleurstoffen en conserveermiddelen [SEP] stevig tussendoor zak,unox tandoori good noodles stevig tussendoor zak,null,null,null
+0.09269399,10950,479173,AH,EXTRA rinse appelstroop,Rinse appelstroop bereid met 210 gram appels per 100 gram appelstroop. Heerlijk voor op de boterham of pannenkoek. Van nature rijk aan ijzer Bereid met 30% meer appels ten opzichte van AHrinse appelstroop Ook te gebruiken als ingredient om mee te bakken of koken,"['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Geen gluten']","Ontbijtgranen en beleg Pasta rijst en wereldkeuken Zoet broodbeleg
+ Bakproducten Stroop Appelstroop perenstroop",ah [SEP] extra rinse appelstroop [SEP] Rinse appelstroop bereid met 210 gram appels per 100 gram appelstroop. Heerlijk voor op de boterham of pannenkoek. Van nature rijk aan ijzer Bereid met 30% meer appels ten opzichte van AHrinse appelstroop Ook te gebruiken als ingredient om mee te bakken of koken [SEP] stroop,ah extra rinse appelstroop stroop,null,null,null
+0.092638716,16166,238037,Hansaplast,Anti-drukringen likdoorns,"De zachte Hansaplast anti-drukringen voor likdoorns beschermen likdoorns op de voeten tegen pijnlijke druk en wrijving, vooral bij contact met schoenen. Zacht en zelklevend Verlicht de pijn onmiddellijk Vooral geschikt om likdoorns te beschermen tegen pijnlijke druk Huidverdraagzaamheid dermatologisch goedgekeurd",['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Gezondheid Verzorging Zelfzorg Lichaamsverzorging
+ Voetverzorging Schimmelinfecties huidverzorging Blarenpleisters","hansaplast [SEP] anti-drukringen likdoorns [SEP] De zachte Hansaplast anti-drukringen voor likdoorns beschermen likdoorns op de voeten tegen pijnlijke druk en wrijving, vooral bij contact met schoenen. Zacht en zelklevend Verlicht de pijn onmiddellijk Vooral geschikt om likdoorns te beschermen tegen pijnlijke druk Huidverdraagzaamheid dermatologisch goedgekeurd [SEP] voetverzorging",hansaplast anti-drukringen likdoorns voetverzorging,null,null,null
+0.09261514,3239,486425,Iglo,Bladspinazie,Heerlijke verse diepgevroren Iglo bladspinaziein handige deelblokjes! Binnen enkele uren na de oogst diepgevroren voor maximaal vitamine behoud Makkelijk te portioneren door deelblokjes Rijk aan vitamine a  en  k Gemakkelijk te bereiden in de pan of magnetron,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Diepvries Groente Diepvries groente
+ Spinazie andijvie witlof Spinazie (diepvries) Spinazie",iglo [SEP] bladspinazie [SEP] Heerlijke verse diepgevroren Iglo bladspinaziein handige deelblokjes! Binnen enkele uren na de oogst diepgevroren voor maximaal vitamine behoud Makkelijk te portioneren door deelblokjes Rijk aan vitamine a  en  k Gemakkelijk te bereiden in de pan of magnetron [SEP] spinazie,iglo bladspinazie spinazie,null,null,null
+0.0924638,3740,165819,Unox,Stevige goulashsoep,"Unox stevige goulash soep is gemaakt met pastaschelpjes, beter leven rundvlees en flink wat heerlijke tomaten en paprika. Maar liefst 80 gram groenten per kom soep Zonder kunstmatige kleur-, geur- en smaakstoffen Goed voor ruim drie kommen soep Zonder conserveringsmiddelen","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen sulfiet'
+ 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Vegetarisch' 'Geen eieren']","Soepen sauzen kruiden olie Conserven Soepen Soepen in blik
+ Soep (opwarmen) Soep in blik Goulashsoep in blik","unox [SEP] stevige goulashsoep [SEP] Unox stevige goulash soep is gemaakt met pastaschelpjes, beter leven rundvlees en flink wat heerlijke tomaten en paprika. Maar liefst 80 gram groenten per kom soep Zonder kunstmatige kleur-, geur- en smaakstoffen Goed voor ruim drie kommen soep Zonder conserveringsmiddelen [SEP] maaltijdsoep meerpersoons blik",unox stevige goulashsoep maaltijdsoep meerpersoons blik,null,null,null
+0.092458725,6752,478240,Unox,Good noodles met de smaak van rund,Unox good noodles: daar kun je lekker lang op door! Unox good noodles met de smaak van rund Heerlijk als tussendoortje of als kleine maaltijd Klaar in 3 minuten Zonder toegevoegde kunstmatige kleurstoffen en conserveermiddelen,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Vegetarisch' 'Geen eieren']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Tussendoortjes Soep (tussendoor) Oosterse keuken Warm tussendoor
+ Pasta rijst noedels Soepen Noedelsoep Noedels mie",unox [SEP] good noodles met de smaak van rund [SEP] Unox good noodles: daar kun je lekker lang op door! Unox good noodles met de smaak van rund Heerlijk als tussendoortje of als kleine maaltijd Klaar in 3 minuten Zonder toegevoegde kunstmatige kleurstoffen en conserveermiddelen [SEP] stevig tussendoor cup,unox good noodles met de smaak van rund stevig tussendoor cup,null,null,null
+0.09245707,14643,548349,Iglo,Ping & Klaar pakket,"Handige bundle pack van 3 verschillende Iglo Ping & Klaar makkelijk te bereiden magnetronmaaltijden. In enkele minuten heb je een complete, lekkere en verse maaltijd op tafel! Iglo Ping&Klaar Gegrilde Kopfilet met Rosti 1x Iglo Ping&Klaar Lasagnette met Sperziebonen 1x Iglo Ping & Klaar Cordon Bleu 1x",[],"Diepvries Salades pizza maaltijden
+ Diepvries kant-en-klaar maaltijden Hollandse diepvries maaltijden","iglo [SEP] ping & klaar pakket [SEP] Handige bundle pack van 3 verschillende Iglo Ping & Klaar makkelijk te bereiden magnetronmaaltijden. In enkele minuten heb je een complete, lekkere en verse maaltijd op tafel! Iglo Ping&Klaar Gegrilde Kopfilet met Rosti 1x Iglo Ping&Klaar Lasagnette met Sperziebonen 1x Iglo Ping & Klaar Cordon Bleu 1x [SEP] ",iglo ping & klaar pakket ,null,null,null
+0.09222117,9696,369542,Maggi,Ovenschotel witlof cremesaus,"Kruidenmix voor een heerlijke witlofschotel vol verse groente, een makkelijke maaltijd met witlof die je snel op tafel zet. Toevoegen: 200g gehakt, 100g spekjes, 500g witlof, 1 grote ui, 1 ei, 600g aardappelschijfjes, 150ml kookroom (light) Bevat de aanbevolen dagelijkse hoeveelheid groente voor de avondmaaltijd 10 minuten voorbereiden, 45 minuten oventijd","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Geen eieren']","Pasta rijst en wereldkeuken Maaltijdpakketten mixen
+ Hollandse keuken Nederlandse mixen Maaltijdmixen","maggi [SEP] ovenschotel witlof cremesaus [SEP] Kruidenmix voor een heerlijke witlofschotel vol verse groente, een makkelijke maaltijd met witlof die je snel op tafel zet. Toevoegen: 200g gehakt, 100g spekjes, 500g witlof, 1 grote ui, 1 ei, 600g aardappelschijfjes, 150ml kookroom (light) Bevat de aanbevolen dagelijkse hoeveelheid groente voor de avondmaaltijd 10 minuten voorbereiden, 45 minuten oventijd [SEP] maaltijdmixen",maggi ovenschotel witlof cremesaus maaltijdmixen,null,null,null
+0.09207536,13734,421315,Unox,Goodpasta romige kaassaus,Snelle pasta snack voor de lekkere trek. Is een snelle pastasnack Ideaal als je tussendoor Trek hebt Klaar in 5 minuten In een handige cup met duidelijke gebruiksaanwijzing,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Geen eieren']",Tussendoortjes Pasta (tussendoor) Warm tussendoor,unox [SEP] goodpasta romige kaassaus [SEP] Snelle pasta snack voor de lekkere trek. Is een snelle pastasnack Ideaal als je tussendoor Trek hebt Klaar in 5 minuten In een handige cup met duidelijke gebruiksaanwijzing [SEP] stevig tussendoor cup,unox goodpasta romige kaassaus stevig tussendoor cup,null,null,null
+0.09203142,7277,507470,Efepasa,Guven gesneden knoflookworst,Gesneden knoflookworst. Karakteristieke knoflookworst van de marktleider Pikante knoflookworst Zowel koud als warm heerlijk Ideaal om te bakken,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Ontbijtgranen en beleg Vlees Halal vlees
+ Vleeswaren beleg Halal broodbeleg Halal vleeswaren",efepasa [SEP] guven gesneden knoflookworst [SEP] Gesneden knoflookworst. Karakteristieke knoflookworst van de marktleider Pikante knoflookworst Zowel koud als warm heerlijk Ideaal om te bakken [SEP] vleeswaren,efepasa guven gesneden knoflookworst vleeswaren,null,null,null
+0.091809034,16790,445649,AH,Likdoornverwijder pleister,AH Likdoorn verwijderpleister met salicylzuur verlichten te pijnlijke druk van likdoorns en eelt. Helpen bij het veilig en effectief verwijderen van likdoorns Verlicht onmiddellijk pijn en druk bij likdoorns,['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Gezondheid EHBO en sport Zelfzorg EHBO
+ Wondverzorging Pleisters",ah [SEP] likdoornverwijder pleister [SEP] AH Likdoorn verwijderpleister met salicylzuur verlichten te pijnlijke druk van likdoorns en eelt. Helpen bij het veilig en effectief verwijderen van likdoorns Verlicht onmiddellijk pijn en druk bij likdoorns [SEP] voetverzorging,ah likdoornverwijder pleister voetverzorging,null,null,null
+0.09164883,9637,516243,AH,Pasen re-usable glas haas,Non food paasassortiment. Leuk voor op de paastafel,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Servies,ah [SEP] pasen re-usable glas haas [SEP] Non food paasassortiment. Leuk voor op de paastafel [SEP] pasen in out,ah pasen re-usable glas haas pasen in out,null,null,null
+0.09158786,6302,440742,AH,Mini stroopwafels,"Deze mini wafels met zachte stroopvulling zijn een echte traktatie bij de koffie of thee of ieder ander moment van de dag. Bereid met 14% roomboter Extra veel verwenmomenten in één verpakking Hersluitbaar, met handige sluitzegel Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Geen selderij']",Snoep koek chips en chocolade Koek Koek bites,"ah [SEP] mini stroopwafels [SEP] Deze mini wafels met zachte stroopvulling zijn een echte traktatie bij de koffie of thee of ieder ander moment van de dag. Bereid met 14% roomboter Extra veel verwenmomenten in één verpakking Hersluitbaar, met handige sluitzegel Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] doorzicht stroopwafel",ah mini stroopwafels doorzicht stroopwafel,null,null,null
+0.09155953,7843,226439,Iglo,Spinazie fijn gehakt,Iglo fijn gehakte spinazie in handige deelblokjesis snel en makkelijk! Binnen enkele uren na de oogst diepgevroren voor maximaal vitamine behoud Makkelijk te portioneren door deelblokjes Rijk aan vitamine a  en  k Gemakkelijk te bereiden in de pan of magnetron,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Diepvries Groente Diepvries groente
+ Spinazie andijvie witlof Spinazie (diepvries) Spinazie",iglo [SEP] spinazie fijn gehakt [SEP] Iglo fijn gehakte spinazie in handige deelblokjesis snel en makkelijk! Binnen enkele uren na de oogst diepgevroren voor maximaal vitamine behoud Makkelijk te portioneren door deelblokjes Rijk aan vitamine a  en  k Gemakkelijk te bereiden in de pan of magnetron [SEP] spinazie,iglo spinazie fijn gehakt spinazie,null,null,null
+0.09145985,19064,508465,Fish Tales,Gerookte mosselen in olie,"Heerlijk mosselvlees, Ambachtelijk gerookt en ready to eat! Msc, dus uit een visbestand dat niet wordt overbevist Gevangen door poul en crew in de getijderijke wateren van Denemarken Heerlijk als borrelhap of tapas Kant en klaar, makkelijk en snel door een pasta","['Geen melk' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine'
+ 'Geen schelpdieren (schaaldieren)' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij'
+ 'Geen gluten']","Vlees kip vis vega Soepen sauzen kruiden olie Vis Conserven
+ Schaal- & schelpdieren Visconserven Verse vis Mosselen
+ Mosselen (conserven)","fish tales [SEP] gerookte mosselen in olie [SEP] Heerlijk mosselvlees, Ambachtelijk gerookt en ready to eat! Msc, dus uit een visbestand dat niet wordt overbevist Gevangen door poul en crew in de getijderijke wateren van Denemarken Heerlijk als borrelhap of tapas Kant en klaar, makkelijk en snel door een pasta [SEP] overig visconserven",fish tales gerookte mosselen in olie overig visconserven,null,null,null
+0.09132654,5691,187597,AH,Rundertartaar,"Mals rundertartaar kan zowel rauw als gebakken gegeten worden. Lekker om steak tartaar mee te maken, rul te bakken of om zelf tartaartjes van te vormen. Rundvlees Bereiding: koekenpan, rullen ca. 3-4 min. Tartaartjes ca. 8-16 min., afhankelijk van de gewenste gaarheid Rood/ medium bereiding geeft een meer mals en sappiger smaakbeleving Mager rundvlees, bevat 10% vet","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Vlees kip vis vega Vlees Rundvlees Tartaar,"ah [SEP] rundertartaar [SEP] Mals rundertartaar kan zowel rauw als gebakken gegeten worden. Lekker om steak tartaar mee te maken, rul te bakken of om zelf tartaartjes van te vormen. Rundvlees Bereiding: koekenpan, rullen ca. 3-4 min. Tartaartjes ca. 8-16 min., afhankelijk van de gewenste gaarheid Rood/ medium bereiding geeft een meer mals en sappiger smaakbeleving Mager rundvlees, bevat 10% vet [SEP] tartaar",ah rundertartaar tartaar,null,null,null
+0.09131357,13449,440893,AH,Ossenworst,"Malse ossenworst in handig klein formaat, gekruid met o.a. Peper en foelie. Doet het altijd goed op de borrelplank of met een beetje mosterd en een augurkje op een broodje. Rundvlees afkomstig uit europa Neem mee: voor bij de lunch","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Voorverpakt Ossenworst Ossenworst (voorverpakt)","ah [SEP] ossenworst [SEP] Malse ossenworst in handig klein formaat, gekruid met o.a. Peper en foelie. Doet het altijd goed op de borrelplank of met een beetje mosterd en een augurkje op een broodje. Rundvlees afkomstig uit europa Neem mee: voor bij de lunch [SEP] ossenworst",ah ossenworst ossenworst,null,null,null
+0.09124096,13800,486424,Iglo,Spinazie fijn gehakt,Iglo fijn gehakte spinazieis snel en makkelijk te bereiden. Binnen enkele uren na de oogst diepgevroren voor maximaal vitamine behoud Makkelijk te portioneren door deelblokjes Rijk aan vitamine a  en  k Gemakkelijk te bereiden in de pan of magnetron,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Diepvries Groente Diepvries groente
+ Spinazie andijvie witlof Spinazie (diepvries) Spinazie",iglo [SEP] spinazie fijn gehakt [SEP] Iglo fijn gehakte spinazieis snel en makkelijk te bereiden. Binnen enkele uren na de oogst diepgevroren voor maximaal vitamine behoud Makkelijk te portioneren door deelblokjes Rijk aan vitamine a  en  k Gemakkelijk te bereiden in de pan of magnetron [SEP] spinazie,iglo spinazie fijn gehakt spinazie,null,null,null
+0.09111978,12950,541525,Iglo,Fish cuisine broccoli,Heerlijke visgratin uit de oven of magnetron. Snel diepgevroren voor versheid 100% msc gecertificeerde visfilet Rijk aan omega 3  en  eiwitrijk Zonder toegevoegde kunstmatige smaak- of kleurstoffen,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Geen vis' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen mosterd' 'Vegetarisch' 'Geen selderij']","Vlees kip vis vega Diepvries Diepvries vlees vis Vis
+ Gepaneerde vis Diepvries vis Vis cuisine (diepvries)",iglo [SEP] fish cuisine broccoli [SEP] Heerlijke visgratin uit de oven of magnetron. Snel diepgevroren voor versheid 100% msc gecertificeerde visfilet Rijk aan omega 3  en  eiwitrijk Zonder toegevoegde kunstmatige smaak- of kleurstoffen [SEP] vis recept,iglo fish cuisine broccoli vis recept,null,null,null
+0.09084827,8598,100845,AH,Gekoeld sinaasappeldrank,Heerlijke vruchtendrank Voor elk moment van de dag Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ ""Sinaasappelsap & drank (jus dorange)""
+ Sinaasappelsap & drank (gekoeld)",ah [SEP] gekoeld sinaasappeldrank [SEP] Heerlijke vruchtendrank Voor elk moment van de dag Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] ah sappen fc,ah gekoeld sinaasappeldrank ah sappen fc,null,null,null
+0.09077595,1257,495643,AH,Gehaktschnitzel Hongaarse stijl,"Een gehaktschnitzel van varkensvlees, voorzien van een laagje knapperig paneermeel met paprikakruiding. Makkelijk en snel te bereiden. Lekker bij een Hollandse warme maaltijd. Varkensvlees van varkens van Nederlandse boeren Bereiding: koekenpan, ongeveer 6 minuten Tip: schroei snel dicht voor een knapperig korstje Met 1 ster Beter Leven keurmerk Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij']","Vlees kip vis vega Vlees Varkensvlees Schnitzel cordon bleu
+ Schnitzel","ah [SEP] gehaktschnitzel hongaarse stijl [SEP] Een gehaktschnitzel van varkensvlees, voorzien van een laagje knapperig paneermeel met paprikakruiding. Makkelijk en snel te bereiden. Lekker bij een Hollandse warme maaltijd. Varkensvlees van varkens van Nederlandse boeren Bereiding: koekenpan, ongeveer 6 minuten Tip: schroei snel dicht voor een knapperig korstje Met 1 ster Beter Leven keurmerk Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] schnitzel",ah gehaktschnitzel hongaarse stijl schnitzel,null,null,null
+0.09069265,4218,97361,AH,Reuzengarnalen rauw en ongepeld,Vers ingevroren voor de beste kwaliteit Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen soja' 'Geen vis' 'Geen sulfiet' 'Laag suiker'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij'
+ 'Geen gluten']","Vlees kip vis vega Diepvries Diepvries vlees vis Vis
+ Schaal- & schelpdieren Diepvries schelpdieren Garnalen Verse vis
+ Diepvries vis Garnalen (diepvries)",ah [SEP] reuzengarnalen rauw en ongepeld [SEP] Vers ingevroren voor de beste kwaliteit Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] vis schaal schelpdieren,ah reuzengarnalen rauw en ongepeld vis schaal schelpdieren,null,null,null
+0.090673715,19732,516245,AH,Pasen re-usable glas eend,Non food paasassortiment. Leuk voor op de paastafel,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Servies,ah [SEP] pasen re-usable glas eend [SEP] Non food paasassortiment. Leuk voor op de paastafel [SEP] pasen in out,ah pasen re-usable glas eend pasen in out,null,null,null
+0.0905751,11533,547904,Unox,knaks borrelplank,Unox knaks borrelplank AH olijven 1x Unox Knaks Party 400G 1x Unox Vegetarische party knaks 1x Unox Party kip knaks 1x AH kaas 1x,[],Soepen sauzen kruiden olie Conserven Vleesconserven Knakworst,unox [SEP] knaks borrelplank [SEP] Unox knaks borrelplank AH olijven 1x Unox Knaks Party 400G 1x Unox Vegetarische party knaks 1x Unox Party kip knaks 1x AH kaas 1x [SEP] ,unox knaks borrelplank ,null,null,null
+0.09052279,13428,136373,AH,Wokgarnalen met knoflook en peterselie,Rauwe & gepelde wokgarnalen met knoflookmarinade. Vers ingevroren Na vangst direct gemarineerd en ingevroren,"['Geen lactose' 'Geen soja' 'Geen vis' 'Geen sulfiet' 'Laag suiker'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Nutri-Score B' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Diepvries Diepvries vlees vis Vis
+ Schaal- & schelpdieren Diepvries schelpdieren Garnalen Verse vis
+ Diepvries vis Garnalen (diepvries)",ah [SEP] wokgarnalen met knoflook en peterselie [SEP] Rauwe & gepelde wokgarnalen met knoflookmarinade. Vers ingevroren Na vangst direct gemarineerd en ingevroren [SEP] vis schaal schelpdieren,ah wokgarnalen met knoflook en peterselie vis schaal schelpdieren,null,null,null
+0.09045587,777,360205,Vileda,Schuursponsen slalom uni 2-Pack,"Viscosespons met schuurgedeelte, doeltreffend voor dagelijks gebruik. Sterk absorberend Bevat een antibacteriële stof om de bacteriegroei af te remmen Speciale vorm om prettig in de hand te liggen Getest door een extern instituut",['Laag zout' 'Laag vet' 'Laag suiker'],Huishouden Schoonmaak benodigdheden Sponzen,"vileda [SEP] schuursponsen slalom uni 2-pack [SEP] Viscosespons met schuurgedeelte, doeltreffend voor dagelijks gebruik. Sterk absorberend Bevat een antibacteriële stof om de bacteriegroei af te remmen Speciale vorm om prettig in de hand te liggen Getest door een extern instituut [SEP] sponzen",vileda schuursponsen slalom uni 2-pack sponzen,null,null,null
+0.09037769,7055,493020,Look-O-Look,Cherrysticks,,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']",Snoep koek chips en chocolade Snoep Zachte snoep Snoepmix,look-o-look [SEP] cherrysticks [SEP]  [SEP] snoep,look-o-look cherrysticks snoep,null,null,null
+0.09036395,7481,217010,AH,Gepelde roze garnalen rauw,Vers ingevroren voor de beste kwaliteit,['Laag vet' 'Laag zout' 'Laag suiker' 'Nutri-Score A'],"Vlees kip vis vega Diepvries Diepvries vlees vis Vis
+ Schaal- & schelpdieren Diepvries schelpdieren Garnalen Verse vis
+ Diepvries vis Garnalen (diepvries)",ah [SEP] gepelde roze garnalen rauw [SEP] Vers ingevroren voor de beste kwaliteit [SEP] vis schaal schelpdieren,ah gepelde roze garnalen rauw vis schaal schelpdieren,null,null,null
+0.09021267,17841,486433,AH,"Hersluitbare zakjes 4,5 en 6 liter",Hersluitbare zakjes met een dubbele druksluiting. Geschikt voor het bewaren en invriezen van producten. De zakjes zijn smaak- en reukvrij Met dubbele druksluiting In twee formaten Temperatuurbestendigheid: -20 tot 40 graden celsius,['Laag zout' 'Laag vet' 'Laag suiker'],"Koken tafelen vrije tijd Huishouden Tafelen
+ Huishoudfolies huishoudzakken Wegwerpservies Hersluitbare zakjes
+ Plastic zakjes","ah [SEP] hersluitbare zakjes 4,5 en 6 liter [SEP] Hersluitbare zakjes met een dubbele druksluiting. Geschikt voor het bewaren en invriezen van producten. De zakjes zijn smaak- en reukvrij Met dubbele druksluiting In twee formaten Temperatuurbestendigheid: -20 tot 40 graden celsius [SEP] vershoudzakken","ah hersluitbare zakjes 4,5 en 6 liter vershoudzakken",null,null,null
+0.09014151,8034,226922,AH,Vers gekookt nl mosselvlees,"Mosselvlees, voor het gemak alvast gekookt. Geschikt voor vele recepturen. Bak het mosselvlees in de pan of wok en varieer oneindig met groenten, kruiden en sauzen. Ook geschikt voor in koude gerechten zoals een maaltijdsalade. MSC logo Bron van eiwitten","['Geen melk' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine' 'duurzame vangst'
+ 'Geen schelpdieren (schaaldieren)' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen eieren' 'Geen noten' 'Vegetarisch'
+ 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Vis Schaal- & schelpdieren Mosselen
+ Verse vis Mosselen (vers)","ah [SEP] vers gekookt nl mosselvlees [SEP] Mosselvlees, voor het gemak alvast gekookt. Geschikt voor vele recepturen. Bak het mosselvlees in de pan of wok en varieer oneindig met groenten, kruiden en sauzen. Ook geschikt voor in koude gerechten zoals een maaltijdsalade. MSC logo Bron van eiwitten [SEP] mosselen",ah vers gekookt nl mosselvlees mosselen,null,null,null
+0.09000428,16448,170094,AH,Salade croutons knoflook,Knapperige en luchtige croutons met knoflooksmaak om iedere salade te verrijken. Zoals een klassieke ceasar salade of iedere andere salade. Geef een knapperige twist aan je maaltijd Heerlijk in salades In handige portieverpakking Neem mee tijdens de picknick Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Garnering Sauzen Bakproducten Sladressing slasaus
+ Slaversierders Garneringen toevoegingen Salade croutons",ah [SEP] salade croutons knoflook [SEP] Knapperige en luchtige croutons met knoflooksmaak om iedere salade te verrijken. Zoals een klassieke ceasar salade of iedere andere salade. Geef een knapperige twist aan je maaltijd Heerlijk in salades In handige portieverpakking Neem mee tijdens de picknick Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] slaversierders,ah salade croutons knoflook slaversierders,null,null,null
+0.08994192,5335,52394,AH,Hollandse stamppot andijvie,"Verse kant en klare lekkere ouderwetse Hollandse
+				stamppot met vleesballetjes, aardappel en andijvie voor 1 persoon.","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen sulfiet'
+ 'Laag suiker' 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Nutri-Score B' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen mosterd' 'Vegetarisch'
+ 'Geen eieren']","Salades pizza maaltijden Verse kant- en-klaar maaltijden
+ Hollandse maaltijden Stamppot","ah [SEP] hollandse stamppot andijvie [SEP] Verse kant en klare lekkere ouderwetse Hollandse
+				stamppot met vleesballetjes, aardappel en andijvie voor 1 persoon. [SEP] langer vers hollands",ah hollandse stamppot andijvie langer vers hollands,null,null,null
+0.08980404,16760,508365,Unox,Goodpasta 4-kazen,"Unox good pasta 4-kazen: een snelle pastasnack voor de lekkere trek. Unox good pasta 4-kazen is een snelle pastasnack Een snelle, makkelijke maaltijd, een ideaal tussendoortje als je Trek hebt Lekkere pasta met saus gemaakt van vier soorten kaas Unox good pasta 4-kazen zit in een handige pot en is klaar in 5 minuten","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen sulfiet'
+ 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Vegetarisch' 'Geen eieren']",Tussendoortjes Pasta (tussendoor) Warm tussendoor,"unox [SEP] goodpasta 4-kazen [SEP] Unox good pasta 4-kazen: een snelle pastasnack voor de lekkere trek. Unox good pasta 4-kazen is een snelle pastasnack Een snelle, makkelijke maaltijd, een ideaal tussendoortje als je Trek hebt Lekkere pasta met saus gemaakt van vier soorten kaas Unox good pasta 4-kazen zit in een handige pot en is klaar in 5 minuten [SEP] stevig tussendoor cup",unox goodpasta 4-kazen stevig tussendoor cup,null,null,null
+0.089803666,17611,191053,Nissin,Soy sauce shrimp noodles,"Kruidige soep met instantnoedels, garnaal smaak. De originele cup noodle uit Japan Heerlijke noodles met garnalen smaak Klaar in slechts 3 minuten Te nuttigen als snack of maaltijd","['Geen gluten' 'Geen lactose' 'Geen soja' 'Laag suiker' 'Geen selderij'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine'
+ 'Geen schelpdieren (schaaldieren)' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen sulfiet' 'Geen sesam' 'Geen vis' 'Laag zout' 'Veganistisch'
+ 'Geen eieren' 'Geen noten' 'Geen mosterd' 'Vegetarisch']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Tussendoortjes Soep (tussendoor) Oosterse keuken Warm tussendoor
+ Pasta rijst noedels Soepen Noedelsoep Noedels mie","nissin [SEP] soy sauce shrimp noodles [SEP] Kruidige soep met instantnoedels, garnaal smaak. De originele cup noodle uit Japan Heerlijke noodles met garnalen smaak Klaar in slechts 3 minuten Te nuttigen als snack of maaltijd [SEP] stevig tussendoor cup",nissin soy sauce shrimp noodles stevig tussendoor cup,null,null,null
+0.089403786,13375,483909,AH,Runder steak tartaar,"Malse AHsteak tartaar is gemaakt van zeer mager rundvlees. Heel licht gekruid dus geschikt voor veel gerechten. Lekker op een broodje met limoenmayo of met gebakken aardappels en sla. Rundvlees Bereiding: koekenpan, 6 tot 18 minuten, afhankelijk van gewenste gaarheid Ook geschikt voor BBQ en grill Mager rundvlees, bevat slechts 5% vet","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Vlees kip vis vega Vlees Rundvlees Tartaar,"ah [SEP] runder steak tartaar [SEP] Malse AHsteak tartaar is gemaakt van zeer mager rundvlees. Heel licht gekruid dus geschikt voor veel gerechten. Lekker op een broodje met limoenmayo of met gebakken aardappels en sla. Rundvlees Bereiding: koekenpan, 6 tot 18 minuten, afhankelijk van gewenste gaarheid Ook geschikt voor BBQ en grill Mager rundvlees, bevat slechts 5% vet [SEP] tartaar",ah runder steak tartaar tartaar,null,null,null
+0.08932562,2749,449685,Santa Maria,Dip nacho cheese style,"Een kant en klare dipsaus met de smaak van romige cheddar kaas. Overheerlijk als dipsaus bij een nachoschotel, nachochips, tortillachips of als saus bij tex mex of mexicaanse gerechten. Handzame verpakking om makkelijk te kunnen dippen Direct te gebruiken Warm en koud te gebruiken","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Mexicaanse keuken Sauzen Dipsaus Dipsaus in pot","santa maria [SEP] dip nacho cheese style [SEP] Een kant en klare dipsaus met de smaak van romige cheddar kaas. Overheerlijk als dipsaus bij een nachoschotel, nachochips, tortillachips of als saus bij tex mex of mexicaanse gerechten. Handzame verpakking om makkelijk te kunnen dippen Direct te gebruiken Warm en koud te gebruiken [SEP] sauzen en toevoegingen",santa maria dip nacho cheese style sauzen en toevoegingen,null,null,null
+0.08931409,10600,492786,Royal,Funghi gedroogd eekhoorntjesbrood,"Deze paddenstoel, ook wel eekhoorntjesbrood genoemd, staat bekend om zijn verfijnde smaak. Gedroogde funghi porcini van royal Bijzonder lekker door pasta- en risottogerechten Laat de funghi porcini wellen in heet water alvorens te gebruiken","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Maaltijdpakketten mixen
+ Mediterrane keuken Maaltijdpakketten Italiaanse keuken
+ Italiaans maaltijdpakket","royal [SEP] funghi gedroogd eekhoorntjesbrood [SEP] Deze paddenstoel, ook wel eekhoorntjesbrood genoemd, staat bekend om zijn verfijnde smaak. Gedroogde funghi porcini van royal Bijzonder lekker door pasta- en risottogerechten Laat de funghi porcini wellen in heet water alvorens te gebruiken [SEP] toevoegingen overig",royal funghi gedroogd eekhoorntjesbrood toevoegingen overig,null,null,null

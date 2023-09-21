@@ -1,0 +1,740 @@
+scoreLLM score,ann,prd_id,brand,title,highlights,properties,taxonomies,full_text,full_text_no_sep,Unnamed: 0,search_query,scorePropensity score
+0.22642203,13765,543345,AH,Achterham,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Voorverpakt Ham Ham broodbeleg
+ Achterham (voorverpakt) Achterham",ah [SEP] achterham [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] kookham plakjes hb,ah achterham kookham plakjes hb,null,null,null
+0.21682735,8571,546331,AH Biologisch,Achterham 4-pack,Altijd fijn voor de voorraad! Dit pakket bestaat uit: AH Biologisch Achterham 4x,[],"Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Ham Ham broodbeleg Achterham
+ Achterham (versafdeling)",ah biologisch [SEP] achterham 4-pack [SEP] Altijd fijn voor de voorraad! Dit pakket bestaat uit: AH Biologisch Achterham 4x [SEP] ,ah biologisch achterham 4-pack ,null,null,null
+0.19715676,7898,532873,AH,Verse kip ketjap,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja' 'Geen sulfiet'
+ 'Geen selderij' 'Geen kreeftachtigen (schaaldieren)' ""Geen pinda's""
+ 'Geen schelpdieren (schaaldieren)' 'Geen melk' 'Geen lupine' 'Geen sesam'
+ 'Geen vis' 'Veganistisch' 'Geen mosterd' 'Vegetarisch' 'Geen eieren']","Salades pizza maaltijden AH Vers uit eigen keuken
+ Verse kant- en-klaar maaltijden Verse Maaltijden",ah [SEP] verse kip ketjap [SEP]  [SEP] ultra verse maaltijden,ah verse kip ketjap ultra verse maaltijden,null,null,null
+0.18821338,6572,489279,AH,Vegan Boterhamworst,Lekker op een boterham Veganistisch,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Boterhamworst Vegetarische vleeswaren
+ Boterhamworst - vegetarisch",ah [SEP] vegan boterhamworst [SEP] Lekker op een boterham Veganistisch [SEP] plakken plantaardig vega,ah vegan boterhamworst plakken plantaardig vega,null,null,null
+0.18793236,46,214660,Croma,Bakken en braden voordeelfles,"Croma vloeibare bakboter voor perfect vlees - Croma is de expert voor het bakken en braden van alle soorten vlees.. 91% plantaardige olien en vetten, dus spat niet van zichzelf Schroeit het vlees direct dicht, daarom malser Geeft je een heerlijke jus Geeft het vlees een mooie bruin kleur","['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor de keuken Vloeibare margarine","croma [SEP] bakken en braden voordeelfles [SEP] Croma vloeibare bakboter voor perfect vlees - Croma is de expert voor het bakken en braden van alle soorten vlees.. 91% plantaardige olien en vetten, dus spat niet van zichzelf Schroeit het vlees direct dicht, daarom malser Geeft je een heerlijke jus Geeft het vlees een mooie bruin kleur [SEP] margarine vloeibaar",croma bakken en braden voordeelfles margarine vloeibaar,null,null,null
+0.18728665,18838,490273,AH,Cranberrymix ongezouten,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Notenmix (zakje)",ah [SEP] cranberrymix ongezouten [SEP]  [SEP] 3v6 noten,ah cranberrymix ongezouten 3v6 noten,null,null,null
+0.18705475,4465,489280,AH,Vegan Ham,Lekker op een boterham Veganistisch,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Vegetarische vleeswaren Ham broodbeleg
+ Ham - vegetarisch",ah [SEP] vegan ham [SEP] Lekker op een boterham Veganistisch [SEP] plakken plantaardig vega,ah vegan ham plakken plantaardig vega,null,null,null
+0.18699586,12808,492910,TastyBasics,Crackers maanzaad en olijf,"Deze crackers bevatten 80% minder koolhydraten. Ze zijn gemaakt op basis van onbewerkte ingredienten en grondstoffen rijk aan eiwitten en/of vezels. Dat voedt beter, Smaakt beter en voelt beter! Voedzaam Rijk aan vezels en eiwitten 0% toegevoegde suikers 8 crackers van ca. 25 gram","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Bewuste voeding Bakkerij en banket Glutenvrij koolhydraatarm
+ Koolhydraatarm Brood Brood en crackers (koolhydraatarm)","tastybasics [SEP] crackers maanzaad en olijf [SEP] Deze crackers bevatten 80% minder koolhydraten. Ze zijn gemaakt op basis van onbewerkte ingredienten en grondstoffen rijk aan eiwitten en/of vezels. Dat voedt beter, Smaakt beter en voelt beter! Voedzaam Rijk aan vezels en eiwitten 0% toegevoegde suikers 8 crackers van ca. 25 gram [SEP] crackers",tastybasics crackers maanzaad en olijf crackers,null,null,null
+0.18525122,720,457664,AH,Cranberrymix,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Notenmix (zakje)",ah [SEP] cranberrymix [SEP]  [SEP] 3v6 noten,ah cranberrymix 3v6 noten,null,null,null
+0.18513893,1658,508478,AH,Sesam crackers,,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen selderij' 'Geen eieren']","Ontbijtgranen en beleg Bakkerij en banket Tussendoortjes
+ Snoep koek chips en chocolade Toastjes Crackers
+ Crackers rijstwafels Toast-crackers",ah [SEP] sesam crackers [SEP]  [SEP] overige toast,ah sesam crackers overige toast,null,null,null
+0.18439159,4269,518057,AH Biologisch,Olijfolie cracker,,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Veganistisch' 'Laag zout' 'Geen schelpdieren (schaaldieren)'
+ 'Geen noten' 'Geen selderij' 'Geen eieren']","Ontbijtgranen en beleg Bakkerij en banket Tussendoortjes Crackers
+ Crackers rijstwafels Ontbijtcrackers",ah biologisch [SEP] olijfolie cracker [SEP]  [SEP] crackers,ah biologisch olijfolie cracker crackers,null,null,null
+0.18349908,6440,406382,TastyBasics,Crackers meerzaden,"Deze crackers bevatten 70% minder koolhydraten. Ze zijn gemaakt op basis van onbewerkte ingredienten en grondstoffen rijk aan eiwitten en/of vezels. Dat voedt beter, Smaakt beter en voelt beter! Voedzaam Rijk aan vezels en eiwitten 0% toegevoegde suikers 8 crackers van ca. 25 gram","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Bewuste voeding Bakkerij en banket Glutenvrij koolhydraatarm
+ Koolhydraatarm Brood Brood en crackers (koolhydraatarm)","tastybasics [SEP] crackers meerzaden [SEP] Deze crackers bevatten 70% minder koolhydraten. Ze zijn gemaakt op basis van onbewerkte ingredienten en grondstoffen rijk aan eiwitten en/of vezels. Dat voedt beter, Smaakt beter en voelt beter! Voedzaam Rijk aan vezels en eiwitten 0% toegevoegde suikers 8 crackers van ca. 25 gram [SEP] crackers",tastybasics crackers meerzaden crackers,null,null,null
+0.18325317,4791,124113,AH,Boterhamzakjes,Boterhamzakjes groot met sluitclips. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,['Laag zout' 'Laag vet' 'Laag suiker' 'Prijsfavoriet'],"Koken tafelen vrije tijd Huishouden Tafelen
+ Huishoudfolies huishoudzakken Wegwerpservies Boterhamzakjes
+ Plastic zakjes",ah [SEP] boterhamzakjes [SEP] Boterhamzakjes groot met sluitclips. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] vershoudzakken,ah boterhamzakjes vershoudzakken,null,null,null
+0.18306018,704,518063,AH Biologisch,Volkoren cracker,,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Veganistisch' 'Laag zout' 'Geen schelpdieren (schaaldieren)'
+ 'Geen noten' 'Geen selderij' 'Geen eieren']","Ontbijtgranen en beleg Bakkerij en banket Tussendoortjes Crackers
+ Crackers rijstwafels Ontbijtcrackers",ah biologisch [SEP] volkoren cracker [SEP]  [SEP] crackers,ah biologisch volkoren cracker crackers,null,null,null
+0.18251191,5066,516895,Quaker,Cruesli volvezel nuts,"Quaker cruesli granola volvezel is een lekkere volkoren krokante muesli met een mix van geroosterde granen zoals tarwe, havermout en gerst. Rijk aan vezels Zonder conserveringsmiddelen Geen kunstmatige geur-, kleur-en smaakstoffen","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Krokante muesli (cruesli) Krokante muesli (noten)","quaker [SEP] cruesli volvezel nuts [SEP] Quaker cruesli granola volvezel is een lekkere volkoren krokante muesli met een mix van geroosterde granen zoals tarwe, havermout en gerst. Rijk aan vezels Zonder conserveringsmiddelen Geen kunstmatige geur-, kleur-en smaakstoffen [SEP] krokante muesli",quaker cruesli volvezel nuts krokante muesli,null,null,null
+0.18215252,14598,518138,Bolletje,Tussendoorcrackers tomaat & oregano,"Onze lichte tussendoor crackers met zitten boordevol smaak door de tomaten en oregano. We bakken ze extra dun en licht, waardoor ze lekker makkelijk weg eten. Knapperig, dun en voedzaam. Precies goed Extra veel vezels Met handige breuklijn Per twee verpakt, dus ideaal voor onderweg","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen selderij'
+ 'Geen eieren']","Ontbijtgranen en beleg Bakkerij en banket Tussendoortjes Crackers
+ Crackers rijstwafels Ontbijtcrackers","bolletje [SEP] tussendoorcrackers tomaat & oregano [SEP] Onze lichte tussendoor crackers met zitten boordevol smaak door de tomaten en oregano. We bakken ze extra dun en licht, waardoor ze lekker makkelijk weg eten. Knapperig, dun en voedzaam. Precies goed Extra veel vezels Met handige breuklijn Per twee verpakt, dus ideaal voor onderweg [SEP] crackers",bolletje tussendoorcrackers tomaat & oregano crackers,null,null,null
+0.18193614,1161,457530,AH,Notenmix naturel,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ Notenmix (bakje)",ah [SEP] notenmix naturel [SEP]  [SEP] 3v6 noten,ah notenmix naturel 3v6 noten,null,null,null
+0.1788885,14989,467430,BioToday,Crispy crackers,"Biotoday Crispy crackers naturel zijn knapperige crackertjes die je heerlijk kan beleggen met hummus, tapenade of een andere smakelijke spread. Biologisch Volledig vrij van palmolie Bron van vezels Zonder toegevoegde suikers","['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Ontbijtgranen en beleg Bakkerij en banket Tussendoortjes Crackers
+ Crackers rijstwafels Ontbijtcrackers","biotoday [SEP] crispy crackers [SEP] Biotoday Crispy crackers naturel zijn knapperige crackertjes die je heerlijk kan beleggen met hummus, tapenade of een andere smakelijke spread. Biologisch Volledig vrij van palmolie Bron van vezels Zonder toegevoegde suikers [SEP] bio tussendoor",biotoday crispy crackers bio tussendoor,null,null,null
+0.17542475,8746,281469,AH Biologisch,Achterham,"Deze biologische achterham is heerlijk zacht en mals van smaak. Een klassieker op een pistoletje met kaas, tomaat en ei maar ook ideaal op de pizza/tosti of in reepjes door wok- of pasta gerechten. Mals en volle smaak Biologisch varkensvlees Gepekeld, gegaard en gerookt","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Ham Ham broodbeleg Achterham
+ Achterham (versafdeling)","ah biologisch [SEP] achterham [SEP] Deze biologische achterham is heerlijk zacht en mals van smaak. Een klassieker op een pistoletje met kaas, tomaat en ei maar ook ideaal op de pizza/tosti of in reepjes door wok- of pasta gerechten. Mals en volle smaak Biologisch varkensvlees Gepekeld, gegaard en gerookt [SEP] biologisch",ah biologisch achterham biologisch,null,null,null
+0.17296183,10808,456510,TastyBasics,Crackers Zonnebloem- en Pompoenpitten,"Deze crackers bevatten 70% minder koolhydraten. Ze zijn gemaakt op basis van onbewerkte ingredienten en grondstoffen rijk aan eiwitten en/of vezels. Dat voedt beter, Smaakt beter en voelt beter! Voedzaam Rijk aan vezels en eiwitten 0% toegevoegde suikers 8 crackers van ca. 25 gram","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Bewuste voeding Bakkerij en banket Glutenvrij koolhydraatarm
+ Koolhydraatarm Brood Brood en crackers (koolhydraatarm)","tastybasics [SEP] crackers zonnebloem- en pompoenpitten [SEP] Deze crackers bevatten 70% minder koolhydraten. Ze zijn gemaakt op basis van onbewerkte ingredienten en grondstoffen rijk aan eiwitten en/of vezels. Dat voedt beter, Smaakt beter en voelt beter! Voedzaam Rijk aan vezels en eiwitten 0% toegevoegde suikers 8 crackers van ca. 25 gram [SEP] crackers",tastybasics crackers zonnebloem- en pompoenpitten crackers,null,null,null
+0.17172994,14558,490271,AH,Cashewmix ongezouten,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Cashewnoten (zakje)",ah [SEP] cashewmix ongezouten [SEP]  [SEP] 3v6 noten,ah cashewmix ongezouten 3v6 noten,null,null,null
+0.17093496,8255,514186,Quorn,Vegan boterhamworst,Probeer nu de vegan boterhamworst van quorn. Het perfecte alternatief voor de traditionele boterham worst. Vezelrijk Eiwitrijk Sojavrij Gemaakt op basis van mycoproteine,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Boterhamworst Vegetarische vleeswaren
+ Boterhamworst - vegetarisch",quorn [SEP] vegan boterhamworst [SEP] Probeer nu de vegan boterhamworst van quorn. Het perfecte alternatief voor de traditionele boterham worst. Vezelrijk Eiwitrijk Sojavrij Gemaakt op basis van mycoproteine [SEP] plakken plantaardig vega,quorn vegan boterhamworst plakken plantaardig vega,null,null,null
+0.17077811,3358,214658,Croma,Bakken en braden,"Croma vloeibare bakboter voor perfect vlees - Croma is de expert voor het bakken en braden van alle soorten vlees.. 91% plantaardige olien en vetten, dus spat niet van zichzelf Schroeit het vlees direct dicht, daarom malser Geeft je een heerlijke jus Geeft het vlees een mooie bruin kleur","['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor de keuken Vloeibare margarine","croma [SEP] bakken en braden [SEP] Croma vloeibare bakboter voor perfect vlees - Croma is de expert voor het bakken en braden van alle soorten vlees.. 91% plantaardige olien en vetten, dus spat niet van zichzelf Schroeit het vlees direct dicht, daarom malser Geeft je een heerlijke jus Geeft het vlees een mooie bruin kleur [SEP] margarine vloeibaar",croma bakken en braden margarine vloeibaar,null,null,null
+0.16782051,7626,408067,Khanum,Butter ghee,"Geklaarde boter, afkomstig uit India. Zeer geschikt om in te bakken en braden Een hoog rookpunt Lang houdbaar na opening","['Geen lactose' 'Laag zout' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Laag suiker'
+ 'Geen schelpdieren (schaaldieren)' 'Vegetarisch' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor de keuken Bak- en braadboter (vast)","khanum [SEP] butter ghee [SEP] Geklaarde boter, afkomstig uit India. Zeer geschikt om in te bakken en braden Een hoog rookpunt Lang houdbaar na opening [SEP] bakproducten",khanum butter ghee bakproducten,null,null,null
+0.16695973,706,516897,Quaker,Cruesli energy activaton mix,"Deze heerlijke mix bevat vier belangrijke granensoorten, rijst, tarwe, mais en havermout. Deze vier granen worden op verschillende momenten in energie omgezet. Rijk aan vezels Zonder conserveringsmiddelen Geen kunstmatige geur-, kleur-en smaakstoffen","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Krokante muesli (cruesli) Krokante muesli (naturel)","quaker [SEP] cruesli energy activaton mix [SEP] Deze heerlijke mix bevat vier belangrijke granensoorten, rijst, tarwe, mais en havermout. Deze vier granen worden op verschillende momenten in energie omgezet. Rijk aan vezels Zonder conserveringsmiddelen Geen kunstmatige geur-, kleur-en smaakstoffen [SEP] krokante muesli",quaker cruesli energy activaton mix krokante muesli,null,null,null
+0.16655158,4558,132234,AH,Flinterdunne achterham,"Deze achterham is flinterdun gesneden heeft daardoor een verfijnde bite. De flinterdunne gekrulde plakjes zijn een mooie manier om je boterham te verrijken. Ook lekker uit het vuistje Nederland, varken Beter Leven Keurmerk 1 ster Altijd goed op een pistoletje met kaas, sla, ei en tomaat","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Voorverpakt Ham Ham broodbeleg
+ Achterham (voorverpakt) Achterham","ah [SEP] flinterdunne achterham [SEP] Deze achterham is flinterdun gesneden heeft daardoor een verfijnde bite. De flinterdunne gekrulde plakjes zijn een mooie manier om je boterham te verrijken. Ook lekker uit het vuistje Nederland, varken Beter Leven Keurmerk 1 ster Altijd goed op een pistoletje met kaas, sla, ei en tomaat [SEP] kookham plakjes hb",ah flinterdunne achterham kookham plakjes hb,null,null,null
+0.16382718,19228,164751,AH,Vijgen,Smaakvolle zongedroogde vijgen Lekker door de yoghurt Rijk aan vezels Ook ideaal als vetarm tussendoortje,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Pasta rijst en wereldkeuken
+ Bewuste voeding Bakkerij en banket Snoep koek chips en chocolade
+ Zelf bakken Wholefoods Fruit Bakproducten
+ Fruit en bessen (superfoods) Toevoegingen toppings versiering
+ Gedroogd fruit Gedroogd fruit (diverse)",ah [SEP] vijgen [SEP] Smaakvolle zongedroogde vijgen Lekker door de yoghurt Rijk aan vezels Ook ideaal als vetarm tussendoortje [SEP] bt gedroogde zuidvruchten,ah vijgen bt gedroogde zuidvruchten,null,null,null
+0.16308019,3020,410043,Quaker,Granola noten-zaden,"Quaker cruesli granola noten  en  zaden is een ontbijtgraan van volkoren krokante havermout voor een vezelrijke start van je dag. Rijk aan vezels Zonder conserveringsmiddelen Geen kunstmatige geur-, kleur-en smaakstoffen","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']",Ontbijtgranen en beleg Ontbijtgranen Granola Granola (noten),"quaker [SEP] granola noten-zaden [SEP] Quaker cruesli granola noten  en  zaden is een ontbijtgraan van volkoren krokante havermout voor een vezelrijke start van je dag. Rijk aan vezels Zonder conserveringsmiddelen Geen kunstmatige geur-, kleur-en smaakstoffen [SEP] granola",quaker granola noten-zaden granola,null,null,null
+0.1628328,11632,114389,Liga,Cracotte volkoren crackers,"Cracotte is een heerlijke, luchtige cracker. Deze volkoren variant is een bron van vezels en ideaal voor bij het ontbijt, als lunch of als luchtig tussendoortje. Bron van vezels Bevat 98% granen Een verpakking bevat ongeveer 34 toasts","['Laag vet' 'Geen gluten' 'Laag zout' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Vegetarisch' 'Geen melk'
+ 'Geen selderij' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam']","Ontbijtgranen en beleg Bakkerij en banket Tussendoortjes Crackers
+ Crackers rijstwafels Ontbijtcrackers","liga [SEP] cracotte volkoren crackers [SEP] Cracotte is een heerlijke, luchtige cracker. Deze volkoren variant is een bron van vezels en ideaal voor bij het ontbijt, als lunch of als luchtig tussendoortje. Bron van vezels Bevat 98% granen Een verpakking bevat ongeveer 34 toasts [SEP] extrusie",liga cracotte volkoren crackers extrusie,null,null,null
+0.161117,6240,166520,Remia,Tomaten ketchup,"Remia tomaten ketchup is vol van smaak, bereid met heerlijke zongerijpte tomaten en 100% natuurlijk. Lekker bij een hamburger, hotdog of tosti Handige knijpverpakking. Deze fles bestaat voor 25% uit gerecycled plastic Dit product is 100% plantaardig Bevat geen gluten","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Ketchup","remia [SEP] tomaten ketchup [SEP] Remia tomaten ketchup is vol van smaak, bereid met heerlijke zongerijpte tomaten en 100% natuurlijk. Lekker bij een hamburger, hotdog of tosti Handige knijpverpakking. Deze fles bestaat voor 25% uit gerecycled plastic Dit product is 100% plantaardig Bevat geen gluten [SEP] ketchup",remia tomaten ketchup ketchup,null,null,null
+0.16075075,9322,46865,AH,Digestive,Originele Engelse tarwebiscuitjes Lekker knapperig Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Geen selderij']",Snoep koek chips en chocolade Koek Biscuits Theebiscuits,ah [SEP] digestive [SEP] Originele Engelse tarwebiscuitjes Lekker knapperig Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] verpakt trommel,ah digestive verpakt trommel,null,null,null
+0.16048709,8871,493480,AH Biologisch,Gedroogde Banaan,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Pasta rijst en wereldkeuken
+ Bewuste voeding Bakkerij en banket Snoep koek chips en chocolade
+ Zelf bakken Wholefoods Fruit Bakproducten
+ Fruit en bessen (superfoods) Toevoegingen toppings versiering
+ Gedroogd fruit Gedroogd fruit (diverse)",ah biologisch [SEP] gedroogde banaan [SEP]  [SEP] bio gedroogd fruit,ah biologisch gedroogde banaan bio gedroogd fruit,null,null,null
+0.15909517,13191,136785,AH,Luchtige crackers naturel,Luchtige en knapperige crackers Bron van vezels Ideaal om de dag mee te starten of gewoon lekker als tussendoortje Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score A'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij']","Ontbijtgranen en beleg Bakkerij en banket Tussendoortjes Crackers
+ Crackers rijstwafels Ontbijtcrackers",ah [SEP] luchtige crackers naturel [SEP] Luchtige en knapperige crackers Bron van vezels Ideaal om de dag mee te starten of gewoon lekker als tussendoortje Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] extrusie,ah luchtige crackers naturel extrusie,null,null,null
+0.15885064,11247,516894,Quaker,Cruesli 4 nuts,"Quaker cruesli 4-nuts is een lekker knapperige granenmix met goudbruin geroosterde volkoren havermout. Bovendien zitten er ook eenlekker veel noten in! Rijk aan vezels Zonder conserveringsmiddelen Geen kunstmatige geur-, kleur-en smaakstoffen","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Muesli (noten)","quaker [SEP] cruesli 4 nuts [SEP] Quaker cruesli 4-nuts is een lekker knapperige granenmix met goudbruin geroosterde volkoren havermout. Bovendien zitten er ook eenlekker veel noten in! Rijk aan vezels Zonder conserveringsmiddelen Geen kunstmatige geur-, kleur-en smaakstoffen [SEP] krokante muesli",quaker cruesli 4 nuts krokante muesli,null,null,null
+0.15825973,10255,525283,AH Biologisch,Volkoren couscous,,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij']","Pasta rijst en wereldkeuken Couscous bulgur quinoa gort
+ Couscous Couscous - naturel",ah biologisch [SEP] volkoren couscous [SEP]  [SEP] specialiteiten rijst,ah biologisch volkoren couscous specialiteiten rijst,null,null,null
+0.15780683,5255,469872,AH Biologisch,Bruine bonen,De bruine boon zit vol met eiwitten en vezels. De bruine boon heeft een zachte en romige smaak en wordt bijvoorbeeld gebruikt als basis voor bruine bonensoep. Een heerlijke vleesvervanger. Biologisch Geschikt voor vegetariers Vegan,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Aardappel groente fruit Bewuste voeding
+ Soepen sauzen kruiden olie Wholefoods Conserven Groente
+ Gedroogde peulvruchten Bonen peulvruchten Groenteconserven
+ Bruine bonen (gedroogd) Bonen peulvruchten (conserven)
+ Bruine bonen",ah biologisch [SEP] bruine bonen [SEP] De bruine boon zit vol met eiwitten en vezels. De bruine boon heeft een zachte en romige smaak en wordt bijvoorbeeld gebruikt als basis voor bruine bonensoep. Een heerlijke vleesvervanger. Biologisch Geschikt voor vegetariers Vegan [SEP] bio gedroogde peulvruchten,ah biologisch bruine bonen bio gedroogde peulvruchten,null,null,null
+0.15767136,15476,224360,AH,Abrikozenvlaai half,Echte Limburgse halve rastervlaai gevuld met abrikozen.,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Bakkerij en banket Gebak Vlaai,ah [SEP] abrikozenvlaai half [SEP] Echte Limburgse halve rastervlaai gevuld met abrikozen. [SEP] vlaaien,ah abrikozenvlaai half vlaaien,null,null,null
+0.157323,11844,168769,,Flow bel,Flow. 43656 43705 43747 43796,['Laag zout' 'Laag vet' 'Laag suiker'],"Koken tafelen vrije tijd Reisartikelen Boeken tijdschriften
+ Tijdschriften vrouwen", [SEP] flow bel [SEP] Flow. 43656 43705 43747 43796 [SEP] ts volwassen, flow bel ts volwassen,null,null,null
+0.15692033,14462,164752,AH,Krenten,Zongedroogd Ideaal als vetarm tussendoortje Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Pasta rijst en wereldkeuken
+ Bewuste voeding Bakkerij en banket Snoep koek chips en chocolade
+ Zelf bakken Wholefoods Fruit Bakproducten
+ Fruit en bessen (superfoods) Toevoegingen toppings versiering
+ Gedroogd fruit Gedroogd fruit (diverse)",ah [SEP] krenten [SEP] Zongedroogd Ideaal als vetarm tussendoortje Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] bt gedroogde zuidvruchten,ah krenten bt gedroogde zuidvruchten,null,null,null
+0.15634859,10469,525275,AH Biologisch,Couscous,,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij']","Pasta rijst en wereldkeuken Couscous bulgur quinoa gort
+ Couscous Couscous - naturel",ah biologisch [SEP] couscous [SEP]  [SEP] specialiteiten rijst,ah biologisch couscous specialiteiten rijst,null,null,null
+0.15628129,5883,228047,Smaakt,Volkoren couscous,"Biologische couscous
+
+			Couscous is een goed alternatief voor rijst of aardappelen in veel gerechten. Het komt oorspronkelijk uit Marokko en word daar op vaak op vrijdag gegeten. Vrijdag is de dag van de samenkomst voor moslims en couscous heeft dan ook een belangrijke culturele betekenis. Couscous kan gebruikt worden in zoete en hartige gerechten.","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch'
+ 'Geen melk' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren']","Pasta rijst en wereldkeuken Arabische keuken
+ Couscous bulgur quinoa gort Couscous Marokkaans Couscous mix","smaakt [SEP] volkoren couscous [SEP] Biologische couscous
+
+			Couscous is een goed alternatief voor rijst of aardappelen in veel gerechten. Het komt oorspronkelijk uit Marokko en word daar op vaak op vrijdag gegeten. Vrijdag is de dag van de samenkomst voor moslims en couscous heeft dan ook een belangrijke culturele betekenis. Couscous kan gebruikt worden in zoete en hartige gerechten. [SEP] bio maaltijden",smaakt volkoren couscous bio maaltijden,null,null,null
+0.15596628,10968,478688,Quaker,Cruesli 4 noten,"Quaker cruesli 4 noten voor een ontbijtje met pit! Lekker knapperige granenmix met goudbruin geroosterde volkoren havermout Rijkelijk gevuld met vier verschillende noten Rijk aan vezels Zonder kunstmatige geur-, kleur- en smaakstoffen","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Krokante muesli (cruesli) Krokante muesli (noten)","quaker [SEP] cruesli 4 noten [SEP] Quaker cruesli 4 noten voor een ontbijtje met pit! Lekker knapperige granenmix met goudbruin geroosterde volkoren havermout Rijkelijk gevuld met vier verschillende noten Rijk aan vezels Zonder kunstmatige geur-, kleur- en smaakstoffen [SEP] krokante muesli",quaker cruesli 4 noten krokante muesli,null,null,null
+0.15555263,4380,543387,AH,Rookvlees,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij'
+ 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Voorverpakt Rookvlees Rookvlees (voorverpakt)",ah [SEP] rookvlees [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] gedroogde ham plakjes hb,ah rookvlees gedroogde ham plakjes hb,null,null,null
+0.15518926,415,3631,Liga,Cracotte crackers naturel,"Liga cracotte zijn heerlijke, luchtige crackers. Een echte favoriet! Verrijkt met ijzer Bevat 97% granen Een verpakking bevat ongeveer 34 toasts","['Laag vet' 'Geen gluten' 'Laag zout' 'Geen lactose'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Vegetarisch'
+ 'Geen melk' 'Geen selderij' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam']","Ontbijtgranen en beleg Bakkerij en banket Tussendoortjes Crackers
+ Crackers rijstwafels Ontbijtcrackers","liga [SEP] cracotte crackers naturel [SEP] Liga cracotte zijn heerlijke, luchtige crackers. Een echte favoriet! Verrijkt met ijzer Bevat 97% granen Een verpakking bevat ongeveer 34 toasts [SEP] extrusie",liga cracotte crackers naturel extrusie,null,null,null
+0.1548875,12966,514115,Quorn,Vegan ham,"Quorn vegan ham free slices bieden een heerlijke, veganistische lunchoptie. Een plakje zonder ham, met een heerlijke smaak. Laat je verassen door dit gezonde en duurzame product. Vezelrijk Eiwitrijk Sojavrij Gemaakt op basis van mycoproteine","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Boterhamworst Vegetarische vleeswaren
+ Boterhamworst - vegetarisch","quorn [SEP] vegan ham [SEP] Quorn vegan ham free slices bieden een heerlijke, veganistische lunchoptie. Een plakje zonder ham, met een heerlijke smaak. Laat je verassen door dit gezonde en duurzame product. Vezelrijk Eiwitrijk Sojavrij Gemaakt op basis van mycoproteine [SEP] plakken plantaardig vega",quorn vegan ham plakken plantaardig vega,null,null,null
+0.15484025,4806,543406,AH,Rauwe ham,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Voorverpakt Ham Ham broodbeleg Rauwe ham
+ Rauwe ham (voorverpakt)",ah [SEP] rauwe ham [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] gedroogde ham plakjes hb,ah rauwe ham gedroogde ham plakjes hb,null,null,null
+0.15474498,5289,518038,AH Biologisch,Kaas volkoren cracker,,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen noten' 'Geen selderij' 'Geen eieren']","Ontbijtgranen en beleg Bakkerij en banket Tussendoortjes Crackers
+ Crackers rijstwafels Ontbijtcrackers",ah biologisch [SEP] kaas volkoren cracker [SEP]  [SEP] crackers,ah biologisch kaas volkoren cracker crackers,null,null,null
+0.15430439,1872,451314,AH,Coburgerham kleinverpakking,"Verpakt in handige kleinverpakking. Smaak: zout, mild gerookt Nederlands beter leven keurmerk 1 ster varkensvlees","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Ham Ham broodbeleg Rauwe ham
+ Rauwe ham (versafdeling)","ah [SEP] coburgerham kleinverpakking [SEP] Verpakt in handige kleinverpakking. Smaak: zout, mild gerookt Nederlands beter leven keurmerk 1 ster varkensvlees [SEP] ham",ah coburgerham kleinverpakking ham,null,null,null
+0.15268138,8443,514187,Bonmush,Veggie honeyham musterd,"Veggie smeersalade op basis van lokale oesterzwammen. Smaakt naar beenham honing-mosterd salade, maar bevat geen vlees. vol en herkenbaar van smaak, maar zoveel beter voor de planeet. Sojavrij Lactosevrij Glutenvrij Met vrije uitloopeieren","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Kaas vleeswaren tapas Brood- en toastsalades Salades (klein)
+ Vegetarische salades","bonmush [SEP] veggie honeyham musterd [SEP] Veggie smeersalade op basis van lokale oesterzwammen. Smaakt naar beenham honing-mosterd salade, maar bevat geen vlees. vol en herkenbaar van smaak, maar zoveel beter voor de planeet. Sojavrij Lactosevrij Glutenvrij Met vrije uitloopeieren [SEP] smeer vlees",bonmush veggie honeyham musterd smeer vlees,null,null,null
+0.15260005,8550,543391,AH,Gegrilde beenham,,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Voorverpakt Ham Ham broodbeleg
+ Beenham broodbeleg Beenham Beenham (voorverpakt)",ah [SEP] gegrilde beenham [SEP]  [SEP] kookham plakjes hb,ah gegrilde beenham kookham plakjes hb,null,null,null
+0.15208055,8421,368034,Quaker,Cruesli granola met goji & blauwe bes,"Quaker cruesli granola verrijkt met pompoenpitten en heerlijke goji- en blauwe bessen. De goudbruin geroosterde haver zorgt voor een krokante bite. Heerlijk in combinatie met melk of yoghurt. Rijk aan vezels Zonder conserveringsmiddelen Geen kunstmatige geur-, kleur-en smaakstoffen","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score B' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Krokante muesli (cruesli) Krokante muesli (fruit)","quaker [SEP] cruesli granola met goji & blauwe bes [SEP] Quaker cruesli granola verrijkt met pompoenpitten en heerlijke goji- en blauwe bessen. De goudbruin geroosterde haver zorgt voor een krokante bite. Heerlijk in combinatie met melk of yoghurt. Rijk aan vezels Zonder conserveringsmiddelen Geen kunstmatige geur-, kleur-en smaakstoffen [SEP] granola",quaker cruesli granola met goji & blauwe bes granola,null,null,null
+0.15201348,4488,470155,BioToday,Veggie spread tomaat-courgette,Biologisch. Zonder toegevoegde geraffineerde suikers Geschikt voor vegetariers en veganisten,"['Geen gluten' 'Geen melk' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren']","Ontbijtgranen en beleg Kaas vleeswaren tapas Hartig broodbeleg
+ Smeersels & dips Spread Groentespread",biotoday [SEP] veggie spread tomaat-courgette [SEP] Biologisch. Zonder toegevoegde geraffineerde suikers Geschikt voor vegetariers en veganisten [SEP] bio ontbijt en lunch,biotoday veggie spread tomaat-courgette bio ontbijt en lunch,null,null,null
+0.15200332,6648,231965,Consenza,Rundvleeskroketten gv,Met de snacks van Consenza kan je lekker gluten en tarwevrij snacken. Van scharrelrundvlees Met een knapperige korst 4 kroketten per verpakking MSG vrij,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen selderij' ""Geen pinda's"" 'Laag vet' 'Geen lupine'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen mosterd' 'Vegetarisch' 'Geen gluten']","Diepvries Bewuste voeding Glutenvrij Diepvries glutenvrij
+ Glutenvrije snacks (diepvries)",consenza [SEP] rundvleeskroketten gv [SEP] Met de snacks van Consenza kan je lekker gluten en tarwevrij snacken. Van scharrelrundvlees Met een knapperige korst 4 kroketten per verpakking MSG vrij [SEP] glutenvrij,consenza rundvleeskroketten gv glutenvrij,null,null,null
+0.15120727,11441,400690,AH,Tostiham,"Trek in een tosti ham-kaas? Deze ham is vierkant en net iets dikker gesneden en daarmee ideaal voor op de tosti. Milde smaak Nederland, varken Beter Leven Keurmerk 1 ster Speciaal voor op de tosti Serveer met een puntje tomatenketchup Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Voorverpakt Ham Ham broodbeleg
+ Schouderham (voorverpakt) Schouderham","ah [SEP] tostiham [SEP] Trek in een tosti ham-kaas? Deze ham is vierkant en net iets dikker gesneden en daarmee ideaal voor op de tosti. Milde smaak Nederland, varken Beter Leven Keurmerk 1 ster Speciaal voor op de tosti Serveer met een puntje tomatenketchup Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] kookham plakjes hb",ah tostiham kookham plakjes hb,null,null,null
+0.1509136,13064,549684,BioToday,Crostini olijfolie,De knapperige mini-cracker met olijfolie is perfect voor op een borrelplank of als kleine snack tussendoor! Alleen natuurlijke ingredienten Met extra vierge olijfolie Vegan,"['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Bakkerij en banket Tussendoortjes
+ Snoep koek chips en chocolade Toastjes Crackers
+ Crackers rijstwafels Toast-crackers",biotoday [SEP] crostini olijfolie [SEP] De knapperige mini-cracker met olijfolie is perfect voor op een borrelplank of als kleine snack tussendoor! Alleen natuurlijke ingredienten Met extra vierge olijfolie Vegan [SEP] bio tussendoor,biotoday crostini olijfolie bio tussendoor,null,null,null
+0.15064862,3181,60741,AH Biologisch,Hollandse bruine bonen,Bron van vezels Makkelijk en snel op tafel,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Soepen sauzen kruiden olie Conserven
+ Groente Bonen peulvruchten Groenteconserven
+ Bonen peulvruchten (conserven) Bruine bonen
+ Bruine bonen (conserven)",ah biologisch [SEP] hollandse bruine bonen [SEP] Bron van vezels Makkelijk en snel op tafel [SEP] traditionele bonen,ah biologisch hollandse bruine bonen traditionele bonen,null,null,null
+0.1505532,9122,552859,Hela,curry pakket,Hela Kruiden ketchup curry original 3x,[],"Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Currysaus",hela [SEP] curry pakket [SEP] Hela Kruiden ketchup curry original 3x [SEP] ,hela curry pakket ,null,null,null
+0.1502848,15079,545810,AH Biologisch,Hamburger 4-pack,Altijd fijn voor de voorraad! Dit pakket bestaat uit: AH Biologisch Hamburger 4x,[],"Vlees kip vis vega Vlees Rundvlees Hamburgers
+ Hamburger (vers)",ah biologisch [SEP] hamburger 4-pack [SEP] Altijd fijn voor de voorraad! Dit pakket bestaat uit: AH Biologisch Hamburger 4x [SEP] ,ah biologisch hamburger 4-pack ,null,null,null
+0.1502078,5990,101130,AH Biologisch,Komkommer,"Komkommer heeft een frisse, knapperige, neutrale smaak. Heerlijk door een salade of als gezonde snack. Smaak: De komkommer heeft een frisse, knapperige, neutrale smaak. Bewaren: Buiten de koelkast. Gezondheid: 100% Biologisch.","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Seizoensgroente (lente)
+ Seizoensgroente (zomer) Groente Komkommer Komkommer avocado
+ Komkommer (vers)","ah biologisch [SEP] komkommer [SEP] Komkommer heeft een frisse, knapperige, neutrale smaak. Heerlijk door een salade of als gezonde snack. Smaak: De komkommer heeft een frisse, knapperige, neutrale smaak. Bewaren: Buiten de koelkast. Gezondheid: 100% Biologisch. [SEP] vruchtgroenten komkommer",ah biologisch komkommer vruchtgroenten komkommer,null,null,null
+0.1502015,179,225314,Quaker,Havermout crunchy muesli met noten,"Quaker cruesli granola verrijkt met pecan en paranoten. De goudbruin geroosterde haver zorgt voor een krokante bite. Heerlijk in combinatie met melk of yoghurt. Rijk aan vezels Zonder conserveringsmiddelen Geen kunstmatige geur-, kleur-en smaakstoffen","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Krokante muesli (cruesli) Krokante muesli (noten)","quaker [SEP] havermout crunchy muesli met noten [SEP] Quaker cruesli granola verrijkt met pecan en paranoten. De goudbruin geroosterde haver zorgt voor een krokante bite. Heerlijk in combinatie met melk of yoghurt. Rijk aan vezels Zonder conserveringsmiddelen Geen kunstmatige geur-, kleur-en smaakstoffen [SEP] granola",quaker havermout crunchy muesli met noten granola,null,null,null
+0.15006387,17369,486453,Maza,Hoemoes XL,"Onze originele hoemoes in een lekkere grote gezinsverpakking. Lekker om mee te smeren en dippen, maar ook heerlijk om mee te koken Zonder kunstmatige kleurstoffen en aroma's Veganistisch Koosjer en halal","['Laag zout' 'Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)'
+ 'Vegetarisch' 'Geen eieren' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam'
+ 'Veganistisch' 'Geen gluten']","Pasta rijst en wereldkeuken Kaas vleeswaren tapas Hummus
+ Arabische keuken Hummus (naturel) Marokkaans","maza [SEP] hoemoes xl [SEP] Onze originele hoemoes in een lekkere grote gezinsverpakking. Lekker om mee te smeren en dippen, maar ook heerlijk om mee te koken Zonder kunstmatige kleurstoffen en aroma's Veganistisch Koosjer en halal [SEP] smeer hummus",maza hoemoes xl smeer hummus,null,null,null
+0.1495755,18540,518009,AH,Dunne crackers vegan met groenten,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet'
+ 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Geen selderij']","Ontbijtgranen en beleg Bakkerij en banket Tussendoortjes Crackers
+ Crackers rijstwafels Ontbijtcrackers",ah [SEP] dunne crackers vegan met groenten [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] crackers,ah dunne crackers vegan met groenten crackers,null,null,null
+0.14916222,6420,196377,AH,Luchtige cracker volkoren met rijstbloem,"Luchtig en knapperige volkoren crackers om te beleggen. Voor het ontbijt, de lunch of ieder ander moment van de dag. Rijk aan vezels Lekker met een plakje kaas of eiersalade Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score A'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij']","Ontbijtgranen en beleg Bakkerij en banket Tussendoortjes Crackers
+ Crackers rijstwafels Ontbijtcrackers","ah [SEP] luchtige cracker volkoren met rijstbloem [SEP] Luchtig en knapperige volkoren crackers om te beleggen. Voor het ontbijt, de lunch of ieder ander moment van de dag. Rijk aan vezels Lekker met een plakje kaas of eiersalade Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] extrusie",ah luchtige cracker volkoren met rijstbloem extrusie,null,null,null
+0.14813605,8582,520772,Hak,Uit de oven couscous sperziebonen,Bij Hak willen we het graag lekker en gemakkelijk maken om groenten en peulvruchten te eten. Daarom hebben we deze mix voor couscous sperziebonen uit de oven gemaakt. Op smaak gebracht met kruiden en specerijen Geen suiker toegevoegd 100% natuurlijke ingredienten Met 300 g groenten en peulvruchten,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen selderij' 'Geen lupine'
+ ""Geen pinda's"" 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen mosterd']","Aardappel groente fruit Soepen sauzen kruiden olie Conserven
+ Groente Bonen peulvruchten Groenteconserven
+ Bonen peulvruchten (conserven) Sperziebonen
+ Sperziebonen (conserven)",hak [SEP] uit de oven couscous sperziebonen [SEP] Bij Hak willen we het graag lekker en gemakkelijk maken om groenten en peulvruchten te eten. Daarom hebben we deze mix voor couscous sperziebonen uit de oven gemaakt. Op smaak gebracht met kruiden en specerijen Geen suiker toegevoegd 100% natuurlijke ingredienten Met 300 g groenten en peulvruchten [SEP] bijgerechten,hak uit de oven couscous sperziebonen bijgerechten,null,null,null
+0.14777903,142,470154,Smaakt,Agar-agar,Biologisch. Vrij van kunstmaige geur- kleur- en smaakstoffen Geschikt voor vegetariers en veganisten Zonder toegevoegde geraffineerde suikers,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Basis bakbenodigdheden Garneringen toevoegingen Gelatine
+ Gelatine (poeder)",smaakt [SEP] agar-agar [SEP] Biologisch. Vrij van kunstmaige geur- kleur- en smaakstoffen Geschikt voor vegetariers en veganisten Zonder toegevoegde geraffineerde suikers [SEP] bio maaltijden,smaakt agar-agar bio maaltijden,null,null,null
+0.14718108,8636,525284,AH Biologisch,Volkoren spelt couscous,,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij']","Pasta rijst en wereldkeuken Couscous bulgur quinoa gort
+ Couscous Couscous - naturel",ah biologisch [SEP] volkoren spelt couscous [SEP]  [SEP] specialiteiten rijst,ah biologisch volkoren spelt couscous specialiteiten rijst,null,null,null
+0.14711246,11988,543364,AH,Boterhamworst,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Voorverpakt Boterhamworst
+ Plakken boterhamworst (voorverpakt)",ah [SEP] boterhamworst [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] kookworst plakjes hb,ah boterhamworst kookworst plakjes hb,null,null,null
+0.14707789,9827,217701,AH,Cranberrymix ongezouten,"Een frisse cranberrymix met amandelen, hazelnoten, cashewnoten en pecans. Lekker als tussendoortje! In plantaardige olie gebakken Met gesuikerde cranberry's Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Notenmix (zakje)","ah [SEP] cranberrymix ongezouten [SEP] Een frisse cranberrymix met amandelen, hazelnoten, cashewnoten en pecans. Lekker als tussendoortje! In plantaardige olie gebakken Met gesuikerde cranberry's Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] ongezouten noten",ah cranberrymix ongezouten ongezouten noten,null,null,null
+0.14552638,14352,243875,AH,Gedroogde vijgen,Smaakvolle gedroogde vijgen. De ideale snack voor onderweg Lekker om te serveren bij een kaasplankje Rijk aan vezels,"['Laag vet' 'Laag zout' 'Geen melk' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen lupine' ""Geen pinda's"" 'Geen selderij' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Aardappel groente fruit Pasta rijst en wereldkeuken
+ Bewuste voeding Bakkerij en banket Snoep koek chips en chocolade
+ Zelf bakken Wholefoods Fruit Bakproducten
+ Fruit en bessen (superfoods) Toevoegingen toppings versiering
+ Gedroogd fruit Gedroogd fruit (diverse)",ah [SEP] gedroogde vijgen [SEP] Smaakvolle gedroogde vijgen. De ideale snack voor onderweg Lekker om te serveren bij een kaasplankje Rijk aan vezels [SEP] overig,ah gedroogde vijgen overig,null,null,null
+0.14534971,16726,551087,AH,Marokkaanse couscous verspakket	,"Wat handig! Met dit pakket maak je in een handomdraai lekkere Marokkaanse couscous, die je met trots op tafel kunt zetten. Zo heb je altijd een bijzondere maaltijd, met lekkere ingredienten en veel groente. AH Marokkaanse couscous verspakket 1x AH Rundergehakt 300 gram 1x",[],"Aardappel groente fruit Salades pizza maaltijden Groente
+ Verspakket Maaltijdpakketten (vers) Groentepakket
+ Mediterrane maaltijdpakketten (vers)","ah [SEP] marokkaanse couscous verspakket	 [SEP] Wat handig! Met dit pakket maak je in een handomdraai lekkere Marokkaanse couscous, die je met trots op tafel kunt zetten. Zo heb je altijd een bijzondere maaltijd, met lekkere ingredienten en veel groente. AH Marokkaanse couscous verspakket 1x AH Rundergehakt 300 gram 1x [SEP] ",ah marokkaanse couscous verspakket	 ,null,null,null
+0.14434391,15248,538738,Itsu,Vegetables bao buns,Onze bao buns zijn wolkachtig luchtige broodjes met een heerlijke vulling. Ze zijn van restaurantkwaliteit en gemaakt op basis van de wensen van bezoekers in onze itsu restaurants. Perfect gestoomd en klaar om te eten in 1 minuut Bron van proteine Laag in verzadigd vet Geschikt voor veganisten,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Geen sesam' 'Veganistisch' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij']",Diepvries Diepvries snacks Snackbroodjes Broodje (snack),itsu [SEP] vegetables bao buns [SEP] Onze bao buns zijn wolkachtig luchtige broodjes met een heerlijke vulling. Ze zijn van restaurantkwaliteit en gemaakt op basis van de wensen van bezoekers in onze itsu restaurants. Perfect gestoomd en klaar om te eten in 1 minuut Bron van proteine Laag in verzadigd vet Geschikt voor veganisten [SEP] specials,itsu vegetables bao buns specials,null,null,null
+0.14390296,5220,164756,AH,Cranberries,Smaakvolle gedroogde cranberry's Lekker door de yoghurt Ook ideaal als vetarm tussendoortje Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Pasta rijst en wereldkeuken
+ Bakkerij en banket Snoep koek chips en chocolade Zelf bakken
+ Fruit Bakproducten Toevoegingen toppings versiering
+ Gedroogd fruit Cranberries (gedroogd) Cranberries (diverse)",ah [SEP] cranberries [SEP] Smaakvolle gedroogde cranberry's Lekker door de yoghurt Ook ideaal als vetarm tussendoortje Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] bt gedroogde zuidvruchten,ah cranberries bt gedroogde zuidvruchten,null,null,null
+0.14368375,18614,470016,BioToday,MCT olie,Biologisch. Geschikt voor vegetariers en veganisten Vrij van kunstmatige geur- kleur- en  						smaakstoffen Blijft vloeibaar,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding
+ Soepen sauzen kruiden olie Olie en frituurvet Wholefoods Olie
+ Olie bakken braden en wok Kokosolie",biotoday [SEP] mct olie [SEP] Biologisch. Geschikt voor vegetariers en veganisten Vrij van kunstmatige geur- kleur- en  						smaakstoffen Blijft vloeibaar [SEP] bio maaltijden,biotoday mct olie bio maaltijden,null,null,null
+0.14347827,127,197149,AH,Coburger ham,"Smaak: Zout, mild  					 gerookt Vleessoort: Varkensvlees","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Ham Ham broodbeleg Rauwe ham
+ Rauwe ham (versafdeling)","ah [SEP] coburger ham [SEP] Smaak: Zout, mild  					 gerookt Vleessoort: Varkensvlees [SEP] ham",ah coburger ham ham,null,null,null
+0.14334679,5159,470032,AH Biologisch,Cranberry's,"Deze biologische gedroogde cranberry's hebben een lekkere friszoete bite. Combineer met een handje noten, neem mee als gezonde snack voor on-the-go of gebruik als ingredient om heerlijke taarten en cakes mee te bakken. De cranberries zijn gezoet met appelsapconcentraat in plaats van suiker Ideaal voor zoet bakken, hartig koken, gezond ontbijten Lekker door de yoghurt, kwark of havermout","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'biologisch' 'Geen melk' 'Geen mosterd' 'Nutri-Score C'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Aardappel groente fruit Pasta rijst en wereldkeuken
+ Bewuste voeding Bakkerij en banket Snoep koek chips en chocolade
+ Zelf bakken Wholefoods Fruit Bakproducten
+ Fruit en bessen (superfoods) Toevoegingen toppings versiering
+ Gedroogd fruit Gedroogd fruit (diverse)","ah biologisch [SEP] cranberry's [SEP] Deze biologische gedroogde cranberry's hebben een lekkere friszoete bite. Combineer met een handje noten, neem mee als gezonde snack voor on-the-go of gebruik als ingredient om heerlijke taarten en cakes mee te bakken. De cranberries zijn gezoet met appelsapconcentraat in plaats van suiker Ideaal voor zoet bakken, hartig koken, gezond ontbijten Lekker door de yoghurt, kwark of havermout [SEP] bio gedroogd fruit",ah biologisch cranberry's bio gedroogd fruit,null,null,null
+0.143204,7301,206500,Becel,Proactiv original cholesterolverlagend,"Becel proactiv is een heerlijke spread voor op brood. Een 100% vegan halvarine product met de natuurlijke kracht van toegevoegde plantensterolen die actief het cholesterol verlagen. Met een mix van zonnebloem-, lijnzaad- en koolzaadolie Plantensterolen verlagen actief cholesterol Vrij van kunstmatige kleur- en smaakstoffen 100% plantaardig, vegan, glucose- en lactosevrij","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor op brood Smeerbare halvarine","becel [SEP] proactiv original cholesterolverlagend [SEP] Becel proactiv is een heerlijke spread voor op brood. Een 100% vegan halvarine product met de natuurlijke kracht van toegevoegde plantensterolen die actief het cholesterol verlagen. Met een mix van zonnebloem-, lijnzaad- en koolzaadolie Plantensterolen verlagen actief cholesterol Vrij van kunstmatige kleur- en smaakstoffen 100% plantaardig, vegan, glucose- en lactosevrij [SEP] margarine kuipje",becel proactiv original cholesterolverlagend margarine kuipje,null,null,null
+0.14288574,4980,367996,Quaker,Cruesli granola naturel,"Ontbijtgranen van volkoren krokante havermout voor een vezelrijke start van je dag.de geroosterde haver zorgt voor een krokante bite. Ideaal in combinatie met yoghurt of melk. Rijk aan vezels Zonder conserveringsmiddelen Geen kunstmatige geur-, kleur-en smaakstoffen","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']",Ontbijtgranen en beleg Ontbijtgranen Granola Granola (naturel),"quaker [SEP] cruesli granola naturel [SEP] Ontbijtgranen van volkoren krokante havermout voor een vezelrijke start van je dag.de geroosterde haver zorgt voor een krokante bite. Ideaal in combinatie met yoghurt of melk. Rijk aan vezels Zonder conserveringsmiddelen Geen kunstmatige geur-, kleur-en smaakstoffen [SEP] granola",quaker cruesli granola naturel granola,null,null,null
+0.14288251,7122,489282,AH,Vegan gebraden gehakt,Lekker op een boterham Veganistisch,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen sulfiet' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Gegrild & gebraden gehakt Vegetarische vleeswaren
+ Gebraden gehakt - vegetarisch",ah [SEP] vegan gebraden gehakt [SEP] Lekker op een boterham Veganistisch [SEP] plakken plantaardig vega,ah vegan gebraden gehakt plakken plantaardig vega,null,null,null
+0.14242049,5726,507895,Leev,Biologische low carb qrackers bruschetta,Biologische crackers met een zeer laag koolhydraat gehalte. Biologisch Rijk aan proteine en energie Laag in koolhydraten,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'biologisch'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen lupine'
+ 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen selderij'
+ 'Geen eieren']","Bewuste voeding Bakkerij en banket Glutenvrij koolhydraatarm
+ Koolhydraatarm Brood Brood en crackers (koolhydraatarm)",leev [SEP] biologische low carb qrackers bruschetta [SEP] Biologische crackers met een zeer laag koolhydraat gehalte. Biologisch Rijk aan proteine en energie Laag in koolhydraten [SEP] bio ontbijt en lunch,leev biologische low carb qrackers bruschetta bio ontbijt en lunch,null,null,null
+0.14229423,206,470160,AH Biologisch,Kokos snippers,"Deze knapperige biologische kokossnippers zijn ontzettend lekker met granola en yoghurt, voor on-the-go of om te gebruiken als garnering of ingredient in taarten en andere bakproducten. Puur, onbewerkt en van biologische oorsprong Voor o.a. Zoet bakken, hartig koken of gezond ontbijten Ook lekker als knapperig tussendoortje Van nature vezelrijk","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen selderij']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Oosterse keuken
+ Bakproducten Thais Garneringen toevoegingen
+ Toevoegingen toppings versiering Kokosrasp snippers
+ Fruitschil snippers rasp Baktoevoegingen","ah biologisch [SEP] kokos snippers [SEP] Deze knapperige biologische kokossnippers zijn ontzettend lekker met granola en yoghurt, voor on-the-go of om te gebruiken als garnering of ingredient in taarten en andere bakproducten. Puur, onbewerkt en van biologische oorsprong Voor o.a. Zoet bakken, hartig koken of gezond ontbijten Ook lekker als knapperig tussendoortje Van nature vezelrijk [SEP] bio gedroogd fruit",ah biologisch kokos snippers bio gedroogd fruit,null,null,null
+0.1419102,4405,507897,Leev,Bio qrackers proteine flaxseed,Biologische crackers met een zeer hoog eiwit gehalte. Biologisch Rijk aan proteine en energie Laag in koolhydraten,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'biologisch' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen lupine' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Geen selderij' 'Geen eieren']","Bewuste voeding Bakkerij en banket Glutenvrij koolhydraatarm
+ Koolhydraatarm Brood Brood en crackers (koolhydraatarm)",leev [SEP] bio qrackers proteine flaxseed [SEP] Biologische crackers met een zeer hoog eiwit gehalte. Biologisch Rijk aan proteine en energie Laag in koolhydraten [SEP] bio ontbijt en lunch,leev bio qrackers proteine flaxseed bio ontbijt en lunch,null,null,null
+0.1413962,14599,386520,Go-Tan,Original wok ketjap sesam,"Maak met groenten, vlees of vis een knapperig en gezond wokgerecht. Original Wok Ketjap-Sesam is gemaakt op basis van o.a.ketjap en oestersaus met een vleugje sesamolie. Zonder conserveermiddelen Zonder toegevoegde smaakversterkers Zonder kunstmatige kleur- en smaakstoffen","['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ 'Geen schelpdieren (schaaldieren)' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Laag suiker' 'Geen eieren' 'Geen noten' 'Vegetarisch'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Oosterse keuken Sauzen Woksauzen Indonesisch
+ Indonesische woksaus Woksaus","go-tan [SEP] original wok ketjap sesam [SEP] Maak met groenten, vlees of vis een knapperig en gezond wokgerecht. Original Wok Ketjap-Sesam is gemaakt op basis van o.a.ketjap en oestersaus met een vleugje sesamolie. Zonder conserveermiddelen Zonder toegevoegde smaakversterkers Zonder kunstmatige kleur- en smaakstoffen [SEP] woksauzen",go-tan original wok ketjap sesam woksauzen,null,null,null
+0.1410515,15596,519342,AH Biologisch,Roasted rib,,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Ham Ham broodbeleg Achterham
+ Achterham (versafdeling)",ah biologisch [SEP] roasted rib [SEP]  [SEP] biologisch,ah biologisch roasted rib biologisch,null,null,null
+0.14012717,9588,469880,AH Biologisch,Witte bonen,"Licht nootachtig van smaak. Ideaal voor soepen, tomatensaus en dips. Biologisch Geschikt voor vegetariers Vegan","['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Aardappel groente fruit Soepen sauzen kruiden olie Conserven
+ Groente Bonen peulvruchten Groenteconserven Witte bonen
+ Bonen peulvruchten (conserven) Witte bonen (conserven)","ah biologisch [SEP] witte bonen [SEP] Licht nootachtig van smaak. Ideaal voor soepen, tomatensaus en dips. Biologisch Geschikt voor vegetariers Vegan [SEP] bio gedroogde peulvruchten",ah biologisch witte bonen bio gedroogde peulvruchten,null,null,null
+0.13996613,5055,511074,Theha,Kokosbrood,Broodbeleg gemaakt van zachtzoete kokos. Gesneden in plakjes voor een snel belegde boterham. Bron van vezels Zonder conserveermiddelen Glutenvrij,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Bakkerij en banket Kokosbrood
+ Zoet broodbeleg",theha [SEP] kokosbrood [SEP] Broodbeleg gemaakt van zachtzoete kokos. Gesneden in plakjes voor een snel belegde boterham. Bron van vezels Zonder conserveermiddelen Glutenvrij [SEP] kokosbrood,theha kokosbrood kokosbrood,null,null,null
+0.13965338,16623,478687,Quaker,Cruesli luchtig,"Quaker cruesli luchtig is een lekker knapperige granenmix met goudbruin geroosterde volkoren havermout. Aangevuld met heerlijke gepofte granen en knapperige cornflakes. Rijk aan vezels Zonder conserveringsmiddelen Geen kunstmatige geur-, kleur-en smaakstoffen","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Krokante muesli (cruesli) Krokante muesli (naturel)","quaker [SEP] cruesli luchtig [SEP] Quaker cruesli luchtig is een lekker knapperige granenmix met goudbruin geroosterde volkoren havermout. Aangevuld met heerlijke gepofte granen en knapperige cornflakes. Rijk aan vezels Zonder conserveringsmiddelen Geen kunstmatige geur-, kleur-en smaakstoffen [SEP] krokante muesli",quaker cruesli luchtig krokante muesli,null,null,null
+0.13962147,2325,237561,Leev,Organic galettes,100% biologisch en een bron van vezels. Een verantwoord tussendoortje Altijd biologisch Bron van vezels Gluten en lactosevrij,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ ""Geen pinda's"" 'biologisch' 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen lupine' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren' 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Glutenvrij Koek
+ Koek chips tussendoortjes Glutenvrije koek",leev [SEP] organic galettes [SEP] 100% biologisch en een bron van vezels. Een verantwoord tussendoortje Altijd biologisch Bron van vezels Gluten en lactosevrij [SEP] biscuits,leev organic galettes biscuits,null,null,null
+0.1392935,19776,494267,AH,Moon crackers,Rijstzoutjes met sojasaus. Subtiele soja smaak,"['Geen gluten' 'Geen melk' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen selderij']",Snoep koek chips en chocolade Zoutjes Zoutjes-crackers,ah [SEP] moon crackers [SEP] Rijstzoutjes met sojasaus. Subtiele soja smaak [SEP] 3v6 noten,ah moon crackers 3v6 noten,null,null,null
+0.13929158,14888,122553,Croma,Bakken en braden,"Croma voor perfect vlees - Croma is de expert voor het bakken en braden van alle soorten vlees.. Bestaat voor 98% plantaardige olien en vetten, dus spat niet Schroeit het vlees direct dicht, daarom malser Geeft een heerlijke geur, kleur en smaak aan het vlees, daarom lekkerder Vrij van kunstmatige geur-, kleur- en smaakstoffen","['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor de keuken Bak- en braadboter (vast)","croma [SEP] bakken en braden [SEP] Croma voor perfect vlees - Croma is de expert voor het bakken en braden van alle soorten vlees.. Bestaat voor 98% plantaardige olien en vetten, dus spat niet Schroeit het vlees direct dicht, daarom malser Geeft een heerlijke geur, kleur en smaak aan het vlees, daarom lekkerder Vrij van kunstmatige geur-, kleur- en smaakstoffen [SEP] margarine wikkel",croma bakken en braden margarine wikkel,null,null,null
+0.13924856,12876,518332,Fairtrade Original,Indiase butter chicken,"Zin in comfort food? maak dan Indiase butter chicken. 100% plantaardig en zonder kunstmatige toevoegingen Mild pikante smaak met rijke mix van kruiden en specerijen Verbouwd, bereid en verpakt in Sri Lanka Fairtrade-max havelaar gecertificeerd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Kruiden Maaltijd Kruidenmixen
+ Gedroogde kruiden","fairtrade original [SEP] indiase butter chicken [SEP] Zin in comfort food? maak dan Indiase butter chicken. 100% plantaardig en zonder kunstmatige toevoegingen Mild pikante smaak met rijke mix van kruiden en specerijen Verbouwd, bereid en verpakt in Sri Lanka Fairtrade-max havelaar gecertificeerd [SEP] indiaas",fairtrade original indiase butter chicken indiaas,null,null,null
+0.13916098,16577,99132,AH Biologisch,Tomatenketchup,Bereid met verse tomaten Voor 100 gram ketchup is 140 gram tomaten gebruikt,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Ketchup",ah biologisch [SEP] tomatenketchup [SEP] Bereid met verse tomaten Voor 100 gram ketchup is 140 gram tomaten gebruikt [SEP] ketchup,ah biologisch tomatenketchup ketchup,null,null,null
+0.13887918,5514,457519,AH Biologisch,Ongezouten cashewnoten,"Ongezouten, gebakken cashewnoten. Extra groot Fairtraide gecertificeerd en afkomstig van fairtrade boeren Biologisch Verpakt onder beschermende atmosfeer","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch'
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']",Snoep koek chips en chocolade Noten Luxe noten,"ah biologisch [SEP] ongezouten cashewnoten [SEP] Ongezouten, gebakken cashewnoten. Extra groot Fairtraide gecertificeerd en afkomstig van fairtrade boeren Biologisch Verpakt onder beschermende atmosfeer [SEP] 3v6 noten",ah biologisch ongezouten cashewnoten 3v6 noten,null,null,null
+0.13871932,4676,514733,AH,Bak en braad,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor de keuken Bak- en braadboter (vast)",ah [SEP] bak en braad [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] margarine vloeibaar,ah bak en braad margarine vloeibaar,null,null,null
+0.13854636,14001,224358,AH,Appelkruimelvlaai half,"1/2 Ambachtelijk vlaai uit Limburg rijk gevuld met verse
+					 appels en rozijnen. Daar bovenop krokant kruimels en afgewerkt met
+					 poedersuiker. Echte Limburgse vlaai Appels van hollandse bodem","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Bakkerij en banket Gebak Vlaai,"ah [SEP] appelkruimelvlaai half [SEP] 1/2 Ambachtelijk vlaai uit Limburg rijk gevuld met verse
+					 appels en rozijnen. Daar bovenop krokant kruimels en afgewerkt met
+					 poedersuiker. Echte Limburgse vlaai Appels van hollandse bodem [SEP] vlaaien",ah appelkruimelvlaai half vlaaien,null,null,null
+0.13847713,17279,408449,Leev,Bio crackers boekweit glutenvrij,100% biologisch en een bron van vezels. Een verantwoord tussendoortje Altijd biologisch Vezelrijk Gluten en lactosevrij,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' ""Geen pinda's"" 'biologisch' 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen lupine' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen selderij'
+ 'Geen eieren' 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Glutenvrij
+ Crackers rijstwafels Ontbijtgranen crackers
+ Glutenvrije crackers knackebrod",leev [SEP] bio crackers boekweit glutenvrij [SEP] 100% biologisch en een bron van vezels. Een verantwoord tussendoortje Altijd biologisch Vezelrijk Gluten en lactosevrij [SEP] broodvervangers,leev bio crackers boekweit glutenvrij broodvervangers,null,null,null
+0.13842702,15653,490272,AH,Huismix ongezouten,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ Notenmix (bakje)",ah [SEP] huismix ongezouten [SEP]  [SEP] 3v6 noten,ah huismix ongezouten 3v6 noten,null,null,null
+0.13787638,2227,474864,Clif Bar,Peanut butter,"Een biologische energiereep gevuld met heerlijke, romige pindakaas. Biologisch 6-7 g plantaardig eiwit Vegan","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Bewuste voeding Tussendoortjes Glutenvrij
+ Tussendoortjes (glutenvrij) Koek chips tussendoortjes
+ Glutenvrije tussendoortjes","clif bar [SEP] peanut butter [SEP] Een biologische energiereep gevuld met heerlijke, romige pindakaas. Biologisch 6-7 g plantaardig eiwit Vegan [SEP] bio tussendoor",clif bar peanut butter bio tussendoor,null,null,null
+0.13783462,449,467993,AH,Pruimen gedroogd,Ready to eat gedroogde en gewelde pruimen zonder pit. Energierijk tussendoortje voor op kantoor of na het sporten. Ook lekker als zoete toevoeging in oosterse gerechten Rijk aan vezels,"['Laag vet' 'Laag zout' 'Geen melk' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen lupine' ""Geen pinda's"" 'Geen selderij' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Aardappel groente fruit Pasta rijst en wereldkeuken
+ Bewuste voeding Bakkerij en banket Snoep koek chips en chocolade
+ Zelf bakken Wholefoods Fruit Bakproducten
+ Fruit en bessen (superfoods) Toevoegingen toppings versiering
+ Gedroogd fruit Gedroogd fruit (diverse)",ah [SEP] pruimen gedroogd [SEP] Ready to eat gedroogde en gewelde pruimen zonder pit. Energierijk tussendoortje voor op kantoor of na het sporten. Ook lekker als zoete toevoeging in oosterse gerechten Rijk aan vezels [SEP] zuidvruchten luxe,ah pruimen gedroogd zuidvruchten luxe,null,null,null
+0.13781981,1612,466153,Lois Harmony,Bio Ghee (Geklaarde Boter),"Ghee is een bakvet met een volle smaak. Het heeft een verbrandingstemperatuur van maar liefst 250 graden celsius waardoor het veel minder snel verbrand dan bijvoorbeeld boter en zonnebloemolie. Ghee is ideaal voor het bakken van vlees, vis, groenten, pannenkoeken of gewoon een eitje. 100% biologisch Een hoge verbrandingstemperatuur van 250 graden celsius Lactose vrij Grasgevoerd","['Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor de keuken Bak- en braadboter (vast)","lois harmony [SEP] bio ghee (geklaarde boter) [SEP] Ghee is een bakvet met een volle smaak. Het heeft een verbrandingstemperatuur van maar liefst 250 graden celsius waardoor het veel minder snel verbrand dan bijvoorbeeld boter en zonnebloemolie. Ghee is ideaal voor het bakken van vlees, vis, groenten, pannenkoeken of gewoon een eitje. 100% biologisch Een hoge verbrandingstemperatuur van 250 graden celsius Lactose vrij Grasgevoerd [SEP] overige olien",lois harmony bio ghee (geklaarde boter) overige olien,null,null,null
+0.13764545,131,36783,AH,Tarwe bloem,Tarwebloem Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Basis bakbenodigdheden Basismeel bloem Tarwebloem",ah [SEP] tarwe bloem [SEP] Tarwebloem Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] hm basismeel,ah tarwe bloem hm basismeel,null,null,null
+0.1376194,4412,408281,AH,Digestive volkoren met tarwebloem,"Brosse biscuits met granen zijn vol van smaak. Lekker bij de koffie of thee, voor tussendoor, onderweg of ieder ander moment van dag. Lekker knapperig Bron van vezels Volkoren Het perfecte tussendoortje Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Geen selderij']",Snoep koek chips en chocolade Koek Alledaagse koeken,"ah [SEP] digestive volkoren met tarwebloem [SEP] Brosse biscuits met granen zijn vol van smaak. Lekker bij de koffie of thee, voor tussendoor, onderweg of ieder ander moment van dag. Lekker knapperig Bron van vezels Volkoren Het perfecte tussendoortje Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] verpakt trommel",ah digestive volkoren met tarwebloem verpakt trommel,null,null,null
+0.1371373,9253,549683,BioToday,Crostini zeezout,De knapperige mini-cracker met zeezout is perfect voor op een borrelplank of als kleine snack tussendoor! Alleen natuurlijke ingredienten Met zeezout Vegan,"['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk'
+ 'Laag vet' 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen mosterd'
+ 'Geen selderij']","Ontbijtgranen en beleg Bakkerij en banket Tussendoortjes
+ Snoep koek chips en chocolade Toastjes Crackers
+ Crackers rijstwafels Toast-crackers",biotoday [SEP] crostini zeezout [SEP] De knapperige mini-cracker met zeezout is perfect voor op een borrelplank of als kleine snack tussendoor! Alleen natuurlijke ingredienten Met zeezout Vegan [SEP] bio tussendoor,biotoday crostini zeezout bio tussendoor,null,null,null
+0.13712502,5820,543346,AH,Schouderham,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Voorverpakt Ham Ham broodbeleg
+ Schouderham (voorverpakt) Schouderham",ah [SEP] schouderham [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] kookham plakjes hb,ah schouderham kookham plakjes hb,null,null,null
+0.13696253,9670,517784,Bolletje,Ciabatta crackers tomaat & kruiden,"Bolletje ciabatta tussendoorcrackers tomaat  en  kruiden zijn lekker luchtig en knapperig. Ze zijn vol van smaak door de fijnste bloem, extra vierge olijfolie en de smaakvolste tomaten en kruiden. Een heerlijk tussendoortje, geinspireerd op authentieke Italiaanse ciabatta Met extra vierge olijfolie Per 2 verpakt, dus ideaal voor onderweg Bron van vezels","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen selderij'
+ 'Geen eieren']","Ontbijtgranen en beleg Bakkerij en banket Tussendoortjes Crackers
+ Crackers rijstwafels Ontbijtcrackers","bolletje [SEP] ciabatta crackers tomaat & kruiden [SEP] Bolletje ciabatta tussendoorcrackers tomaat  en  kruiden zijn lekker luchtig en knapperig. Ze zijn vol van smaak door de fijnste bloem, extra vierge olijfolie en de smaakvolste tomaten en kruiden. Een heerlijk tussendoortje, geinspireerd op authentieke Italiaanse ciabatta Met extra vierge olijfolie Per 2 verpakt, dus ideaal voor onderweg Bron van vezels [SEP] crackers",bolletje ciabatta crackers tomaat & kruiden crackers,null,null,null
+0.13658684,10154,549676,BioToday,Hummus chips Indian curry,Boost je snack-mood met deze krokante peulvruchtenchips! Elke Crispy bite heeft de heerlijke smaak van kikkerewrten en Indiase curry. De perfecte biologische chips voor elk snackmoment! Alleen natuurlijke ingredienten Gemaakt van 43% kikkererwtenmeel Bron van vezels Vegan,"['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Geen selderij' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'biologisch' 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen gluten']","Snoep koek chips en chocolade Chips Smaakvarianten chips
+ Diverse smaken chips",biotoday [SEP] hummus chips indian curry [SEP] Boost je snack-mood met deze krokante peulvruchtenchips! Elke Crispy bite heeft de heerlijke smaak van kikkerewrten en Indiase curry. De perfecte biologische chips voor elk snackmoment! Alleen natuurlijke ingredienten Gemaakt van 43% kikkererwtenmeel Bron van vezels Vegan [SEP] bio tussendoor,biotoday hummus chips indian curry bio tussendoor,null,null,null
+0.13652009,1390,525269,AH,"Volkoren couscous met tomaat, courgette",,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen selderij' 'Geen lupine'
+ ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten']","Aardappel groente fruit Pasta rijst en wereldkeuken
+ Bewuste voeding Koolhydraatvervangers Pasta rijst noedels
+ Groente Groentepasta rijst (vers)","ah [SEP] volkoren couscous met tomaat, courgette [SEP]  [SEP] peulvruchten","ah volkoren couscous met tomaat, courgette peulvruchten",null,null,null
+0.13648345,6791,456899,AH,Boterhamzakjes middel,Middelgrote boterhamzakjes met handige sluitstrips voor het bewaren en meenemen van bijvoorbeeld boterhammen. De zakjes zijn smaak- en reukvrij Met handige sluitclips Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,['Laag zout' 'Laag vet' 'Prijsfavoriet' 'Laag suiker'],Koken tafelen vrije tijd Koken Keukengerei Keukenaccessoires,ah [SEP] boterhamzakjes middel [SEP] Middelgrote boterhamzakjes met handige sluitstrips voor het bewaren en meenemen van bijvoorbeeld boterhammen. De zakjes zijn smaak- en reukvrij Met handige sluitclips Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] vershoudzakken,ah boterhamzakjes middel vershoudzakken,null,null,null
+0.13582456,10717,518081,TastyBasics,Mini cracker maanzaad en olijf,Op zoek naar een voedzaam tussendoortje? deze knapperige mini crackers met maanzaad en olijf bevatten 80% minder koolhydraten en zijn rijk aan vezels en eiwitten. Lekker als snack of bij de borrel! Voedzaam 80% minder koolhydraten dan gewone mini crackers Rijk aan vezels en eiwitten Makkelijk voor onderweg,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Ontbijtgranen en beleg Bakkerij en banket Tussendoortjes
+ Snoep koek chips en chocolade Toastjes Crackers
+ Crackers rijstwafels Toast-crackers",tastybasics [SEP] mini cracker maanzaad en olijf [SEP] Op zoek naar een voedzaam tussendoortje? deze knapperige mini crackers met maanzaad en olijf bevatten 80% minder koolhydraten en zijn rijk aan vezels en eiwitten. Lekker als snack of bij de borrel! Voedzaam 80% minder koolhydraten dan gewone mini crackers Rijk aan vezels en eiwitten Makkelijk voor onderweg [SEP] crackers,tastybasics mini cracker maanzaad en olijf crackers,null,null,null

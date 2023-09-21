@@ -1,0 +1,765 @@
+scoreLLM score,ann,prd_id,brand,title,highlights,properties,taxonomies,full_text,full_text_no_sep,Unnamed: 0,search_query,scorePropensity score
+0.2728678,7020,517294,AH,Ongezouten notenmix,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Notenmix (zakje)",ah [SEP] ongezouten notenmix [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] grootverpakking basis,ah ongezouten notenmix grootverpakking basis,null,null,null
+0.2723102,10771,541506,AH Biologisch,Pistache & notenmix,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'biologisch' 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Ontbijtgranen Wholefoods
+ Noten (superfoods) Ontbijtverrijkers (toppings) Noten en fruitmix",ah biologisch [SEP] pistache & notenmix [SEP]  [SEP] bio noten,ah biologisch pistache & notenmix bio noten,null,null,null
+0.27199414,14257,457638,AH,Pinda's ongezouten,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ ""Pindas (bakje)""",ah [SEP] pinda's ongezouten [SEP]  [SEP] 3v6 noten,ah pinda's ongezouten 3v6 noten,null,null,null
+0.26822436,2160,470039,Smaakt,Lijnzaadcrackers maanzaad less carb,Biologisch. Vrij van kunstmaige geur- kleur- en smaakstoffen Geschikt voor vegetariers en veganisten Zonder geraffineerde toegevoegde suikers,"['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' ""Geen pinda's"" 'biologisch'
+ 'Laag vet' 'Geen mosterd' 'Geen lupine' 'Geen lactose' 'Geen sulfiet'
+ 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Bewuste voeding Bakkerij en banket Glutenvrij koolhydraatarm
+ Koolhydraatarm Brood Brood en crackers (koolhydraatarm)",smaakt [SEP] lijnzaadcrackers maanzaad less carb [SEP] Biologisch. Vrij van kunstmaige geur- kleur- en smaakstoffen Geschikt voor vegetariers en veganisten Zonder geraffineerde toegevoegde suikers [SEP] bio ontbijt en lunch,smaakt lijnzaadcrackers maanzaad less carb bio ontbijt en lunch,null,null,null
+0.26703328,4905,492706,AH,Chiazaad,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Soepen sauzen kruiden olie Snoep koek chips en chocolade
+ Zelf bakken Noten Garnering Bakproducten Noten pittengarnering
+ Garneringen toevoegingen Toevoegingen toppings versiering
+ Noten garnering","ah [SEP] chiazaad [SEP]  [SEP] bt baknoten, zaden en pitten","ah chiazaad bt baknoten, zaden en pitten",null,null,null
+0.256416,14531,108025,AH,Pitloze kersen op siroop,"Allergie-informatie: koemelk-, lactose- en glutenvrij. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Soepen sauzen kruiden olie Conserven
+ Fruit Fruitconserven Druiven kersen Kersen Kersen (conserven)","ah [SEP] pitloze kersen op siroop [SEP] Allergie-informatie: koemelk-, lactose- en glutenvrij. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] overige vruchtenconserven",ah pitloze kersen op siroop overige vruchtenconserven,null,null,null
+0.2558726,10947,470040,Smaakt,Lijnzaadcrackers,Biologisch. Vrij van kunstmaige geur- kleur- en smaakstoffen Geschikt voor vegetariers en veganisten Zonder geraffineerde toegevoegde suikers,"['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' ""Geen pinda's"" 'biologisch'
+ 'Laag vet' 'Geen mosterd' 'Geen lupine' 'Geen lactose' 'Geen sulfiet'
+ 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Bewuste voeding Bakkerij en banket Glutenvrij koolhydraatarm
+ Koolhydraatarm Brood Brood en crackers (koolhydraatarm)",smaakt [SEP] lijnzaadcrackers [SEP] Biologisch. Vrij van kunstmaige geur- kleur- en smaakstoffen Geschikt voor vegetariers en veganisten Zonder geraffineerde toegevoegde suikers [SEP] bio ontbijt en lunch,smaakt lijnzaadcrackers bio ontbijt en lunch,null,null,null
+0.25529647,4891,492704,AH,Lijnzaad,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Soepen sauzen kruiden olie Snoep koek chips en chocolade
+ Zelf bakken Noten Garnering Bakproducten Noten pittengarnering
+ Garneringen toevoegingen Toevoegingen toppings versiering
+ Noten garnering","ah [SEP] lijnzaad [SEP]  [SEP] bt baknoten, zaden en pitten","ah lijnzaad bt baknoten, zaden en pitten",null,null,null
+0.25448558,15522,457537,AH,Pecannoten ongezouten,,"['Laag zout' 'Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)'
+ 'Vegetarisch' 'Geen eieren' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Noten Wholefoods
+ Noten in zak Noten (superfoods) Paranoten (zakje)",ah [SEP] pecannoten ongezouten [SEP]  [SEP] 3v6 noten,ah pecannoten ongezouten 3v6 noten,null,null,null
+0.25173908,13664,520117,AH,Ongezouten pistaches,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Pistachenoten (zakje)",ah [SEP] ongezouten pistaches [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] ongezouten noten,ah ongezouten pistaches ongezouten noten,null,null,null
+0.2507756,6517,549897,AH Biologisch,Pinda's ongezouten,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'biologisch' 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ ""Pindas (zakje)""",ah biologisch [SEP] pinda's ongezouten [SEP]  [SEP] pinda's,ah biologisch pinda's ongezouten pinda's,null,null,null
+0.25068134,15653,490272,AH,Huismix ongezouten,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ Notenmix (bakje)",ah [SEP] huismix ongezouten [SEP]  [SEP] 3v6 noten,ah huismix ongezouten 3v6 noten,null,null,null
+0.24955587,1698,490269,AH,Macadamiamix ongezouten,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ Notenmix (bakje)",ah [SEP] macadamiamix ongezouten [SEP]  [SEP] 3v6 noten,ah macadamiamix ongezouten 3v6 noten,null,null,null
+0.24860516,15357,538582,AH,Chocolade pinda rozijnen & notenmix,,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Snoep koek chips en chocolade Noten Luxe noten,ah [SEP] chocolade pinda rozijnen & notenmix [SEP]  [SEP] 3v6 noten,ah chocolade pinda rozijnen & notenmix 3v6 noten,null,null,null
+0.24803892,7325,550318,AH,Pistache ongezouten,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ Pistachenoten (bakje)",ah [SEP] pistache ongezouten [SEP]  [SEP] ongezouten noten,ah pistache ongezouten ongezouten noten,null,null,null
+0.2475371,12831,469390,AH Biologisch,Pecan noten ongebrand,"De pecannoten zijn ongebrand en lichtzoet van smaak. Lekker om zo te eten maar ook ideaal door de salade of zelfgemaakte carrot cake. Pure en onbewerkte noten Van nature rijk aan zink, vitamine b1 en onverzadigde vetten Een handje noten per dag draagt bij aan een gezond voedingspatroon Ideaal voor in salades, yoghurt en zelfs smoothies","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'biologisch' 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Noten Wholefoods
+ Noten in zak Noten (superfoods) Pecannoten (zakje)","ah biologisch [SEP] pecan noten ongebrand [SEP] De pecannoten zijn ongebrand en lichtzoet van smaak. Lekker om zo te eten maar ook ideaal door de salade of zelfgemaakte carrot cake. Pure en onbewerkte noten Van nature rijk aan zink, vitamine b1 en onverzadigde vetten Een handje noten per dag draagt bij aan een gezond voedingspatroon Ideaal voor in salades, yoghurt en zelfs smoothies [SEP] bio noten",ah biologisch pecan noten ongebrand bio noten,null,null,null
+0.24737886,17981,470035,AH Biologisch,Fruit & pitten mix,"Biologische fruit- en pittenmix met Sultana rozijnen, zonnebloempitten, goji bessen, moerbeien en cranberries. Uitstekend in combinatie met salades, yoghurt, kwark of havermout. Met appelsapconcentraat gezoete cranberries in plaats van suiker Voor o.a. Zoet bakken, hartig koken of ontbijten","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Pasta rijst en wereldkeuken
+ Bewuste voeding Bakkerij en banket Snoep koek chips en chocolade
+ Zelf bakken Wholefoods Fruit Bakproducten
+ Fruit en bessen (superfoods) Toevoegingen toppings versiering
+ Gedroogd fruit Gedroogd fruit (diverse)","ah biologisch [SEP] fruit & pitten mix [SEP] Biologische fruit- en pittenmix met Sultana rozijnen, zonnebloempitten, goji bessen, moerbeien en cranberries. Uitstekend in combinatie met salades, yoghurt, kwark of havermout. Met appelsapconcentraat gezoete cranberries in plaats van suiker Voor o.a. Zoet bakken, hartig koken of ontbijten [SEP] bio zaden & pitten",ah biologisch fruit & pitten mix bio zaden & pitten,null,null,null
+0.2470701,13425,538581,AH,Chocolade pindamix,,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Snoep koek chips en chocolade Noten Luxe noten,ah [SEP] chocolade pindamix [SEP]  [SEP] 3v6 noten,ah chocolade pindamix 3v6 noten,null,null,null
+0.24571162,13435,403667,AH,Notenmix ongebrand,"Mix van ongebrande pecannoten, cashewnoten en amandelen. De noten zijn ongebrand, wat betekent dat ze niet zijn gebakken in olie. Pure en onbewerkte noten Van nature rijk aan zink, vitamine e, magnesium, fosfor en kalium Ideaal voor in salades, yoghurt en smoothies Ook lekker om zo te eten","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten grote verpakking
+ Notenmix (groot)","ah [SEP] notenmix ongebrand [SEP] Mix van ongebrande pecannoten, cashewnoten en amandelen. De noten zijn ongebrand, wat betekent dat ze niet zijn gebakken in olie. Pure en onbewerkte noten Van nature rijk aan zink, vitamine e, magnesium, fosfor en kalium Ideaal voor in salades, yoghurt en smoothies Ook lekker om zo te eten [SEP] ongebrand zak",ah notenmix ongebrand ongebrand zak,null,null,null
+0.24269706,13537,541505,AH Biologisch,Pistache noten,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch'
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Ontbijtgranen Wholefoods
+ Noten (superfoods) Ontbijtverrijkers (toppings) Noten en fruitmix",ah biologisch [SEP] pistache noten [SEP]  [SEP] bio noten,ah biologisch pistache noten bio noten,null,null,null
+0.2424883,10651,470037,AH Biologisch,Chiazaad,Onbewerkt en van biologische oorsprong. Tip: wel de chiazaadjes voor het maken van een chia pudding,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'biologisch' 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding
+ Soepen sauzen kruiden olie Snoep koek chips en chocolade Noten
+ Wholefoods Garnering Bakproducten Zaden en pitten
+ Noten pittengarnering Garneringen toevoegingen Zaden (diverse)",ah biologisch [SEP] chiazaad [SEP] Onbewerkt en van biologische oorsprong. Tip: wel de chiazaadjes voor het maken van een chia pudding [SEP] bio zaden & pitten,ah biologisch chiazaad bio zaden & pitten,null,null,null
+0.2422404,17366,227827,Smaakt,Sesamzaad ongepeld,"Smaakt sesamzaad is ongebrand en ongezouten, en dus 100% puur en onbewerkt. Sesamzaad is ideaal als toevoeging aan salades of om te verwerken in gerechten. Biologisch Ideaal als topping of garnering","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch'
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Veganistisch' 'Laag zout' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren']","Pasta rijst en wereldkeuken Bewuste voeding
+ Soepen sauzen kruiden olie Snoep koek chips en chocolade Noten
+ Wholefoods Garnering Bakproducten Zaden en pitten
+ Noten pittengarnering Garneringen toevoegingen Zaden (diverse)","smaakt [SEP] sesamzaad ongepeld [SEP] Smaakt sesamzaad is ongebrand en ongezouten, en dus 100% puur en onbewerkt. Sesamzaad is ideaal als toevoeging aan salades of om te verwerken in gerechten. Biologisch Ideaal als topping of garnering [SEP] bio zaden & pitten",smaakt sesamzaad ongepeld bio zaden & pitten,null,null,null
+0.23955725,1161,457530,AH,Notenmix naturel,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ Notenmix (bakje)",ah [SEP] notenmix naturel [SEP]  [SEP] 3v6 noten,ah notenmix naturel 3v6 noten,null,null,null
+0.23901789,18636,460618,AH,Notenmix ongebrand,"Mix van ongebrande walnoten, hazelnoten, cashewnoten en amandelen. Lekker om zo eten en ideaal voor in salades, yoghurt en zelfs smoothies. Van nature rijk aan onverzadigde vetten Ongebrand, dus niet gebakken in olie Een lekker en verantwoord tussendoortje Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten multipack
+ Notenmix (multipack)","ah [SEP] notenmix ongebrand [SEP] Mix van ongebrande walnoten, hazelnoten, cashewnoten en amandelen. Lekker om zo eten en ideaal voor in salades, yoghurt en zelfs smoothies. Van nature rijk aan onverzadigde vetten Ongebrand, dus niet gebakken in olie Een lekker en verantwoord tussendoortje Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] grootverpakking basis",ah notenmix ongebrand grootverpakking basis,null,null,null
+0.23863706,2737,538584,AH,Pinda & mais mix,,"['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Vegetarisch'
+ 'Geen selderij']","Snoep koek chips en chocolade Noten Borrelnoten
+ Borrelnoten (zakje)",ah [SEP] pinda & mais mix [SEP]  [SEP] 3v6 noten,ah pinda & mais mix 3v6 noten,null,null,null
+0.23829475,3381,538585,AH,Chocolade rozijnenmix,,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Snoep koek chips en chocolade Noten Luxe noten,ah [SEP] chocolade rozijnenmix [SEP]  [SEP] 3v6 noten,ah chocolade rozijnenmix 3v6 noten,null,null,null
+0.23466302,5011,469384,AH Biologisch,Notenmix,"Deze mix van walnoten, cashewnoten, amandelen en paranoten is ongebrand en van nature rijk aan onverzadigde vetten. Pure en onbewerkte noten Van nature rijk aan fosfor, vitamine e en onverzadigde vetten Een handje noten per dag draagt bij aan een gezond voedingspatroon Ideaal voor in salades, yoghurt en zelfs smoothies","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'biologisch' 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten grote verpakking
+ Notenmix (groot)","ah biologisch [SEP] notenmix [SEP] Deze mix van walnoten, cashewnoten, amandelen en paranoten is ongebrand en van nature rijk aan onverzadigde vetten. Pure en onbewerkte noten Van nature rijk aan fosfor, vitamine e en onverzadigde vetten Een handje noten per dag draagt bij aan een gezond voedingspatroon Ideaal voor in salades, yoghurt en zelfs smoothies [SEP] bio noten",ah biologisch notenmix bio noten,null,null,null
+0.234646,11510,426103,AH,Pistache notenmix gezouten,"Albert Heijn Gezouten pistachemix is een pittige notenmix, heerlijk voor bij de borrel of gewoon als je er zin in hebt. In hetelucht geroosterde pistachenoten Rijk aan fosfor en vitamine E Rijk aan onverzadigde vetten Makkelijk hersluitbaar Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen melk' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Geen sesam' 'Geen vis' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Vegetarisch' 'Geen selderij' 'Geen eieren']","Snoep koek chips en chocolade Noten Noten in zak
+ Notenmix (zakje)","ah [SEP] pistache notenmix gezouten [SEP] Albert Heijn Gezouten pistachemix is een pittige notenmix, heerlijk voor bij de borrel of gewoon als je er zin in hebt. In hetelucht geroosterde pistachenoten Rijk aan fosfor en vitamine E Rijk aan onverzadigde vetten Makkelijk hersluitbaar Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] gezouten noten",ah pistache notenmix gezouten gezouten noten,null,null,null
+0.23462306,11127,541511,AH Biologisch,Zaden & pittenmix,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'biologisch' 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B'
+ 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding
+ Soepen sauzen kruiden olie Snoep koek chips en chocolade Noten
+ Wholefoods Garnering Bakproducten Zaden en pitten
+ Noten pittengarnering Garneringen toevoegingen
+ Pitten (superfoods)",ah biologisch [SEP] zaden & pittenmix [SEP]  [SEP] bio zaden & pitten,ah biologisch zaden & pittenmix bio zaden & pitten,null,null,null
+0.2336714,9659,474702,TastyBasics,Muesli choco en noten,"Deze muesli bevat 60% minder koolhydraten. Het is gemaakt op basis van onbewerkte ingredienten en is rijk aan eiwitten en vezels. Dat voedt beter, Smaakt beter en voelt beter! Voedzaam Rijk aan vezels en eiwitten 0% toegevoegde suikers Lekker krokant","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Muesli (noten)","tastybasics [SEP] muesli choco en noten [SEP] Deze muesli bevat 60% minder koolhydraten. Het is gemaakt op basis van onbewerkte ingredienten en is rijk aan eiwitten en vezels. Dat voedt beter, Smaakt beter en voelt beter! Voedzaam Rijk aan vezels en eiwitten 0% toegevoegde suikers Lekker krokant [SEP] muesli",tastybasics muesli choco en noten muesli,null,null,null
+0.2334879,2658,461511,TastyBasics,Muesli noten en pitten,"Deze muesli bevat 70% minder koolhydraten. Het is gemaakt op basis van onbewerkte ingredienten en is rijk aan eiwitten en vezels. Dat voedt beter, Smaakt beter en voelt beter! Voedzaam Rijk aan vezels en eiwitten 0% toegevoegde suikers Lekker krokant","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Muesli (noten)","tastybasics [SEP] muesli noten en pitten [SEP] Deze muesli bevat 70% minder koolhydraten. Het is gemaakt op basis van onbewerkte ingredienten en is rijk aan eiwitten en vezels. Dat voedt beter, Smaakt beter en voelt beter! Voedzaam Rijk aan vezels en eiwitten 0% toegevoegde suikers Lekker krokant [SEP] muesli",tastybasics muesli noten en pitten muesli,null,null,null
+0.23157765,8571,546331,AH Biologisch,Achterham 4-pack,Altijd fijn voor de voorraad! Dit pakket bestaat uit: AH Biologisch Achterham 4x,[],"Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Ham Ham broodbeleg Achterham
+ Achterham (versafdeling)",ah biologisch [SEP] achterham 4-pack [SEP] Altijd fijn voor de voorraad! Dit pakket bestaat uit: AH Biologisch Achterham 4x [SEP] ,ah biologisch achterham 4-pack ,null,null,null
+0.23034722,18838,490273,AH,Cranberrymix ongezouten,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Notenmix (zakje)",ah [SEP] cranberrymix ongezouten [SEP]  [SEP] 3v6 noten,ah cranberrymix ongezouten 3v6 noten,null,null,null
+0.22968502,4155,495906,AH,Gesneden verspakket Midden-Oos shakshuka,"Wat handig! Met dit pakket maak je in een handomdraai een lekkere midden-oosterse shakshuka, die je met trots op tafel kunt zetten. Zo heb je altijd een bijzondere maaltijd paraat, met lekkere ingredienten en veel groente. En het mooie is: het pakket bevat precies de juiste hoeveelheden. No waste, dus. Voor 2-3 personen Zelf toevoegen: 1 el (zonnebloem)olie, 3 middelgrote eieren Tip: lekker met verkruimelde feta Lekker vega","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen selderij' 'Geen lupine'
+ ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten']","Aardappel groente fruit Salades pizza maaltijden Groente
+ Verspakket Maaltijdpakketten (vers) Groentepakket
+ Oosterse maaltijdpakketten (vers)","ah [SEP] gesneden verspakket midden-oos shakshuka [SEP] Wat handig! Met dit pakket maak je in een handomdraai een lekkere midden-oosterse shakshuka, die je met trots op tafel kunt zetten. Zo heb je altijd een bijzondere maaltijd paraat, met lekkere ingredienten en veel groente. En het mooie is: het pakket bevat precies de juiste hoeveelheden. No waste, dus. Voor 2-3 personen Zelf toevoegen: 1 el (zonnebloem)olie, 3 middelgrote eieren Tip: lekker met verkruimelde feta Lekker vega [SEP] gesneden verspakketten",ah gesneden verspakket midden-oos shakshuka gesneden verspakketten,null,null,null
+0.22872561,2259,539300,AH,Notenrozijnen mix ongebrand,"Mix van ongezouten, ongebrande noten en rozijnen. Niet gebakken in olie Heerlijk in salades, yoghurt","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen sulfiet' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Notenmix (zakje)","ah [SEP] notenrozijnen mix ongebrand [SEP] Mix van ongezouten, ongebrande noten en rozijnen. Niet gebakken in olie Heerlijk in salades, yoghurt [SEP] ongebrand zak",ah notenrozijnen mix ongebrand ongebrand zak,null,null,null
+0.22855628,12065,426104,AH,Notenmix macadamia gezouten,"Albert Heijn Gezouten macadamiamix is een rijke notenmix, heerlijk voor bij de borrel of gewoon als je er zin in hebt. In hetelucht geroosterde maïskorrels en macadamia's Rijk aan fosfor en vitamine E Rijk aan onverzadigde vetten Makkelijk hersluitbaar Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Notenmix (zakje)","ah [SEP] notenmix macadamia gezouten [SEP] Albert Heijn Gezouten macadamiamix is een rijke notenmix, heerlijk voor bij de borrel of gewoon als je er zin in hebt. In hetelucht geroosterde maïskorrels en macadamia's Rijk aan fosfor en vitamine E Rijk aan onverzadigde vetten Makkelijk hersluitbaar Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] gezouten noten",ah notenmix macadamia gezouten gezouten noten,null,null,null
+0.22724815,10158,406403,TastyBasics,Brood lijnzaad,"Dit brood bevat 80% minder koolhydraten. Het is gemaakt op basis van onbewerkte ingredienten en is rijk aan eiwitten en vezels. Dat voedt beter, Smaakt beter en voelt beter! Voedzaam Rijk aan vezels en eiwitten Past in een koolhydraatbewuste leefstijl","['Geen gluten' 'Geen melk' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij']","Bewuste voeding Bakkerij en banket Glutenvrij koolhydraatarm
+ Koolhydraatarm Brood Brood en crackers (koolhydraatarm)","tastybasics [SEP] brood lijnzaad [SEP] Dit brood bevat 80% minder koolhydraten. Het is gemaakt op basis van onbewerkte ingredienten en is rijk aan eiwitten en vezels. Dat voedt beter, Smaakt beter en voelt beter! Voedzaam Rijk aan vezels en eiwitten Past in een koolhydraatbewuste leefstijl [SEP] roggebrood",tastybasics brood lijnzaad roggebrood,null,null,null
+0.2272172,13547,520109,AH,Ongezouten hazelnoten,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Hazelnoten (zakje)",ah [SEP] ongezouten hazelnoten [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] ongezouten noten,ah ongezouten hazelnoten ongezouten noten,null,null,null
+0.22550836,2899,197740,AH,Pecannoten ongezouten,Zorgvuldig geselecteerd Rijk en puur van smaak,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ Pecannoten (bakje)",ah [SEP] pecannoten ongezouten [SEP] Zorgvuldig geselecteerd Rijk en puur van smaak [SEP] ongezouten noten,ah pecannoten ongezouten ongezouten noten,null,null,null
+0.22420117,4097,228505,Consenza,Rijstwafels met chocolade,"Lekkere knapperige rijstwafels met een topping van chocolade op basis van lactosevrije koemelk. Gluten en tarwevrij Lactosevrij minder dan 0,1 g / 100 g Chocolade gemaakt van lactosevrije koemelk per verpakking 6 wafels","['Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Lactosevrij Koek
+ Lactosevrije koek Lactosevrije koek en chocolade","consenza [SEP] rijstwafels met chocolade [SEP] Lekkere knapperige rijstwafels met een topping van chocolade op basis van lactosevrije koemelk. Gluten en tarwevrij Lactosevrij minder dan 0,1 g / 100 g Chocolade gemaakt van lactosevrije koemelk per verpakking 6 wafels [SEP] broodvervangers",consenza rijstwafels met chocolade broodvervangers,null,null,null
+0.22402105,1123,470036,AH Biologisch,Lijnzaad gebroken,"Dit biologische gebroken lijnzaad zit vol vezels en is ideaal om te gebruiken als garnering of ingredient in salades, muffins, yoghurt en smoothies. Puur, onbewerkt en van biologische oorsprong Voor o.a. Zoet bakken, hartig koken of gezond ontbijten Van nature vezelrijk en bevat omega 3 vetzuren","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen selderij']","Ontbijtgranen en beleg Bewuste voeding Ontbijtgranen Wholefoods
+ Zaden en pitten Ontbijtverrijkers (toppings) Lijnzaad","ah biologisch [SEP] lijnzaad gebroken [SEP] Dit biologische gebroken lijnzaad zit vol vezels en is ideaal om te gebruiken als garnering of ingredient in salades, muffins, yoghurt en smoothies. Puur, onbewerkt en van biologische oorsprong Voor o.a. Zoet bakken, hartig koken of gezond ontbijten Van nature vezelrijk en bevat omega 3 vetzuren [SEP] bio zaden & pitten",ah biologisch lijnzaad gebroken bio zaden & pitten,null,null,null
+0.22384232,10241,168749,Maître Mathis,Crisp chocolate vegan lactose free,Heerlijke chocolade waarin de melk is vervangen door rijstmelk. Hierdoor is dit chocoladetablet lactosevrij en volledig plantaardig. Zacht van smaak met krokante stukjes rijst. Glutenvrij Lactosevrij,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Lactosevrij
+ Chocolade Lactosevrije chocolade Lactosevrije koek en chocolade",maître mathis [SEP] crisp chocolate vegan lactose free [SEP] Heerlijke chocolade waarin de melk is vervangen door rijstmelk. Hierdoor is dit chocoladetablet lactosevrij en volledig plantaardig. Zacht van smaak met krokante stukjes rijst. Glutenvrij Lactosevrij [SEP] zoete snacks,maître mathis crisp chocolate vegan lactose free zoete snacks,null,null,null
+0.22227676,10978,539299,AH,Pecannoten ongebrand,"Ongezouten, ongebrande noten. Niet gebakken in olie Van nature rijk aan vtiamine b1 en zink Heerlijk in salades, yoghurt","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Noten Wholefoods
+ Noten in zak Noten (superfoods) Paranoten (zakje)","ah [SEP] pecannoten ongebrand [SEP] Ongezouten, ongebrande noten. Niet gebakken in olie Van nature rijk aan vtiamine b1 en zink Heerlijk in salades, yoghurt [SEP] ongebrand zak",ah pecannoten ongebrand ongebrand zak,null,null,null
+0.22188774,6092,470168,AH Biologisch,Lijnzaad gebroken,"Dit biologische gebroken lijnzaad zit vol vezels en is ideaal om te gebruiken als garnering of als ingredient in salades, muffins, yoghurt en smoothies. Puur, onbewerkt en van biologische oorsprong Voor o.a. Zoet bakken, hartig koken of gezond ontbijten Van nature vezelrijk en bevat omega 3 vetzuren","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen selderij']","Ontbijtgranen en beleg Bewuste voeding Ontbijtgranen Wholefoods
+ Zaden en pitten Ontbijtverrijkers (toppings) Lijnzaad","ah biologisch [SEP] lijnzaad gebroken [SEP] Dit biologische gebroken lijnzaad zit vol vezels en is ideaal om te gebruiken als garnering of als ingredient in salades, muffins, yoghurt en smoothies. Puur, onbewerkt en van biologische oorsprong Voor o.a. Zoet bakken, hartig koken of gezond ontbijten Van nature vezelrijk en bevat omega 3 vetzuren [SEP] bio zaden & pitten",ah biologisch lijnzaad gebroken bio zaden & pitten,null,null,null
+0.21933699,14558,490271,AH,Cashewmix ongezouten,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Cashewnoten (zakje)",ah [SEP] cashewmix ongezouten [SEP]  [SEP] 3v6 noten,ah cashewmix ongezouten 3v6 noten,null,null,null
+0.21920222,7427,518026,TastyBasics,Beschuit meerzaden,"Deze beschuiten bevat 40% minder koolhydraten. Ze zijn gemaakt op basis van onbewerkte ingredienten en zijn rijk aan eiwitten en vezels. Dat voedt beter, Smaakt beter en voelt beter! Voedzaam 40% minder koolhydraten dan in gewone beschuiten Rijk aan vezels en bron van eiwitten 0% suiker toegevoegd","['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen selderij'
+ 'Geen eieren']",Ontbijtgranen en beleg Beschuiten Beschuit,"tastybasics [SEP] beschuit meerzaden [SEP] Deze beschuiten bevat 40% minder koolhydraten. Ze zijn gemaakt op basis van onbewerkte ingredienten en zijn rijk aan eiwitten en vezels. Dat voedt beter, Smaakt beter en voelt beter! Voedzaam 40% minder koolhydraten dan in gewone beschuiten Rijk aan vezels en bron van eiwitten 0% suiker toegevoegd [SEP] beschuit",tastybasics beschuit meerzaden beschuit,null,null,null
+0.21864796,10234,467590,AH,Pistachenoten gezouten,Niet gebakken in olie. Rijk aan fosfor en vitamine b1 Rijk aan onverzadigde vetten Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Pistachenoten (zakje)",ah [SEP] pistachenoten gezouten [SEP] Niet gebakken in olie. Rijk aan fosfor en vitamine b1 Rijk aan onverzadigde vetten Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] grootverpakking basis,ah pistachenoten gezouten grootverpakking basis,null,null,null
+0.21625301,7651,164741,AH,Pecannoten,Ideaal om te gebruiken als garnering voor maaltijden Lekker als toevoeging door de salade Tip: probeer eens zelf bananencake te maken met pecannoten Ook ideaal om te gebruiken als garnering op de taart Verpakt in een bedrijf waar ook andere noten en pinda's worden verwerkt,"['Laag zout' 'Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Laag suiker'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen lupine'
+ ""Geen pinda's"" 'Vegetarisch' 'Laag vet' 'Geen selderij' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Soepen sauzen kruiden olie Snoep koek chips en chocolade
+ Zelf bakken Noten Garnering Bakproducten Noten pittengarnering
+ Garneringen toevoegingen Toevoegingen toppings versiering
+ Noten garnering","ah [SEP] pecannoten [SEP] Ideaal om te gebruiken als garnering voor maaltijden Lekker als toevoeging door de salade Tip: probeer eens zelf bananencake te maken met pecannoten Ook ideaal om te gebruiken als garnering op de taart Verpakt in een bedrijf waar ook andere noten en pinda's worden verwerkt [SEP] bt baknoten, zaden en pitten","ah pecannoten bt baknoten, zaden en pitten",null,null,null
+0.21583131,10077,517427,Bonne Maman,Financiers amandes,"Heerlijke amandel cakejes gemaakt volgens traditioneel frans recept met een rijke roomboter- amandelsmaak. Authentieke franse receptuur Heerlijk rijke boter- en amandelsmaak Individueel verpakt, zo blijft het product altijd vers Zonder bewaarmiddelen, kleur- of kunstmatige smaakstoffen","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen lupine' ""Geen pinda's""
+ 'Vegetarisch' 'Geen melk' 'Geen selderij' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Geen eieren']",Snoep koek chips en chocolade Koek Cake Cakejes,"bonne maman [SEP] financiers amandes [SEP] Heerlijke amandel cakejes gemaakt volgens traditioneel frans recept met een rijke roomboter- amandelsmaak. Authentieke franse receptuur Heerlijk rijke boter- en amandelsmaak Individueel verpakt, zo blijft het product altijd vers Zonder bewaarmiddelen, kleur- of kunstmatige smaakstoffen [SEP] verpakt premium",bonne maman financiers amandes verpakt premium,null,null,null
+0.21480817,14655,548152,BitesWeLove,"Peanuts, raisins & chocolate mix","Een notenmix van pinda's, rozijnen en knapperige erwten omhuld met pure chocolade, jouw natuurlijke, zoete snack. Slechts 163 kcal per zakje Rijk aan vezels, palmolie vrij en Rainforest Alliance gecertificeerd Nutri-Score B Vegan","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Snoep koek chips en chocolade Noten Noten in zak
+ Diverse (zakje)","biteswelove [SEP] peanuts, raisins & chocolate mix [SEP] Een notenmix van pinda's, rozijnen en knapperige erwten omhuld met pure chocolade, jouw natuurlijke, zoete snack. Slechts 163 kcal per zakje Rijk aan vezels, palmolie vrij en Rainforest Alliance gecertificeerd Nutri-Score B Vegan [SEP] hartig noten groente fruit","biteswelove peanuts, raisins & chocolate mix hartig noten groente fruit",null,null,null
+0.21432519,3061,140744,AH,Notenmix ongezouten,"Notenmix naturel, ongezouten.","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ Notenmix (bakje)","ah [SEP] notenmix ongezouten [SEP] Notenmix naturel, ongezouten. [SEP] ongezouten noten",ah notenmix ongezouten ongezouten noten,null,null,null
+0.21391746,1658,508478,AH,Sesam crackers,,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen selderij' 'Geen eieren']","Ontbijtgranen en beleg Bakkerij en banket Tussendoortjes
+ Snoep koek chips en chocolade Toastjes Crackers
+ Crackers rijstwafels Toast-crackers",ah [SEP] sesam crackers [SEP]  [SEP] overige toast,ah sesam crackers overige toast,null,null,null
+0.21350345,6324,539302,AH,Pinda rozijnen & notenmix chocolade,,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Snoep koek chips en chocolade Chocolade Chocoladesnoepjes,ah [SEP] pinda rozijnen & notenmix chocolade [SEP]  [SEP] mb luxe multimix,ah pinda rozijnen & notenmix chocolade mb luxe multimix,null,null,null
+0.21326186,10104,426102,AH,Notenmix ongebrand,"Albert heijn ongezouten notenmix is een gevarieerde notenmix, lekker tussendoor uit het vuistje of bij de borrel. In zonnebloemolie gebrande amandelen Rijk aan fosfor en vitamine e Rijk aan onverzadigde vetten Makkelijk hersluitbaar Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Notenmix (zakje)","ah [SEP] notenmix ongebrand [SEP] Albert heijn ongezouten notenmix is een gevarieerde notenmix, lekker tussendoor uit het vuistje of bij de borrel. In zonnebloemolie gebrande amandelen Rijk aan fosfor en vitamine e Rijk aan onverzadigde vetten Makkelijk hersluitbaar Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] ongezouten noten",ah notenmix ongebrand ongezouten noten,null,null,null
+0.21292897,14068,168748,Maître Mathis,Natural chocolate vegan lactose free,Heerlijke chocolade waarin de melk is vervangen door rijstmelk. Hierdoor is dit chocoladetablet lactosevrij en volledig plantaardig. Zacht en romig van smaak. Glutenvrij Lactosevrij,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Lactosevrij
+ Chocolade Lactosevrije chocolade Lactosevrije koek en chocolade",maître mathis [SEP] natural chocolate vegan lactose free [SEP] Heerlijke chocolade waarin de melk is vervangen door rijstmelk. Hierdoor is dit chocoladetablet lactosevrij en volledig plantaardig. Zacht en romig van smaak. Glutenvrij Lactosevrij [SEP] zoete snacks,maître mathis natural chocolate vegan lactose free zoete snacks,null,null,null
+0.21283273,840,470169,AH Biologisch,Lijnzaad heel,"Dit biologische lijnzaad zit vol vezels en is ideaal voor zoet bakken, hartig koken en gezond ontbijten of als garnering van bijvoorbeeld broden. Puur, onbewerkt en van biologische oorsprong Meng eens een eetlepel lijnzaad door de yoghurt Van nature vezelrijk en bevat omega 3 vetzuren","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen selderij']","Ontbijtgranen en beleg Bewuste voeding Ontbijtgranen Wholefoods
+ Zaden en pitten Ontbijtverrijkers (toppings) Lijnzaad","ah biologisch [SEP] lijnzaad heel [SEP] Dit biologische lijnzaad zit vol vezels en is ideaal voor zoet bakken, hartig koken en gezond ontbijten of als garnering van bijvoorbeeld broden. Puur, onbewerkt en van biologische oorsprong Meng eens een eetlepel lijnzaad door de yoghurt Van nature vezelrijk en bevat omega 3 vetzuren [SEP] bio zaden & pitten",ah biologisch lijnzaad heel bio zaden & pitten,null,null,null
+0.21253741,17965,184618,Organix,Maïs sticks met wortel 10mnd 4st bio,"We geloven dat kleine kinderen recht hebben op gezond eten. Daarom maken we pure voeding, gemaakt van de beste en lekkerste biologische ingredienten zonder onnodige toevoegingen. Zonder onnodige toevoegingen Lekker en verantwoorde babyvoeding Geen suiker toegevoegd, bevat alleen van nature aanwezige suikers Fijne snack om zelf eten te stimuleren","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Baby en kind Babyvoeding Tussendoortjes (baby en kind)
+ Snacks (baby en kind) Vanaf 12 maanden","organix [SEP] maïs sticks met wortel 10mnd 4st bio [SEP] We geloven dat kleine kinderen recht hebben op gezond eten. Daarom maken we pure voeding, gemaakt van de beste en lekkerste biologische ingredienten zonder onnodige toevoegingen. Zonder onnodige toevoegingen Lekker en verantwoorde babyvoeding Geen suiker toegevoegd, bevat alleen van nature aanwezige suikers Fijne snack om zelf eten te stimuleren [SEP] tussendoortjes",organix maïs sticks met wortel 10mnd 4st bio tussendoortjes,null,null,null
+0.21180192,3989,467588,AH,Pinda ongezouten,In zonnebloemolie gebakken. Rijk aan fosfor en vitamine e Rijk aan onverzadigde vetten Lekker knapperig Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ ""Pindas (zakje)""",ah [SEP] pinda ongezouten [SEP] In zonnebloemolie gebakken. Rijk aan fosfor en vitamine e Rijk aan onverzadigde vetten Lekker knapperig Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] pinda's,ah pinda ongezouten pinda's,null,null,null
+0.21075962,12562,408457,Peak's,Rijstmeel glutenvrij,"Glutenvrij rijstmeel. Vrij van: gluten, ei en lactose Voor het maken van (glutenvrije) baksels","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)'
+ 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Glutenvrij
+ Bakproducten Basis bakbenodigdheden Glutenvrije bakproducten
+ Bakkerij glutenvrij Bakproducten (glutenvrij) Basismeel bloem
+ Basismeel (glutenvrij)","peak's [SEP] rijstmeel glutenvrij [SEP] Glutenvrij rijstmeel. Vrij van: gluten, ei en lactose Voor het maken van (glutenvrije) baksels [SEP] bakmixen",peak's rijstmeel glutenvrij bakmixen,null,null,null
+0.21050258,3353,509335,AH,"Handje noten cashew, amandel & rozijn","Een heerlijke notenmix met amandelen, cashewnoten, rozijn & mango In handige portieverpakking Heerlijk voor tussendoor of onderweg Bron van vezels","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Veganistisch' 'Laag zout' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Tussendoortjes
+ Snoep koek chips en chocolade Fruit noten mueslireep Notenrepen
+ Koek","ah [SEP] handje noten cashew, amandel & rozijn [SEP] Een heerlijke notenmix met amandelen, cashewnoten, rozijn & mango In handige portieverpakking Heerlijk voor tussendoor of onderweg Bron van vezels [SEP] hartig noten groente fruit","ah handje noten cashew, amandel & rozijn hartig noten groente fruit",null,null,null
+0.20986617,8746,281469,AH Biologisch,Achterham,"Deze biologische achterham is heerlijk zacht en mals van smaak. Een klassieker op een pistoletje met kaas, tomaat en ei maar ook ideaal op de pizza/tosti of in reepjes door wok- of pasta gerechten. Mals en volle smaak Biologisch varkensvlees Gepekeld, gegaard en gerookt","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Ham Ham broodbeleg Achterham
+ Achterham (versafdeling)","ah biologisch [SEP] achterham [SEP] Deze biologische achterham is heerlijk zacht en mals van smaak. Een klassieker op een pistoletje met kaas, tomaat en ei maar ook ideaal op de pizza/tosti of in reepjes door wok- of pasta gerechten. Mals en volle smaak Biologisch varkensvlees Gepekeld, gegaard en gerookt [SEP] biologisch",ah biologisch achterham biologisch,null,null,null
+0.20898597,871,397829,AH,Ongebrande noten mix,"Mix van ongebrande walnoten, hazelnoten, cashewnoten en amandelen. Lekker om zo eten en ideaal voor in salades, yoghurt en zelfs smoothies. Van nature rijk aan onverzadigde vetten Ongebrand, dus niet gebakken in olie Een lekker en verantwoord tussendoortje Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Notenmix (zakje)","ah [SEP] ongebrande noten mix [SEP] Mix van ongebrande walnoten, hazelnoten, cashewnoten en amandelen. Lekker om zo eten en ideaal voor in salades, yoghurt en zelfs smoothies. Van nature rijk aan onverzadigde vetten Ongebrand, dus niet gebakken in olie Een lekker en verantwoord tussendoortje Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] ongebrande noten",ah ongebrande noten mix ongebrande noten,null,null,null
+0.20892459,3469,487230,AH,Macadamiamix ongezouten,"Een heerlijke mix van macadamia's, cashews en pecans Lekker voor op de borrel of tijdens een feestje Ook zo uit het vuistje Makkelijk afsluitbaar","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Diverse (zakje)","ah [SEP] macadamiamix ongezouten [SEP] Een heerlijke mix van macadamia's, cashews en pecans Lekker voor op de borrel of tijdens een feestje Ook zo uit het vuistje Makkelijk afsluitbaar [SEP] ongezouten noten",ah macadamiamix ongezouten ongezouten noten,null,null,null
+0.2087805,664,547008,AH Biologisch,Ongezouten cashewnoten,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch'
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Cashewnoten (zakje)",ah biologisch [SEP] ongezouten cashewnoten [SEP]  [SEP] ongezouten noten,ah biologisch ongezouten cashewnoten ongezouten noten,null,null,null
+0.2087117,753,509352,AH,"Handje noten pinda, amandel & snackerwt","Een heerlijke mix met pinda's, amandelen en snackertwjes In een handige portieverpakking Heerlijk voor tussendoor of onderweg Rijk van vezels","['Geen gluten' 'Geen melk' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Tussendoortjes
+ Snoep koek chips en chocolade Fruit noten mueslireep Notenrepen
+ Koek","ah [SEP] handje noten pinda, amandel & snackerwt [SEP] Een heerlijke mix met pinda's, amandelen en snackertwjes In een handige portieverpakking Heerlijk voor tussendoor of onderweg Rijk van vezels [SEP] hartig noten groente fruit","ah handje noten pinda, amandel & snackerwt hartig noten groente fruit",null,null,null
+0.20854095,16288,470015,Smaakt,Pinda pompoenrepen less carb,Biologisch. Vrij van kunstmaige geur- kleur- en smaakstoffen Geschikt voor vegetariers en veganisten Zonder geraffineerde toegevoegde suikers,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'biologisch' 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Bewuste voeding Tussendoortjes Koolhydraatarm
+ Tussendoortjes (koolhydraatarm)",smaakt [SEP] pinda pompoenrepen less carb [SEP] Biologisch. Vrij van kunstmaige geur- kleur- en smaakstoffen Geschikt voor vegetariers en veganisten Zonder geraffineerde toegevoegde suikers [SEP] bio tussendoor,smaakt pinda pompoenrepen less carb bio tussendoor,null,null,null
+0.20827875,13381,169338,Conimex,Boemboe sajoer boontjes,"Conimex sajoer boontjes boemboe is een authentieke specerijen- en kruidenpasta uit de indonesische keuken. Conimex sajoer boontjes boemboe is de basis voor zoete, kruidige boontjes Deze mild-pittige kruidenpasta is gemaakt met kokos en rode pepers Een heerlijk gerecht voor 3 tot 4 personen dat klaar is binnen 15 minuten Een kruidenpasta op basis van een authentiek indonesisch recept","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Oosterse keuken Sauzen Maaltijdsauzen internationaal Indonesisch
+ Oosterse sauzen Boemboe","conimex [SEP] boemboe sajoer boontjes [SEP] Conimex sajoer boontjes boemboe is een authentieke specerijen- en kruidenpasta uit de indonesische keuken. Conimex sajoer boontjes boemboe is de basis voor zoete, kruidige boontjes Deze mild-pittige kruidenpasta is gemaakt met kokos en rode pepers Een heerlijk gerecht voor 3 tot 4 personen dat klaar is binnen 15 minuten Een kruidenpasta op basis van een authentiek indonesisch recept [SEP] boemboes en pastes",conimex boemboe sajoer boontjes boemboes en pastes,null,null,null
+0.20748723,19192,413578,Bonne Maman,Meer fruit minder suiker kersenjam,"Bonne Maman Meer Fruit Minder Suiker is gemaakt van de allerhoogste kwaliteit fruit. Door het gebruik van meer fruit, in combinatie met minder suiker en een korte inkooktijd, ontstaat er een pure fruitsmaak. Bonne Maman Fruitbeleg met 30% minder suiker dan traditionele jam Lekker op een croissantje, brood, een pannenkoek of in de yoghurt","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Ontbijtgranen en beleg Zoet broodbeleg Jam Kersenjam,"bonne maman [SEP] meer fruit minder suiker kersenjam [SEP] Bonne Maman Meer Fruit Minder Suiker is gemaakt van de allerhoogste kwaliteit fruit. Door het gebruik van meer fruit, in combinatie met minder suiker en een korte inkooktijd, ontstaat er een pure fruitsmaak. Bonne Maman Fruitbeleg met 30% minder suiker dan traditionele jam Lekker op een croissantje, brood, een pannenkoek of in de yoghurt [SEP] jam",bonne maman meer fruit minder suiker kersenjam jam,null,null,null
+0.20738035,17085,520111,AH,Ongezouten geel fruit notenmix,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen sulfiet' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Ontbijtgranen Wholefoods
+ Noten (superfoods) Ontbijtverrijkers (toppings) Noten en fruitmix",ah [SEP] ongezouten geel fruit notenmix [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] ongezouten noten,ah ongezouten geel fruit notenmix ongezouten noten,null,null,null
+0.20713542,13561,549919,AH Biologisch,Pinda's gezouten,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'biologisch' 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B'
+ 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ ""Pindas (zakje)""",ah biologisch [SEP] pinda's gezouten [SEP]  [SEP] pinda's,ah biologisch pinda's gezouten pinda's,null,null,null
+0.20670426,6128,517348,AH,Ongezouten cranberry notenmix,"Een frisse cranberrymix met amandelen, hazelnoten, cashewnoten en pecans. Lekker als tussendoortje Met gesuikerde cranberry's Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Notenmix (zakje)","ah [SEP] ongezouten cranberry notenmix [SEP] Een frisse cranberrymix met amandelen, hazelnoten, cashewnoten en pecans. Lekker als tussendoortje Met gesuikerde cranberry's Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] grootverpakking basis",ah ongezouten cranberry notenmix grootverpakking basis,null,null,null
+0.20623863,1137,469387,AH Biologisch,Hazelnoten,"De hazelnoten zijn ongebrand, bevatten goede onverzadigde vetzuren en zijn een bron van eiwitten en vezels. Gehakt en geroosterd heerlijk door salades, yoghurt of als topping over een pasta. Van nature rijk aan magnesium, vitamine e, fosfor en onverzadigde vetten De schijf van 5 adviseert een handje noten per dag Ideaal voor in salades, yoghurt en zelfs smoothies","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'biologisch' 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding
+ Soepen sauzen kruiden olie Snoep koek chips en chocolade Noten
+ Wholefoods Garnering Bakproducten Zaden en pitten
+ Noten pittengarnering Garneringen toevoegingen Zaden (diverse)","ah biologisch [SEP] hazelnoten [SEP] De hazelnoten zijn ongebrand, bevatten goede onverzadigde vetzuren en zijn een bron van eiwitten en vezels. Gehakt en geroosterd heerlijk door salades, yoghurt of als topping over een pasta. Van nature rijk aan magnesium, vitamine e, fosfor en onverzadigde vetten De schijf van 5 adviseert een handje noten per dag Ideaal voor in salades, yoghurt en zelfs smoothies [SEP] bio noten",ah biologisch hazelnoten bio noten,null,null,null
+0.20478937,677,161816,AH,Hazelnoten,Ideaal om te gebruiken als garnering voor maaltijden Lekker om kort te roosteren en aan de salade toe te voegen Ook ideaal om te gebruiken als garnering op de taart Verpakt in een bedrijf waar ook andere noten en pinda's worden verwerkt Tip: probeer eens zelf hazelnotenkoekjes te maken,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Soepen sauzen kruiden olie Snoep koek chips en chocolade
+ Zelf bakken Noten Garnering Bakproducten Noten pittengarnering
+ Garneringen toevoegingen Toevoegingen toppings versiering
+ Noten garnering","ah [SEP] hazelnoten [SEP] Ideaal om te gebruiken als garnering voor maaltijden Lekker om kort te roosteren en aan de salade toe te voegen Ook ideaal om te gebruiken als garnering op de taart Verpakt in een bedrijf waar ook andere noten en pinda's worden verwerkt Tip: probeer eens zelf hazelnotenkoekjes te maken [SEP] bt baknoten, zaden en pitten","ah hazelnoten bt baknoten, zaden en pitten",null,null,null
+0.20445085,12808,492910,TastyBasics,Crackers maanzaad en olijf,"Deze crackers bevatten 80% minder koolhydraten. Ze zijn gemaakt op basis van onbewerkte ingredienten en grondstoffen rijk aan eiwitten en/of vezels. Dat voedt beter, Smaakt beter en voelt beter! Voedzaam Rijk aan vezels en eiwitten 0% toegevoegde suikers 8 crackers van ca. 25 gram","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Bewuste voeding Bakkerij en banket Glutenvrij koolhydraatarm
+ Koolhydraatarm Brood Brood en crackers (koolhydraatarm)","tastybasics [SEP] crackers maanzaad en olijf [SEP] Deze crackers bevatten 80% minder koolhydraten. Ze zijn gemaakt op basis van onbewerkte ingredienten en grondstoffen rijk aan eiwitten en/of vezels. Dat voedt beter, Smaakt beter en voelt beter! Voedzaam Rijk aan vezels en eiwitten 0% toegevoegde suikers 8 crackers van ca. 25 gram [SEP] crackers",tastybasics crackers maanzaad en olijf crackers,null,null,null
+0.20435812,14774,67606,AH,Pinda's extra groot ongezouten,"Pinda's extra groot, ongezouten","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ ""Pindas (bakje)""","ah [SEP] pinda's extra groot ongezouten [SEP] Pinda's extra groot, ongezouten [SEP] ongezouten noten",ah pinda's extra groot ongezouten ongezouten noten,null,null,null
+0.20428905,14369,461576,De Kleine Keuken,Letterkoekjes met Chiazaad 12m bio,"We hebben in deze koekjes alleen maar fijne ingredienten gedaan. Vol met vezels en chiazaad. En chiazaad bevat veel vitaminen, mineralen en omega 3 vetzuren. Goed voor jouw mini's dus! Zonder palmvet Gezoet met appelsap Vezelrijk","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Baby en kind Babyvoeding Tussendoortjes (baby en kind)
+ Snacks (baby en kind) Vanaf 12 maanden","de kleine keuken [SEP] letterkoekjes met chiazaad 12m bio [SEP] We hebben in deze koekjes alleen maar fijne ingredienten gedaan. Vol met vezels en chiazaad. En chiazaad bevat veel vitaminen, mineralen en omega 3 vetzuren. Goed voor jouw mini's dus! Zonder palmvet Gezoet met appelsap Vezelrijk [SEP] tussendoortjes",de kleine keuken letterkoekjes met chiazaad 12m bio tussendoortjes,null,null,null
+0.20390332,8503,517277,AH,Multimix pinda & rozijnen,"Een heerlijke zoete mix van gebrande ongezouten pindas, blauw en gele rozijnen en knapperige choco flakes. Een lekkere en verrassende mix voor bij de borrel","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen sulfiet'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score B' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij']","Snoep koek chips en chocolade Noten Noten in zak
+ Diverse (zakje)","ah [SEP] multimix pinda & rozijnen [SEP] Een heerlijke zoete mix van gebrande ongezouten pindas, blauw en gele rozijnen en knapperige choco flakes. Een lekkere en verrassende mix voor bij de borrel [SEP] 3 voor 4",ah multimix pinda & rozijnen 3 voor 4,null,null,null
+0.20355748,10635,407798,AH Glutenvrij,Cakemix,"Bak zelf een lekkere, luchtige cake met deze glutenvrije cakemix op basis van rijstmeel en maismeel. Glutenvrij Zelf margarine en ei toevoegen Versieren naar keuze","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Glutenvrij
+ Bakproducten Glutenvrije bakproducten Bakkerij glutenvrij
+ Bakproducten (glutenvrij) Bak mixen Zoete bakmix (glutenvrij)","ah glutenvrij [SEP] cakemix [SEP] Bak zelf een lekkere, luchtige cake met deze glutenvrije cakemix op basis van rijstmeel en maismeel. Glutenvrij Zelf margarine en ei toevoegen Versieren naar keuze [SEP] bakmixen",ah glutenvrij cakemix bakmixen,null,null,null
+0.20290476,15057,227724,Raw Organic Food,Sultanarozijnen XL,"Deze sultanarozijnen zijn zoet van smaak en lekker als tussendoortje, in Raw snacks, door een salade of als ontbijt met yoghurt of kwark. Biologisch Zongedroogd Onbewerkt Ongezwaveld","['Laag vet' 'Geen gluten' 'Geen lactose' 'Laag zout' 'Geen noten'
+ 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Geen selderij' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam']","Aardappel groente fruit Pasta rijst en wereldkeuken
+ Bewuste voeding Bakkerij en banket Snoep koek chips en chocolade
+ Zelf bakken Wholefoods Fruit Bakproducten
+ Fruit en bessen (superfoods) Toevoegingen toppings versiering
+ Gedroogd fruit Rozijnen (superfoods) Rozijnen","raw organic food [SEP] sultanarozijnen xl [SEP] Deze sultanarozijnen zijn zoet van smaak en lekker als tussendoortje, in Raw snacks, door een salade of als ontbijt met yoghurt of kwark. Biologisch Zongedroogd Onbewerkt Ongezwaveld [SEP] bio gedroogd fruit",raw organic food sultanarozijnen xl bio gedroogd fruit,null,null,null
+0.20255587,6593,524816,De Kleine Keuken,Biologische rijstwafeltjes,"Deze wafeltjes zijn gemaakt met rijst, mais en linzen. Peulvruchten zijn namelijk erg voedzaam en van nature een bron van eiwitten en vezels. Een pietsie wortel  en  pompoen zorgt voor net wat extra's. Zonder toegevoegde suikers Bron van vezels Zonder geur-, kleur- en smaakstoffen Glutenvrij","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Tussendoortjes Rijstwafels
+ Crackers rijstwafels","de kleine keuken [SEP] biologische rijstwafeltjes [SEP] Deze wafeltjes zijn gemaakt met rijst, mais en linzen. Peulvruchten zijn namelijk erg voedzaam en van nature een bron van eiwitten en vezels. Een pietsie wortel  en  pompoen zorgt voor net wat extra's. Zonder toegevoegde suikers Bron van vezels Zonder geur-, kleur- en smaakstoffen Glutenvrij [SEP] tussendoortjes",de kleine keuken biologische rijstwafeltjes tussendoortjes,null,null,null
+0.20253189,11804,470167,AH Biologisch,Studentenhaver,"Een mix van biologische rozijnen, walnoten, paranoten, cashewnoten, amandelen en hazelnoten. De mix is ongebrand, wat betekent dat ze niet zijn gebakken in olie! Pure onbewerkte noten en van biologische oorsprong Lekker als biologisch tussendoortje of voor onderweg Ideaal voor in salades, yoghurt, kwark of havermout Van nature rijk aan vezels en onverzadigde vetten","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch'
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ Notenmix (bakje)","ah biologisch [SEP] studentenhaver [SEP] Een mix van biologische rozijnen, walnoten, paranoten, cashewnoten, amandelen en hazelnoten. De mix is ongebrand, wat betekent dat ze niet zijn gebakken in olie! Pure onbewerkte noten en van biologische oorsprong Lekker als biologisch tussendoortje of voor onderweg Ideaal voor in salades, yoghurt, kwark of havermout Van nature rijk aan vezels en onverzadigde vetten [SEP] bio noten",ah biologisch studentenhaver bio noten,null,null,null
+0.20226355,9827,217701,AH,Cranberrymix ongezouten,"Een frisse cranberrymix met amandelen, hazelnoten, cashewnoten en pecans. Lekker als tussendoortje! In plantaardige olie gebakken Met gesuikerde cranberry's Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Notenmix (zakje)","ah [SEP] cranberrymix ongezouten [SEP] Een frisse cranberrymix met amandelen, hazelnoten, cashewnoten en pecans. Lekker als tussendoortje! In plantaardige olie gebakken Met gesuikerde cranberry's Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] ongezouten noten",ah cranberrymix ongezouten ongezouten noten,null,null,null
+0.20211159,19033,549635,Rawbite,The organic fruit & nut bite protein,"Geniet van de pure smaak van noten en fruit in Rawbite, het ideale gezonde tussendoortje in een praktische multipack. Handig apart van elkaar verpakt om mee te nemen en ideaal om samen te delen. Lekker als gezonde snack, voor on-the-go en ideaal voor en na het sporten Biologisch, vegan en glutenvrij Zonder toegevoegde suikers, bevat alleen van nature aanwezige suikers Perfect om te delen met familie en vrienden","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch'
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']",Sport- en dieetvoeding Dieetvoeding Gezonde snacks,"rawbite [SEP] the organic fruit & nut bite protein [SEP] Geniet van de pure smaak van noten en fruit in Rawbite, het ideale gezonde tussendoortje in een praktische multipack. Handig apart van elkaar verpakt om mee te nemen en ideaal om samen te delen. Lekker als gezonde snack, voor on-the-go en ideaal voor en na het sporten Biologisch, vegan en glutenvrij Zonder toegevoegde suikers, bevat alleen van nature aanwezige suikers Perfect om te delen met familie en vrienden [SEP] bio tussendoor",rawbite the organic fruit & nut bite protein bio tussendoor,null,null,null
+0.20184338,1392,202283,Damhert,Chocopasta lactosevrij,Lactosevrij Heerlijke chocopasta op basis van hazelnoten Geschikt voor een lactosevrij dieet,"['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Bewuste voeding Lactosevrij
+ Zoet broodbeleg Hazelnoot- en chocoladepasta Lactosevrij beleg
+ Lactosevrije chocoladepasta",damhert [SEP] chocopasta lactosevrij [SEP] Lactosevrij Heerlijke chocopasta op basis van hazelnoten Geschikt voor een lactosevrij dieet [SEP] pasta's,damhert chocopasta lactosevrij pasta's,null,null,null
+0.2018214,3791,518118,Snack a Jacks,Sweeeet peanut butter flavour,Snack a jacks sweet peanut butter rijstwafels zijn heerlijk luchtige en knapperige rijstwafels met pinkakaassmaak. Heerlijke pindakaassmaak Slechts 46 kcal per rijstwafel Een rol bevat 13 wafels Een lekker verantwoord tussendoortje,"['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Tussendoortjes Rijstwafels
+ Crackers rijstwafels",snack a jacks [SEP] sweeeet peanut butter flavour [SEP] Snack a jacks sweet peanut butter rijstwafels zijn heerlijk luchtige en knapperige rijstwafels met pinkakaassmaak. Heerlijke pindakaassmaak Slechts 46 kcal per rijstwafel Een rol bevat 13 wafels Een lekker verantwoord tussendoortje [SEP] rijstwafels,snack a jacks sweeeet peanut butter flavour rijstwafels,null,null,null
+0.20096228,12589,403685,Duyvis,Unsalted nutmix cranberry,"Ongezouten, altijd goed, altijd lekker. Een heerlijke notenmix
+				  met cranberries, amandelen, rozijnen, cashewnoten en pompoenzaadjes. Bevatten van nature onverzadigde vetten Bron van vitaminen en mineralen Bevat 4-5 porties","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Notenmix (zakje)","duyvis [SEP] unsalted nutmix cranberry [SEP] Ongezouten, altijd goed, altijd lekker. Een heerlijke notenmix
+				  met cranberries, amandelen, rozijnen, cashewnoten en pompoenzaadjes. Bevatten van nature onverzadigde vetten Bron van vitaminen en mineralen Bevat 4-5 porties [SEP] ongezouten noten",duyvis unsalted nutmix cranberry ongezouten noten,null,null,null
+0.20036077,17113,508521,St Michel,Mini donuts,"Heerlijke cakejes in de vorm van mini donuts. Omhuld en gevuld met melkchocolade, voor de lekkere trek, tussendoor of om mee te nemen. Chocolade mini donuts per twee verpakt Op basis van vrije-uitloopeieren en duurzaam geteelde tarwe Zonder kleurstoffen, conserveringsmiddelen en palmolie Geproduceerd in de st michel koekjesfabriek in Frankrijk","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Snoep koek chips en chocolade Koek Koekjes met chocolade,"st michel [SEP] mini donuts [SEP] Heerlijke cakejes in de vorm van mini donuts. Omhuld en gevuld met melkchocolade, voor de lekkere trek, tussendoor of om mee te nemen. Chocolade mini donuts per twee verpakt Op basis van vrije-uitloopeieren en duurzaam geteelde tarwe Zonder kleurstoffen, conserveringsmiddelen en palmolie Geproduceerd in de st michel koekjesfabriek in Frankrijk [SEP] verpakt kids",st michel mini donuts verpakt kids,null,null,null
+0.20018737,2051,495975,Schnitzer,Baguette grainy,The grainy gluten-free interpretation of the french classic baguette with a nutty taste.refined with linseeds and sesame. Organic and glutenfree Free from lactose Rich in fibre Refined with sesame and linseeds,"['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'biologisch' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lupine' 'Geen lactose' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen noten' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Kerst Bakkerij en banket Kerstontbijt Afbakbrood
+ Afbakbroodjes bruin",schnitzer [SEP] baguette grainy [SEP] The grainy gluten-free interpretation of the french classic baguette with a nutty taste.refined with linseeds and sesame. Organic and glutenfree Free from lactose Rich in fibre Refined with sesame and linseeds [SEP] brood,schnitzer baguette grainy brood,null,null,null
+0.19998735,372,161496,AH,Pistachenoten,Ideaal om te gebruiken als garnering voor maaltijden Ook lekker om kort te roosteren Hak de pistachenoten in kleine stukjes en gebruik als decoratie over je dessert! Gebruik als garnering op de taart! Verpakt in een bedrijf waar ook andere noten en pinda's worden verwerkt,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Soepen sauzen kruiden olie Snoep koek chips en chocolade
+ Zelf bakken Noten Garnering Bakproducten Noten pittengarnering
+ Garneringen toevoegingen Toevoegingen toppings versiering
+ Noten garnering","ah [SEP] pistachenoten [SEP] Ideaal om te gebruiken als garnering voor maaltijden Ook lekker om kort te roosteren Hak de pistachenoten in kleine stukjes en gebruik als decoratie over je dessert! Gebruik als garnering op de taart! Verpakt in een bedrijf waar ook andere noten en pinda's worden verwerkt [SEP] bt baknoten, zaden en pitten","ah pistachenoten bt baknoten, zaden en pitten",null,null,null
+0.19991231,1288,492738,AH,Mexicaanse chili con carne verspakket,"Met dit verspakket maak je in een handomdraai een heerlijke Chili con carne vol verse groenten. Voor 4 personen Zelf toevoegen: 300g rundergehakt, 300g basmatirijst, 2 el olijfolie Tip: serveer met een schepje creme fraiche of Griekse yoghurt en verse koriander Liever vegetarisch? vervang het gehakt voor 400g kidneybonen of kikkerwten","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Salades pizza maaltijden Groente
+ Verspakket Ongesneden Groentepakket Maaltijdpakket (vers)","ah [SEP] mexicaanse chili con carne verspakket [SEP] Met dit verspakket maak je in een handomdraai een heerlijke Chili con carne vol verse groenten. Voor 4 personen Zelf toevoegen: 300g rundergehakt, 300g basmatirijst, 2 el olijfolie Tip: serveer met een schepje creme fraiche of Griekse yoghurt en verse koriander Liever vegetarisch? vervang het gehakt voor 400g kidneybonen of kikkerwten [SEP] onbewerkt verspakket maaltijd",ah mexicaanse chili con carne verspakket onbewerkt verspakket maaltijd,null,null,null
+0.19960222,15378,517325,AH,Multimix choco fruit,"Een heerlijke zoete mix van gebrande ongezouten pindas, suikerpindas, gedroogde gezoete cranberries en chocoladepindas. Een lekkere en verrassende mix voor bij de borrel","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Diverse (zakje)","ah [SEP] multimix choco fruit [SEP] Een heerlijke zoete mix van gebrande ongezouten pindas, suikerpindas, gedroogde gezoete cranberries en chocoladepindas. Een lekkere en verrassende mix voor bij de borrel [SEP] 3 voor 4",ah multimix choco fruit 3 voor 4,null,null,null
+0.19949865,10433,461448,TastyBasics,Muesli naturel,"Deze muesli bevat 70% minder koolhydraten. Het is gemaakt op basis van onbewerkte ingredienten en is rijk aan eiwitten en vezels. Dat voedt beter, Smaakt beter en voelt beter! Voedzaam Rijk aan vezels en eiwitten 0% toegevoegde suikers Lekker krokant","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Muesli (naturel)","tastybasics [SEP] muesli naturel [SEP] Deze muesli bevat 70% minder koolhydraten. Het is gemaakt op basis van onbewerkte ingredienten en is rijk aan eiwitten en vezels. Dat voedt beter, Smaakt beter en voelt beter! Voedzaam Rijk aan vezels en eiwitten 0% toegevoegde suikers Lekker krokant [SEP] muesli",tastybasics muesli naturel muesli,null,null,null
+0.19907793,10729,518140,TastyBasics,Beschuit zonnebloem- en pompoenpitten,"Deze beschuiten bevat 40% minder koolhydraten. Ze zijn gemaakt op basis van onbewerkte ingredienten en zijn rijk aan eiwitten en vezels. Dat voedt beter, Smaakt beter en voelt beter! Voedzaam 40% minder koolhydraten dan in gewone beschuiten Rijk aan vezels en bron van eiwitten 0% suiker toegevoegd","['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen selderij'
+ 'Geen eieren']",Ontbijtgranen en beleg Beschuiten Beschuit,"tastybasics [SEP] beschuit zonnebloem- en pompoenpitten [SEP] Deze beschuiten bevat 40% minder koolhydraten. Ze zijn gemaakt op basis van onbewerkte ingredienten en zijn rijk aan eiwitten en vezels. Dat voedt beter, Smaakt beter en voelt beter! Voedzaam 40% minder koolhydraten dan in gewone beschuiten Rijk aan vezels en bron van eiwitten 0% suiker toegevoegd [SEP] beschuit",tastybasics beschuit zonnebloem- en pompoenpitten beschuit,null,null,null
+0.19899121,3842,509342,AH Glutenvrij,Witte bolletjes,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen selderij' 'Geen eieren'
+ 'Geen gluten']","Bewuste voeding Bakkerij en banket Glutenvrij koolhydraatarm
+ Glutenvrij Brood Bakkerij glutenvrij Brood (glutenvrij)
+ Glutenvrij brood",ah glutenvrij [SEP] witte bolletjes [SEP]  [SEP] brood,ah glutenvrij witte bolletjes brood,null,null,null
+0.19871736,19752,539304,AH,Pinda en maïsmix gezouten,,"['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Vegetarisch'
+ 'Geen selderij']","Snoep koek chips en chocolade Noten Noten in bakje
+ ""Pindas (bakje)""",ah [SEP] pinda en maïsmix gezouten [SEP]  [SEP] mb luxe multimix,ah pinda en maïsmix gezouten mb luxe multimix,null,null,null
+0.1982049,10542,196723,Duyvis,Oven baked peanuts honey salt,Deze pinda's zijn met honing knapperig geroosterd in de oven en vervolgens zorgvuldig op smaak gebracht met een beetje zout en suiker Een verrassende zoet-zoute smaakcombinatie Bevat 5-6 porties,"['Geen gluten' 'Geen melk' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Snoep koek chips en chocolade Noten Noten in zak
+ ""Pindas (zakje)""",duyvis [SEP] oven baked peanuts honey salt [SEP] Deze pinda's zijn met honing knapperig geroosterd in de oven en vervolgens zorgvuldig op smaak gebracht met een beetje zout en suiker Een verrassende zoet-zoute smaakcombinatie Bevat 5-6 porties [SEP] pinda's,duyvis oven baked peanuts honey salt pinda's,null,null,null
+0.19797954,14271,467431,BioToday,Mini snacker maanzaad kurkema,Deze less carb mini snackers poppyseed turmeric van biotoday zijn heerlijk als tussendoortje of maken je borrelplank helemaal compleet. Alleen natuurlijke ingredienten Bron van eiwitten Zonder toegevoegde suikers Vezelrijk,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'biologisch' 'Laag vet' 'Geen lactose' 'Geen sulfiet' 'Geen sesam'
+ 'Veganistisch' 'Laag zout' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen mosterd' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Ontbijtgranen Wholefoods
+ Fruit en bessen (superfoods) Ontbijtverrijkers (toppings)
+ Fruit en pittenmix",biotoday [SEP] mini snacker maanzaad kurkema [SEP] Deze less carb mini snackers poppyseed turmeric van biotoday zijn heerlijk als tussendoortje of maken je borrelplank helemaal compleet. Alleen natuurlijke ingredienten Bron van eiwitten Zonder toegevoegde suikers Vezelrijk [SEP] bio tussendoor,biotoday mini snacker maanzaad kurkema bio tussendoor,null,null,null
+0.19788903,19776,494267,AH,Moon crackers,Rijstzoutjes met sojasaus. Subtiele soja smaak,"['Geen gluten' 'Geen melk' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen selderij']",Snoep koek chips en chocolade Zoutjes Zoutjes-crackers,ah [SEP] moon crackers [SEP] Rijstzoutjes met sojasaus. Subtiele soja smaak [SEP] 3v6 noten,ah moon crackers 3v6 noten,null,null,null
+0.19779272,13709,509375,AH,"Handje noten walnoot, banaan & pure choc","Een heerlijke mix van walnoot, banaan & chocoladerozijnen In een handige portieverpakking Heerlijk voor tussendoor of onderweg Rijk aan vezels","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score B'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Tussendoortjes
+ Snoep koek chips en chocolade Fruit noten mueslireep Notenrepen
+ Koek","ah [SEP] handje noten walnoot, banaan & pure choc [SEP] Een heerlijke mix van walnoot, banaan & chocoladerozijnen In een handige portieverpakking Heerlijk voor tussendoor of onderweg Rijk aan vezels [SEP] hartig noten groente fruit","ah handje noten walnoot, banaan & pure choc hartig noten groente fruit",null,null,null
+0.19606109,14199,469388,AH Biologisch,Paranoten,"De paranoten zijn ongebrand en hebben een romige smaak. Lekker om zo te eten, maar ook ideaal in bijvoorbeeld taarten of banaanbrood. Pure en onbewerkte noten Van nature rijk aan magnesium, vitamine e, fosfor, zink en onverzadigde vetten Een handje noten per dag draagt bij aan een gezond voedingspatroon Ideaal voor in salades, yoghurt en zelfs smoothies","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'biologisch' 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Noten Wholefoods
+ Noten in zak Noten (superfoods) Paranoten (zakje)","ah biologisch [SEP] paranoten [SEP] De paranoten zijn ongebrand en hebben een romige smaak. Lekker om zo te eten, maar ook ideaal in bijvoorbeeld taarten of banaanbrood. Pure en onbewerkte noten Van nature rijk aan magnesium, vitamine e, fosfor, zink en onverzadigde vetten Een handje noten per dag draagt bij aan een gezond voedingspatroon Ideaal voor in salades, yoghurt en zelfs smoothies [SEP] bio noten",ah biologisch paranoten bio noten,null,null,null
+0.19575638,18801,548760,Beyond Meat,Schnitzel,"Beyond schnitzel chicken-style een klassieker waar iedereen van houdt, maar dan plantaardig. Krokant van buiten, mals vanbinnen. snel en makkelijk te bereiden in de pan, (air)fryer of oven hoog in eiwit uit tarwe en tuinbonen 15 gram eiwit per 100g heerlijk met frietjes en een salade erbij","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Vlees kip vis vega Vegetarisch en vegan Vleesvervangers
+ Vegetarische schnitzel","beyond meat [SEP] schnitzel [SEP] Beyond schnitzel chicken-style een klassieker waar iedereen van houdt, maar dan plantaardig. Krokant van buiten, mals vanbinnen. snel en makkelijk te bereiden in de pan, (air)fryer of oven hoog in eiwit uit tarwe en tuinbonen 15 gram eiwit per 100g heerlijk met frietjes en een salade erbij [SEP] schnitzels",beyond meat schnitzel schnitzels,null,null,null
+0.19389677,13688,217671,AH,Pepitamix gezouten,Met pittig gekruide pinda's en amandelen In plantaardige olie gebakken Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen melk' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Geen sesam' 'Geen vis' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Vegetarisch' 'Geen selderij' 'Geen eieren']","Snoep koek chips en chocolade Noten Noten in zak
+ Notenmix (zakje)",ah [SEP] pepitamix gezouten [SEP] Met pittig gekruide pinda's en amandelen In plantaardige olie gebakken Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] gezouten noten,ah pepitamix gezouten gezouten noten,null,null,null
+0.193612,3137,456237,AH Biologisch,Maiswafels lijnzaad,Bijzonder smaakvolle biologische maiswafels met lijnzaad. Heerlijk om zo te eten of met je favoriete beleg. Biologisch en glutenvrij. Lekker tussendoortje Lekker met kaas of Ahgroentespread,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' 'biologisch'
+ ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet'
+ 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Tussendoortjes Maiswafels
+ Crackers rijstwafels",ah biologisch [SEP] maiswafels lijnzaad [SEP] Bijzonder smaakvolle biologische maiswafels met lijnzaad. Heerlijk om zo te eten of met je favoriete beleg. Biologisch en glutenvrij. Lekker tussendoortje Lekker met kaas of Ahgroentespread [SEP] rijstwafels,ah biologisch maiswafels lijnzaad rijstwafels,null,null,null
+0.19355485,18711,549634,Rawbite,The organic fruit & nut bite cacao,"Geniet van de pure smaak van noten en fruit in Rawbite, het ideale gezonde tussendoortje in een praktische multipack. Handig apart van elkaar verpakt om mee te nemen en ideaal om samen te delen. Lekker als gezonde snack, voor on-the-go en ideaal voor en na het sporten Biologisch, vegan en glutenvrij Zonder toegevoegde suikers, bevat alleen van nature aanwezige suikers Perfect om te delen met familie en vrienden","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch'
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']",Sport- en dieetvoeding Dieetvoeding Gezonde snacks,"rawbite [SEP] the organic fruit & nut bite cacao [SEP] Geniet van de pure smaak van noten en fruit in Rawbite, het ideale gezonde tussendoortje in een praktische multipack. Handig apart van elkaar verpakt om mee te nemen en ideaal om samen te delen. Lekker als gezonde snack, voor on-the-go en ideaal voor en na het sporten Biologisch, vegan en glutenvrij Zonder toegevoegde suikers, bevat alleen van nature aanwezige suikers Perfect om te delen met familie en vrienden [SEP] bio tussendoor",rawbite the organic fruit & nut bite cacao bio tussendoor,null,null,null
+0.19213626,11739,470014,Smaakt,Pinda cashewrepen less carb,Biologisch. Vrij van kunstmaige geur- kleur- en smaakstoffen Geschikt voor vegetariers en veganisten Zonder geraffineerde toegevoegde suikers,"['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'biologisch' 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Bewuste voeding Tussendoortjes Koolhydraatarm
+ Tussendoortjes (koolhydraatarm)",smaakt [SEP] pinda cashewrepen less carb [SEP] Biologisch. Vrij van kunstmaige geur- kleur- en smaakstoffen Geschikt voor vegetariers en veganisten Zonder geraffineerde toegevoegde suikers [SEP] bio tussendoor,smaakt pinda cashewrepen less carb bio tussendoor,null,null,null
+0.19192228,8324,494119,AH Glutenvrij,Vezelrijke broodmix,Met de mix maak je zelf in een mum van tijd een lekker en voedzaam glutenvrij brood. Door de toevoeging van zaden en zonnebloempitten krijgt het brood extra textuur en smaak.,"['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lupine' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Glutenvrij koolhydraatarm
+ Zelf bakken Brood Glutenvrij Bakproducten
+ Glutenvrije bakproducten Brood (glutenvrij) Bakmix
+ Bakkerij glutenvrij Bakproducten (glutenvrij) Bak mixen Broodmix
+ Glutenvrije broodmix Broodmix croissantdeeg",ah glutenvrij [SEP] vezelrijke broodmix [SEP] Met de mix maak je zelf in een mum van tijd een lekker en voedzaam glutenvrij brood. Door de toevoeging van zaden en zonnebloempitten krijgt het brood extra textuur en smaak. [SEP] bakmixen,ah glutenvrij vezelrijke broodmix bakmixen,null,null,null
+0.19188693,8194,509286,AH Glutenvrij,Kampioentjes,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen selderij' 'Geen eieren'
+ 'Geen gluten']","Bewuste voeding Bakkerij en banket Glutenvrij koolhydraatarm
+ Glutenvrij Brood Bakkerij glutenvrij Brood (glutenvrij)
+ Glutenvrij brood",ah glutenvrij [SEP] kampioentjes [SEP]  [SEP] brood,ah glutenvrij kampioentjes brood,null,null,null
+0.1918067,80,166847,Nestlé,After eight mint chocolate thins,"Nestle after eight 200g is een doosje vol heerlijke dunne pepermunt pralines omhuld met pure chocolade. Chocolade met een vulling van munt ideaal voor na de maaltijd 24 stuks individueel verpakt in een stijlvol papieren envelopje Elke portie (1 portie = 2 pralines) bevat 71 calorieen Utz gecertificeerde cacao, ingekocht via het Nestle cocoa plan","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Snoep koek chips en chocolade Chocolade Luxe chocolade,"nestlé [SEP] after eight mint chocolate thins [SEP] Nestle after eight 200g is een doosje vol heerlijke dunne pepermunt pralines omhuld met pure chocolade. Chocolade met een vulling van munt ideaal voor na de maaltijd 24 stuks individueel verpakt in een stijlvol papieren envelopje Elke portie (1 portie = 2 pralines) bevat 71 calorieen Utz gecertificeerde cacao, ingekocht via het Nestle cocoa plan [SEP] specialiteiten",nestlé after eight mint chocolate thins specialiteiten,null,null,null

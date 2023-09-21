@@ -1,0 +1,784 @@
+scoreLLM score,ann,prd_id,brand,title,highlights,properties,taxonomies,full_text,full_text_no_sep,Unnamed: 0,search_query,scorePropensity score
+0.64895284,8680,233263,Duryea,Maizena,"De originele binder voor sauzen, jus en groente. Maakt groente extra lekker 100% zuivere maïszetmeel van de allerbeste kwaliteit","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Basis bakbenodigdheden Bindmiddel","duryea [SEP] maizena [SEP] De originele binder voor sauzen, jus en groente. Maakt groente extra lekker 100% zuivere maïszetmeel van de allerbeste kwaliteit [SEP] hm bindmiddel paneermiddel",duryea maizena hm bindmiddel paneermiddel,null,null,null
+0.64722264,10292,498433,Koopmans,Maizena,"Bindmiddel op basis van mais. Met Koopmans maizena bind je heel gemakkelijk al jouw gerechten Geschikt voor soep, jus, saus, groentenat, stoofschotels etc Koopmans maizena is neutraal van smaak en blank van kleur","['Laag vet' 'Geen gluten' 'Geen lactose' 'Laag zout'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Veganistisch' 'Laag suiker' 'Geen schelpdieren (schaaldieren)'
+ 'Vegetarisch' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen selderij' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Geen eieren']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Basis bakbenodigdheden Bindmiddel","koopmans [SEP] maizena [SEP] Bindmiddel op basis van mais. Met Koopmans maizena bind je heel gemakkelijk al jouw gerechten Geschikt voor soep, jus, saus, groentenat, stoofschotels etc Koopmans maizena is neutraal van smaak en blank van kleur [SEP] hm bindmiddel paneermiddel",koopmans maizena hm bindmiddel paneermiddel,null,null,null
+0.5379471,19752,539304,AH,Pinda en maïsmix gezouten,,"['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Vegetarisch'
+ 'Geen selderij']","Snoep koek chips en chocolade Noten Noten in bakje
+ ""Pindas (bakje)""",ah [SEP] pinda en maïsmix gezouten [SEP]  [SEP] mb luxe multimix,ah pinda en maïsmix gezouten mb luxe multimix,null,null,null
+0.46334705,13924,104064,Bonduelle,Crispy maïs,"Een gouden medaille, voor een goudgele korrel. Onze Bonduelle Crispy mais is niet meer weg te denken uit de Nederlandse voorraadkast. Dan is het aan jou om er een heerlijk gerecht van te maken. Gestoomd voor een heerlijke crrrrrispy bite Vrij van restanten van bestrijdingsmiddelen Van nature zoete smaak! Lekker in salades en (mexicaanse) gerechten Gerijpt onder de europese zon","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Soepen sauzen kruiden olie Conserven
+ Groente Groenteconserven Tomaat paprika mais Mais (conserven)
+ Mais Maiskorrels (conserven)","bonduelle [SEP] crispy maïs [SEP] Een gouden medaille, voor een goudgele korrel. Onze Bonduelle Crispy mais is niet meer weg te denken uit de Nederlandse voorraadkast. Dan is het aan jou om er een heerlijk gerecht van te maken. Gestoomd voor een heerlijke crrrrrispy bite Vrij van restanten van bestrijdingsmiddelen Van nature zoete smaak! Lekker in salades en (mexicaanse) gerechten Gerijpt onder de europese zon [SEP] mais",bonduelle crispy maïs mais,null,null,null
+0.46334705,8283,3537,Bonduelle,Crispy maïs,"Een gouden medaille, voor een goudgele korrel. Onze Bonduelle Crispy mais is niet meer weg te denken uit de Nederlandse voorraadkast. Dan is het aan jou om er een heerlijk gerecht van te maken. Gestoomd voor een heerlijke crrrrrispy bite Vrij van restanten van bestrijdingsmiddelen Van nature zoete smaak! Lekker in salades en (mexicaanse) gerechten Gerijpt onder de europese zon","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Soepen sauzen kruiden olie Conserven
+ Groente Groenteconserven Tomaat paprika mais Mais (conserven)
+ Mais Maiskorrels (conserven)","bonduelle [SEP] crispy maïs [SEP] Een gouden medaille, voor een goudgele korrel. Onze Bonduelle Crispy mais is niet meer weg te denken uit de Nederlandse voorraadkast. Dan is het aan jou om er een heerlijk gerecht van te maken. Gestoomd voor een heerlijke crrrrrispy bite Vrij van restanten van bestrijdingsmiddelen Van nature zoete smaak! Lekker in salades en (mexicaanse) gerechten Gerijpt onder de europese zon [SEP] mais",bonduelle crispy maïs mais,null,null,null
+0.45485777,15943,550324,AH,Maïskorrels,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Diepvries Diepvries groente Groente
+ Mais (diepvries) Tomaat paprika mais Mais",ah [SEP] maïskorrels [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] groente basis,ah maïskorrels groente basis,null,null,null
+0.44933188,15220,510686,Molensteen,Havermeel,"Havermeel. Rijk aan vezels en bron van eiwitten Ideaal voor het maken van brood, crackers, koekjes en pannenkoeken Voedzaam en verantwoord product","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Wholefoods Basis bakbenodigdheden Granen en melen
+ Basismeel bloem Melen (superfood)","molensteen [SEP] havermeel [SEP] Havermeel. Rijk aan vezels en bron van eiwitten Ideaal voor het maken van brood, crackers, koekjes en pannenkoeken Voedzaam en verantwoord product [SEP] hm basismeel",molensteen havermeel hm basismeel,null,null,null
+0.4393263,10352,456003,Zonnatura,Havermout meerzaden glutenvrij,Zonnatura biologische havermout meerzaden bevat quinoa en twee soorten zaden. Glutenvrij Rijk aan vezels 100% biologisch 0% onnodige toevoegingen,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Ontbijtgranen Havermout en pap Havermout
+ Havermout (regular)",zonnatura [SEP] havermout meerzaden glutenvrij [SEP] Zonnatura biologische havermout meerzaden bevat quinoa en twee soorten zaden. Glutenvrij Rijk aan vezels 100% biologisch 0% onnodige toevoegingen [SEP] ontbijtgranen,zonnatura havermout meerzaden glutenvrij ontbijtgranen,null,null,null
+0.43626738,6299,225016,Smaakt,Maismeel biologisch,Maismeel is licht verteerbaar en kan onder andere worden gebruikt om tortilla's en maisbrood mee te bakken. Of bijvoorbeeld een maispapje.,"['Geen gluten' 'Geen melk' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Glutenvrij
+ Bakproducten Basis bakbenodigdheden Glutenvrije bakproducten
+ Bakkerij glutenvrij Bakproducten (glutenvrij) Basismeel bloem
+ Maismeel",smaakt [SEP] maismeel biologisch [SEP] Maismeel is licht verteerbaar en kan onder andere worden gebruikt om tortilla's en maisbrood mee te bakken. Of bijvoorbeeld een maispapje. [SEP] bio melen en bakken,smaakt maismeel biologisch bio melen en bakken,null,null,null
+0.4356744,9918,39187,Bonduelle,Maïs mexicana,"Staat een vakantie naar een warm land voorlopig niet in de sterren? niet getreurd. Onze mais mexicana is gevuld met mais, erwtjes en zongerijpte paprikas. Voor het vakantiegevoel in eigen keuken. Na de oogst gestoomd voor de beste smaak en bite Knapperige mais in de mix met erwtjes en zongerijpte paprikas Lekker in de Mexicaanse maaltijd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Conserven Groenteconserven
+ Groentemix (conserven) Groenemix (conserven)","bonduelle [SEP] maïs mexicana [SEP] Staat een vakantie naar een warm land voorlopig niet in de sterren? niet getreurd. Onze mais mexicana is gevuld met mais, erwtjes en zongerijpte paprikas. Voor het vakantiegevoel in eigen keuken. Na de oogst gestoomd voor de beste smaak en bite Knapperige mais in de mix met erwtjes en zongerijpte paprikas Lekker in de Mexicaanse maaltijd [SEP] traditionele groente",bonduelle maïs mexicana traditionele groente,null,null,null
+0.4356744,8612,39188,Bonduelle,Maïs mexicana,"Staat een vakantie naar een warm land voorlopig niet in de sterren? niet getreurd. Onze mais mexicana is gevuld met mais, erwtjes en zongerijpte paprikas. Voor het vakantiegevoel in eigen keuken. Na de oogst gestoomd voor de beste smaak en bite Knapperige mais in de mix met erwtjes en zongerijpte paprikas Lekker in de Mexicaanse maaltijd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Conserven Groenteconserven
+ Groentemix (conserven) Groenemix (conserven)","bonduelle [SEP] maïs mexicana [SEP] Staat een vakantie naar een warm land voorlopig niet in de sterren? niet getreurd. Onze mais mexicana is gevuld met mais, erwtjes en zongerijpte paprikas. Voor het vakantiegevoel in eigen keuken. Na de oogst gestoomd voor de beste smaak en bite Knapperige mais in de mix met erwtjes en zongerijpte paprikas Lekker in de Mexicaanse maaltijd [SEP] traditionele groente",bonduelle maïs mexicana traditionele groente,null,null,null
+0.42778677,12114,203867,Pan,Voorgekookt wit maismeel,"Pan voorgekookte witte maismeel is de basis voor vele Zuid-Amerikaanse gerechten Basis voor het maken van arepas, maiskoekjes of pap","['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Glutenvrij
+ Bakproducten Basis bakbenodigdheden Glutenvrije bakproducten
+ Bakkerij glutenvrij Bakproducten (glutenvrij) Basismeel bloem
+ Maismeel","pan [SEP] voorgekookt wit maismeel [SEP] Pan voorgekookte witte maismeel is de basis voor vele Zuid-Amerikaanse gerechten Basis voor het maken van arepas, maiskoekjes of pap [SEP] gedroogde peulvruchten",pan voorgekookt wit maismeel gedroogde peulvruchten,null,null,null
+0.4268872,12904,492782,Molensteen,Mix voor meergranen brood,Mix voor meergranen brood. Gist is al in de broodmix toegevoegd Voor een brood van ca 750 g Met zaden en pitten Geschikt voor broodbakmachine en oven,"['Geen gluten' 'Laag zout' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen schelpdieren (schaaldieren)' 'Vegetarisch' 'Geen noten'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen selderij' 'Geen mosterd'
+ 'Geen lupine' 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Geen eieren']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Bak mixen Bakmix Broodmix Broodmix croissantdeeg
+ Broodmix (diverse)",molensteen [SEP] mix voor meergranen brood [SEP] Mix voor meergranen brood. Gist is al in de broodmix toegevoegd Voor een brood van ca 750 g Met zaden en pitten Geschikt voor broodbakmachine en oven [SEP] hm brood hartige mix,molensteen mix voor meergranen brood hm brood hartige mix,null,null,null
+0.42108217,10846,416457,AH,Geroosterde mais gezouten,Lekker krokante maïssnack voor bij de borrel of als tussendoortje. Natuurlijk lekker! Op smaak gebracht met een snufje zout Gebakken in zonnebloemolie Voor de hartige trek,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Diverse (zakje)",ah [SEP] geroosterde mais gezouten [SEP] Lekker krokante maïssnack voor bij de borrel of als tussendoortje. Natuurlijk lekker! Op smaak gebracht met een snufje zout Gebakken in zonnebloemolie Voor de hartige trek [SEP] rijstzoutjes,ah geroosterde mais gezouten rijstzoutjes,null,null,null
+0.41892532,1431,475245,AH Biologisch,5-granenmix,"Een heerlijke vlokkenmix van haver, gerst, tarwe en rijst met gepofte quinoa. Biologisch Vezelrijk Bron van eiwitten Zonder toegevoegde suikers","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen selderij']","Ontbijtgranen en beleg Bewuste voeding Ontbijtgranen Wholefoods
+ Granen en melen Ontbijtverrijkers (toppings) Graanvlokken gepoft","ah biologisch [SEP] 5-granenmix [SEP] Een heerlijke vlokkenmix van haver, gerst, tarwe en rijst met gepofte quinoa. Biologisch Vezelrijk Bron van eiwitten Zonder toegevoegde suikers [SEP] bio ontbijt en lunch",ah biologisch 5-granenmix bio ontbijt en lunch,null,null,null
+0.41646296,4349,182993,Bonduelle,Crispy maïs bio,"Bijdragen aan een betere wereld? dat kan gewoon vanaf de keukentafel. Bord na bord. Uiteraard gevuld met lekkere, gezonde groenten van biologische oorsprong. Bonduelle Crispy mais Bio bijvoorbeeld. Gestoomd voor de lekkerste smaak Biologisch geteeld en gerijpt onder de zon Geeft smaak, kleur en bite aan je gerechten Met europees keurmerk","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Soepen sauzen kruiden olie Conserven
+ Groente Groenteconserven Tomaat paprika mais Mais (conserven)
+ Mais Maiskorrels (conserven)","bonduelle [SEP] crispy maïs bio [SEP] Bijdragen aan een betere wereld? dat kan gewoon vanaf de keukentafel. Bord na bord. Uiteraard gevuld met lekkere, gezonde groenten van biologische oorsprong. Bonduelle Crispy mais Bio bijvoorbeeld. Gestoomd voor de lekkerste smaak Biologisch geteeld en gerijpt onder de zon Geeft smaak, kleur en bite aan je gerechten Met europees keurmerk [SEP] mais",bonduelle crispy maïs bio mais,null,null,null
+0.41524807,19614,513765,Bonduelle,Bio crispy maïs 2 mini's,"Een kleiner formaat, voor de perfecte portie. Ideaal om een gerecht snel van extra groente, smaak en kleur te voorzien. Geteeld met zorg voor de bodem, plant en planeet. Bio-logisch! De perfecte portie voor een persoon Zonder zout en van nature zoet Met europees keurmerk Boordevol vezels en andere goede voedingsstoffen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Soepen sauzen kruiden olie Conserven
+ Groente Groenteconserven Tomaat paprika mais Mais (conserven)
+ Mais Maiskorrels (conserven)","bonduelle [SEP] bio crispy maïs 2 mini's [SEP] Een kleiner formaat, voor de perfecte portie. Ideaal om een gerecht snel van extra groente, smaak en kleur te voorzien. Geteeld met zorg voor de bodem, plant en planeet. Bio-logisch! De perfecte portie voor een persoon Zonder zout en van nature zoet Met europees keurmerk Boordevol vezels en andere goede voedingsstoffen [SEP] mais",bonduelle bio crispy maïs 2 mini's mais,null,null,null
+0.40797418,14441,225014,Smaakt,Volkoren havermout,"Het is ideaal voor het bakken van pannenkoeken, cakes en muffins. Voeg (max. 20%) havermeel toe aan een glutenbevattend meel voor het bakken van een verrijkt brood. Biologisch Zonder kunstmatige geur-, kleur- en smaakstoffen 100% haver Veelzijdig te gebruiken","['Geen gluten' 'Geen melk' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Havermout en pap Havermout
+ Havermout (regular)","smaakt [SEP] volkoren havermout [SEP] Het is ideaal voor het bakken van pannenkoeken, cakes en muffins. Voeg (max. 20%) havermeel toe aan een glutenbevattend meel voor het bakken van een verrijkt brood. Biologisch Zonder kunstmatige geur-, kleur- en smaakstoffen 100% haver Veelzijdig te gebruiken [SEP] bio ontbijt en lunch",smaakt volkoren havermout bio ontbijt en lunch,null,null,null
+0.40698427,3264,203804,AH,Mexicaanse Mix,Mix van maïs- en rijstzoutjes en gecoate pompoenpitten Licht pittig van smaak,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Vegetarisch'
+ 'Geen selderij']",Snoep koek chips en chocolade Zoutjes Rijstzoutjes,ah [SEP] mexicaanse mix [SEP] Mix van maïs- en rijstzoutjes en gecoate pompoenpitten Licht pittig van smaak [SEP] rijstzoutjes,ah mexicaanse mix rijstzoutjes,null,null,null
+0.40602186,12562,408457,Peak's,Rijstmeel glutenvrij,"Glutenvrij rijstmeel. Vrij van: gluten, ei en lactose Voor het maken van (glutenvrije) baksels","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)'
+ 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Glutenvrij
+ Bakproducten Basis bakbenodigdheden Glutenvrije bakproducten
+ Bakkerij glutenvrij Bakproducten (glutenvrij) Basismeel bloem
+ Basismeel (glutenvrij)","peak's [SEP] rijstmeel glutenvrij [SEP] Glutenvrij rijstmeel. Vrij van: gluten, ei en lactose Voor het maken van (glutenvrije) baksels [SEP] bakmixen",peak's rijstmeel glutenvrij bakmixen,null,null,null
+0.4045508,7054,483455,Molensteen,Biologisch tarwebloem,"Biologisch tarwebloem. Gemaakt van biologisch geteelde tarwe Ideaal voor maken van koekjes, brood, pizzabodems Als vervanging voor zelfrijzend bakmeel bij toevoeging van gist","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ 'biologisch' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Basis bakbenodigdheden Basismeel bloem Tarwebloem","molensteen [SEP] biologisch tarwebloem [SEP] Biologisch tarwebloem. Gemaakt van biologisch geteelde tarwe Ideaal voor maken van koekjes, brood, pizzabodems Als vervanging voor zelfrijzend bakmeel bij toevoeging van gist [SEP] hm basismeel",molensteen biologisch tarwebloem hm basismeel,null,null,null
+0.4028134,5241,420734,Molensteen,Amandelmeel,"Amandelmeel is ideaal voor gebruik in baksels zoals brood, cake, koekjes, taart of pannenkoeken. Als vervanging van tarwebloem of voor een lichte amandelsmaak te geven. Van nature rijk aan vezels en bron van eiwit en goede vetten 100% amandelmeel Makkelijk hersluitbare verpakking","['Geen gluten' 'Laag zout' 'Geen melk' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Geen schelpdieren (schaaldieren)' 'Vegetarisch' 'Geen eieren'
+ 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen selderij' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Basis bakbenodigdheden Basismeel bloem (Zelfrijzend) bakmeel","molensteen [SEP] amandelmeel [SEP] Amandelmeel is ideaal voor gebruik in baksels zoals brood, cake, koekjes, taart of pannenkoeken. Als vervanging van tarwebloem of voor een lichte amandelsmaak te geven. Van nature rijk aan vezels en bron van eiwit en goede vetten 100% amandelmeel Makkelijk hersluitbare verpakking [SEP] hm basismeel",molensteen amandelmeel hm basismeel,null,null,null
+0.39814234,14119,494097,AH Glutenvrij,Cornflakes,"Knapperige ontbijtflakes van mais. Lekker met (plantaardige) melk, yoghurt of kwark toe. Glutenvrij De glutenvrije producten van albert heijn zijn zorgvuldig ontwikkeld voor mensen met een intolerantie of sensitiviteit voor gluten, voldoen aan de wettelijke eisen en zijn bovendien heerlijk van smaak","['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Ontbijtgranen en beleg Ontbijtgranen (Corn)flakes,"ah glutenvrij [SEP] cornflakes [SEP] Knapperige ontbijtflakes van mais. Lekker met (plantaardige) melk, yoghurt of kwark toe. Glutenvrij De glutenvrije producten van albert heijn zijn zorgvuldig ontwikkeld voor mensen met een intolerantie of sensitiviteit voor gluten, voldoen aan de wettelijke eisen en zijn bovendien heerlijk van smaak [SEP] ontbijtgranen",ah glutenvrij cornflakes ontbijtgranen,null,null,null
+0.398093,10515,471004,AH,Cornflakes,"Begin je dag goed met onze cornflakes. Alleen melk, yoghurt of kwark toevoegen voor een heerlijk ontbijt! Tijd voor een lekker ontbijt Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd'
+ 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij']",Ontbijtgranen en beleg Ontbijtgranen (Corn)flakes,"ah [SEP] cornflakes [SEP] Begin je dag goed met onze cornflakes. Alleen melk, yoghurt of kwark toevoegen voor een heerlijk ontbijt! Tijd voor een lekker ontbijt Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] flakes",ah cornflakes flakes,null,null,null
+0.39729548,6611,494530,AH Glutenvrij,Vezelrijke bran flakes,Glutenvrij Rijk aan vezels,"['Geen lactose' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen selderij' 'Geen gluten']",Ontbijtgranen en beleg Ontbijtgranen (Corn)flakes,ah glutenvrij [SEP] vezelrijke bran flakes [SEP] Glutenvrij Rijk aan vezels [SEP] ontbijtgranen,ah glutenvrij vezelrijke bran flakes ontbijtgranen,null,null,null
+0.39560813,12502,437373,AH Biologisch,Cornflakes,"Deze lekker krokante en bovendien biologische cornflakes
+				  doen het altijd goed bij het ontbijt met yoghurt of melk. Biologisch Glutenvrij Bron van vezels Geen toegevoegd suiker","['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']",Ontbijtgranen en beleg Ontbijtgranen (Corn)flakes,"ah biologisch [SEP] cornflakes [SEP] Deze lekker krokante en bovendien biologische cornflakes
+				  doen het altijd goed bij het ontbijt met yoghurt of melk. Biologisch Glutenvrij Bron van vezels Geen toegevoegd suiker [SEP] bio ontbijt en lunch",ah biologisch cornflakes bio ontbijt en lunch,null,null,null
+0.39342725,2438,374891,Lucovitaal,Rode gist rijst 3mg,"Rode gist rijst Monacolin k uit monascus purpureus. Monacolin k uit monascus purpureus Met 2,99 mg gestandaardiseerde Monacolin k","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Drogisterij Gezondheid Vitamines & supplementen Supplementen
+ Hart en bloedvaten supplementen","lucovitaal [SEP] rode gist rijst 3mg [SEP] Rode gist rijst Monacolin k uit monascus purpureus. Monacolin k uit monascus purpureus Met 2,99 mg gestandaardiseerde Monacolin k [SEP] vit mineralen en suppl",lucovitaal rode gist rijst 3mg vit mineralen en suppl,null,null,null
+0.3903033,10814,953,AH,Zelfrijzend bakmeel,Zorgvuldig geselecteerde tarwe van hoge kwaliteit Zeer fijn gemalen,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Nutri-Score C'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Basis bakbenodigdheden Basismeel bloem (Zelfrijzend) bakmeel",ah [SEP] zelfrijzend bakmeel [SEP] Zorgvuldig geselecteerde tarwe van hoge kwaliteit Zeer fijn gemalen [SEP] hm basismeel,ah zelfrijzend bakmeel hm basismeel,null,null,null
+0.38888744,3380,225017,Smaakt,Rijstmeel biologisch,"Rijstmeel is van nature glutenvrij en kan worden gebruikt als alternatief voor andere melen. Het heeft een zachte, iets zoete en nootachtige smaak. . Biologisch Bron van vezels","['Geen gluten' 'Geen melk' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Wholefoods Basis bakbenodigdheden Granen en melen
+ Basismeel bloem Melen (superfood)","smaakt [SEP] rijstmeel biologisch [SEP] Rijstmeel is van nature glutenvrij en kan worden gebruikt als alternatief voor andere melen. Het heeft een zachte, iets zoete en nootachtige smaak. . Biologisch Bron van vezels [SEP] bio melen en bakken",smaakt rijstmeel biologisch bio melen en bakken,null,null,null
+0.38572922,9703,492783,Molensteen,Zeeuws bloem,"Zeeuwse bloem. Gemalen van zachte tarwe Voor gebak, koekjes en taarten","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Basis bakbenodigdheden Basismeel bloem Tarwebloem","molensteen [SEP] zeeuws bloem [SEP] Zeeuwse bloem. Gemalen van zachte tarwe Voor gebak, koekjes en taarten [SEP] hm basismeel",molensteen zeeuws bloem hm basismeel,null,null,null
+0.38491148,754,168655,Zonnatura,Maïswafels,"Deze zijn samengesteld uit pofmaïs en zilvervliesrijst van biologische teelt, met een vleugje zeezout. 100% biologisch Bevatten per stuk 27 kcal Bron van vezels.","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Tussendoortjes Maiswafels
+ Crackers rijstwafels","zonnatura [SEP] maïswafels [SEP] Deze zijn samengesteld uit pofmaïs en zilvervliesrijst van biologische teelt, met een vleugje zeezout. 100% biologisch Bevatten per stuk 27 kcal Bron van vezels. [SEP] bio ontbijt en lunch",zonnatura maïswafels bio ontbijt en lunch,null,null,null
+0.38489896,9780,538519,AH,Noten & zaden volkoren muesli,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Muesli (fruit)",ah [SEP] noten & zaden volkoren muesli [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] muesli,ah noten & zaden volkoren muesli muesli,null,null,null
+0.38457745,11905,515762,Molensteen,Zelfrijzend bakmeel,Molensteen zelfrijzend bakmeel. Voor vele mogelijkheden te gebruiken Voor zoete en hartige gerechten Altijd een luchtig resultaat,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Geen lupine'
+ 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen selderij'
+ 'Geen eieren']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Basis bakbenodigdheden Basismeel bloem Zelfrijzende bloem",molensteen [SEP] zelfrijzend bakmeel [SEP] Molensteen zelfrijzend bakmeel. Voor vele mogelijkheden te gebruiken Voor zoete en hartige gerechten Altijd een luchtig resultaat [SEP] hm basismeel,molensteen zelfrijzend bakmeel hm basismeel,null,null,null
+0.3820127,1461,470410,AH,Pinda's extra groot gezouten,In zonnebloemolie gebakken. Met zeezout Lekker knapperig Makkelijk hersluitbaar,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ ""Pindas (zakje)""",ah [SEP] pinda's extra groot gezouten [SEP] In zonnebloemolie gebakken. Met zeezout Lekker knapperig Makkelijk hersluitbaar [SEP] mb luxe multimix,ah pinda's extra groot gezouten mb luxe multimix,null,null,null
+0.38012832,8841,485769,Bonduelle,Crispy mais 0% zout toegevoegd,"Dezelfde knapperige mais die je van ons gewend bent, maar dan zonder toegevoegd zout. Ideaal wanneer je zoutarm wil eten. Hartstikke lekker. Deze mais groeit onder de europese zon. Na de oogst gestoomd, zonder toegevoegd zout Gerijpt onder de zon en heerlijk knapperig Gestoomd om de smaak, kleur en knapperige bite van de korrels te behouden Geeft smaak, kleur en bite aan salades en (mexicaanse) gerechten","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Soepen sauzen kruiden olie Conserven
+ Groente Groenteconserven Tomaat paprika mais Mais (conserven)
+ Mais Maiskorrels (conserven)","bonduelle [SEP] crispy mais 0% zout toegevoegd [SEP] Dezelfde knapperige mais die je van ons gewend bent, maar dan zonder toegevoegd zout. Ideaal wanneer je zoutarm wil eten. Hartstikke lekker. Deze mais groeit onder de europese zon. Na de oogst gestoomd, zonder toegevoegd zout Gerijpt onder de zon en heerlijk knapperig Gestoomd om de smaak, kleur en knapperige bite van de korrels te behouden Geeft smaak, kleur en bite aan salades en (mexicaanse) gerechten [SEP] mais",bonduelle crispy mais 0% zout toegevoegd mais,null,null,null
+0.3785485,18306,500149,AH,Verrijker ontbijt hennepzaad,"Geef je ontbijt een creatieve twist met hennepzaad. Lekker door bijvoorbeeld smoothies en (plantaardige) zuivel Bron van vezels en rijk aan eiwitten In een handige, hersluitbare verpakking","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Ontbijtgranen Wholefoods
+ Fruit en bessen (superfoods) Ontbijtverrijkers (toppings)
+ Fruit en pittenmix","ah [SEP] verrijker ontbijt hennepzaad [SEP] Geef je ontbijt een creatieve twist met hennepzaad. Lekker door bijvoorbeeld smoothies en (plantaardige) zuivel Bron van vezels en rijk aan eiwitten In een handige, hersluitbare verpakking [SEP] ontbijtverrijkers",ah verrijker ontbijt hennepzaad ontbijtverrijkers,null,null,null
+0.3783629,16663,492784,Molensteen,Amandelmeel,Amandelmeel. 100% amandelmeel gemaakt van geblancheerde amandelen Van nature rijk aan vezels en bron van eiwit en goede vetten Voordeelverpakking van 400 g Makkelijk hersluitbare verpakking,"['Geen gluten' 'Laag zout' 'Geen melk' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Geen schelpdieren (schaaldieren)' 'Vegetarisch' 'Geen eieren'
+ 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen selderij' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Basis bakbenodigdheden Basismeel bloem (Zelfrijzend) bakmeel",molensteen [SEP] amandelmeel [SEP] Amandelmeel. 100% amandelmeel gemaakt van geblancheerde amandelen Van nature rijk aan vezels en bron van eiwit en goede vetten Voordeelverpakking van 400 g Makkelijk hersluitbare verpakking [SEP] hm basismeel,molensteen amandelmeel hm basismeel,null,null,null
+0.37756112,7393,498734,Cidacos,Maiz dulce 3-pack,"Deze krokante mais korrels worden gerijpt onder de Spaanse zon, dit maakt ze tot natuurlijk de zoetste. Zon gerijpt, dit maakt ze extra zoet, en dat proef je Easy opening blikjes Ready to eat","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Aardappel groente fruit Soepen sauzen kruiden olie Conserven
+ Groente Groenteconserven Tomaat paprika mais Mais (conserven)
+ Mais Maiskorrels (conserven)","cidacos [SEP] maiz dulce 3-pack [SEP] Deze krokante mais korrels worden gerijpt onder de Spaanse zon, dit maakt ze tot natuurlijk de zoetste. Zon gerijpt, dit maakt ze extra zoet, en dat proef je Easy opening blikjes Ready to eat [SEP] mais",cidacos maiz dulce 3-pack mais,null,null,null
+0.3766495,4136,495763,Graze,Bites honey cinnamon,"De graze honey cinnamon protein oat bites is een lekker tussendoortje boordevol proteine, rijk aan vezels en met 30% minder suiker. Graze honey cinnamon protein oat bites zijn graanrepen met havermout Met 30% minder suiker dan het gemiddelde van vergelijkbare graanrepen Snack zonder kunstmatige smaak- en kleurstoffen of conserveringsmiddelen Deze volkoren havermoutrepen zijn een bron van proteine en rijk aan vezels","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen mosterd'
+ 'Geen selderij' 'Geen eieren']",Sport- en dieetvoeding Dieetvoeding Gezonde snacks,"graze [SEP] bites honey cinnamon [SEP] De graze honey cinnamon protein oat bites is een lekker tussendoortje boordevol proteine, rijk aan vezels en met 30% minder suiker. Graze honey cinnamon protein oat bites zijn graanrepen met havermout Met 30% minder suiker dan het gemiddelde van vergelijkbare graanrepen Snack zonder kunstmatige smaak- en kleurstoffen of conserveringsmiddelen Deze volkoren havermoutrepen zijn een bron van proteine en rijk aan vezels [SEP] graan en mueslirepen",graze bites honey cinnamon graan en mueslirepen,null,null,null
+0.37652072,8252,538254,Bonduelle,Crispy maïs chili,"Kunnen jouw dagen wat pit gebruiken? Wij hebben de oplossing! Maak kennis met Bonduelle Chili Maïs. Dezelfde goudgele maïs die je gewend bent, maar dan in de mix met paprika én een vleugje chili. Direct na de oogst gestoomd Behoud van hun natuurlijk zoete smaak, crispy bite en fris gele kleur Knapperige maïs in de mix met stukjes paprika en een vleugje chili Geeft kleur, smaak én pit aan wokgerechten, taco¿s of salades","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Soepen sauzen kruiden olie Conserven
+ Groente Groenteconserven Tomaat paprika mais Mais (conserven)
+ Mais Maiskorrels (conserven)","bonduelle [SEP] crispy maïs chili [SEP] Kunnen jouw dagen wat pit gebruiken? Wij hebben de oplossing! Maak kennis met Bonduelle Chili Maïs. Dezelfde goudgele maïs die je gewend bent, maar dan in de mix met paprika én een vleugje chili. Direct na de oogst gestoomd Behoud van hun natuurlijk zoete smaak, crispy bite en fris gele kleur Knapperige maïs in de mix met stukjes paprika en een vleugje chili Geeft kleur, smaak én pit aan wokgerechten, taco¿s of salades [SEP] mais",bonduelle crispy maïs chili mais,null,null,null
+0.3763485,13623,516922,AH,Volkoren muesli cacao nibs,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen lupine' 'Nutri-Score A'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen mosterd' 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Muesli (chocolade)",ah [SEP] volkoren muesli cacao nibs [SEP]  [SEP] muesli,ah volkoren muesli cacao nibs muesli,null,null,null
+0.3739729,1456,409911,De Cecco,Semola di grano duro rimacinata,Dubbel gemalen harde tarwe griesmeel bloem is uiterst geschikt voor het bakken van brood uit eigen oven of het bereiden van bijvoorbeeld heerlijke fettuccine pasta. Voor zowel machinale als handmatige bereiding,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Basis bakbenodigdheden Basismeel bloem (Zelfrijzend) bakmeel",de cecco [SEP] semola di grano duro rimacinata [SEP] Dubbel gemalen harde tarwe griesmeel bloem is uiterst geschikt voor het bakken van brood uit eigen oven of het bereiden van bijvoorbeeld heerlijke fettuccine pasta. Voor zowel machinale als handmatige bereiding [SEP] specialiteiten en oven,de cecco semola di grano duro rimacinata specialiteiten en oven,null,null,null
+0.37205738,2299,203858,Valle del sole,Maisgriesmeel voor polenta bramata,"Grof maïsmeel, geschikt voor verscheidene gerechten, waaronder Polenta en Arepa. Valle Del Sole maïsmeel is vrij van toegevoegde conserveermiddelen, kleurstoffen en gluten. Vrij van toegevoegde conserveermiddelen of kleurstoffen Puur maïsmeel Gluten vrij","['Laag vet' 'Laag zout' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen schelpdieren (schaaldieren)' 'Vegetarisch' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Glutenvrij
+ Bakproducten Basis bakbenodigdheden Glutenvrije bakproducten
+ Bakkerij glutenvrij Bakproducten (glutenvrij) Basismeel bloem
+ Maismeel","valle del sole [SEP] maisgriesmeel voor polenta bramata [SEP] Grof maïsmeel, geschikt voor verscheidene gerechten, waaronder Polenta en Arepa. Valle Del Sole maïsmeel is vrij van toegevoegde conserveermiddelen, kleurstoffen en gluten. Vrij van toegevoegde conserveermiddelen of kleurstoffen Puur maïsmeel Gluten vrij [SEP] surinaams",valle del sole maisgriesmeel voor polenta bramata surinaams,null,null,null
+0.37121326,12900,193657,AH,Pikantjes,Rijst- en maïszoutjes,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij']",Snoep koek chips en chocolade Zoutjes Rijstzoutjes,ah [SEP] pikantjes [SEP] Rijst- en maïszoutjes [SEP] rijstzoutjes,ah pikantjes rijstzoutjes,null,null,null
+0.37084055,10068,125033,AH,Les Pains Madelaine mais,"Bakkersbroden zijn voor elke dag, met krokante korst. Bakkersbrood Les Pains Madeleine is een wit tarwe-maisbrood, gevuld en gedecoreerd met de lekkerste zaden en pitten. Gevuld met maïsgries, maïsmeel, maïsvlok en zonnebloempitten Decoratie van maïsgries","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Bakkerij en banket Brood Maisbrood Ovenvers
+ Maisbrood (ovenvers)","ah [SEP] les pains madelaine mais [SEP] Bakkersbroden zijn voor elke dag, met krokante korst. Bakkersbrood Les Pains Madeleine is een wit tarwe-maisbrood, gevuld en gedecoreerd met de lekkerste zaden en pitten. Gevuld met maïsgries, maïsmeel, maïsvlok en zonnebloempitten Decoratie van maïsgries [SEP] bo grootbrood overig",ah les pains madelaine mais bo grootbrood overig,null,null,null
+0.36908734,7371,437366,AH,Geroosterde muesli volkoren,Begin je dag goed met deze heerlijke geroosterde havervlokken. Zo is een lekker ontbijt in een handomdraai gemaakt! Met volkoren havervlokken Zonder garnituur Rijk aan vezels Met honing en melado,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Muesli (naturel)",ah [SEP] geroosterde muesli volkoren [SEP] Begin je dag goed met deze heerlijke geroosterde havervlokken. Zo is een lekker ontbijt in een handomdraai gemaakt! Met volkoren havervlokken Zonder garnituur Rijk aan vezels Met honing en melado [SEP] geroosterde granen,ah geroosterde muesli volkoren geroosterde granen,null,null,null
+0.36886507,836,455986,Eat Natural,Ancient grains glutenvrij,"Deze krokante muesli zit vol glutenvrije `ancient grains`, oftewel oergranen. Doordat we deze 'ancient grains' roosteren met kokosbloesem nectar, is dit recept glutenvrij en onweerstaanbaar lekker. Glutenvrij Bevat 5 soorten oergranen: boekweit, amaranth, quinoa, chiazaad en haver Gezoet met kokosbloesem nectar dus ok voor vegans Met de hand gemixt","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen lupine'
+ 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Muesli (naturel)","eat natural [SEP] ancient grains glutenvrij [SEP] Deze krokante muesli zit vol glutenvrije `ancient grains`, oftewel oergranen. Doordat we deze 'ancient grains' roosteren met kokosbloesem nectar, is dit recept glutenvrij en onweerstaanbaar lekker. Glutenvrij Bevat 5 soorten oergranen: boekweit, amaranth, quinoa, chiazaad en haver Gezoet met kokosbloesem nectar dus ok voor vegans Met de hand gemixt [SEP] ontbijtgranen",eat natural ancient grains glutenvrij ontbijtgranen,null,null,null
+0.3687998,12065,426104,AH,Notenmix macadamia gezouten,"Albert Heijn Gezouten macadamiamix is een rijke notenmix, heerlijk voor bij de borrel of gewoon als je er zin in hebt. In hetelucht geroosterde maïskorrels en macadamia's Rijk aan fosfor en vitamine E Rijk aan onverzadigde vetten Makkelijk hersluitbaar Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Notenmix (zakje)","ah [SEP] notenmix macadamia gezouten [SEP] Albert Heijn Gezouten macadamiamix is een rijke notenmix, heerlijk voor bij de borrel of gewoon als je er zin in hebt. In hetelucht geroosterde maïskorrels en macadamia's Rijk aan fosfor en vitamine E Rijk aan onverzadigde vetten Makkelijk hersluitbaar Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] gezouten noten",ah notenmix macadamia gezouten gezouten noten,null,null,null
+0.36864492,822,509381,AH Glutenvrij,Mueslibroodjes,,"['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren' 'Geen gluten']","Bewuste voeding Bakkerij en banket Glutenvrij koolhydraatarm
+ Glutenvrij Brood Bakkerij glutenvrij Brood (glutenvrij)
+ Glutenvrij brood",ah glutenvrij [SEP] mueslibroodjes [SEP]  [SEP] brood,ah glutenvrij mueslibroodjes brood,null,null,null
+0.36723435,1029,444781,Molensteen,Biologisch volkoren speltmeel,"Biologisch volkoren speltmeel. Dit meel is van biologisch geteeld spelt  						gemaakt Rijk aan vezels Volkoren; de hele korrel vermalen Ideaal om brood, broodjes, crackers of pannenkoeken mee te bakken","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ 'biologisch' ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Basis bakbenodigdheden Basismeel bloem (Zelfrijzend) bakmeel","molensteen [SEP] biologisch volkoren speltmeel [SEP] Biologisch volkoren speltmeel. Dit meel is van biologisch geteeld spelt  						gemaakt Rijk aan vezels Volkoren; de hele korrel vermalen Ideaal om brood, broodjes, crackers of pannenkoeken mee te bakken [SEP] hm basismeel",molensteen biologisch volkoren speltmeel hm basismeel,null,null,null
+0.36661074,10913,492781,Molensteen,Mix voor volkoren brood,Mix voor volkoren brood. Gist is al in de broodmix toegevoegd Voor een brood van ca 750 g Bron van vezels Geschikt voor broodbakmachine en oven,"['Laag vet' 'Geen gluten' 'Laag zout' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen schelpdieren (schaaldieren)' 'Vegetarisch' 'Geen noten'
+ ""Geen pinda's"" 'Geen melk' 'Geen selderij' 'Geen mosterd' 'Geen lupine'
+ 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Geen eieren']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Bak mixen Bakmix Broodmix Broodmix croissantdeeg
+ Broodmix (diverse)",molensteen [SEP] mix voor volkoren brood [SEP] Mix voor volkoren brood. Gist is al in de broodmix toegevoegd Voor een brood van ca 750 g Bron van vezels Geschikt voor broodbakmachine en oven [SEP] hm brood hartige mix,molensteen mix voor volkoren brood hm brood hartige mix,null,null,null
+0.36639547,5614,525402,AH Biologisch,Quinoa,,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']",Pasta rijst en wereldkeuken Couscous bulgur quinoa gort Quinoa,ah biologisch [SEP] quinoa [SEP]  [SEP] specialiteiten rijst,ah biologisch quinoa specialiteiten rijst,null,null,null
+0.36525768,9759,509276,AH,Volkoren havervlokken,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' ""Geen pinda's"" 'Laag vet' 'Geen lupine' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen mosterd' 'Geen selderij']","Ontbijtgranen en beleg Bewuste voeding Ontbijtgranen Wholefoods
+ Granen en melen Ontbijtverrijkers (toppings) Graanvlokken gepoft",ah [SEP] volkoren havervlokken [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] havermout & pap,ah volkoren havervlokken havermout & pap,null,null,null
+0.363922,1534,105318,AH Biologisch,Tarwebloem,"Biologisch tarwebloem. Gemaakt van biologisch geteelde tarwe Ideaal voor het maken van koekjes, brood en pizzabodems Als vervanging voor zelfrijzend bakmeel bij toevoeging van gist of bakpoeder","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ 'biologisch' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Basis bakbenodigdheden Basismeel bloem Tarwebloem","ah biologisch [SEP] tarwebloem [SEP] Biologisch tarwebloem. Gemaakt van biologisch geteelde tarwe Ideaal voor het maken van koekjes, brood en pizzabodems Als vervanging voor zelfrijzend bakmeel bij toevoeging van gist of bakpoeder [SEP] hm basismeel",ah biologisch tarwebloem hm basismeel,null,null,null
+0.3633367,18367,550447,Consenza,Crunchy nuts muesli,Deze biologische mueslimix is een vezelrijke mix met crunchy haver. Glutenvrij Vezelrijk Vegan Biologisch,"['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Vegetarisch' ""Geen pinda's"" 'biologisch' 'Laag vet'
+ 'Geen lupine' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen mosterd' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Glutenvrij Ontbijtgranen
+ Ontbijtgranen crackers Glutenvrije muesli / cornflakes",consenza [SEP] crunchy nuts muesli [SEP] Deze biologische mueslimix is een vezelrijke mix met crunchy haver. Glutenvrij Vezelrijk Vegan Biologisch [SEP] ontbijtgranen,consenza crunchy nuts muesli ontbijtgranen,null,null,null
+0.36284232,2597,516573,Graze,Chocolate cookie havermoutrepen,"De graze chocolate cookie oat bites zijn een lekker tussendoortje, rijk aan vezels en met 30% minder suiker. Graze chocolate cookie oat bites zijn heerlijke graanrepen met havermout Lekker verantwoord met 30% minder suiker dan vergelijkbare graanrepen Snack zonder kunstmatige smaak- en kleurstoffen of conserveringsmiddelen Deze volkoren havermoutrepen zijn rijk aan vezels","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen mosterd'
+ 'Geen selderij' 'Geen eieren']",Sport- en dieetvoeding Dieetvoeding Gezonde snacks,"graze [SEP] chocolate cookie havermoutrepen [SEP] De graze chocolate cookie oat bites zijn een lekker tussendoortje, rijk aan vezels en met 30% minder suiker. Graze chocolate cookie oat bites zijn heerlijke graanrepen met havermout Lekker verantwoord met 30% minder suiker dan vergelijkbare graanrepen Snack zonder kunstmatige smaak- en kleurstoffen of conserveringsmiddelen Deze volkoren havermoutrepen zijn rijk aan vezels [SEP] graan en mueslirepen",graze chocolate cookie havermoutrepen graan en mueslirepen,null,null,null
+0.36276627,11514,470412,AH,Pinda's extra groot ongezouten,In zonnebloemolie gebakken. Lekker knapperig Makkelijk hersluitbaar,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ ""Pindas (zakje)""",ah [SEP] pinda's extra groot ongezouten [SEP] In zonnebloemolie gebakken. Lekker knapperig Makkelijk hersluitbaar [SEP] mb luxe multimix,ah pinda's extra groot ongezouten mb luxe multimix,null,null,null
+0.36169112,13117,407793,AH Glutenvrij,Amandel meel,"Glutenvrij amandelmeel is ideaal voor het gebruik in baksels zoals brood, cake, koekjes of pannenkoeken. 100% amandelmeel gemaakt van geblancheerde amandelen Van nature rijk aan vezels en een bron van eiwit Glutenvrij Lactosevrij","['Laag zout' 'Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Vegetarisch' 'Geen eieren' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Glutenvrij
+ Bakproducten Basis bakbenodigdheden Glutenvrije bakproducten
+ Bakkerij glutenvrij Bakproducten (glutenvrij) Basismeel bloem
+ Basismeel (glutenvrij)","ah glutenvrij [SEP] amandel meel [SEP] Glutenvrij amandelmeel is ideaal voor het gebruik in baksels zoals brood, cake, koekjes of pannenkoeken. 100% amandelmeel gemaakt van geblancheerde amandelen Van nature rijk aan vezels en een bron van eiwit Glutenvrij Lactosevrij [SEP] bakmixen",ah glutenvrij amandel meel bakmixen,null,null,null
+0.36081737,3350,437995,AH,Geroosterde muesli zaden,Begin je dag goed met deze krokant geroosterde muesli met verschillende zaden. Natuurlijk lekker met yoghurt of melk. Zo is een lekker ontbijt in een handomdraai gemaakt! Laag suikergehalte Combineert uitstekend met melk of yoghurt Ook heerlijk als tussendoortje of dessert Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Muesli (naturel)",ah [SEP] geroosterde muesli zaden [SEP] Begin je dag goed met deze krokant geroosterde muesli met verschillende zaden. Natuurlijk lekker met yoghurt of melk. Zo is een lekker ontbijt in een handomdraai gemaakt! Laag suikergehalte Combineert uitstekend met melk of yoghurt Ook heerlijk als tussendoortje of dessert Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] geroosterde granen,ah geroosterde muesli zaden geroosterde granen,null,null,null
+0.35873783,2201,227985,Smaakt,Volkoren havermeel,"Biologisch Havermeel Haver kan verwerkt worden in koeken, havermout en ontbijtgranen. Ook kunt u zelf brood maken van havermeel. Biologisch Zonder toevoegingen niet genetisch gemanipuleerd","['Geen gluten' 'Geen melk' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' ""Geen pinda's"" 'biologisch' 'Laag vet' 'Geen mosterd'
+ 'Geen lupine' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Wholefoods Basis bakbenodigdheden Granen en melen
+ Basismeel bloem Melen (superfood)","smaakt [SEP] volkoren havermeel [SEP] Biologisch Havermeel Haver kan verwerkt worden in koeken, havermout en ontbijtgranen. Ook kunt u zelf brood maken van havermeel. Biologisch Zonder toevoegingen niet genetisch gemanipuleerd [SEP] bio melen en bakken",smaakt volkoren havermeel bio melen en bakken,null,null,null
+0.3585024,7483,470038,AH Biologisch,Hennepzaad,"Dit biologische hennepzaad heeft een milde, nootachtige smaak. Hierdoor is het een goede toevoeging aan een gezond ontbijt of (maaltijd) salade. Puur, onbewerkt en van biologische oorsprong Ideaal voor in salades, yoghurt en smoothies Van nature rijk aan eiwitten en onverzadigde vetten","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen selderij']","Pasta rijst en wereldkeuken Bewuste voeding
+ Soepen sauzen kruiden olie Snoep koek chips en chocolade Noten
+ Wholefoods Garnering Bakproducten Zaden en pitten
+ Noten pittengarnering Garneringen toevoegingen Zaden (diverse)","ah biologisch [SEP] hennepzaad [SEP] Dit biologische hennepzaad heeft een milde, nootachtige smaak. Hierdoor is het een goede toevoeging aan een gezond ontbijt of (maaltijd) salade. Puur, onbewerkt en van biologische oorsprong Ideaal voor in salades, yoghurt en smoothies Van nature rijk aan eiwitten en onverzadigde vetten [SEP] bio zaden & pitten",ah biologisch hennepzaad bio zaden & pitten,null,null,null
+0.3581356,1062,510687,Molensteen,Haverzemelen,"Haverzemelen. Van nature rijk aan voedingsvezels, mineralen en vitaminen Bevat beta-glucaan Stimulieert de natuurlijke stoelgang Te verwerken in elk baksel, smoothie of tijdens het ontbijt","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Wholefoods Basis bakbenodigdheden Granen en melen
+ Basismeel bloem Melen (superfood)","molensteen [SEP] haverzemelen [SEP] Haverzemelen. Van nature rijk aan voedingsvezels, mineralen en vitaminen Bevat beta-glucaan Stimulieert de natuurlijke stoelgang Te verwerken in elk baksel, smoothie of tijdens het ontbijt [SEP] hm basismeel",molensteen haverzemelen hm basismeel,null,null,null
+0.35794675,6743,162826,Kellogg's,Cornflakes,Kellogg's corn flakes ontbijtgranen zijn heerlijke goudbruin gebakken maisvlokken. Sinds 1906 het favoriete ontbijt van miljoenen mensen. Zonder kunstmatige kleur- of smaakstoffen Rijk aan vitamine b Rijk aan ijzer,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Vegetarisch'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam']",Ontbijtgranen en beleg Ontbijtgranen (Corn)flakes,kellogg's [SEP] cornflakes [SEP] Kellogg's corn flakes ontbijtgranen zijn heerlijke goudbruin gebakken maisvlokken. Sinds 1906 het favoriete ontbijt van miljoenen mensen. Zonder kunstmatige kleur- of smaakstoffen Rijk aan vitamine b Rijk aan ijzer [SEP] flakes,kellogg's cornflakes flakes,null,null,null
+0.3575796,14276,467434,Smaakt,Hazelnootmeel,"De melen worden gemaakt van 100% procent gemalen hazelnoten zonder voorbehandeling. De melen zijn van nature glutenvrij en licht verteerbaar. Biologisch Vezelrijk Van nature glutenvrij `vrij van kunstmatige geur-, kleur- en smaakstoffen`","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch'
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Veganistisch' 'Laag zout' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Wholefoods Basis bakbenodigdheden Granen en melen
+ Basismeel bloem Melen (superfood)","smaakt [SEP] hazelnootmeel [SEP] De melen worden gemaakt van 100% procent gemalen hazelnoten zonder voorbehandeling. De melen zijn van nature glutenvrij en licht verteerbaar. Biologisch Vezelrijk Van nature glutenvrij `vrij van kunstmatige geur-, kleur- en smaakstoffen` [SEP] bio melen en bakken",smaakt hazelnootmeel bio melen en bakken,null,null,null
+0.35722047,18934,201004,AH,Mehrkorn,,"['Geen gluten' 'Geen melk' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen selderij']","Bakkerij en banket Brood Meergranen brood
+ Meergranen brood (dagvers)",ah [SEP] mehrkorn [SEP]  [SEP] hbs rogge duits brood,ah mehrkorn hbs rogge duits brood,null,null,null
+0.35541022,11720,326092,Casa Mayor,Geroosterde en gezouten mais,Geroosterd en gezouten mais. Lekker als tussendoortje Licht gezouten,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ Notenmix (bakje)",casa mayor [SEP] geroosterde en gezouten mais [SEP] Geroosterd en gezouten mais. Lekker als tussendoortje Licht gezouten [SEP] snacks,casa mayor geroosterde en gezouten mais snacks,null,null,null
+0.35458457,2737,538584,AH,Pinda & mais mix,,"['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Vegetarisch'
+ 'Geen selderij']","Snoep koek chips en chocolade Noten Borrelnoten
+ Borrelnoten (zakje)",ah [SEP] pinda & mais mix [SEP]  [SEP] 3v6 noten,ah pinda & mais mix 3v6 noten,null,null,null
+0.3536796,10715,203859,Valle del sole,Maisbloem,"Valle del Sole maismeel is een bijzonder fijne, gele maismeel","['Laag vet' 'Laag zout' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen schelpdieren (schaaldieren)' 'Vegetarisch' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Glutenvrij
+ Bakproducten Basis bakbenodigdheden Glutenvrije bakproducten
+ Bakkerij glutenvrij Bakproducten (glutenvrij) Basismeel bloem
+ Maismeel","valle del sole [SEP] maisbloem [SEP] Valle del Sole maismeel is een bijzonder fijne, gele maismeel [SEP] gedroogde peulvruchten",valle del sole maisbloem gedroogde peulvruchten,null,null,null
+0.35334006,8636,525284,AH Biologisch,Volkoren spelt couscous,,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij']","Pasta rijst en wereldkeuken Couscous bulgur quinoa gort
+ Couscous Couscous - naturel",ah biologisch [SEP] volkoren spelt couscous [SEP]  [SEP] specialiteiten rijst,ah biologisch volkoren spelt couscous specialiteiten rijst,null,null,null
+0.352816,7668,426012,Zonnatura,Krokante muesli naturel,"100% biologische muesli op basis van volkoren havervlokken. In de oven gebakken, zonder toegevoegde aroma's. Krokant en vol van smaak 100% biologisch Rijk aan vezels en zonder toegevoegde aroma's 100% volkoren havervlokken","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Krokante muesli (cruesli) Krokante muesli (naturel)","zonnatura [SEP] krokante muesli naturel [SEP] 100% biologische muesli op basis van volkoren havervlokken. In de oven gebakken, zonder toegevoegde aroma's. Krokant en vol van smaak 100% biologisch Rijk aan vezels en zonder toegevoegde aroma's 100% volkoren havervlokken [SEP] krokante muesli",zonnatura krokante muesli naturel krokante muesli,null,null,null
+0.35052192,3829,467592,AH,Pinda gezouten,In zonnebloemolie gebakken. Rijk aan fosfor en vitamine e Rijk aan onverzadigde vetten Lekker knapperig Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ ""Pindas (zakje)""",ah [SEP] pinda gezouten [SEP] In zonnebloemolie gebakken. Rijk aan fosfor en vitamine e Rijk aan onverzadigde vetten Lekker knapperig Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] pinda's,ah pinda gezouten pinda's,null,null,null
+0.3504881,17629,550446,Consenza,Crunchy choco muesli,Deze biologische mueslimix met choco crunchy is rijkgevuld met glutenvrije volkoren havervlokken en chocoladestukjes. Glutenvrij Vezelrijk Vegan Biologisch,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ ""Geen pinda's"" 'biologisch' 'Geen melk' 'Laag vet' 'Geen lupine'
+ 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen mosterd' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Glutenvrij Ontbijtgranen
+ Ontbijtgranen crackers Glutenvrije muesli / cornflakes",consenza [SEP] crunchy choco muesli [SEP] Deze biologische mueslimix met choco crunchy is rijkgevuld met glutenvrije volkoren havervlokken en chocoladestukjes. Glutenvrij Vezelrijk Vegan Biologisch [SEP] ontbijtgranen,consenza crunchy choco muesli ontbijtgranen,null,null,null
+0.34993374,6491,509349,AH Glutenvrij,Pistolets meerzaden,,"['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen selderij' 'Geen eieren'
+ 'Geen gluten']","Bewuste voeding Bakkerij en banket Glutenvrij koolhydraatarm
+ Glutenvrij Brood Bakkerij glutenvrij Brood (glutenvrij)
+ Glutenvrij brood",ah glutenvrij [SEP] pistolets meerzaden [SEP]  [SEP] brood,ah glutenvrij pistolets meerzaden brood,null,null,null
+0.34888983,1146,478689,Quaker,Cruesli rozijn,"Een smaakvol, krokant en voedzaam ontbijt voor het hele gezin! Lekker knapperige granenmix met goudbruin geroosterde volkoren havermout Met heerlijke rozijn en stukjes hazelnoot Rijk aan vezels Zonder kunstmatige geur-, kleur- en smaakstoffen","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Krokante muesli (cruesli) Krokante muesli (fruit)","quaker [SEP] cruesli rozijn [SEP] Een smaakvol, krokant en voedzaam ontbijt voor het hele gezin! Lekker knapperige granenmix met goudbruin geroosterde volkoren havermout Met heerlijke rozijn en stukjes hazelnoot Rijk aan vezels Zonder kunstmatige geur-, kleur- en smaakstoffen [SEP] krokante muesli",quaker cruesli rozijn krokante muesli,null,null,null
+0.348763,10968,478688,Quaker,Cruesli 4 noten,"Quaker cruesli 4 noten voor een ontbijtje met pit! Lekker knapperige granenmix met goudbruin geroosterde volkoren havermout Rijkelijk gevuld met vier verschillende noten Rijk aan vezels Zonder kunstmatige geur-, kleur- en smaakstoffen","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Krokante muesli (cruesli) Krokante muesli (noten)","quaker [SEP] cruesli 4 noten [SEP] Quaker cruesli 4 noten voor een ontbijtje met pit! Lekker knapperige granenmix met goudbruin geroosterde volkoren havermout Rijkelijk gevuld met vier verschillende noten Rijk aan vezels Zonder kunstmatige geur-, kleur- en smaakstoffen [SEP] krokante muesli",quaker cruesli 4 noten krokante muesli,null,null,null
+0.34753478,11386,486385,Molensteen,Mix voor wit brood,Mix voor wit brood. Gist is al in de broodmix toegevoegd Voor een brood van ca. 750 g Geschikt voor broodbakmachine en oven Gemaakt van met zorg geselecteerde tarwe,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Geen lupine'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen selderij'
+ 'Geen eieren']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Bak mixen Bakmix Broodmix Broodmix croissantdeeg
+ Broodmix (diverse)",molensteen [SEP] mix voor wit brood [SEP] Mix voor wit brood. Gist is al in de broodmix toegevoegd Voor een brood van ca. 750 g Geschikt voor broodbakmachine en oven Gemaakt van met zorg geselecteerde tarwe [SEP] hm brood hartige mix,molensteen mix voor wit brood hm brood hartige mix,null,null,null
+0.34728396,17770,494242,AH Glutenvrij,Krokante muesli met noten,"Krokant voedzaam ontbijt op basis van glutenvrije havervlokken. Met geroosterde amandel, hazelnoot en walnoot Ook lekker als garnering of zo van te peuzelen Vezelrijk: 16 g vezels en slechts 0,5 g toegevoegde suiker per 100g muesli Lactosevrij en vegan","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen selderij'
+ 'Geen eieren' 'Geen gluten']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Krokante muesli (cruesli) Krokante muesli (naturel)","ah glutenvrij [SEP] krokante muesli met noten [SEP] Krokant voedzaam ontbijt op basis van glutenvrije havervlokken. Met geroosterde amandel, hazelnoot en walnoot Ook lekker als garnering of zo van te peuzelen Vezelrijk: 16 g vezels en slechts 0,5 g toegevoegde suiker per 100g muesli Lactosevrij en vegan [SEP] ontbijtgranen",ah glutenvrij krokante muesli met noten ontbijtgranen,null,null,null
+0.34723338,15330,466494,AH,Meerzaden croissant,"Meerzadencroissant met een mix van zonnebloem- en pompoenpitten, sesam- en lijnzaad. Voor ontbijt, lunch of tussendoor Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen selderij' 'Geen eieren']","Kerst Bakkerij en banket Kerstontbijt Afbakbrood Croissants
+ Croissant (vers)","ah [SEP] meerzaden croissant [SEP] Meerzadencroissant met een mix van zonnebloem- en pompoenpitten, sesam- en lijnzaad. Voor ontbijt, lunch of tussendoor Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] bo kleinbrood croissants",ah meerzaden croissant bo kleinbrood croissants,null,null,null
+0.3457957,5623,123393,Quaker,Cruesli luchtig,"Een smaakvol, krokant en voedzaam ontbijt met extra crunch voor het hele gezin! Lekker knapperige granenmix met goudbruin geroosterde volkoren havermout Met krokant gepofte granen en knapperige cornflakes Rijk aan vezels Zonder kunstmatige kleur- en smaakstoffen","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Krokante muesli (cruesli) Krokante muesli (naturel)","quaker [SEP] cruesli luchtig [SEP] Een smaakvol, krokant en voedzaam ontbijt met extra crunch voor het hele gezin! Lekker knapperige granenmix met goudbruin geroosterde volkoren havermout Met krokant gepofte granen en knapperige cornflakes Rijk aan vezels Zonder kunstmatige kleur- en smaakstoffen [SEP] krokante muesli",quaker cruesli luchtig krokante muesli,null,null,null
+0.34545425,8547,407792,AH Glutenvrij,Boekweit meel,"Glutenvrij boekweitmeel is de ideale basis voor het maken van onder andere (hartige) pannenkoeken, poffertjes, brood of cake. 100% boekweitmeel gemaakt van de boekweitplant Glutenvrij Lactosevrij","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Glutenvrij
+ Bakproducten Basis bakbenodigdheden Glutenvrije bakproducten
+ Bakkerij glutenvrij Bakproducten (glutenvrij) Basismeel bloem
+ Basismeel (glutenvrij)","ah glutenvrij [SEP] boekweit meel [SEP] Glutenvrij boekweitmeel is de ideale basis voor het maken van onder andere (hartige) pannenkoeken, poffertjes, brood of cake. 100% boekweitmeel gemaakt van de boekweitplant Glutenvrij Lactosevrij [SEP] bakmixen",ah glutenvrij boekweit meel bakmixen,null,null,null
+0.34531954,585,470759,Zonnatura,Krokante muesli noten zaden,"100% biologische muesli op basis van volkoren havervlokken. Rechtstreeks uit de warme oven voor een krokante bite. Rijkelijk gevuld met geroosterde noten en zaden. Voor een perfecte start van de dag. Met hazelnoten, amandelen, zaden en kokos 100% biologisch Rijk aan vezels en zonder toegevoegde aroma's 100% volkoren havervlokken","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Krokante muesli (cruesli) Krokante muesli (noten)","zonnatura [SEP] krokante muesli noten zaden [SEP] 100% biologische muesli op basis van volkoren havervlokken. Rechtstreeks uit de warme oven voor een krokante bite. Rijkelijk gevuld met geroosterde noten en zaden. Voor een perfecte start van de dag. Met hazelnoten, amandelen, zaden en kokos 100% biologisch Rijk aan vezels en zonder toegevoegde aroma's 100% volkoren havervlokken [SEP] krokante muesli",zonnatura krokante muesli noten zaden krokante muesli,null,null,null
+0.34400058,887,426228,AH Biologisch,Meergranen pannenkoekenmix,"Ah biologische meergranen pannenkoekenmix met spelt, rogge en tarwe. Ouderwets lekker met suiker en appelstroop of juist hartig. Je hoeft de pannenkoek alleen maar even op te warmen. Biologisch Meergranen Alleen even opwarmen in de pan of magnetron","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen selderij' 'Geen eieren']","Pasta rijst en wereldkeuken Salades pizza maaltijden
+ Bakproducten Pannenkoeken poffertjes Bak mixen Pannenkoekenmix
+ Pannenkoekenmix (diverse)","ah biologisch [SEP] meergranen pannenkoekenmix [SEP] Ah biologische meergranen pannenkoekenmix met spelt, rogge en tarwe. Ouderwets lekker met suiker en appelstroop of juist hartig. Je hoeft de pannenkoek alleen maar even op te warmen. Biologisch Meergranen Alleen even opwarmen in de pan of magnetron [SEP] hm pann poff waf",ah biologisch meergranen pannenkoekenmix hm pann poff waf,null,null,null
+0.34330323,706,516897,Quaker,Cruesli energy activaton mix,"Deze heerlijke mix bevat vier belangrijke granensoorten, rijst, tarwe, mais en havermout. Deze vier granen worden op verschillende momenten in energie omgezet. Rijk aan vezels Zonder conserveringsmiddelen Geen kunstmatige geur-, kleur-en smaakstoffen","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Krokante muesli (cruesli) Krokante muesli (naturel)","quaker [SEP] cruesli energy activaton mix [SEP] Deze heerlijke mix bevat vier belangrijke granensoorten, rijst, tarwe, mais en havermout. Deze vier granen worden op verschillende momenten in energie omgezet. Rijk aan vezels Zonder conserveringsmiddelen Geen kunstmatige geur-, kleur-en smaakstoffen [SEP] krokante muesli",quaker cruesli energy activaton mix krokante muesli,null,null,null
+0.34295315,4905,492706,AH,Chiazaad,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Soepen sauzen kruiden olie Snoep koek chips en chocolade
+ Zelf bakken Noten Garnering Bakproducten Noten pittengarnering
+ Garneringen toevoegingen Toevoegingen toppings versiering
+ Noten garnering","ah [SEP] chiazaad [SEP]  [SEP] bt baknoten, zaden en pitten","ah chiazaad bt baknoten, zaden en pitten",null,null,null
+0.3414564,8324,494119,AH Glutenvrij,Vezelrijke broodmix,Met de mix maak je zelf in een mum van tijd een lekker en voedzaam glutenvrij brood. Door de toevoeging van zaden en zonnebloempitten krijgt het brood extra textuur en smaak.,"['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lupine' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Glutenvrij koolhydraatarm
+ Zelf bakken Brood Glutenvrij Bakproducten
+ Glutenvrije bakproducten Brood (glutenvrij) Bakmix
+ Bakkerij glutenvrij Bakproducten (glutenvrij) Bak mixen Broodmix
+ Glutenvrije broodmix Broodmix croissantdeeg",ah glutenvrij [SEP] vezelrijke broodmix [SEP] Met de mix maak je zelf in een mum van tijd een lekker en voedzaam glutenvrij brood. Door de toevoeging van zaden en zonnebloempitten krijgt het brood extra textuur en smaak. [SEP] bakmixen,ah glutenvrij vezelrijke broodmix bakmixen,null,null,null
+0.3405409,8905,952,AH,Patent tarwebloem,Zorgvuldig geselecteerde tarwe van hoge kwaliteit Zeer fijn gemalen,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Basis bakbenodigdheden Basismeel bloem Tarwebloem",ah [SEP] patent tarwebloem [SEP] Zorgvuldig geselecteerde tarwe van hoge kwaliteit Zeer fijn gemalen [SEP] hm basismeel,ah patent tarwebloem hm basismeel,null,null,null
+0.33997375,14543,456091,Molensteen,Biologisch Kokosmeel,Biologisch kokosmeel. Dit meel is van biologisch geteeld kokos gemaakt Rijk aan vezels en bron van eiwitten Past in een glutenarme leefstijl Als smaakmaker of vervanger van meel op basis van granen,"['Geen gluten' 'Geen melk' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Wholefoods Basis bakbenodigdheden Granen en melen
+ Basismeel bloem Melen (superfood)",molensteen [SEP] biologisch kokosmeel [SEP] Biologisch kokosmeel. Dit meel is van biologisch geteeld kokos gemaakt Rijk aan vezels en bron van eiwitten Past in een glutenarme leefstijl Als smaakmaker of vervanger van meel op basis van granen [SEP] hm basismeel,molensteen biologisch kokosmeel hm basismeel,null,null,null
+0.33919454,10371,448359,Brouwer,Pinda & notenmix gezouten,"Feestje? Borrel? Of Trek in een tussendoortje? Ga voor deze gevarieerde mix van pinda's en noten. Met pinda's, amandelen, cashewnoten en hazelnoten In zonnebloemolie gebakken","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Notenmix (zakje)","brouwer [SEP] pinda & notenmix gezouten [SEP] Feestje? Borrel? Of Trek in een tussendoortje? Ga voor deze gevarieerde mix van pinda's en noten. Met pinda's, amandelen, cashewnoten en hazelnoten In zonnebloemolie gebakken [SEP] 3v6 noten",brouwer pinda & notenmix gezouten 3v6 noten,null,null,null
+0.33856344,3216,407794,AH Glutenvrij,Pannenkoekenmix,"De lekkerste pannenkoeken? die maak je zelf! Met deze glutenvrije pannenkoekenmix op basis van maiszetmeel, rijstmeel en boekweitmeel. Glutenvrij Zelf halfvolle melk, ei en margarine toevoegen Snel en makkelijk te bereiden Ook lekker met schijfjes appel of banaan, of een plakje spek","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Salades pizza maaltijden Snoep koek chips en chocolade
+ Zelf bakken Pannenkoeken poffertjes Glutenvrij Bakproducten
+ Glutenvrije bakproducten Bakkerij glutenvrij
+ Bakproducten (glutenvrij) Bak mixen Pannenkoekenmix
+ Pannenkoekenmix (glutenvrij)","ah glutenvrij [SEP] pannenkoekenmix [SEP] De lekkerste pannenkoeken? die maak je zelf! Met deze glutenvrije pannenkoekenmix op basis van maiszetmeel, rijstmeel en boekweitmeel. Glutenvrij Zelf halfvolle melk, ei en margarine toevoegen Snel en makkelijk te bereiden Ook lekker met schijfjes appel of banaan, of een plakje spek [SEP] bakmixen",ah glutenvrij pannenkoekenmix bakmixen,null,null,null
+0.3382509,14055,467589,AH,Pinda gezouten,In zonnebloemolie gebakken. Rijk aan fosfor en vitamine e Rijk aan onverzadigde vetten Lekker knapperig Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ ""Pindas (zakje)""",ah [SEP] pinda gezouten [SEP] In zonnebloemolie gebakken. Rijk aan fosfor en vitamine e Rijk aan onverzadigde vetten Lekker knapperig Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] grootverpakking basis,ah pinda gezouten grootverpakking basis,null,null,null
+0.33760756,11506,547185,Kellogg's,Cornflakes ontbijt pakket,Kellogg's corn flakes ontbijtgranen zijn heerlijke goudbruin gebakken maisvlokken. De iconosche combinatie Kellogg's Cornflakes met melk is sinds 1906 het favoriete ontbijt van miljoenen mensen. De Zaanse Hoeve Halfvolle Melk 2L 1x Kellogg's Cornflakes 1x,[],Zuivel plantaardig en eieren Melk Halfvolle melk,kellogg's [SEP] cornflakes ontbijt pakket [SEP] Kellogg's corn flakes ontbijtgranen zijn heerlijke goudbruin gebakken maisvlokken. De iconosche combinatie Kellogg's Cornflakes met melk is sinds 1906 het favoriete ontbijt van miljoenen mensen. De Zaanse Hoeve Halfvolle Melk 2L 1x Kellogg's Cornflakes 1x [SEP] ,kellogg's cornflakes ontbijt pakket ,null,null,null
+0.33753836,11247,516894,Quaker,Cruesli 4 nuts,"Quaker cruesli 4-nuts is een lekker knapperige granenmix met goudbruin geroosterde volkoren havermout. Bovendien zitten er ook eenlekker veel noten in! Rijk aan vezels Zonder conserveringsmiddelen Geen kunstmatige geur-, kleur-en smaakstoffen","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Muesli (noten)","quaker [SEP] cruesli 4 nuts [SEP] Quaker cruesli 4-nuts is een lekker knapperige granenmix met goudbruin geroosterde volkoren havermout. Bovendien zitten er ook eenlekker veel noten in! Rijk aan vezels Zonder conserveringsmiddelen Geen kunstmatige geur-, kleur-en smaakstoffen [SEP] krokante muesli",quaker cruesli 4 nuts krokante muesli,null,null,null
+0.33741987,12347,63490,AH,Zelfrijzend bakmeel,Zelfrijzend bakmeel Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Nutri-Score C'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Basis bakbenodigdheden Basismeel bloem (Zelfrijzend) bakmeel",ah [SEP] zelfrijzend bakmeel [SEP] Zelfrijzend bakmeel Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] hm basismeel,ah zelfrijzend bakmeel hm basismeel,null,null,null
+0.33725536,10529,197616,Zonnatura,Muesli met noten en zaden,"Biologische muesli op basis van 3 volkoren graansoorten, met maar liefst 16% noten en zaden. Het kokosschaafsel geeft de muesli een heerlijke exotische smaak. Met verschillende soorten noten, zaden en kokosschaafsel 100% biologisch Rijk aan vezels 100% volkoren granen","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Muesli (noten)","zonnatura [SEP] muesli met noten en zaden [SEP] Biologische muesli op basis van 3 volkoren graansoorten, met maar liefst 16% noten en zaden. Het kokosschaafsel geeft de muesli een heerlijke exotische smaak. Met verschillende soorten noten, zaden en kokosschaafsel 100% biologisch Rijk aan vezels 100% volkoren granen [SEP] muesli",zonnatura muesli met noten en zaden muesli,null,null,null
+0.33709902,970,225018,Raw Organic Food,Maca high energy poeder,Macapoeder heeft een zachte en zoete smaak. De macawortel is een populair exportproduct van Peru vanwege de vermeende geneeskrachtige werking en het geven van energie. Biologisch Rijk aan vezels Bron van eiwitten,"['Geen gluten' 'Geen melk' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Bewuste voeding Ontbijtgranen Wholefoods
+ Poeders Ontbijtverrijkers (toppings)",raw organic food [SEP] maca high energy poeder [SEP] Macapoeder heeft een zachte en zoete smaak. De macawortel is een populair exportproduct van Peru vanwege de vermeende geneeskrachtige werking en het geven van energie. Biologisch Rijk aan vezels Bron van eiwitten [SEP] bio ontbijt en lunch,raw organic food maca high energy poeder bio ontbijt en lunch,null,null,null
+0.3357305,1085,495761,Graze,Bites chocolate,"De graze chocolate vanilla protein oat bite is een lekker tussendoortje boordevol proteine, rijk aan vezels en met 30% minder suiker. Graze chocolate vanilla protein oat bites zijn graanrepen met havermout Een reep met 30% minder suiker dan de gemiddelde, vergelijkbare graanreep Snack zonder kunstmatige smaak- en kleurstoffen of conserveringsmiddelen Deze volkoren havermoutrepen zijn een bron van proteine en rijk aan vezels","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen mosterd'
+ 'Geen selderij' 'Geen eieren']",Sport- en dieetvoeding Dieetvoeding Gezonde snacks,"graze [SEP] bites chocolate [SEP] De graze chocolate vanilla protein oat bite is een lekker tussendoortje boordevol proteine, rijk aan vezels en met 30% minder suiker. Graze chocolate vanilla protein oat bites zijn graanrepen met havermout Een reep met 30% minder suiker dan de gemiddelde, vergelijkbare graanreep Snack zonder kunstmatige smaak- en kleurstoffen of conserveringsmiddelen Deze volkoren havermoutrepen zijn een bron van proteine en rijk aan vezels [SEP] graan en mueslirepen",graze bites chocolate graan en mueslirepen,null,null,null
+0.3347341,9622,227850,Smaakt,Volkoren boekweitmeel,"Boekweit is een driehoekig zaad van een kruidachtige plant en bevat van nature geen gluten. Het meel is ideaal voor het bakken van pannenkoeken, wraps en tarwevrij brood. Biologisch Zonder toevoegingen","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Basis bakbenodigdheden Basismeel bloem (Zelfrijzend) bakmeel","smaakt [SEP] volkoren boekweitmeel [SEP] Boekweit is een driehoekig zaad van een kruidachtige plant en bevat van nature geen gluten. Het meel is ideaal voor het bakken van pannenkoeken, wraps en tarwevrij brood. Biologisch Zonder toevoegingen [SEP] bio melen en bakken",smaakt volkoren boekweitmeel bio melen en bakken,null,null,null
+0.33347967,17341,482479,Schär,Cereal Flakes,"Glutenvrije rijst-mais vlokken, verrijkt met vitaminen en ijzer. Voor een vezelrijke start van de dag! Speciaal bereid voor personen met een glutenintolerantie Glutenvrij, lactosevrij, tarwevrij Rijk aan vezels","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Ontbijtgranen en beleg Ontbijtgranen (Corn)flakes,"schär [SEP] cereal flakes [SEP] Glutenvrije rijst-mais vlokken, verrijkt met vitaminen en ijzer. Voor een vezelrijke start van de dag! Speciaal bereid voor personen met een glutenintolerantie Glutenvrij, lactosevrij, tarwevrij Rijk aan vezels [SEP] ontbijtgranen",schär cereal flakes ontbijtgranen,null,null,null
+0.3330636,12613,525327,AH,Girasoli alla norma,,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Nutri-Score C' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen mosterd' 'Vegetarisch' 'Geen selderij' 'Geen eieren']","Pasta rijst en wereldkeuken Salades pizza maaltijden
+ Verse pasta en pastasaus Pasta rijst noedels Mediterrane keuken
+ Pasta Verse pasta Italiaanse keuken Ravioli Italiaanse pasta",ah [SEP] girasoli alla norma [SEP]  [SEP] pasta gevuld,ah girasoli alla norma pasta gevuld,null,null,null
+0.33216786,3016,516891,Quaker,Cruesli raisin,"Quaker cruesli raisin is een lekker knapperige granenmix met goudbruin geroosterde volkoren havermout. Bovendien vind je er ook heerlijke rozijnen en hazelnootsukjes in terug. Rijk aan vezels Zonder conserveringsmiddelen Geen kunstmatige geur-, kleur-en smaakstoffen","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Krokante muesli (cruesli) Krokante muesli (fruit)","quaker [SEP] cruesli raisin [SEP] Quaker cruesli raisin is een lekker knapperige granenmix met goudbruin geroosterde volkoren havermout. Bovendien vind je er ook heerlijke rozijnen en hazelnootsukjes in terug. Rijk aan vezels Zonder conserveringsmiddelen Geen kunstmatige geur-, kleur-en smaakstoffen [SEP] krokante muesli",quaker cruesli raisin krokante muesli,null,null,null
+0.33165294,3992,196608,Melkunie,Havermoutpap,Heerlijke havermoutpap Gemaakt met 100% Nederlandse weidemelk Lekker voedzaam én zacht van smaak. Lekker om zo koud of warm te eten,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']",Zuivel plantaardig en eieren Vla en pap Pap Havermoutpap,melkunie [SEP] havermoutpap [SEP] Heerlijke havermoutpap Gemaakt met 100% Nederlandse weidemelk Lekker voedzaam én zacht van smaak. Lekker om zo koud of warm te eten [SEP] desserts,melkunie havermoutpap desserts,null,null,null
+0.33129114,17454,494120,AH Glutenvrij,Volkoren havervlokken,"De grote havervlokken zijn ideaal om zelf ontbijtgranen mee te maken of te gebruiken in bakrecepturen Doordat ze groter zijn dan havermout hebben ze een extra bite De glutenvrije producten van albert heijn zijn zorgvuldig ontwikkeld voor mensen met een intolerantie of sensitiviteit voor gluten, voldoen aan de wettelijke eisen en zijn bovendien heerlijk van smaak","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Glutenvrij Ontbijtgranen
+ Ontbijtgranen crackers Glutenvrije muesli / cornflakes","ah glutenvrij [SEP] volkoren havervlokken [SEP] De grote havervlokken zijn ideaal om zelf ontbijtgranen mee te maken of te gebruiken in bakrecepturen Doordat ze groter zijn dan havermout hebben ze een extra bite De glutenvrije producten van albert heijn zijn zorgvuldig ontwikkeld voor mensen met een intolerantie of sensitiviteit voor gluten, voldoen aan de wettelijke eisen en zijn bovendien heerlijk van smaak [SEP] ontbijtgranen",ah glutenvrij volkoren havervlokken ontbijtgranen,null,null,null
+0.3312844,3449,437378,AH Biologisch,Krokante muesli 4 noten,"Begin je dag goed met deze heerlijke biologisch, krokante gebakken mix van granen, verrijkt met noten. Zo is een lekker ontbijt in een handomdraai gemaakt! Bevat volkoren granen Biologisch Rijk aan vezels Met honing en gekarameliseerde suiker","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen selderij']",Ontbijtgranen en beleg Ontbijtgranen Granola Granola (noten),"ah biologisch [SEP] krokante muesli 4 noten [SEP] Begin je dag goed met deze heerlijke biologisch, krokante gebakken mix van granen, verrijkt met noten. Zo is een lekker ontbijt in een handomdraai gemaakt! Bevat volkoren granen Biologisch Rijk aan vezels Met honing en gekarameliseerde suiker [SEP] krokante muesli",ah biologisch krokante muesli 4 noten krokante muesli,null,null,null
+0.3310464,1698,490269,AH,Macadamiamix ongezouten,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ Notenmix (bakje)",ah [SEP] macadamiamix ongezouten [SEP]  [SEP] 3v6 noten,ah macadamiamix ongezouten 3v6 noten,null,null,null
+0.33052117,8685,951,AH,Patentbloem,Zorgvuldig geselecteerde tarwe van hoge kwaliteit Zeer fijn gemalen,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Basis bakbenodigdheden Basismeel bloem Tarwebloem",ah [SEP] patentbloem [SEP] Zorgvuldig geselecteerde tarwe van hoge kwaliteit Zeer fijn gemalen [SEP] hm basismeel,ah patentbloem hm basismeel,null,null,null
+0.3304875,13753,509350,AH,Maiskorrels fris en crispy 2 kleintjes,,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Soepen sauzen kruiden olie Conserven
+ Groente Groenteconserven Tomaat paprika mais Mais (conserven)
+ Mais Maiskorrels (conserven)",ah [SEP] maiskorrels fris en crispy 2 kleintjes [SEP]  [SEP] mais,ah maiskorrels fris en crispy 2 kleintjes mais,null,null,null
+0.3296488,1880,414776,Quaker,Havermout,Een voedzaam ontbijt voor een goede start van je dag. 100% natuurlijk 100% volkoren granen Rijk aan vezels 15 porties,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Havermout en pap Havermout
+ Havermout (regular)",quaker [SEP] havermout [SEP] Een voedzaam ontbijt voor een goede start van je dag. 100% natuurlijk 100% volkoren granen Rijk aan vezels 15 porties [SEP] havermout & pap,quaker havermout havermout & pap,null,null,null
+0.3287095,3848,60445,AH Biologisch,Krokante Muesli met volkoren vlokken,"Krokante volkorenmuesli vol vezelrijke ingrediënten Te mengen met melk, yoghurt, kwark of vruchtensap Voeg je eigen smaak toe, bijvoorbeeld wat kaneel of een lepel honing","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Krokante muesli (cruesli) Krokante muesli (naturel)","ah biologisch [SEP] krokante muesli met volkoren vlokken [SEP] Krokante volkorenmuesli vol vezelrijke ingrediënten Te mengen met melk, yoghurt, kwark of vruchtensap Voeg je eigen smaak toe, bijvoorbeeld wat kaneel of een lepel honing [SEP] krokante muesli",ah biologisch krokante muesli met volkoren vlokken krokante muesli,null,null,null

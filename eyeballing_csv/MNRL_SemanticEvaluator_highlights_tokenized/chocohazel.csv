@@ -1,0 +1,734 @@
+scoreLLM score,ann,prd_id,brand,title,highlights,properties,taxonomies,full_text,full_text_no_sep,Unnamed: 0,search_query,scorePropensity score
+0.27696672,6938,546725,AH Glutenvrij,Goudse kaaskoekjes,,"['Geen lactose' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen lupine' 'Nutri-Score E'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Glutenvrij Koek
+ Koek chips tussendoortjes Glutenvrije koek",ah glutenvrij [SEP] goudse kaaskoekjes [SEP]  [SEP] hartige snacks,ah glutenvrij goudse kaaskoekjes hartige snacks,null,null,null
+0.26768768,10635,407798,AH Glutenvrij,Cakemix,"Bak zelf een lekkere, luchtige cake met deze glutenvrije cakemix op basis van rijstmeel en maismeel. Glutenvrij Zelf margarine en ei toevoegen Versieren naar keuze","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Glutenvrij
+ Bakproducten Glutenvrije bakproducten Bakkerij glutenvrij
+ Bakproducten (glutenvrij) Bak mixen Zoete bakmix (glutenvrij)","ah glutenvrij [SEP] cakemix [SEP] Bak zelf een lekkere, luchtige cake met deze glutenvrije cakemix op basis van rijstmeel en maismeel. Glutenvrij Zelf margarine en ei toevoegen Versieren naar keuze [SEP] bakmixen",ah glutenvrij cakemix bakmixen,null,null,null
+0.25502533,9509,509341,AH Glutenvrij,Pistolets wit,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen selderij' 'Geen eieren'
+ 'Geen gluten']","Bewuste voeding Bakkerij en banket Glutenvrij koolhydraatarm
+ Glutenvrij Brood Bakkerij glutenvrij Brood (glutenvrij)
+ Glutenvrij brood",ah glutenvrij [SEP] pistolets wit [SEP]  [SEP] brood,ah glutenvrij pistolets wit brood,null,null,null
+0.24780315,468,228417,AH Glutenvrij,Luchtige crackers,"Luchtige en knapperige crackers voor ontbijt of als tussendoortje Vrij van gluten De Vrij van gluten-producten van Albert Heijn zijn zorgvuldig ontwikkeld voor mensen met een intolerantie of sensitiviteit voor gluten, voldoen aan de wettelijke eisen en zijn bovendien heerlijk van smaak.","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd'
+ 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Glutenvrij
+ Crackers rijstwafels Ontbijtgranen crackers
+ Glutenvrije crackers knackebrod","ah glutenvrij [SEP] luchtige crackers [SEP] Luchtige en knapperige crackers voor ontbijt of als tussendoortje Vrij van gluten De Vrij van gluten-producten van Albert Heijn zijn zorgvuldig ontwikkeld voor mensen met een intolerantie of sensitiviteit voor gluten, voldoen aan de wettelijke eisen en zijn bovendien heerlijk van smaak. [SEP] broodvervangers",ah glutenvrij luchtige crackers broodvervangers,null,null,null
+0.24647222,3469,487230,AH,Macadamiamix ongezouten,"Een heerlijke mix van macadamia's, cashews en pecans Lekker voor op de borrel of tijdens een feestje Ook zo uit het vuistje Makkelijk afsluitbaar","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Diverse (zakje)","ah [SEP] macadamiamix ongezouten [SEP] Een heerlijke mix van macadamia's, cashews en pecans Lekker voor op de borrel of tijdens een feestje Ook zo uit het vuistje Makkelijk afsluitbaar [SEP] ongezouten noten",ah macadamiamix ongezouten ongezouten noten,null,null,null
+0.2413398,4528,516643,Schär,Crumble cake mix,"Glutenvrije bakmix voor kruimeltaarten. Speciaal bereid voor personen met een glutenintolerantie Glutenvrij, tarwevrij, lactosevrij","['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Bakkerij en banket Snoep koek chips en chocolade Zelf bakken
+ Bakmix Cakemix","schär [SEP] crumble cake mix [SEP] Glutenvrije bakmix voor kruimeltaarten. Speciaal bereid voor personen met een glutenintolerantie Glutenvrij, tarwevrij, lactosevrij [SEP] bakmixen",schär crumble cake mix bakmixen,null,null,null
+0.23875886,3061,140744,AH,Notenmix ongezouten,"Notenmix naturel, ongezouten.","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ Notenmix (bakje)","ah [SEP] notenmix ongezouten [SEP] Notenmix naturel, ongezouten. [SEP] ongezouten noten",ah notenmix ongezouten ongezouten noten,null,null,null
+0.23485604,8194,509286,AH Glutenvrij,Kampioentjes,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen selderij' 'Geen eieren'
+ 'Geen gluten']","Bewuste voeding Bakkerij en banket Glutenvrij koolhydraatarm
+ Glutenvrij Brood Bakkerij glutenvrij Brood (glutenvrij)
+ Glutenvrij brood",ah glutenvrij [SEP] kampioentjes [SEP]  [SEP] brood,ah glutenvrij kampioentjes brood,null,null,null
+0.23274803,16220,494117,AH Glutenvrij,Vezelrijke kaascrackers,Knapperige crackers met kaas Glutenvrij,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Glutenvrij
+ Crackers rijstwafels Ontbijtgranen crackers
+ Glutenvrije crackers knackebrod",ah glutenvrij [SEP] vezelrijke kaascrackers [SEP] Knapperige crackers met kaas Glutenvrij [SEP] broodvervangers,ah glutenvrij vezelrijke kaascrackers broodvervangers,null,null,null
+0.22742037,5092,228424,Schär,Mini baguette glutenvrij,"Heerlijke, witte pistoletjes om zelf af te bakken Gluten-, tarwe- en lactosevrij.","['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' ""Geen pinda's"" 'Laag vet' 'Geen lupine'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij' 'Geen gluten']","Kerst Bewuste voeding Bakkerij en banket
+ Glutenvrij koolhydraatarm Kerstontbijt Glutenvrij Afbakbrood
+ Bakkerij glutenvrij Thuis afbakken (glutenvrij)
+ Glutenvrije afbakbroodjes","schär [SEP] mini baguette glutenvrij [SEP] Heerlijke, witte pistoletjes om zelf af te bakken Gluten-, tarwe- en lactosevrij. [SEP] brood",schär mini baguette glutenvrij brood,null,null,null
+0.22721787,2109,494082,Prewetts,Enrobed orange creams,"Een echt verwenkoekje, omhuld met belgische chocolade. En nog glutenvrij ook! Glutenvrij Chocoladekoekje, omhuld met belgische chocolade Gevuld met een frisse creme met sinaasappelsmaak","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Glutenvrij Koek
+ Koek chips tussendoortjes Glutenvrije koek","prewetts [SEP] enrobed orange creams [SEP] Een echt verwenkoekje, omhuld met belgische chocolade. En nog glutenvrij ook! Glutenvrij Chocoladekoekje, omhuld met belgische chocolade Gevuld met een frisse creme met sinaasappelsmaak [SEP] biscuits",prewetts enrobed orange creams biscuits,null,null,null
+0.22356866,9506,360262,PostNL,Postzegel Ned iconen 1 vel a 10 st,Zelfklevend 10 stuks.,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Postzegels donaties,postnl [SEP] postzegel ned iconen 1 vel a 10 st [SEP] Zelfklevend 10 stuks. [SEP] postzegels,postnl postzegel ned iconen 1 vel a 10 st postzegels,null,null,null
+0.22213015,1455,494243,AH Glutenvrij,Roze koek,"Glutenvrij De glutenvrije producten van Albert Heijn zijn zorgvuldig ontwikkeld voor mensen met een intolerantie of sensitiviteit voor gluten, voldoen aan de wettelijke eisen en zijn bovendien heerlijk van smaak. Ouderwets lekker","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen lupine'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren' 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Glutenvrij Koek
+ Koek chips tussendoortjes Glutenvrije koek","ah glutenvrij [SEP] roze koek [SEP] Glutenvrij De glutenvrije producten van Albert Heijn zijn zorgvuldig ontwikkeld voor mensen met een intolerantie of sensitiviteit voor gluten, voldoen aan de wettelijke eisen en zijn bovendien heerlijk van smaak. Ouderwets lekker [SEP] biscuits",ah glutenvrij roze koek biscuits,null,null,null
+0.2213456,9697,494081,Prewetts,Enrobed vanilla creams,"Een echt verwenkoekje, omhuld met belgische chocolade. En nog glutenvrij ook! Glutenvrij Chocoladekoekje, omhuld met belgische chocolade Gevuld met een lekkere creme met vanillesmaak","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Glutenvrij Koek
+ Koek chips tussendoortjes Glutenvrije koek","prewetts [SEP] enrobed vanilla creams [SEP] Een echt verwenkoekje, omhuld met belgische chocolade. En nog glutenvrij ook! Glutenvrij Chocoladekoekje, omhuld met belgische chocolade Gevuld met een lekkere creme met vanillesmaak [SEP] biscuits",prewetts enrobed vanilla creams biscuits,null,null,null
+0.21990755,2670,199622,Schär,Crackers pocket,"Glutenvrije crackers in handinge meeneemverpakking. Lunch to go cracker Past binnen een glutenvrij dieet Glutenvrij, tarwevrije en lactosevrij","['Laag zout' 'Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)' 'Vegetarisch'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Glutenvrij
+ Crackers rijstwafels Ontbijtgranen crackers
+ Glutenvrije crackers knackebrod","schär [SEP] crackers pocket [SEP] Glutenvrije crackers in handinge meeneemverpakking. Lunch to go cracker Past binnen een glutenvrij dieet Glutenvrij, tarwevrije en lactosevrij [SEP] broodvervangers",schär crackers pocket broodvervangers,null,null,null
+0.21930458,11998,216742,Old Amsterdam,Crème,"Old amsterdam creme heeft de herkenbare karakteristieke smaak van old amsterdam, maar dan roomzacht en goed smeerbaar. Verrassend smaakvol op een toastje bij de borrel of op een smaakvolle boterham. Pittig en licht zoet van smaak Roomzacht en goed smeerbaar","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Kaas
+ Hartig broodbeleg Kaas beleg Smeerkaas Zuivelspread
+ Kaas voor beleg Smeerkaas roomkaas cottage cheese","old amsterdam [SEP] crème [SEP] Old amsterdam creme heeft de herkenbare karakteristieke smaak van old amsterdam, maar dan roomzacht en goed smeerbaar. Verrassend smaakvol op een toastje bij de borrel of op een smaakvolle boterham. Pittig en licht zoet van smaak Roomzacht en goed smeerbaar [SEP] kzb bb smeer",old amsterdam crème kzb bb smeer,null,null,null
+0.2179988,3842,509342,AH Glutenvrij,Witte bolletjes,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen selderij' 'Geen eieren'
+ 'Geen gluten']","Bewuste voeding Bakkerij en banket Glutenvrij koolhydraatarm
+ Glutenvrij Brood Bakkerij glutenvrij Brood (glutenvrij)
+ Glutenvrij brood",ah glutenvrij [SEP] witte bolletjes [SEP]  [SEP] brood,ah glutenvrij witte bolletjes brood,null,null,null
+0.21793096,10077,517427,Bonne Maman,Financiers amandes,"Heerlijke amandel cakejes gemaakt volgens traditioneel frans recept met een rijke roomboter- amandelsmaak. Authentieke franse receptuur Heerlijk rijke boter- en amandelsmaak Individueel verpakt, zo blijft het product altijd vers Zonder bewaarmiddelen, kleur- of kunstmatige smaakstoffen","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen lupine' ""Geen pinda's""
+ 'Vegetarisch' 'Geen melk' 'Geen selderij' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Geen eieren']",Snoep koek chips en chocolade Koek Cake Cakejes,"bonne maman [SEP] financiers amandes [SEP] Heerlijke amandel cakejes gemaakt volgens traditioneel frans recept met een rijke roomboter- amandelsmaak. Authentieke franse receptuur Heerlijk rijke boter- en amandelsmaak Individueel verpakt, zo blijft het product altijd vers Zonder bewaarmiddelen, kleur- of kunstmatige smaakstoffen [SEP] verpakt premium",bonne maman financiers amandes verpakt premium,null,null,null
+0.21764795,15593,513428,AH,Smeuïge rookkaas 45+ plakken,"Kaas om bij weg te smelten: zachte, gesmolten en lichtgerookte kaas, lekker om iedere boterham mee te beleggen of gewoon zo uit het vuistje te eten. Smaak: zacht en smeuig Gemaakt van koemelk","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Kaas vleeswaren tapas Kaas Kaas voor beleg Plakken kaas
+ Rookkaas (plakken)","ah [SEP] smeuïge rookkaas 45+ plakken [SEP] Kaas om bij weg te smelten: zachte, gesmolten en lichtgerookte kaas, lekker om iedere boterham mee te beleggen of gewoon zo uit het vuistje te eten. Smaak: zacht en smeuig Gemaakt van koemelk [SEP] kzb bb plak variatie",ah smeuïge rookkaas 45+ plakken kzb bb plak variatie,null,null,null
+0.21737105,8547,407792,AH Glutenvrij,Boekweit meel,"Glutenvrij boekweitmeel is de ideale basis voor het maken van onder andere (hartige) pannenkoeken, poffertjes, brood of cake. 100% boekweitmeel gemaakt van de boekweitplant Glutenvrij Lactosevrij","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Glutenvrij
+ Bakproducten Basis bakbenodigdheden Glutenvrije bakproducten
+ Bakkerij glutenvrij Bakproducten (glutenvrij) Basismeel bloem
+ Basismeel (glutenvrij)","ah glutenvrij [SEP] boekweit meel [SEP] Glutenvrij boekweitmeel is de ideale basis voor het maken van onder andere (hartige) pannenkoeken, poffertjes, brood of cake. 100% boekweitmeel gemaakt van de boekweitplant Glutenvrij Lactosevrij [SEP] bakmixen",ah glutenvrij boekweit meel bakmixen,null,null,null
+0.2168392,7020,517294,AH,Ongezouten notenmix,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Notenmix (zakje)",ah [SEP] ongezouten notenmix [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] grootverpakking basis,ah ongezouten notenmix grootverpakking basis,null,null,null
+0.21615648,1698,490269,AH,Macadamiamix ongezouten,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ Notenmix (bakje)",ah [SEP] macadamiamix ongezouten [SEP]  [SEP] 3v6 noten,ah macadamiamix ongezouten 3v6 noten,null,null,null
+0.21537952,13547,520109,AH,Ongezouten hazelnoten,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Hazelnoten (zakje)",ah [SEP] ongezouten hazelnoten [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] ongezouten noten,ah ongezouten hazelnoten ongezouten noten,null,null,null
+0.21502128,8324,494119,AH Glutenvrij,Vezelrijke broodmix,Met de mix maak je zelf in een mum van tijd een lekker en voedzaam glutenvrij brood. Door de toevoeging van zaden en zonnebloempitten krijgt het brood extra textuur en smaak.,"['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lupine' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Glutenvrij koolhydraatarm
+ Zelf bakken Brood Glutenvrij Bakproducten
+ Glutenvrije bakproducten Brood (glutenvrij) Bakmix
+ Bakkerij glutenvrij Bakproducten (glutenvrij) Bak mixen Broodmix
+ Glutenvrije broodmix Broodmix croissantdeeg",ah glutenvrij [SEP] vezelrijke broodmix [SEP] Met de mix maak je zelf in een mum van tijd een lekker en voedzaam glutenvrij brood. Door de toevoeging van zaden en zonnebloempitten krijgt het brood extra textuur en smaak. [SEP] bakmixen,ah glutenvrij vezelrijke broodmix bakmixen,null,null,null
+0.2147793,16398,199624,Schär,Mix kuchen und kekse,"Glutenvrije bakmix voor het bereiden van gebak en koekjes. Speciaal bereid voor personenen met een glutenintolerantie Glutenvrij, tarwevrij, lactosevrij, palmolievrij Vrij van concerveringsmiddelen","['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Glutenvrij
+ Bakproducten Glutenvrije bakproducten Bakkerij glutenvrij
+ Bakproducten (glutenvrij) Bak mixen Zoete bakmix (glutenvrij)","schär [SEP] mix kuchen und kekse [SEP] Glutenvrije bakmix voor het bereiden van gebak en koekjes. Speciaal bereid voor personenen met een glutenintolerantie Glutenvrij, tarwevrij, lactosevrij, palmolievrij Vrij van concerveringsmiddelen [SEP] bakmixen",schär mix kuchen und kekse bakmixen,null,null,null
+0.21139032,7067,407791,AH Glutenvrij,Zelfrijzende bakmix,"Glutenvrij. De glutenvrije producten van albert heijn zijn zorgvuldig ontwikkeld voor mensen met een intolerantie of sensitiviteit voor gluten, voldoen aan de wettelijke eisen en zijn bovendien heerlijk van smaak Multifunctioneel bakmeel voor het maken van onder andere appeltaart, broodjes, pizzabodem en koekjes","['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Glutenvrij
+ Bakproducten Basis bakbenodigdheden Glutenvrije bakproducten
+ Bakkerij glutenvrij Bakproducten (glutenvrij) Basismeel bloem
+ Basismeel (glutenvrij)","ah glutenvrij [SEP] zelfrijzende bakmix [SEP] Glutenvrij. De glutenvrije producten van albert heijn zijn zorgvuldig ontwikkeld voor mensen met een intolerantie of sensitiviteit voor gluten, voldoen aan de wettelijke eisen en zijn bovendien heerlijk van smaak Multifunctioneel bakmeel voor het maken van onder andere appeltaart, broodjes, pizzabodem en koekjes [SEP] bakmixen",ah glutenvrij zelfrijzende bakmix bakmixen,null,null,null
+0.21042924,2611,487227,AH,Huismix ongezouten,"Een heerlijke huismix van cashews, amandelen, hazelnoten en pecans Makkelijk afsluitbaar Lekker voor bij de borrel Of uit het vuistje","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Diverse (zakje)","ah [SEP] huismix ongezouten [SEP] Een heerlijke huismix van cashews, amandelen, hazelnoten en pecans Makkelijk afsluitbaar Lekker voor bij de borrel Of uit het vuistje [SEP] ongezouten noten",ah huismix ongezouten ongezouten noten,null,null,null
+0.20977153,15653,490272,AH,Huismix ongezouten,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ Notenmix (bakje)",ah [SEP] huismix ongezouten [SEP]  [SEP] 3v6 noten,ah huismix ongezouten 3v6 noten,null,null,null
+0.20831862,2359,494412,AH Glutenvrij,Brownies,Twee grote brownies met pure chocoladestukjes. Lekker bij koffie of thee Lactosevrij,"['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Vegetarisch' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lupine' 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Glutenvrij Koek
+ Koek chips tussendoortjes Glutenvrije koek",ah glutenvrij [SEP] brownies [SEP] Twee grote brownies met pure chocoladestukjes. Lekker bij koffie of thee Lactosevrij [SEP] zoete snacks,ah glutenvrij brownies zoete snacks,null,null,null
+0.20830421,6198,455946,Schär,Baguette glutenvrij,Deze baguettes zijn gemaakt volgens traditioneel frans recept en bakt u zelf binnen enkele minuten af in een voorverwarmde oven. Gluten- en tarwevrij Lactosevrij Vrij van conserveringsmiddelen,"['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' ""Geen pinda's"" 'Laag vet' 'Geen lupine'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij' 'Geen gluten']","Bewuste voeding Bakkerij en banket Kerst
+ Glutenvrij koolhydraatarm Afbakbrood Brood Glutenvrij
+ Kerstontbijt Brood (glutenvrij) Bakkerij glutenvrij
+ Thuis afbakken (glutenvrij) Glutenvrij stokbrood",schär [SEP] baguette glutenvrij [SEP] Deze baguettes zijn gemaakt volgens traditioneel frans recept en bakt u zelf binnen enkele minuten af in een voorverwarmde oven. Gluten- en tarwevrij Lactosevrij Vrij van conserveringsmiddelen [SEP] brood,schär baguette glutenvrij brood,null,null,null
+0.20762727,14286,550448,AH Glutenvrij,Borrelbrood Mediterraans,,"['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen selderij' 'Geen eieren'
+ 'Geen gluten']","Bewuste voeding Bakkerij en banket Glutenvrij koolhydraatarm
+ Glutenvrij Brood Bakkerij glutenvrij Brood (glutenvrij)
+ Glutenvrij brood",ah glutenvrij [SEP] borrelbrood mediterraans [SEP]  [SEP] brood,ah glutenvrij borrelbrood mediterraans brood,null,null,null
+0.20644087,7157,516682,Schär,Butter cookies,"Heerlijke glutenvrije zandkoekjes. Per 3 koekjes verpakt, handig om mee te nemen Speciaal bereid voor personen met een glutenintolerantie Glutenvrij","['Laag zout' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen eieren' 'Geen noten' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lupine' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Glutenvrij Koek
+ Koek chips tussendoortjes Glutenvrije koek","schär [SEP] butter cookies [SEP] Heerlijke glutenvrije zandkoekjes. Per 3 koekjes verpakt, handig om mee te nemen Speciaal bereid voor personen met een glutenintolerantie Glutenvrij [SEP] biscuits",schär butter cookies biscuits,null,null,null
+0.20547879,12391,462690,AH,Smeerkaas 20+ ham,"Smeerkaas 20+ met kleine stukjes ham, een lekkere combinatie op brood, cracker of als dipper bij de borrel. Smeerbare kaas met stukjes ham Lekker voor op brood, toast of als dipper Minder vet Cupje is ongeopend buiten de koelkast houdbaar Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Kaas
+ Hartig broodbeleg Kaas beleg Smeerkaas Zuivelspread
+ Kaas voor beleg Smeerkaas roomkaas cottage cheese","ah [SEP] smeerkaas 20+ ham [SEP] Smeerkaas 20+ met kleine stukjes ham, een lekkere combinatie op brood, cracker of als dipper bij de borrel. Smeerbare kaas met stukjes ham Lekker voor op brood, toast of als dipper Minder vet Cupje is ongeopend buiten de koelkast houdbaar Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] kzb bb smeer",ah smeerkaas 20+ ham kzb bb smeer,null,null,null
+0.20425215,3059,444821,Smaakt,Boekweit pannenkoekmix,"Smaakt boekweitpannenkoekenmix is ideaal om pannenkoeken mee te maken. Deze graanvrije pannenkoekenmix bevat geen toegevoegde suikers, is vrij van kunstmatige toevoegingen en 100% plantaardig. Biologisch 100% plantaardig Zonder toegevoegde suikers Graanvrij & van nature glutenvrij","['Geen gluten' 'Geen melk' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Salades pizza maaltijden Snoep koek chips en chocolade
+ Zelf bakken Pannenkoeken poffertjes Glutenvrij Bakproducten
+ Glutenvrije bakproducten Bakkerij glutenvrij
+ Bakproducten (glutenvrij) Bak mixen Pannenkoekenmix
+ Pannenkoekenmix (glutenvrij)","smaakt [SEP] boekweit pannenkoekmix [SEP] Smaakt boekweitpannenkoekenmix is ideaal om pannenkoeken mee te maken. Deze graanvrije pannenkoekenmix bevat geen toegevoegde suikers, is vrij van kunstmatige toevoegingen en 100% plantaardig. Biologisch 100% plantaardig Zonder toegevoegde suikers Graanvrij & van nature glutenvrij [SEP] bio melen en bakken",smaakt boekweit pannenkoekmix bio melen en bakken,null,null,null
+0.20310709,3920,462689,AH,Smeerkaas 20+ naturel,"Smeerkaas 20+ naturel doet het altijd goed brood, cracker of als dipper bij de borrel. Smeerbare kaas Lekker voor op brood, toast of als dipper Minder vet Cupje is ongeopend buiten de koelkast houdbaar Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij'
+ 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Kaas
+ Hartig broodbeleg Kaas beleg Smeerkaas Zuivelspread
+ Kaas voor beleg Smeerkaas roomkaas cottage cheese","ah [SEP] smeerkaas 20+ naturel [SEP] Smeerkaas 20+ naturel doet het altijd goed brood, cracker of als dipper bij de borrel. Smeerbare kaas Lekker voor op brood, toast of als dipper Minder vet Cupje is ongeopend buiten de koelkast houdbaar Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] kzb bb smeer",ah smeerkaas 20+ naturel kzb bb smeer,null,null,null
+0.20280671,17723,518863,AH Zaanlander,Prestige extra oud 48+ plakken,,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Kaas Kaas beleg
+ Belegen kaas broodbeleg Kaas voor beleg Plakken kaas
+ Belegen kaas (plakken)",ah zaanlander [SEP] prestige extra oud 48+ plakken [SEP]  [SEP] kb bb plak,ah zaanlander prestige extra oud 48+ plakken kb bb plak,null,null,null
+0.19979386,154,509388,AH,Roomboter cakeplakjes,Lekkere luchtige roomboter cakeplakjes. In handige portieverpakking Bereid met roomboter,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Snoep koek chips en chocolade Koek Cake Cakes,ah [SEP] roomboter cakeplakjes [SEP] Lekkere luchtige roomboter cakeplakjes. In handige portieverpakking Bereid met roomboter [SEP] doorzicht cake,ah roomboter cakeplakjes doorzicht cake,null,null,null
+0.19949296,6491,509349,AH Glutenvrij,Pistolets meerzaden,,"['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen selderij' 'Geen eieren'
+ 'Geen gluten']","Bewuste voeding Bakkerij en banket Glutenvrij koolhydraatarm
+ Glutenvrij Brood Bakkerij glutenvrij Brood (glutenvrij)
+ Glutenvrij brood",ah glutenvrij [SEP] pistolets meerzaden [SEP]  [SEP] brood,ah glutenvrij pistolets meerzaden brood,null,null,null
+0.19892864,16175,550449,AH Glutenvrij,Italiaanse bol,,"['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen selderij' 'Geen eieren'
+ 'Geen gluten']","Kerst Bewuste voeding Bakkerij en banket
+ Glutenvrij koolhydraatarm Kerstontbijt Glutenvrij Afbakbrood
+ Bakkerij glutenvrij Thuis afbakken (glutenvrij)
+ Glutenvrije afbakbroodjes",ah glutenvrij [SEP] italiaanse bol [SEP]  [SEP] brood,ah glutenvrij italiaanse bol brood,null,null,null
+0.1988037,2703,494115,AH Glutenvrij,American pancakes,"Glutenvrij. Kant-en-klare glutenvrije pannenkoekjes voor tijdens het ontbijt of op ieder ander moment van de dag. Even opwarmen en klaar De glutenvrije producten van albert heijn zijn zorgvuldig ontwikkeld voor mensen met een intolerantie of sensitiviteit voor gluten, voldoen aan de wettelijke eisen en zijn bovendien heerlijk van smaak","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen lupine' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen noten' 'Geen selderij' 'Geen eieren' 'Geen gluten']",Salades pizza maaltijden Pannenkoeken poffertjes Pannenkoeken,"ah glutenvrij [SEP] american pancakes [SEP] Glutenvrij. Kant-en-klare glutenvrije pannenkoekjes voor tijdens het ontbijt of op ieder ander moment van de dag. Even opwarmen en klaar De glutenvrije producten van albert heijn zijn zorgvuldig ontwikkeld voor mensen met een intolerantie of sensitiviteit voor gluten, voldoen aan de wettelijke eisen en zijn bovendien heerlijk van smaak [SEP] broodvervangers",ah glutenvrij american pancakes broodvervangers,null,null,null
+0.19782913,10978,539299,AH,Pecannoten ongebrand,"Ongezouten, ongebrande noten. Niet gebakken in olie Van nature rijk aan vtiamine b1 en zink Heerlijk in salades, yoghurt","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Noten Wholefoods
+ Noten in zak Noten (superfoods) Paranoten (zakje)","ah [SEP] pecannoten ongebrand [SEP] Ongezouten, ongebrande noten. Niet gebakken in olie Van nature rijk aan vtiamine b1 en zink Heerlijk in salades, yoghurt [SEP] ongebrand zak",ah pecannoten ongebrand ongebrand zak,null,null,null
+0.19751178,15470,494104,Schär,Bon choc,"Glutenvrije zachte broodjes met stukjes pure chocolade. Heerlijk als zoet ontbijtje of voor bij de lunch. Glutenvrij, tarwevrij","['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Vegetarisch' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen lupine' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Melkchocolade","schär [SEP] bon choc [SEP] Glutenvrije zachte broodjes met stukjes pure chocolade. Heerlijk als zoet ontbijtje of voor bij de lunch. Glutenvrij, tarwevrij [SEP] brood",schär bon choc brood,null,null,null
+0.196457,16188,407851,AH Glutenvrij,Gevulde koek,"Gevuld met amandelspijs en banketspijs Vrij van gluten De Vrij van gluten-producten van Albert Heijn zijn zorgvuldig ontwikkeld voor mensen met een intolerantie of sensitiviteit voor gluten, voldoen aan de wettelijke eisen en zijn bovendien heerlijk van smaak.","['Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Vegetarisch' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen lupine' 'Geen lactose' 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Glutenvrij Koek
+ Koek chips tussendoortjes Glutenvrije koek","ah glutenvrij [SEP] gevulde koek [SEP] Gevuld met amandelspijs en banketspijs Vrij van gluten De Vrij van gluten-producten van Albert Heijn zijn zorgvuldig ontwikkeld voor mensen met een intolerantie of sensitiviteit voor gluten, voldoen aan de wettelijke eisen en zijn bovendien heerlijk van smaak. [SEP] biscuits",ah glutenvrij gevulde koek biscuits,null,null,null
+0.19579677,17493,550453,Schär,Yogo cake,"Glutenvrije cakejes met magere yoghurt. Yoghurt cakejes met zeer zachte textuur Past binnen een glutenvrij dieet Glutenvrij, tarwevrije en lactosevrij",['Laag zout' 'Veganistisch' 'Laag suiker' 'Vegetarisch' 'Laag vet'],Snoep koek chips en chocolade Koek Cake Cakejes,"schär [SEP] yogo cake [SEP] Glutenvrije cakejes met magere yoghurt. Yoghurt cakejes met zeer zachte textuur Past binnen een glutenvrij dieet Glutenvrij, tarwevrije en lactosevrij [SEP] zoete snacks",schär yogo cake zoete snacks,null,null,null
+0.19573379,1985,162981,AH,Creamerstaafjes,Handige porties Makkelijk voor onderweg,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Zuivel plantaardig en eieren Koffiemelk koffieroom koffiecreamers
+ Koffiecreamer",ah [SEP] creamerstaafjes [SEP] Handige porties Makkelijk voor onderweg [SEP] creamer singleserve,ah creamerstaafjes creamer singleserve,null,null,null
+0.19513857,4353,407850,AH Glutenvrij,Double cookies,Deze heerlijke koekjes bestaan uit knapperige cacaobiscuits gevuld met een zachte crème met vanillesmaak. Deze dubbelkoekjes zijn bovendien glutenvrij. Knapperige cacaobiscuits gevuld met een crème met vanillesmaak Glutenvrij,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren' 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Glutenvrij Koek
+ Koek chips tussendoortjes Glutenvrije koek",ah glutenvrij [SEP] double cookies [SEP] Deze heerlijke koekjes bestaan uit knapperige cacaobiscuits gevuld met een zachte crème met vanillesmaak. Deze dubbelkoekjes zijn bovendien glutenvrij. Knapperige cacaobiscuits gevuld met een crème met vanillesmaak Glutenvrij [SEP] biscuits,ah glutenvrij double cookies biscuits,null,null,null
+0.19470127,11281,228406,Schär,Crackers glutenvrij,"Schär - Crackers zijn licht gezouten, glutenvrije crackers die heerlijk te eten zijn als tussendoortje. Naturel of met een topping naar keuze. Tarwevrij Lactosevrij Glutenvrij","['Laag zout' 'Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Glutenvrij
+ Crackers rijstwafels Ontbijtgranen crackers
+ Glutenvrije crackers knackebrod","schär [SEP] crackers glutenvrij [SEP] Schär - Crackers zijn licht gezouten, glutenvrije crackers die heerlijk te eten zijn als tussendoortje. Naturel of met een topping naar keuze. Tarwevrij Lactosevrij Glutenvrij [SEP] broodvervangers",schär crackers glutenvrij broodvervangers,null,null,null
+0.19382517,16348,517276,AH,Cake met citroensmaak witte chocolade,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Snoep koek chips en chocolade Koek Cake Cakes,ah [SEP] cake met citroensmaak witte chocolade [SEP]  [SEP] verpakt cake,ah cake met citroensmaak witte chocolade verpakt cake,null,null,null
+0.1921678,10338,476433,Flower Farm,Smeren zonder palm,,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor op brood 3/4 margarine (smeerbaar)",flower farm [SEP] smeren zonder palm [SEP]  [SEP] margarine kuipje,flower farm smeren zonder palm margarine kuipje,null,null,null
+0.19183648,15929,199621,Schär,Fette croccanti,Deze cracker van Schär is een ideale glutenvrije broodvervanger die heerlijk te combineren is met verschillende zoete of hartige toppings. Tarwevrij Lactosevrij Glutenvrij,"['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Glutenvrij
+ Crackers rijstwafels Ontbijtgranen crackers
+ Glutenvrije crackers knackebrod",schär [SEP] fette croccanti [SEP] Deze cracker van Schär is een ideale glutenvrije broodvervanger die heerlijk te combineren is met verschillende zoete of hartige toppings. Tarwevrij Lactosevrij Glutenvrij [SEP] broodvervangers,schär fette croccanti broodvervangers,null,null,null
+0.19176099,11245,56349,AH,Plantenmargarine lactose vrij,Zoutarm Plantaardig lactosevrij,"['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lupine' 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor de keuken Vaste margarine",ah [SEP] plantenmargarine lactose vrij [SEP] Zoutarm Plantaardig lactosevrij [SEP] margarine wikkel,ah plantenmargarine lactose vrij margarine wikkel,null,null,null
+0.19167836,5098,517494,Bonne Maman,La madeleine chocolat au lait,"Traditioneel franse madeleine met een rijke roomboter smaak en een heerlijk laagje chocolade. Authentieke franse receptuur Heerlijk rijke boter- en chocoladesmaak Individueel verpakt, zo blijft het product altijd vers Zonder bewaarmiddelen, kleur- of kunstmatige smaakstoffen","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Vegetarisch'
+ 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Koek Cake Cakejes,"bonne maman [SEP] la madeleine chocolat au lait [SEP] Traditioneel franse madeleine met een rijke roomboter smaak en een heerlijk laagje chocolade. Authentieke franse receptuur Heerlijk rijke boter- en chocoladesmaak Individueel verpakt, zo blijft het product altijd vers Zonder bewaarmiddelen, kleur- of kunstmatige smaakstoffen [SEP] verpakt premium",bonne maman la madeleine chocolat au lait verpakt premium,null,null,null
+0.19101632,2859,494118,AH Glutenvrij,Vezelrijke zadencrackers,"Knapperige crackers met sesamzaad, lijnzaad en zonnebloempitten. Glutenvrij De glutenvrije producten van albert heijn zijn zorgvuldig ontwikkeld voor mensen met een intolerantie of sensitiviteit voor gluten, voldoen aan de wettelijke eisen en zijn bovendien heerlijk van smaak","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen selderij'
+ 'Geen eieren' 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Glutenvrij
+ Crackers rijstwafels Ontbijtgranen crackers
+ Glutenvrije crackers knackebrod","ah glutenvrij [SEP] vezelrijke zadencrackers [SEP] Knapperige crackers met sesamzaad, lijnzaad en zonnebloempitten. Glutenvrij De glutenvrije producten van albert heijn zijn zorgvuldig ontwikkeld voor mensen met een intolerantie of sensitiviteit voor gluten, voldoen aan de wettelijke eisen en zijn bovendien heerlijk van smaak [SEP] broodvervangers",ah glutenvrij vezelrijke zadencrackers broodvervangers,null,null,null
+0.1906582,9544,549783,Old Amsterdam,48+ plakken,Maak van je boterham een ware traktatie met de unieke smaak van old amsterdam. Verkrijgbaar in een verpakking van 115 gram met circa 4 plakken. Pittig en licht zoet van smaak Met rijpingskristallen Smeuig en goed snijdbaar,"['Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Kaas Kaas beleg
+ Oude kaas broodbeleg Kaas voor beleg Plakken kaas
+ Oude kaas (plakken)",old amsterdam [SEP] 48+ plakken [SEP] Maak van je boterham een ware traktatie met de unieke smaak van old amsterdam. Verkrijgbaar in een verpakking van 115 gram met circa 4 plakken. Pittig en licht zoet van smaak Met rijpingskristallen Smeuig en goed snijdbaar [SEP] kzb bb plak,old amsterdam 48+ plakken kzb bb plak,null,null,null
+0.19009858,14307,549785,Echte smeerkaas,Kruiden 20+,Heerlijk romig van smaak 25% minder zout dan de meeste smeerkazen Lekker op een boterham of cracker Van de makers van echte boter,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Kaas
+ Hartig broodbeleg Kaas beleg Smeerkaas Zuivelspread
+ Kaas voor beleg Smeerkaas roomkaas cottage cheese",echte smeerkaas [SEP] kruiden 20+ [SEP] Heerlijk romig van smaak 25% minder zout dan de meeste smeerkazen Lekker op een boterham of cracker Van de makers van echte boter [SEP] kzb bb bewust smeer,echte smeerkaas kruiden 20+ kzb bb bewust smeer,null,null,null
+0.19003206,12816,35395,Delicata,Puur hazelnoot,Heerlijke chocolade met stukjes geroosterde hazelnoot Met Belgische chocolade Krachtig van smaak Lekkere traktatie bij de koffie of thee,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Chocoladerepen met noten Pure chocolade repen
+ Pure chocolade met noten",delicata [SEP] puur hazelnoot [SEP] Heerlijke chocolade met stukjes geroosterde hazelnoot Met Belgische chocolade Krachtig van smaak Lekkere traktatie bij de koffie of thee [SEP] repen en tabletten,delicata puur hazelnoot repen en tabletten,null,null,null
+0.18973437,1710,515786,AH,Mix voor hartige taart,,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Vegetarisch'
+ 'Geen selderij' 'Geen eieren']","Pasta rijst en wereldkeuken niet gekoppelde tax elementen
+ Bakkerij en banket Snoep koek chips en chocolade Zelf bakken
+ Taart Gebak Bakproducten Taart bakken Bak mixen Taartmix",ah [SEP] mix voor hartige taart [SEP]  [SEP] hm brood hartige mix,ah mix voor hartige taart hm brood hartige mix,null,null,null
+0.1897303,15579,549479,Céréal,Chocolade en hazelnootsmaak,"Proef deze Céréal zandkoekjes met heerlijke chocolade en hazelnoot smaak! Zonder suikers, Nutri-Score B én maar 48 kcal per koekje. Zonder suikers Maar liefst 48 kcal per koekje Duurzame gecertificeerde cacao Zonder palmolie","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen lupine' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen selderij'
+ 'Geen eieren']","Bewuste voeding Snoep koek chips en chocolade Koek Suikerbewust
+ Koek (suikerbewust)","céréal [SEP] chocolade en hazelnootsmaak [SEP] Proef deze Céréal zandkoekjes met heerlijke chocolade en hazelnoot smaak! Zonder suikers, Nutri-Score B én maar 48 kcal per koekje. Zonder suikers Maar liefst 48 kcal per koekje Duurzame gecertificeerde cacao Zonder palmolie [SEP] verpakt premium",céréal chocolade en hazelnootsmaak verpakt premium,null,null,null
+0.18908775,10439,494411,AH Glutenvrij,Chocolate chip cookies,Krokante koekjes met stukjes melkchocolade en hazelnoot.,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren' 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Glutenvrij Koek
+ Koek chips tussendoortjes Glutenvrije koek",ah glutenvrij [SEP] chocolate chip cookies [SEP] Krokante koekjes met stukjes melkchocolade en hazelnoot. [SEP] biscuits,ah glutenvrij chocolate chip cookies biscuits,null,null,null
+0.1889612,12491,494106,Schär,Cereal crackers glutenvrij,"Glutenvrije zadencrackers met lijnzaad, heerlijk te eten als tussendoortje. Naturel of met topping naar keuze. Speciaal bereid voor personen met een glutenintolerantie Glutenvrij, lactosevrij, tarwevrij Per 6 verpakt","['Laag zout' 'Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)' 'Vegetarisch'
+ 'Geen eieren' 'Geen noten' ""Geen pinda's"" 'Laag vet' 'Geen selderij'
+ 'Geen mosterd' 'Geen lupine' 'Geen lactose' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Glutenvrij
+ Crackers rijstwafels Ontbijtgranen crackers
+ Glutenvrije crackers knackebrod","schär [SEP] cereal crackers glutenvrij [SEP] Glutenvrije zadencrackers met lijnzaad, heerlijk te eten als tussendoortje. Naturel of met topping naar keuze. Speciaal bereid voor personen met een glutenintolerantie Glutenvrij, lactosevrij, tarwevrij Per 6 verpakt [SEP] hartige snacks",schär cereal crackers glutenvrij hartige snacks,null,null,null
+0.18874857,14852,360264,PostNL,Postzegel Willem-Alexander 1 vel a 10 st,Zelfklevend 10 stuks.,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Postzegels donaties,postnl [SEP] postzegel willem-alexander 1 vel a 10 st [SEP] Zelfklevend 10 stuks. [SEP] postzegels,postnl postzegel willem-alexander 1 vel a 10 st postzegels,null,null,null
+0.18778607,18636,460618,AH,Notenmix ongebrand,"Mix van ongebrande walnoten, hazelnoten, cashewnoten en amandelen. Lekker om zo eten en ideaal voor in salades, yoghurt en zelfs smoothies. Van nature rijk aan onverzadigde vetten Ongebrand, dus niet gebakken in olie Een lekker en verantwoord tussendoortje Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten multipack
+ Notenmix (multipack)","ah [SEP] notenmix ongebrand [SEP] Mix van ongebrande walnoten, hazelnoten, cashewnoten en amandelen. Lekker om zo eten en ideaal voor in salades, yoghurt en zelfs smoothies. Van nature rijk aan onverzadigde vetten Ongebrand, dus niet gebakken in olie Een lekker en verantwoord tussendoortje Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] grootverpakking basis",ah notenmix ongebrand grootverpakking basis,null,null,null
+0.18735027,1050,425490,AH,Hagelslag melk,"Chocoladehagelslag melk, de vertrouwde AHhagelslagsmaak, in een extra grote verpakking! Handige voordeelverpakking voor het hele gezin Lekker op je boterham, beschuitje, toetje en/of taartje Ook voor het decoreren van desserts Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij'
+ 'Geen gluten']","Ontbijtgranen en beleg Zoet broodbeleg Hagelslag en vlokken
+ Hagelslag","ah [SEP] hagelslag melk [SEP] Chocoladehagelslag melk, de vertrouwde AHhagelslagsmaak, in een extra grote verpakking! Handige voordeelverpakking voor het hele gezin Lekker op je boterham, beschuitje, toetje en/of taartje Ook voor het decoreren van desserts Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] hagelslag",ah hagelslag melk hagelslag,null,null,null
+0.18730444,17085,520111,AH,Ongezouten geel fruit notenmix,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen sulfiet' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Ontbijtgranen Wholefoods
+ Noten (superfoods) Ontbijtverrijkers (toppings) Noten en fruitmix",ah [SEP] ongezouten geel fruit notenmix [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] ongezouten noten,ah ongezouten geel fruit notenmix ongezouten noten,null,null,null
+0.187065,12245,371612,Consenza,Slagroompunten glutenvrij,Gluten en tarwevrij 2 punten per verpakking,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen lupine'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren' 'Geen gluten']","Bewuste voeding Bakkerij en banket Diepvries
+ Glutenvrij koolhydraatarm Diepvries glutenvrij
+ Gebak brood bladerdeeg Glutenvrij Gebak Diepvries gebak
+ Bakkerij glutenvrij Glutenvrij gebak (diepvries) Gebak (glutenvrij)",consenza [SEP] slagroompunten glutenvrij [SEP] Gluten en tarwevrij 2 punten per verpakking [SEP] glutenvrij,consenza slagroompunten glutenvrij glutenvrij,null,null,null
+0.18667443,2806,187155,Heinz,Sandwich spread komkommer,Fris broodbeleg dat je boterham verfrissend anders maakt. Heinz sandwich spread komkommer is perfect voor de lunch en wordt gemaakt met hoge kwaliteit ingredienten die je van Heinz gewend bent. Bevat meer dan 30% groenten Zonder conserveermiddelen Een verrassende variatie op de boterham Voor het hele gezin,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen noten' 'Geen mosterd' 'Geen eieren' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Hartig broodbeleg
+ Smeersels & dips Spread Groentespread",heinz [SEP] sandwich spread komkommer [SEP] Fris broodbeleg dat je boterham verfrissend anders maakt. Heinz sandwich spread komkommer is perfect voor de lunch en wordt gemaakt met hoge kwaliteit ingredienten die je van Heinz gewend bent. Bevat meer dan 30% groenten Zonder conserveermiddelen Een verrassende variatie op de boterham Voor het hele gezin [SEP] spreads,heinz sandwich spread komkommer spreads,null,null,null
+0.18604088,5823,494244,AH Glutenvrij,Muffin chocolate chip,Twee mooie chocolade muffins met pure chocoladestukjes. Lekker bij koffie of thee,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen lupine'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren' 'Geen gluten']","Bewuste voeding Tussendoortjes Glutenvrij
+ Tussendoortjes (glutenvrij) Koek chips tussendoortjes
+ Glutenvrije tussendoortjes",ah glutenvrij [SEP] muffin chocolate chip [SEP] Twee mooie chocolade muffins met pure chocoladestukjes. Lekker bij koffie of thee [SEP] zoete snacks,ah glutenvrij muffin chocolate chip zoete snacks,null,null,null
+0.18585448,13435,403667,AH,Notenmix ongebrand,"Mix van ongebrande pecannoten, cashewnoten en amandelen. De noten zijn ongebrand, wat betekent dat ze niet zijn gebakken in olie. Pure en onbewerkte noten Van nature rijk aan zink, vitamine e, magnesium, fosfor en kalium Ideaal voor in salades, yoghurt en smoothies Ook lekker om zo te eten","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten grote verpakking
+ Notenmix (groot)","ah [SEP] notenmix ongebrand [SEP] Mix van ongebrande pecannoten, cashewnoten en amandelen. De noten zijn ongebrand, wat betekent dat ze niet zijn gebakken in olie. Pure en onbewerkte noten Van nature rijk aan zink, vitamine e, magnesium, fosfor en kalium Ideaal voor in salades, yoghurt en smoothies Ook lekker om zo te eten [SEP] ongebrand zak",ah notenmix ongebrand ongebrand zak,null,null,null
+0.18556778,6419,140736,AH,Walnoten ongezouten,"walnoten, ongezouten.","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ Walnoten (bakje)","ah [SEP] walnoten ongezouten [SEP] walnoten, ongezouten. [SEP] ongezouten noten",ah walnoten ongezouten ongezouten noten,null,null,null
+0.18517417,12020,474971,AH Glutenvrij,Afbakbroodjes,,"['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen selderij' 'Geen eieren'
+ 'Geen gluten']","Bewuste voeding Bakkerij en banket Glutenvrij koolhydraatarm
+ Glutenvrij Brood Bakkerij glutenvrij Brood (glutenvrij)
+ Glutenvrij brood",ah glutenvrij [SEP] afbakbroodjes [SEP]  [SEP] zav kleinbrood,ah glutenvrij afbakbroodjes zav kleinbrood,null,null,null
+0.18508229,4502,492754,KaasTengels,Old Amsterdam,"Karaktervolle kaasloempiaatjes gevuld met Old Amsterdam kaas. Crunchy, hartig en licht zoet van smaak! Ambachtelijke receptuur Crunchy flens Ideaal voor jouw borrelplank","['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']",Diepvries Diepvries snacks Ovensnacks Kaashapjes (oven),"kaastengels [SEP] old amsterdam [SEP] Karaktervolle kaasloempiaatjes gevuld met Old Amsterdam kaas. Crunchy, hartig en licht zoet van smaak! Ambachtelijke receptuur Crunchy flens Ideaal voor jouw borrelplank [SEP] mini mono",kaastengels old amsterdam mini mono,null,null,null
+0.18508166,13427,517323,AH,Chocolade muffins met crumble topping,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Snoep koek chips en chocolade Koek Cake Cakejes,ah [SEP] chocolade muffins met crumble topping [SEP]  [SEP] verpakt cake,ah chocolade muffins met crumble topping verpakt cake,null,null,null
+0.18473889,16210,202874,Schär,Pausa ciok glutenvrij,Biscuitscakejes met zachte melkcrème omhuld met melkchocolade Gluten- en tarwevrij.,"['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen noten' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Glutenvrij Koek
+ Koek chips tussendoortjes Glutenvrije koek",schär [SEP] pausa ciok glutenvrij [SEP] Biscuitscakejes met zachte melkcrème omhuld met melkchocolade Gluten- en tarwevrij. [SEP] zoete snacks,schär pausa ciok glutenvrij zoete snacks,null,null,null
+0.18408327,163,199619,Schär,Ciabatta glutenvrij,"Ciabatta-broodjes om heerlijk vers af te bakken in de oven Gluten-, tarwe- en lactosevrij.","['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' ""Geen pinda's"" 'Laag vet' 'Geen lupine'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij' 'Geen gluten']","Kerst Bewuste voeding Bakkerij en banket
+ Glutenvrij koolhydraatarm Kerstontbijt Glutenvrij Afbakbrood
+ Bakkerij glutenvrij Thuis afbakken (glutenvrij)
+ Glutenvrije afbakbroodjes","schär [SEP] ciabatta glutenvrij [SEP] Ciabatta-broodjes om heerlijk vers af te bakken in de oven Gluten-, tarwe- en lactosevrij. [SEP] brood",schär ciabatta glutenvrij brood,null,null,null
+0.18370278,19160,509389,AH,Cake gesneden,"Lekkere luchtige cake, in handige plakjes. Heerlijk voor bij de koffie of thee, of om uit te delen","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Snoep koek chips en chocolade Koek Cake Cakes,"ah [SEP] cake gesneden [SEP] Lekkere luchtige cake, in handige plakjes. Heerlijk voor bij de koffie of thee, of om uit te delen [SEP] doorzicht cake",ah cake gesneden doorzicht cake,null,null,null
+0.18335453,17279,408449,Leev,Bio crackers boekweit glutenvrij,100% biologisch en een bron van vezels. Een verantwoord tussendoortje Altijd biologisch Vezelrijk Gluten en lactosevrij,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' ""Geen pinda's"" 'biologisch' 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen lupine' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen selderij'
+ 'Geen eieren' 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Glutenvrij
+ Crackers rijstwafels Ontbijtgranen crackers
+ Glutenvrije crackers knackebrod",leev [SEP] bio crackers boekweit glutenvrij [SEP] 100% biologisch en een bron van vezels. Een verantwoord tussendoortje Altijd biologisch Vezelrijk Gluten en lactosevrij [SEP] broodvervangers,leev bio crackers boekweit glutenvrij broodvervangers,null,null,null
+0.18324973,15522,457537,AH,Pecannoten ongezouten,,"['Laag zout' 'Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)'
+ 'Vegetarisch' 'Geen eieren' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Noten Wholefoods
+ Noten in zak Noten (superfoods) Paranoten (zakje)",ah [SEP] pecannoten ongezouten [SEP]  [SEP] 3v6 noten,ah pecannoten ongezouten 3v6 noten,null,null,null
+0.18242505,3659,459427,AH,Tablet melk-hazelnoot,Chocoladereep met hazelnoot. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met noten
+ Melkchocolade met noten",ah [SEP] tablet melk-hazelnoot [SEP] Chocoladereep met hazelnoot. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] repen en tabletten,ah tablet melk-hazelnoot repen en tabletten,null,null,null
+0.18217736,19998,485215,Chef du Chocolat,Gefeliciteerd tablet,Gefeliciteerd tablet gemaakt van echte belgische callebaut melk chocolade. Gemaakt van echte belgische chocolade Uniek design Exclusief bij albert heijn in het assortiment,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij']","Koken tafelen vrije tijd Snoep koek chips en chocolade
+ Feestje gelegenheid Chocolade Chocolade geschenken",chef du chocolat [SEP] gefeliciteerd tablet [SEP] Gefeliciteerd tablet gemaakt van echte belgische callebaut melk chocolade. Gemaakt van echte belgische chocolade Uniek design Exclusief bij albert heijn in het assortiment [SEP] patisserie verkoop,chef du chocolat gefeliciteerd tablet patisserie verkoop,null,null,null
+0.18203391,16458,485214,Chef du Chocolat,Bedankt tablet,Bedankt tablet gemaakt van echte belgische callebaut melk chocolade. Gemaakt van echte belgische chocolade Uniek design Exclusief bij albert heijn in het assortiment,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Melkchocolade",chef du chocolat [SEP] bedankt tablet [SEP] Bedankt tablet gemaakt van echte belgische callebaut melk chocolade. Gemaakt van echte belgische chocolade Uniek design Exclusief bij albert heijn in het assortiment [SEP] patisserie verkoop,chef du chocolat bedankt tablet patisserie verkoop,null,null,null
+0.1807652,1926,518385,Old Amsterdam,Crème,"Old amsterdam creme heeft de herkenbare karakteristieke smaak van old amsterdam, maar dan roomzacht en goed smeerbaar. Verrassend smaakvol op een toastje bij de borrel of op een boterham. Pittig en licht zoet van smaak Roomzacht en goed smeerbaar","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Kaas
+ Hartig broodbeleg Kaas beleg Smeerkaas Zuivelspread
+ Kaas voor beleg Smeerkaas roomkaas cottage cheese","old amsterdam [SEP] crème [SEP] Old amsterdam creme heeft de herkenbare karakteristieke smaak van old amsterdam, maar dan roomzacht en goed smeerbaar. Verrassend smaakvol op een toastje bij de borrel of op een boterham. Pittig en licht zoet van smaak Roomzacht en goed smeerbaar [SEP] ko kaas",old amsterdam crème ko kaas,null,null,null
+0.18041003,5164,195445,Rambol,Smeltkaas met noot,"De Rambol noot is een heerlijke, smeuige smeltkaas met hele walnoten erop, een succes op ieder toastje of broodje. Rambol staat voor hoogwaardige kwaliteitskazen","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Laag suiker'
+ 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Geen vis' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Vegetarisch'
+ 'Geen eieren']","Ontbijtgranen en beleg Kaas vleeswaren tapas Kaas Kaas beleg
+ Roomkaas Kaas voor borrel Kaas voor beleg Roomkaas (kruiden)
+ Smeerkaas roomkaas cottage cheese","rambol [SEP] smeltkaas met noot [SEP] De Rambol noot is een heerlijke, smeuige smeltkaas met hele walnoten erop, een succes op ieder toastje of broodje. Rambol staat voor hoogwaardige kwaliteitskazen [SEP] kzb s vers smeer",rambol smeltkaas met noot kzb s vers smeer,null,null,null
+0.1801831,14144,65699,AH,Roomboter cake,Lekkere luchtige roomboter cake. Bereid met roomboter Met vrije uitloopei Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Koek Cake Cakes,ah [SEP] roomboter cake [SEP] Lekkere luchtige roomboter cake. Bereid met roomboter Met vrije uitloopei Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] doorzicht cake,ah roomboter cake doorzicht cake,null,null,null
+0.18007347,8674,236944,Bonne Vache,Smeerkaaspuntjes,Smeerkaaspuntjes met zachte en romige smaak Smeerkaaspuntjes handig door individueel verpakte puntjes Smeerkaaspuntjes zijn voor vele toepassingen geschikt Makkelijk in de lunchbox of bij de borrel Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen eieren' 'Geen gluten']",Kaas vleeswaren tapas Kaas Kaas voor borrel Kaasblokjes,bonne vache [SEP] smeerkaaspuntjes [SEP] Smeerkaaspuntjes met zachte en romige smaak Smeerkaaspuntjes handig door individueel verpakte puntjes Smeerkaaspuntjes zijn voor vele toepassingen geschikt Makkelijk in de lunchbox of bij de borrel Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] kzb s tussendoor,bonne vache smeerkaaspuntjes kzb s tussendoor,null,null,null
+0.18003622,17505,413891,AH,Kaasschaaf,Met deze kaasschaaf snij je heel soepel en eenvoudig plakken kaas om je sandwich of tosti mee te beleggen. Gemaakt van roestvrij staal Extra scherp Niet geschikt voor in de vaatwasser,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Koken Keukengerei Rasp kaasschaaf,ah [SEP] kaasschaaf [SEP] Met deze kaasschaaf snij je heel soepel en eenvoudig plakken kaas om je sandwich of tosti mee te beleggen. Gemaakt van roestvrij staal Extra scherp Niet geschikt voor in de vaatwasser [SEP] keukenhulpen,ah kaasschaaf keukenhulpen,null,null,null
+0.17938383,13482,494108,Schär,Madeleines,"Geniet van de lekkerste gluten- en lactosevrije madeleines. Luchtig en zacht, beter wordt het niet. Glutenvrij, tarwevrij, lactosevrij Zonder palmolie Per stuk verpakt","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen selderij' 'Geen eieren' 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Glutenvrij Koek
+ Koek chips tussendoortjes Glutenvrije koek","schär [SEP] madeleines [SEP] Geniet van de lekkerste gluten- en lactosevrije madeleines. Luchtig en zacht, beter wordt het niet. Glutenvrij, tarwevrij, lactosevrij Zonder palmolie Per stuk verpakt [SEP] zoete snacks",schär madeleines zoete snacks,null,null,null
+0.1793327,11621,494089,Peak's,Pancake shaker glutenvrij,Glutenvrije pannenkoekenmix in een handige shaker. Glutenvrij Alleen (plantaardige) melk toevoegen Goed voor 5 tot 6 pannenkoeken,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Geen selderij' 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Salades pizza maaltijden Snoep koek chips en chocolade
+ Zelf bakken Pannenkoeken poffertjes Glutenvrij Bakproducten
+ Glutenvrije bakproducten Bakkerij glutenvrij
+ Bakproducten (glutenvrij) Bak mixen Pannenkoekenmix
+ Pannenkoekenmix (glutenvrij)",peak's [SEP] pancake shaker glutenvrij [SEP] Glutenvrije pannenkoekenmix in een handige shaker. Glutenvrij Alleen (plantaardige) melk toevoegen Goed voor 5 tot 6 pannenkoeken [SEP] bakmixen,peak's pancake shaker glutenvrij bakmixen,null,null,null
+0.1791747,5273,199601,Schär,Bon matin glutenvrij,"Zoete broodjes. Licht, luchtig en overheerlijk. Een traktatie op elk moment van de dag. Gluten-, tarwe- en lactosevrij. Heerlijk als ontbijt of tussendoortje: met honing, jam, boter","['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Vegetarisch' ""Geen pinda's"" 'Laag vet' 'Geen lupine' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Bewuste voeding Glutenvrij Bakkerij glutenvrij
+ Zoete broodjes (glutenvrij)","schär [SEP] bon matin glutenvrij [SEP] Zoete broodjes. Licht, luchtig en overheerlijk. Een traktatie op elk moment van de dag. Gluten-, tarwe- en lactosevrij. Heerlijk als ontbijt of tussendoortje: met honing, jam, boter [SEP] brood",schär bon matin glutenvrij brood,null,null,null
+0.17886308,6504,58425,AH,Tablet melk-hazelnoot,Chocoladereep met hazelnoot Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'suikervrij'
+ 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen selderij' 'Geen eieren']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met noten
+ Melkchocolade met noten",ah [SEP] tablet melk-hazelnoot [SEP] Chocoladereep met hazelnoot Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] repen en tabletten,ah tablet melk-hazelnoot repen en tabletten,null,null,null
+0.17862399,12608,371610,Consenza,Moorkoppen,Gluten en tarwevrij 2 moorkoppen per verpakking Met luchtige slagroom Met een knapperige chocolade laag,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen lupine'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren' 'Geen gluten']","Bewuste voeding Bakkerij en banket Diepvries
+ Glutenvrij koolhydraatarm Diepvries glutenvrij
+ Gebak brood bladerdeeg Glutenvrij Gebak Diepvries gebak
+ Bakkerij glutenvrij Glutenvrij gebak (diepvries) Gebak (glutenvrij)",consenza [SEP] moorkoppen [SEP] Gluten en tarwevrij 2 moorkoppen per verpakking Met luchtige slagroom Met een knapperige chocolade laag [SEP] glutenvrij,consenza moorkoppen glutenvrij,null,null,null
+0.17828602,13117,407793,AH Glutenvrij,Amandel meel,"Glutenvrij amandelmeel is ideaal voor het gebruik in baksels zoals brood, cake, koekjes of pannenkoeken. 100% amandelmeel gemaakt van geblancheerde amandelen Van nature rijk aan vezels en een bron van eiwit Glutenvrij Lactosevrij","['Laag zout' 'Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Vegetarisch' 'Geen eieren' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Glutenvrij
+ Bakproducten Basis bakbenodigdheden Glutenvrije bakproducten
+ Bakkerij glutenvrij Bakproducten (glutenvrij) Basismeel bloem
+ Basismeel (glutenvrij)","ah glutenvrij [SEP] amandel meel [SEP] Glutenvrij amandelmeel is ideaal voor het gebruik in baksels zoals brood, cake, koekjes of pannenkoeken. 100% amandelmeel gemaakt van geblancheerde amandelen Van nature rijk aan vezels en een bron van eiwit Glutenvrij Lactosevrij [SEP] bakmixen",ah glutenvrij amandel meel bakmixen,null,null,null
+0.17800234,9516,429611,AH,Roomboter met plantaardige olie ongezout,"Deze smeerbare roomboter ongezouten smeer je zo op een boterham of croissantje, lekker met óf zonder broodbeleg. Ongezouten Makkelijk smeerbaar Met plantaardige olie Voor bereiding van vele gerechten Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor op brood Smeerbare roomboter","ah [SEP] roomboter met plantaardige olie ongezout [SEP] Deze smeerbare roomboter ongezouten smeer je zo op een boterham of croissantje, lekker met óf zonder broodbeleg. Ongezouten Makkelijk smeerbaar Met plantaardige olie Voor bereiding van vele gerechten Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] roomboter melange",ah roomboter met plantaardige olie ongezout roomboter melange,null,null,null
+0.17783791,11728,367205,AH,Mix voor cake,Met deze AH Mix voor Cake staat een zelfgemaakte luchtige cake in een mum van tijd op tafel. Eenvoudig te bereiden Ouderwets lekkere cake,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen selderij' 'Geen eieren']","Bakkerij en banket Snoep koek chips en chocolade Zelf bakken
+ Bakmix Cakemix",ah [SEP] mix voor cake [SEP] Met deze AH Mix voor Cake staat een zelfgemaakte luchtige cake in een mum van tijd op tafel. Eenvoudig te bereiden Ouderwets lekkere cake [SEP] zm cake en koek,ah mix voor cake zm cake en koek,null,null,null
+0.17764205,1844,366065,Echte Boter,Pakje ongezouten,Echte boter pakje ongezouten. Puur natuur Nederlandse roomboter Vol en romig van smaak,"['Geen lactose' 'Laag zout' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Laag suiker'
+ 'Geen schelpdieren (schaaldieren)' 'Vegetarisch' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor de keuken Ongezouten roomboter",echte boter [SEP] pakje ongezouten [SEP] Echte boter pakje ongezouten. Puur natuur Nederlandse roomboter Vol en romig van smaak [SEP] roomboter wikkel,echte boter pakje ongezouten roomboter wikkel,null,null,null
+0.1775273,13078,214269,AH,Cakevormpjes,Handige cakevormpjes van papier geschikt voor in de oven. Maak lekkere cupcakes met deze cakevormpjes! Eenvoudig met gelijke hoeveelheid beslag te vullen,[],"Pasta rijst en wereldkeuken Koken tafelen vrije tijd
+ Bakkerij en banket Snoep koek chips en chocolade Zelf bakken
+ Koken Bakproducten Bakvormen Keukengerei
+ Bak accessoires bakvormen Garneringen toevoegingen",ah [SEP] cakevormpjes [SEP] Handige cakevormpjes van papier geschikt voor in de oven. Maak lekkere cupcakes met deze cakevormpjes! Eenvoudig met gelijke hoeveelheid beslag te vullen [SEP] bt baktoevoegingen,ah cakevormpjes bt baktoevoegingen,null,null,null
+0.17736131,12366,474047,AH,Cafe noir,Het koekje voor bij de koffie: cafe noir. Met de volle smaak van koffie Heerlijk krokant Met 25% koffieglazuur Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Vegetarisch' 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Koek Koffiekoekjes,ah [SEP] cafe noir [SEP] Het koekje voor bij de koffie: cafe noir. Met de volle smaak van koffie Heerlijk krokant Met 25% koffieglazuur Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] verpakt trommel,ah cafe noir verpakt trommel,null,null,null
+0.17731339,1391,196373,Bonne Maman,Petits muffins au chocolat,Heerlijke traditionele kleine chocolade muffins: een zachte textuur met royale chocoladesmaak.,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen lupine' ""Geen pinda's""
+ 'Vegetarisch' 'Geen melk' 'Geen selderij' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Geen eieren']",Snoep koek chips en chocolade Koek Cake Cakejes,bonne maman [SEP] petits muffins au chocolat [SEP] Heerlijke traditionele kleine chocolade muffins: een zachte textuur met royale chocoladesmaak. [SEP] verpakt premium,bonne maman petits muffins au chocolat verpakt premium,null,null,null
+0.17725602,1639,161793,Westland,Ambachtelijk eierslaatje,Ambachtelijk eierslaatje. Smaakvol met frisse ingrediënten Lekker als tussendoortje De perfecte match met een boterham of toastje!,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen lactose' 'Geen sulfiet'
+ 'Geen sesam' 'Geen vis' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Geen selderij' 'Geen eieren']","Ontbijtgranen en beleg Kaas vleeswaren tapas Beleg salades
+ Brood- en toastsalades Salades (klein) Slaatjes",westland [SEP] ambachtelijk eierslaatje [SEP] Ambachtelijk eierslaatje. Smaakvol met frisse ingrediënten Lekker als tussendoortje De perfecte match met een boterham of toastje! [SEP] salades tussendoor,westland ambachtelijk eierslaatje salades tussendoor,null,null,null
+0.17676437,3478,481864,AH,Tapas wrap kruidenroomkaas ham,Hartige wraphapjes gevuld met ham en geitenkaasspread. Altijd een succes op de borrelplank of als tussendoortje. Feestje? zet deze handgemaakte wraphapjes op tafel Tip: neem mee in de picknickmand,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Nutri-Score D'
+ 'Geen sulfiet' 'Geen sesam' 'Geen vis' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen mosterd' 'Vegetarisch'
+ 'Geen eieren']",Kaas vleeswaren tapas Borrelhapjes Borrelhapjes met vlees,ah [SEP] tapas wrap kruidenroomkaas ham [SEP] Hartige wraphapjes gevuld met ham en geitenkaasspread. Altijd een succes op de borrelplank of als tussendoortje. Feestje? zet deze handgemaakte wraphapjes op tafel Tip: neem mee in de picknickmand [SEP] borrelhapjes koud gevuld,ah tapas wrap kruidenroomkaas ham borrelhapjes koud gevuld,null,null,null
+0.17639214,11571,193636,Old Amsterdam,Original 8 plakken,Maak van je boterham elke dag een ware traktatie met een plak old amsterdam. Verkrijgbaar in een hersluitbare envelopverpakking van 225 gram met circa 8 plakken. Pittig en licht zoet van smaak Met rijpingskristallen Smeuig en goed snijdbaar,"['Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Kaas Kaas beleg
+ Oude kaas broodbeleg Kaas voor beleg Plakken kaas
+ Oude kaas (plakken)",old amsterdam [SEP] original 8 plakken [SEP] Maak van je boterham elke dag een ware traktatie met een plak old amsterdam. Verkrijgbaar in een hersluitbare envelopverpakking van 225 gram met circa 8 plakken. Pittig en licht zoet van smaak Met rijpingskristallen Smeuig en goed snijdbaar [SEP] kzb bb plak,old amsterdam original 8 plakken kzb bb plak,null,null,null
+0.17632559,10083,228440,Peak's,Cakemix vanille glutenvrij,Glutenvrije vanille cakemix. Ook geschikt voor mensen met een koemelk- en of kippenei allergie. Leuk om samen met de kinderen op een vrije middag een cake te bakken! Voor eivrij recept gebruik een eivervanger,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Glutenvrij
+ Bakproducten Glutenvrije bakproducten Bakkerij glutenvrij
+ Bakproducten (glutenvrij) Bak mixen Zoete bakmix (glutenvrij)",peak's [SEP] cakemix vanille glutenvrij [SEP] Glutenvrije vanille cakemix. Ook geschikt voor mensen met een koemelk- en of kippenei allergie. Leuk om samen met de kinderen op een vrije middag een cake te bakken! Voor eivrij recept gebruik een eivervanger [SEP] bakmixen,peak's cakemix vanille glutenvrij bakmixen,null,null,null
+0.17579359,7690,480029,AH,Zaans huisje pure chocolade,"Het bekende zaans huisje. Lekker knapperige biscuitjes met heerlijke pure chocolade. Met 63% pure chocolade Koffie of thee, daar hoort iets lekkers bij Koekje met roomboter bereid Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij']",Snoep koek chips en chocolade Koek Koekjes met chocolade,"ah [SEP] zaans huisje pure chocolade [SEP] Het bekende zaans huisje. Lekker knapperige biscuitjes met heerlijke pure chocolade. Met 63% pure chocolade Koffie of thee, daar hoort iets lekkers bij Koekje met roomboter bereid Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] verpakt trommel",ah zaans huisje pure chocolade verpakt trommel,null,null,null
+0.17562768,19367,519916,AH,gemixte kaasplakken pakket,Altijd lekkere kaas in huis voor op de boterham of gewoon uit het vuistje! AH Goudse oud 48+ plakken 1x AH Goudse jong belegen 48+ plakken 1x,[],"Ontbijtgranen en beleg Kaas vleeswaren tapas Kaas Kaas beleg
+ Oude kaas broodbeleg Kaas voor beleg Plakken kaas
+ Oude kaas (plakken)",ah [SEP] gemixte kaasplakken pakket [SEP] Altijd lekkere kaas in huis voor op de boterham of gewoon uit het vuistje! AH Goudse oud 48+ plakken 1x AH Goudse jong belegen 48+ plakken 1x [SEP] ,ah gemixte kaasplakken pakket ,null,null,null
+0.1753059,2335,517409,Bonne Maman,La madeleine coeur chocolat,"Heerlijke madeleine gemaakt volgens traditioneel frans recept met een rijke roomboter smaak, gevuld met chocolade. Authentieke franse receptuur Heerlijk rijke boter- en chocoladesmaak Individueel verpakt, zo blijft het product altijd vers Zonder bewaarmiddelen, kleur- of kunstmatige smaakstoffen","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Vegetarisch'
+ 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Koek Koekjes met chocolade,"bonne maman [SEP] la madeleine coeur chocolat [SEP] Heerlijke madeleine gemaakt volgens traditioneel frans recept met een rijke roomboter smaak, gevuld met chocolade. Authentieke franse receptuur Heerlijk rijke boter- en chocoladesmaak Individueel verpakt, zo blijft het product altijd vers Zonder bewaarmiddelen, kleur- of kunstmatige smaakstoffen [SEP] verpakt premium",bonne maman la madeleine coeur chocolat verpakt premium,null,null,null
+0.17528918,11497,480028,AH,Zaans huisje witte chocolade,"Het bekende zaans huisje. Lekker knapperige biscuitjes met heerlijke witte chocolade. Met 63% witte chocolade Koffie of thee, daar hoort iets lekkers bij Koekje met roomboter bereid Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Geen selderij']",Snoep koek chips en chocolade Koek Koekjes met chocolade,"ah [SEP] zaans huisje witte chocolade [SEP] Het bekende zaans huisje. Lekker knapperige biscuitjes met heerlijke witte chocolade. Met 63% witte chocolade Koffie of thee, daar hoort iets lekkers bij Koekje met roomboter bereid Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] verpakt trommel",ah zaans huisje witte chocolade verpakt trommel,null,null,null
+0.17526424,1070,429644,Magnum,Classic,"Magnum classic ijs is de perfecte balans tussen fluweelzacht vanille-ijs, omhuld met een laag krakende Magnum melkchocolade. Magnum classic ijs: al jarenlang een echte klassieker Romig vanille-ijs met een laag krakende Magnum chocolade Magnum ijs voor een ultiem genietmoment De cacaobonen zijn duurzaam verbouwd en rainforest alliance gecertificeerd","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Room handijs","magnum [SEP] classic [SEP] Magnum classic ijs is de perfecte balans tussen fluweelzacht vanille-ijs, omhuld met een laag krakende Magnum melkchocolade. Magnum classic ijs: al jarenlang een echte klassieker Romig vanille-ijs met een laag krakende Magnum chocolade Magnum ijs voor een ultiem genietmoment De cacaobonen zijn duurzaam verbouwd en rainforest alliance gecertificeerd [SEP] handijs room",magnum classic handijs room,null,null,null
+0.17524797,15840,523395,Hands Off,Smooth no m!lk,"Deze vegan smooth no m!lk reep is de lekkerste én vegan! Zonder melk dus! De reep is gemaakt op basis van rijstmelk, met extra hazelnootpraline voor een romige structuur. Probeer het nu zelf! Natuurlijk: geen kunstmatige kleur- en smaakstoffen Als lekkerste getest en gemaakt van eerlijke Belgische chocolade Volledig recyclebare verpakking Palmolievrij","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Snoep koek chips en chocolade Chocolade Chocoladesnoepjes,"hands off [SEP] smooth no m!lk [SEP] Deze vegan smooth no m!lk reep is de lekkerste én vegan! Zonder melk dus! De reep is gemaakt op basis van rijstmelk, met extra hazelnootpraline voor een romige structuur. Probeer het nu zelf! Natuurlijk: geen kunstmatige kleur- en smaakstoffen Als lekkerste getest en gemaakt van eerlijke Belgische chocolade Volledig recyclebare verpakking Palmolievrij [SEP] repen en tabletten",hands off smooth no m!lk repen en tabletten,null,null,null
+0.17486978,8931,435940,AH,Tablet wit,"Een onweerstaanbaar lekkere, witte chocolade die je makkelijk in stukjes breekt. Romige chocolade Eenvoudig in stukjes te breken Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen selderij' 'Geen eieren']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Witte chocolade repen Witte chocolade","ah [SEP] tablet wit [SEP] Een onweerstaanbaar lekkere, witte chocolade die je makkelijk in stukjes breekt. Romige chocolade Eenvoudig in stukjes te breken Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] repen en tabletten",ah tablet wit repen en tabletten,null,null,null

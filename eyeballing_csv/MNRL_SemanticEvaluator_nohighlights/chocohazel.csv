@@ -1,0 +1,744 @@
+scoreLLM score,ann,prd_id,brand,title,highlights,properties,taxonomies,full_text,full_text_no_sep,Unnamed: 0,search_query,scorePropensity score
+0.69730675,13738,144877,AH,Choco's hazelnoten,Hele hazelnoten met een laagje melkchocolade. Lekker voor tussendoor Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Vegetarisch' 'Geen selderij']",Snoep koek chips en chocolade Chocolade Chocoladesnoepjes,ah [SEP] choco's hazelnoten [SEP] Hele hazelnoten met een laagje melkchocolade. Lekker voor tussendoor Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] bitesizes,ah choco's hazelnoten bitesizes,null,null,null
+0.6224885,12816,35395,Delicata,Puur hazelnoot,Heerlijke chocolade met stukjes geroosterde hazelnoot Met Belgische chocolade Krachtig van smaak Lekkere traktatie bij de koffie of thee,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Chocoladerepen met noten Pure chocolade repen
+ Pure chocolade met noten",delicata [SEP] puur hazelnoot [SEP] Heerlijke chocolade met stukjes geroosterde hazelnoot Met Belgische chocolade Krachtig van smaak Lekkere traktatie bij de koffie of thee [SEP] repen en tabletten,delicata puur hazelnoot repen en tabletten,null,null,null
+0.60812527,6407,437603,AH,Chocomix,"Een chocolademix van rozijnen, gebrande amandelen en hazelnoten omhuld met 28% melkchocolade, 24% witte chocolade en 17% pure chocolade. Een lekkere mix van zoet en hartig Een feestje voor bij de koffie of thee Met Rainforest Alliance gecertificeerde cacao en hazelnoot","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zoet broodbeleg Hagelslag en vlokken
+ Hagelslag","ah [SEP] chocomix [SEP] Een chocolademix van rozijnen, gebrande amandelen en hazelnoten omhuld met 28% melkchocolade, 24% witte chocolade en 17% pure chocolade. Een lekkere mix van zoet en hartig Een feestje voor bij de koffie of thee Met Rainforest Alliance gecertificeerde cacao en hazelnoot [SEP] grootverpakking luxe",ah chocomix grootverpakking luxe,null,null,null
+0.5966916,11029,35396,Delicata,Melk hazelnoot,Met stukjes geroosterde hazelnoot Chocolademakers sinds 1926,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met noten
+ Melkchocolade met noten",delicata [SEP] melk hazelnoot [SEP] Met stukjes geroosterde hazelnoot Chocolademakers sinds 1926 [SEP] repen en tabletten,delicata melk hazelnoot repen en tabletten,null,null,null
+0.58644724,13,523480,Verkade,Hazelnoot & karamel knapperig,Een volle romige melkchocolade met knapperige Hazelnoot en stukjes karamel. Twee favorieten in één reep. Lekker langzaam smeltend Romige melkchocolade met knapperige hazelnoot en karamel Fairtrade,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Chocoladerepen met noten Pure chocolade repen
+ Pure chocolade met noten",verkade [SEP] hazelnoot & karamel knapperig [SEP] Een volle romige melkchocolade met knapperige Hazelnoot en stukjes karamel. Twee favorieten in één reep. Lekker langzaam smeltend Romige melkchocolade met knapperige hazelnoot en karamel Fairtrade [SEP] repen en tabletten,verkade hazelnoot & karamel knapperig repen en tabletten,null,null,null
+0.5855937,9852,508040,Hands Off,Vegan crunchy hazelnut,"Deze vegan crunchy hazelnoot reep is de lekkerste en vegan! Zonder melk dus, maar wel met lekkere romige vegan choco en knapperige stukjes hazelnoot. Probeer het nu zelf! Natuurlijk: geen kunstmatige kleur- en smaakstoffen Als lekkerste getest en gemaakt van eerlijke Belgische chocolade Volledig recyclebare verpakking Palmolievrij","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Chocoladerepen met noten Pure chocolade repen
+ Pure chocolade met noten","hands off [SEP] vegan crunchy hazelnut [SEP] Deze vegan crunchy hazelnoot reep is de lekkerste en vegan! Zonder melk dus, maar wel met lekkere romige vegan choco en knapperige stukjes hazelnoot. Probeer het nu zelf! Natuurlijk: geen kunstmatige kleur- en smaakstoffen Als lekkerste getest en gemaakt van eerlijke Belgische chocolade Volledig recyclebare verpakking Palmolievrij [SEP] repen en tabletten",hands off vegan crunchy hazelnut repen en tabletten,null,null,null
+0.5804273,16163,507795,AH,Chocolade flikken noot rozijn,Melkchocolade flikken met rozijnen en hazelnoten Lekker voor bij de koffie of thee Leuk om uit te delen,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']",Snoep koek chips en chocolade Chocolade Luxe chocolade,ah [SEP] chocolade flikken noot rozijn [SEP] Melkchocolade flikken met rozijnen en hazelnoten Lekker voor bij de koffie of thee Leuk om uit te delen [SEP] specialiteiten,ah chocolade flikken noot rozijn specialiteiten,null,null,null
+0.58035177,5781,193233,AH Biologisch,Pure chocolade met hazelnoot,Gemaakt van Delicata chocolade Met geroosterde hazelnoot,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'fairtrade' 'biologisch' 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Chocoladerepen met noten Pure chocolade repen
+ Pure chocolade met noten",ah biologisch [SEP] pure chocolade met hazelnoot [SEP] Gemaakt van Delicata chocolade Met geroosterde hazelnoot [SEP] repen en tabletten,ah biologisch pure chocolade met hazelnoot repen en tabletten,null,null,null
+0.57668304,14734,502392,Verkade,Extra puur hazelnoot,"Knapperige stukken hazelnoot in extra pure chocolade. Extra veel cacao, dus lekker krachtig van smaak. Lekker langzaam smeltend De meest pure chocolade hazelnoot reep met ten minste 75% Fairtrade","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met noten
+ Melkchocolade met noten","verkade [SEP] extra puur hazelnoot [SEP] Knapperige stukken hazelnoot in extra pure chocolade. Extra veel cacao, dus lekker krachtig van smaak. Lekker langzaam smeltend De meest pure chocolade hazelnoot reep met ten minste 75% Fairtrade [SEP] repen en tabletten",verkade extra puur hazelnoot repen en tabletten,null,null,null
+0.57562786,5433,183101,Tony's Chocolonely,Melk hazelnoot,"Dit groentje is gemaakt van onze befaamde tony's melkchocolade en is gevuld met lekker knapperige hazelnoten. Een absolute redder in noot bij lekkere trek. S.o.s! Volle, romige melkchocolade met knapperige stukjes hazelnoot Onze missie is om samen 100% slaafvrij de norm te maken in chocolade Met elke hap doe jij mee met onze missie Onze repen zijn ongelijk verdeeld, omdat de chocolade-industrie dat ook is","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'fairtrade' 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met noten
+ Melkchocolade met noten","tony's chocolonely [SEP] melk hazelnoot [SEP] Dit groentje is gemaakt van onze befaamde tony's melkchocolade en is gevuld met lekker knapperige hazelnoten. Een absolute redder in noot bij lekkere trek. S.o.s! Volle, romige melkchocolade met knapperige stukjes hazelnoot Onze missie is om samen 100% slaafvrij de norm te maken in chocolade Met elke hap doe jij mee met onze missie Onze repen zijn ongelijk verdeeld, omdat de chocolade-industrie dat ook is [SEP] repen en tabletten",tony's chocolonely melk hazelnoot repen en tabletten,null,null,null
+0.570292,14274,514851,Jules Destrooper,Hazelnootflorentines,Onze heerlijke hazelnootflorentines met krokante rijst. Een krakend krokante smaakexplosie Belgische chocolade Botercaramel 100% natuurlijke ingredienten,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Snoep koek chips en chocolade Koek Alledaagse koeken,jules destrooper [SEP] hazelnootflorentines [SEP] Onze heerlijke hazelnootflorentines met krokante rijst. Een krakend krokante smaakexplosie Belgische chocolade Botercaramel 100% natuurlijke ingredienten [SEP] verpakt premium,jules destrooper hazelnootflorentines verpakt premium,null,null,null
+0.5640173,13547,520109,AH,Ongezouten hazelnoten,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Hazelnoten (zakje)",ah [SEP] ongezouten hazelnoten [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] ongezouten noten,ah ongezouten hazelnoten ongezouten noten,null,null,null
+0.5599239,13489,50136,Ferrero,Rocher chocolade,Ferrero rocher: fijne wafeltjes met hazelnootvulling omhuld met melkchocolade en gemalen hazelnoten.,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij']",Snoep koek chips en chocolade Chocolade Luxe chocolade,ferrero [SEP] rocher chocolade [SEP] Ferrero rocher: fijne wafeltjes met hazelnootvulling omhuld met melkchocolade en gemalen hazelnoten. [SEP] specialiteiten,ferrero rocher chocolade specialiteiten,null,null,null
+0.5587288,10617,227593,AH,Ongebrande hazelnoten,"Hazelnoten met vlies hebben een krachtige, nootachtige smaak. Gehakt en geroosterd heerlijk door salades, yoghurt of als topping over een pasta. Bron van magnesium, fosfor, ijzer en vitamine B1 en rijk aan Vitamine E. De hazelnoot komt vooral voor in landen rond de Middellandse Zee. De hazelnoot groeit tegenwoordig in Turkije, Spanje, Italie en de VS Lekker in koekjes en gebak of als topping over een pasta De hazelnoot is een vrucht van de hazelaar, een grote heester die wel 3 tot 5 meter hoog kan worden","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Hazelnoten (zakje)","ah [SEP] ongebrande hazelnoten [SEP] Hazelnoten met vlies hebben een krachtige, nootachtige smaak. Gehakt en geroosterd heerlijk door salades, yoghurt of als topping over een pasta. Bron van magnesium, fosfor, ijzer en vitamine B1 en rijk aan Vitamine E. De hazelnoot komt vooral voor in landen rond de Middellandse Zee. De hazelnoot groeit tegenwoordig in Turkije, Spanje, Italie en de VS Lekker in koekjes en gebak of als topping over een pasta De hazelnoot is een vrucht van de hazelaar, een grote heester die wel 3 tot 5 meter hoog kan worden [SEP] ongebrand zak",ah ongebrande hazelnoten ongebrand zak,null,null,null
+0.5567445,11659,492164,AH Excellent,Melkchocolade haantjes,"Feestelijke figuren gemaakt met romige Belgische melkchocolade en karamel zeezout. Speciaal bij AH in het schap, de kwaliteit van de chocolatier. Gemaakt met Belgische melkchocolade Vervaardigd met duurzame rainforest alliance gecertificeerd cacao Een feestje bij de koffie of thee of als decoratie bij het dessert","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Chocolade paasfiguren","ah excellent [SEP] melkchocolade haantjes [SEP] Feestelijke figuren gemaakt met romige Belgische melkchocolade en karamel zeezout. Speciaal bij AH in het schap, de kwaliteit van de chocolatier. Gemaakt met Belgische melkchocolade Vervaardigd met duurzame rainforest alliance gecertificeerd cacao Een feestje bij de koffie of thee of als decoratie bij het dessert [SEP] pasen  chocoloade",ah excellent melkchocolade haantjes pasen  chocoloade,null,null,null
+0.5533031,9649,502249,Verkade,Tablet melk hazelnoot,"Knapperige stukken hazelnoot in volle, romige melkchocolade. Een onweerstaanbare combinatie. Lekker langzaam smeltend Met extra veel hazelnoot, wel 25% Fairtrade","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met noten
+ Melkchocolade met noten","verkade [SEP] tablet melk hazelnoot [SEP] Knapperige stukken hazelnoot in volle, romige melkchocolade. Een onweerstaanbare combinatie. Lekker langzaam smeltend Met extra veel hazelnoot, wel 25% Fairtrade [SEP] repen en tabletten",verkade tablet melk hazelnoot repen en tabletten,null,null,null
+0.5508045,10405,191020,AH Excellent,Praliné konijntjes,"Feestelijke figuren gemaakt met Belgische melk-, puur en witte chocolade en hazelnoot praline vulling. Speciaal bij AH in het schap, de kwaliteit van de chocolatier. Gemaakt met Belgische melk-, puur en witte chocolade Vervaardigd met duurzame rainforest alliance gecertificeerd cacao Een feestje bij de koffie of thee of als decoratie bij het dessert","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Chocolade paashaas","ah excellent [SEP] praliné konijntjes [SEP] Feestelijke figuren gemaakt met Belgische melk-, puur en witte chocolade en hazelnoot praline vulling. Speciaal bij AH in het schap, de kwaliteit van de chocolatier. Gemaakt met Belgische melk-, puur en witte chocolade Vervaardigd met duurzame rainforest alliance gecertificeerd cacao Een feestje bij de koffie of thee of als decoratie bij het dessert [SEP] pasen  chocoloade",ah excellent praliné konijntjes pasen  chocoloade,null,null,null
+0.5496264,2349,508381,AH Biologisch,Krokante muesli chocolade & hazelnoot,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Krokante muesli (cruesli) Krokante muesli (chocolade)",ah biologisch [SEP] krokante muesli chocolade & hazelnoot [SEP]  [SEP] krokante muesli,ah biologisch krokante muesli chocolade & hazelnoot krokante muesli,null,null,null
+0.5463383,11472,459345,AH,Melk rozijn hazelnoot,Alpine milk chocolate with raisins and roasted chopped hazelnuts. Tasty soft chocolate Smooth chocolate Easy to Break in portions Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen selderij' 'Geen eieren']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met noten
+ Melkchocolade met noten",ah [SEP] melk rozijn hazelnoot [SEP] Alpine milk chocolate with raisins and roasted chopped hazelnuts. Tasty soft chocolate Smooth chocolate Easy to Break in portions Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] repen en tabletten,ah melk rozijn hazelnoot repen en tabletten,null,null,null
+0.5460063,7964,549925,Milka,Hele Noot,"Hazelnootfans opgelet! Deze heerlijke alpenmelkchocolade is gevuld met knapperige, hele hazelnoten en is daardoor intens en romig. Geniet van de crunch samen met zoete chocola. Gemaakt van 100% alpenmelk Alpenmelk chocola met hele hazelnoten Een verpakking bevat 6 porties van ieder 4 stukjes chocola","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met noten
+ Melkchocolade met noten","milka [SEP] hele noot [SEP] Hazelnootfans opgelet! Deze heerlijke alpenmelkchocolade is gevuld met knapperige, hele hazelnoten en is daardoor intens en romig. Geniet van de crunch samen met zoete chocola. Gemaakt van 100% alpenmelk Alpenmelk chocola met hele hazelnoten Een verpakking bevat 6 porties van ieder 4 stukjes chocola [SEP] repen en tabletten",milka hele noot repen en tabletten,null,null,null
+0.54599273,760,144878,AH,Choco's crunch,Luchtige melkchocoladeballetjes. Met krokante kern van biscuit Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Vegetarisch' 'Geen selderij']",Snoep koek chips en chocolade Chocolade Chocoladesnoepjes,ah [SEP] choco's crunch [SEP] Luchtige melkchocoladeballetjes. Met krokante kern van biscuit Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] bitesizes,ah choco's crunch bitesizes,null,null,null
+0.54376304,2249,459430,AH,Tablet puur-hazelnoot,Een pure krachtpatser met hele hazelnoten voor echte chocoladeliefhebbers. Met rainforest alliance gecertificeerde cacao en hazelnoten Met hele hazelnoten Nog een stukje dan Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Chocoladerepen met noten Pure chocolade repen
+ Pure chocolade met noten",ah [SEP] tablet puur-hazelnoot [SEP] Een pure krachtpatser met hele hazelnoten voor echte chocoladeliefhebbers. Met rainforest alliance gecertificeerde cacao en hazelnoten Met hele hazelnoten Nog een stukje dan Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] repen en tabletten,ah tablet puur-hazelnoot repen en tabletten,null,null,null
+0.5428296,8285,55733,AH,Hazelnootpasta,Lekkere hazelnoot-choco combinatie. 13% hazelnoten Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zoet broodbeleg Hazelnoot- en chocoladepasta
+ Hazelnootpasta",ah [SEP] hazelnootpasta [SEP] Lekkere hazelnoot-choco combinatie. 13% hazelnoten Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] pasta's,ah hazelnootpasta pasta's,null,null,null
+0.5428296,2695,162019,AH,Hazelnootpasta,Lekkere hazelnoot-choco combinatie. 13% hazelnoten Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zoet broodbeleg Hazelnoot- en chocoladepasta
+ Hazelnootpasta",ah [SEP] hazelnootpasta [SEP] Lekkere hazelnoot-choco combinatie. 13% hazelnoten Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] pasta's,ah hazelnootpasta pasta's,null,null,null
+0.5424081,11429,32918,Nutella,Hazelnootpasta,"Nutella, hazelnootpasta met cacao s Werelds nummer 1 hazelnootpasta Meer dan 50 jaar ambachtelijke kennis","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zoet broodbeleg Hazelnoot- en chocoladepasta
+ Hazelnootpasta","nutella [SEP] hazelnootpasta [SEP] Nutella, hazelnootpasta met cacao s Werelds nummer 1 hazelnootpasta Meer dan 50 jaar ambachtelijke kennis [SEP] pasta's",nutella hazelnootpasta pasta's,null,null,null
+0.542408,12563,2406,Nutella,Hazelnootpasta,"Nutella, hazelnootpasta met cacao s Werelds nummer 1 hazelnootpasta Meer dan 50 jaar ambachtelijke kennis","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zoet broodbeleg Hazelnoot- en chocoladepasta
+ Hazelnootpasta","nutella [SEP] hazelnootpasta [SEP] Nutella, hazelnootpasta met cacao s Werelds nummer 1 hazelnootpasta Meer dan 50 jaar ambachtelijke kennis [SEP] pasta's",nutella hazelnootpasta pasta's,null,null,null
+0.542408,977,167907,Nutella,Hazelnootpasta,"Nutella, hazelnootpasta met cacao s Werelds nummer 1 hazelnootpasta Meer dan 50 jaar ambachtelijke kennis","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zoet broodbeleg Hazelnoot- en chocoladepasta
+ Hazelnootpasta","nutella [SEP] hazelnootpasta [SEP] Nutella, hazelnootpasta met cacao s Werelds nummer 1 hazelnootpasta Meer dan 50 jaar ambachtelijke kennis [SEP] pasta's",nutella hazelnootpasta pasta's,null,null,null
+0.5374043,11828,370830,Nutella,& go,Nutella hazelnootpasta met brooddippers s Wereld nummer 1 hazelnootpasta Meer dan 50 jaar ambachtelijke kennis Nutella nu ook als tussendoortje,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']",Snoep koek chips en chocolade Koek Koekjes met chocolade,nutella [SEP] & go [SEP] Nutella hazelnootpasta met brooddippers s Wereld nummer 1 hazelnootpasta Meer dan 50 jaar ambachtelijke kennis Nutella nu ook als tussendoortje [SEP] verpakt kids,nutella & go verpakt kids,null,null,null
+0.5371415,12210,30496,Delicata,Reep puur-hazelnoot,Met stukjes geroosterde hazelnoot Chocolademakers sinds 1926,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Chocoladerepen met noten Pure chocolade repen
+ Pure chocolade met noten",delicata [SEP] reep puur-hazelnoot [SEP] Met stukjes geroosterde hazelnoot Chocolademakers sinds 1926 [SEP] repen en tabletten,delicata reep puur-hazelnoot repen en tabletten,null,null,null
+0.53698075,1437,492165,AH Excellent,Dragee eitjes,Melkchocolade-eitjes gevuld met hazelnootpraline en omhuld met een suikerlaagje in vrolijke paaskleuren. Krokante beet met een heerlijk zachte vulling Met vrolijke paaskleuren Met rainforest alliance gecertificeerde cacao en hazelnoot,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Paaseitjes Melk paaseitjes",ah excellent [SEP] dragee eitjes [SEP] Melkchocolade-eitjes gevuld met hazelnootpraline en omhuld met een suikerlaagje in vrolijke paaskleuren. Krokante beet met een heerlijk zachte vulling Met vrolijke paaskleuren Met rainforest alliance gecertificeerde cacao en hazelnoot [SEP] pasen  chocoloade,ah excellent dragee eitjes pasen  chocoloade,null,null,null
+0.53492296,17656,381473,AH,Hot choco navulzak,Tijd voor een heerlijke beker chocodrank! Extra lekker tijdens de koude dagen In handige navulzak Lekker met slagroom voor extra verwennerij,"['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Chocolademelk cacao anijs
+ Instant chocolademelk",ah [SEP] hot choco navulzak [SEP] Tijd voor een heerlijke beker chocodrank! Extra lekker tijdens de koude dagen In handige navulzak Lekker met slagroom voor extra verwennerij [SEP] cacao multiserve,ah hot choco navulzak cacao multiserve,null,null,null
+0.5344702,15208,445399,Milka,With love pralines hazelnut creme,Heerlijke Milka bonbons gevuld met lekkere hazelnoot-nougatcrème en omhuld met overheerlijke Milka melkchocolade. 30 hartvormige bonbons per verpakking Zachte melkchocolade met hazelnoot-nougatcrème vulling Perfect als geschenk Hersluitbaar met ruimte voor je persoonlijke boodschap,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Koken tafelen vrije tijd Snoep koek chips en chocolade
+ Feestje gelegenheid Chocolade Chocolade geschenken",milka [SEP] with love pralines hazelnut creme [SEP] Heerlijke Milka bonbons gevuld met lekkere hazelnoot-nougatcrème en omhuld met overheerlijke Milka melkchocolade. 30 hartvormige bonbons per verpakking Zachte melkchocolade met hazelnoot-nougatcrème vulling Perfect als geschenk Hersluitbaar met ruimte voor je persoonlijke boodschap [SEP] specialiteiten,milka with love pralines hazelnut creme specialiteiten,null,null,null
+0.5344429,2954,56401,Choca,Vlokken,Heerlijke cacaofantastie vlokken voor elke dag! Lekker voor op een boterham of in je yoghurt,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij']","Ontbijtgranen en beleg Zoet broodbeleg Hagelslag en vlokken
+ Vlokken",choca [SEP] vlokken [SEP] Heerlijke cacaofantastie vlokken voor elke dag! Lekker voor op een boterham of in je yoghurt [SEP] vlokken,choca vlokken vlokken,null,null,null
+0.53341055,7822,467208,Milka,Pralines hazelnootcreme,Heerlijke Milka bonbons gevuld met lekkere hazelnoot-nougatcreme en omhuld met overheerlijke Milka melkchocolade. Hartvormige bonbons Zachte melkchocolade met hazelnoot-nougatcreme vulling Perfect als geschenk of om gewoon zelf van te genieten,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Koken tafelen vrije tijd Snoep koek chips en chocolade
+ Feestje gelegenheid Chocolade Chocolade geschenken",milka [SEP] pralines hazelnootcreme [SEP] Heerlijke Milka bonbons gevuld met lekkere hazelnoot-nougatcreme en omhuld met overheerlijke Milka melkchocolade. Hartvormige bonbons Zachte melkchocolade met hazelnoot-nougatcreme vulling Perfect als geschenk of om gewoon zelf van te genieten [SEP] specialiteiten,milka pralines hazelnootcreme specialiteiten,null,null,null
+0.53327423,8279,459432,AH,Tablet melk hazelnoot rozijn,"Een verleidelijke combinatie van melkchocolade, rozijnen en hele hazelnoten. Voor echte chocoladeliefhebbers. Met rainforest alliance gecertificeerde cacao en hazelnoten Met hele hazelnoten en rozijnen Nog een stukje dan Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met noten
+ Melkchocolade met noten","ah [SEP] tablet melk hazelnoot rozijn [SEP] Een verleidelijke combinatie van melkchocolade, rozijnen en hele hazelnoten. Voor echte chocoladeliefhebbers. Met rainforest alliance gecertificeerde cacao en hazelnoten Met hele hazelnoten en rozijnen Nog een stukje dan Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] repen en tabletten",ah tablet melk hazelnoot rozijn repen en tabletten,null,null,null
+0.5314791,11884,191039,AH Excellent,Chocolade paashaasjes,"Feestelijke figuren gemaakt met romige Belgische melkchocolade. Speciaal bij AH in het schap, de kwaliteit van de chocolatier. Gemaakt met Belgische melkchocolade Vervaardigd met duurzame rainforest alliance gecertificeerd cacao Een feestje bij de koffie of thee of als decoratie bij het dessert","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Chocolade paashaas","ah excellent [SEP] chocolade paashaasjes [SEP] Feestelijke figuren gemaakt met romige Belgische melkchocolade. Speciaal bij AH in het schap, de kwaliteit van de chocolatier. Gemaakt met Belgische melkchocolade Vervaardigd met duurzame rainforest alliance gecertificeerd cacao Een feestje bij de koffie of thee of als decoratie bij het dessert [SEP] pasen  chocoloade",ah excellent chocolade paashaasjes pasen  chocoloade,null,null,null
+0.52953964,10439,494411,AH Glutenvrij,Chocolate chip cookies,Krokante koekjes met stukjes melkchocolade en hazelnoot.,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren' 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Glutenvrij Koek
+ Koek chips tussendoortjes Glutenvrije koek",ah glutenvrij [SEP] chocolate chip cookies [SEP] Krokante koekjes met stukjes melkchocolade en hazelnoot. [SEP] biscuits,ah glutenvrij chocolate chip cookies biscuits,null,null,null
+0.5276718,13463,513475,Nutella,Hazelnootpasta,"Nutella, hazelnootpasta met cacao. S werelds nummer 1 hazelnootpasta Meer dan 50 jaar ambachtelijke kennis","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zoet broodbeleg Hazelnoot- en chocoladepasta
+ Hazelnootpasta","nutella [SEP] hazelnootpasta [SEP] Nutella, hazelnootpasta met cacao. S werelds nummer 1 hazelnootpasta Meer dan 50 jaar ambachtelijke kennis [SEP] pasta's",nutella hazelnootpasta pasta's,null,null,null
+0.5269507,17535,494145,Ferrero,Rocher chocolade,"Ferrero rocher een krokante wafel die bedekt is met melkchocolade  en  licht geroosterde stukjes hazelnoot. Gevuld met een hele hazelnoot in een smeuige vulling. In een gouden geschenkdoos met 8 stuks Ferrero rocher, een unieke en onnavolgbare smaak Een mooi cadeau om te geven Of uit te delen","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij']",Snoep koek chips en chocolade Chocolade Luxe chocolade,"ferrero [SEP] rocher chocolade [SEP] Ferrero rocher een krokante wafel die bedekt is met melkchocolade  en  licht geroosterde stukjes hazelnoot. Gevuld met een hele hazelnoot in een smeuige vulling. In een gouden geschenkdoos met 8 stuks Ferrero rocher, een unieke en onnavolgbare smaak Een mooi cadeau om te geven Of uit te delen [SEP] specialiteiten",ferrero rocher chocolade specialiteiten,null,null,null
+0.5266498,4296,549947,L'Atelier,Melk hazelnoot & rozijn,"NESTLÉ L'ATELIER Melk chocolade met Hazelnoot &  Rozjin is een romige kwalitatieve chocolade met zichtbare ingrediënten. Zichtbaar genieten. Elk blokje van deze chocoladereep is uniek Premium chocolade met hazelnoot & rozijn, royaal uitgestrooid over de reep Elke portie (1 portie = 2 blokjes) bevat 80 calorieën. Rainforest Alliance gecertificeerde cacao, ingekocht via Nestlé Cocoa Plan","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met noten
+ Melkchocolade met noten","l'atelier [SEP] melk hazelnoot & rozijn [SEP] NESTLÉ L'ATELIER Melk chocolade met Hazelnoot &  Rozjin is een romige kwalitatieve chocolade met zichtbare ingrediënten. Zichtbaar genieten. Elk blokje van deze chocoladereep is uniek Premium chocolade met hazelnoot & rozijn, royaal uitgestrooid over de reep Elke portie (1 portie = 2 blokjes) bevat 80 calorieën. Rainforest Alliance gecertificeerde cacao, ingekocht via Nestlé Cocoa Plan [SEP] repen en tabletten",l'atelier melk hazelnoot & rozijn repen en tabletten,null,null,null
+0.5259797,2596,479583,Milka,Hazelnootpasta met chocolade,Tedere hazelnootpasta met typische Milka smaak. Deze choco pasta wordt jouw nieuwe favoriete beleg! Zonder kunstmatige kleurstoffen Heerlijk romig en vol van smaak,"['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij']","Ontbijtgranen en beleg Zoet broodbeleg Hazelnoot- en chocoladepasta
+ Hazelnootpasta",milka [SEP] hazelnootpasta met chocolade [SEP] Tedere hazelnootpasta met typische Milka smaak. Deze choco pasta wordt jouw nieuwe favoriete beleg! Zonder kunstmatige kleurstoffen Heerlijk romig en vol van smaak [SEP] pasta's,milka hazelnootpasta met chocolade pasta's,null,null,null
+0.5257288,2883,549949,L'Atelier,Puur hazelnoot,"NESTLÉ L'ATELIER Pure chocolade met Hazelnoot is heerlijke kwalitatieve chocolade met zichtbare ingrediënten. Zichtbaar genieten. Elk blokje van deze chocoladereep is uniek Premium chocolade met hazelnoten, royaal uitgestrooid over de reep. Elke portie (1 portie = 2 blokjes) bevat 83 calorieën. Rainforest Alliance gecertificeerde cacao, ingekocht via Nestlé Cocoa Plan","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Chocoladerepen met noten Pure chocolade repen
+ Pure chocolade met noten","l'atelier [SEP] puur hazelnoot [SEP] NESTLÉ L'ATELIER Pure chocolade met Hazelnoot is heerlijke kwalitatieve chocolade met zichtbare ingrediënten. Zichtbaar genieten. Elk blokje van deze chocoladereep is uniek Premium chocolade met hazelnoten, royaal uitgestrooid over de reep. Elke portie (1 portie = 2 blokjes) bevat 83 calorieën. Rainforest Alliance gecertificeerde cacao, ingekocht via Nestlé Cocoa Plan [SEP] repen en tabletten",l'atelier puur hazelnoot repen en tabletten,null,null,null
+0.52569556,13092,502240,Tony's Chocolonely,Melk hazelnoot crunch,"Deze reep was ooit een van de sterren in onze sweet solution campagne, om big choco te inspireren om tony's 5 samenwerkingsprincipes te kopieren. Volle melkchocolade met romige hazelnoot en knapperige crunch Onze missie is om samen 100% slaafvrij de norm te maken in chocolade Met elke hap doe jij mee met onze missie Onze repen zijn ongelijk verdeeld, omdat de chocolade-industrie dat ook is","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met noten
+ Melkchocolade met noten","tony's chocolonely [SEP] melk hazelnoot crunch [SEP] Deze reep was ooit een van de sterren in onze sweet solution campagne, om big choco te inspireren om tony's 5 samenwerkingsprincipes te kopieren. Volle melkchocolade met romige hazelnoot en knapperige crunch Onze missie is om samen 100% slaafvrij de norm te maken in chocolade Met elke hap doe jij mee met onze missie Onze repen zijn ongelijk verdeeld, omdat de chocolade-industrie dat ook is [SEP] repen en tabletten",tony's chocolonely melk hazelnoot crunch repen en tabletten,null,null,null
+0.52274406,15287,549948,L'Atelier,Melk hazelnoot & biscuit,"NESTLÉ L'ATELIER Melk chocolade met Hazelnoot & Biscuit is een romige kwalitatieve chocolade met zichtbare ingredriënten. Zichtbaar genieten. Elk blokje van deze chocoladereep is uniek Premium chocolade met hazelnoot & biscuit, royaal uitgestrooid over de reep Elke portie (1 portie = 2 blokjes) bevat 81 calorieën. Rainforest Alliance gecertificeerde cacao, ingekocht via Nestlé Cocoa Plan","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met noten
+ Melkchocolade met noten","l'atelier [SEP] melk hazelnoot & biscuit [SEP] NESTLÉ L'ATELIER Melk chocolade met Hazelnoot & Biscuit is een romige kwalitatieve chocolade met zichtbare ingredriënten. Zichtbaar genieten. Elk blokje van deze chocoladereep is uniek Premium chocolade met hazelnoot & biscuit, royaal uitgestrooid over de reep Elke portie (1 portie = 2 blokjes) bevat 81 calorieën. Rainforest Alliance gecertificeerde cacao, ingekocht via Nestlé Cocoa Plan [SEP] repen en tabletten",l'atelier melk hazelnoot & biscuit repen en tabletten,null,null,null
+0.5222328,9958,144880,AH,Choco's rozijn,Hele rozijnen met een laagje melkchocolade. Lekker voor tussendoor Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij']",Snoep koek chips en chocolade Chocolade Chocoladesnoepjes,ah [SEP] choco's rozijn [SEP] Hele rozijnen met een laagje melkchocolade. Lekker voor tussendoor Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] bitesizes,ah choco's rozijn bitesizes,null,null,null
+0.5213145,14708,471951,Delicata,"Paaseitjes hazelnoot mix melk, puur, wit","Chocolade eitjes van melk-, pure en witte chocolade met een onweerstaanbare praline vulling en een hele hazelnoot. Delicata chocolade Koffie of thee, daar hoort iets lekkers bij","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Paaseitjes Gevulde paaseitjes","delicata [SEP] paaseitjes hazelnoot mix melk, puur, wit [SEP] Chocolade eitjes van melk-, pure en witte chocolade met een onweerstaanbare praline vulling en een hele hazelnoot. Delicata chocolade Koffie of thee, daar hoort iets lekkers bij [SEP] pasen paaseitjes","delicata paaseitjes hazelnoot mix melk, puur, wit pasen paaseitjes",null,null,null
+0.52072644,12325,221017,AH,Chocolate chip cookies,Koekje met pure chocoladestukjes en melkchocoladestukjes Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Koek Koekjes met chocolade,ah [SEP] chocolate chip cookies [SEP] Koekje met pure chocoladestukjes en melkchocoladestukjes Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] verpakt choco,ah chocolate chip cookies verpakt choco,null,null,null
+0.51998216,13838,436624,AH,Krokant blaadjes melkchocolade,"Flinter dunne melkchocolade blaadjes met stukjes gekarameliseerde hazelnoot. Gemaakt met belgische melkchocolade De kwaliteit van de chocolatier Heerlijk bij kopje koffie, thee of bij het dessert Bereid met duurzaam, RFA gecertificeerde cacao","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']",Snoep koek chips en chocolade Chocolade Luxe chocolade,"ah [SEP] krokant blaadjes melkchocolade [SEP] Flinter dunne melkchocolade blaadjes met stukjes gekarameliseerde hazelnoot. Gemaakt met belgische melkchocolade De kwaliteit van de chocolatier Heerlijk bij kopje koffie, thee of bij het dessert Bereid met duurzaam, RFA gecertificeerde cacao [SEP] patisserie verkoop",ah krokant blaadjes melkchocolade patisserie verkoop,null,null,null
+0.5196457,3659,459427,AH,Tablet melk-hazelnoot,Chocoladereep met hazelnoot. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met noten
+ Melkchocolade met noten",ah [SEP] tablet melk-hazelnoot [SEP] Chocoladereep met hazelnoot. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] repen en tabletten,ah tablet melk-hazelnoot repen en tabletten,null,null,null
+0.5192128,12960,412923,Brouwer,Chocolade rozijnen melkchocolade,Rozijnen omhuld met meldk chocolade. Ook lekker bij de koffie of te thee,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ ""Pindas (zakje)""",brouwer [SEP] chocolade rozijnen melkchocolade [SEP] Rozijnen omhuld met meldk chocolade. Ook lekker bij de koffie of te thee [SEP] 3v6 noten,brouwer chocolade rozijnen melkchocolade 3v6 noten,null,null,null
+0.51876557,7573,35398,Delicata,Melk 36% cacao,Vol van smaak Chocolademakers sinds 1926,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Melkchocolade",delicata [SEP] melk 36% cacao [SEP] Vol van smaak Chocolademakers sinds 1926 [SEP] repen en tabletten,delicata melk 36% cacao repen en tabletten,null,null,null
+0.5183324,4182,509386,AH,Choc chip  omhuld met melkchocolade,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Snoep koek chips en chocolade Koek Koekjes met chocolade,ah [SEP] choc chip  omhuld met melkchocolade [SEP]  [SEP] verpakt choco,ah choc chip  omhuld met melkchocolade verpakt choco,null,null,null
+0.5156618,11781,479574,Nocilla,Hazelnootpasta original,"Nocilla chocopasta met hazelnoten maar dan zonder palmolie en gezoet met stevia, dit zorgt voor minder verzadigde vetten en suiker in jouw favoriete zoet broodbeleg. Smeren maar! Chocolade en hazelnootpasta Gezoet met stevia Palmolie vrij Glutenvrij","['Geen lactose' 'Laag zout' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen eieren' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Ontbijtgranen en beleg Zoet broodbeleg Hazelnoot- en chocoladepasta
+ Hazelnootpasta","nocilla [SEP] hazelnootpasta original [SEP] Nocilla chocopasta met hazelnoten maar dan zonder palmolie en gezoet met stevia, dit zorgt voor minder verzadigde vetten en suiker in jouw favoriete zoet broodbeleg. Smeren maar! Chocolade en hazelnootpasta Gezoet met stevia Palmolie vrij Glutenvrij [SEP] pasta's",nocilla hazelnootpasta original pasta's,null,null,null
+0.51473415,7698,503094,Chocomel,Lactosevrij,"Er is een Chocomel voor iedereen, en allemaal smaken ze als de enige echte. Chocomel lactosevrij bevat 0,01g/100ml lactose, zodat iedereen altijd kan genieten. Rainforest alliance keurmerk Bevat 0,01g/100ml lactose Om van te genieten bij iedere gelegenheid Warm en koud net zo lekker","['Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Zuivel plantaardig en eieren Lactosevrije zuivel
+ Lactosevrije chocolademelk en drinkyoghurt","chocomel [SEP] lactosevrij [SEP] Er is een Chocomel voor iedereen, en allemaal smaken ze als de enige echte. Chocomel lactosevrij bevat 0,01g/100ml lactose, zodat iedereen altijd kan genieten. Rainforest alliance keurmerk Bevat 0,01g/100ml lactose Om van te genieten bij iedere gelegenheid Warm en koud net zo lekker [SEP] chocolademelk",chocomel lactosevrij chocolademelk,null,null,null
+0.51328385,17196,532265,Ferrero,Rocher hazelnoot puur,"Een chocoladereep met pure chocolade en stukjes hazelnoot geinspireerd door de specialiteiten van Ferrero rocher, om je te verrassen met een nieuwe, heerlijke textuur- en smaaksensatie. Gemaakt met zorgvuldig geselecteerde ingredienten Knapperige stukjes hazelnoot, pure chocolade en een heerlijke cremevulling Een heerlijk momentje voor jezelf","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Pure chocolade repen Pure chocolade met smaak","ferrero [SEP] rocher hazelnoot puur [SEP] Een chocoladereep met pure chocolade en stukjes hazelnoot geinspireerd door de specialiteiten van Ferrero rocher, om je te verrassen met een nieuwe, heerlijke textuur- en smaaksensatie. Gemaakt met zorgvuldig geselecteerde ingredienten Knapperige stukjes hazelnoot, pure chocolade en een heerlijke cremevulling Een heerlijk momentje voor jezelf [SEP] repen en tabletten",ferrero rocher hazelnoot puur repen en tabletten,null,null,null
+0.51241684,15579,549479,Céréal,Chocolade en hazelnootsmaak,"Proef deze Céréal zandkoekjes met heerlijke chocolade en hazelnoot smaak! Zonder suikers, Nutri-Score B én maar 48 kcal per koekje. Zonder suikers Maar liefst 48 kcal per koekje Duurzame gecertificeerde cacao Zonder palmolie","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen lupine' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen selderij'
+ 'Geen eieren']","Bewuste voeding Snoep koek chips en chocolade Koek Suikerbewust
+ Koek (suikerbewust)","céréal [SEP] chocolade en hazelnootsmaak [SEP] Proef deze Céréal zandkoekjes met heerlijke chocolade en hazelnoot smaak! Zonder suikers, Nutri-Score B én maar 48 kcal per koekje. Zonder suikers Maar liefst 48 kcal per koekje Duurzame gecertificeerde cacao Zonder palmolie [SEP] verpakt premium",céréal chocolade en hazelnootsmaak verpakt premium,null,null,null
+0.5106009,8771,550009,Lindt,Classic vegan hazelnut,"Ontdek de Lindt CLASSIC Vegan Hazelnut chocoladereep. Met passie gemaakt door de Lindt Meester Chocolatiers. Een combinatie van premium cacao, glutenvrije havermelk en de beste stukjes hazelnoot Met premium cacao, glutenvrije havermoutdrank en de beste stukjes hazelnoot De perfecte zuivelvrije en veganistische chocolade traktatie Sinds 1845 met passie bereid door onze Lindt meester chocolatiers Met de beste ingrediënten en cacaobonen van duurzaam geteelde gewassen","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met noten
+ Melkchocolade met noten","lindt [SEP] classic vegan hazelnut [SEP] Ontdek de Lindt CLASSIC Vegan Hazelnut chocoladereep. Met passie gemaakt door de Lindt Meester Chocolatiers. Een combinatie van premium cacao, glutenvrije havermelk en de beste stukjes hazelnoot Met premium cacao, glutenvrije havermoutdrank en de beste stukjes hazelnoot De perfecte zuivelvrije en veganistische chocolade traktatie Sinds 1845 met passie bereid door onze Lindt meester chocolatiers Met de beste ingrediënten en cacaobonen van duurzaam geteelde gewassen [SEP] repen en tabletten",lindt classic vegan hazelnut repen en tabletten,null,null,null
+0.51051575,12092,484539,AH,Coconut chocolade mini,Kleine gevulde melkchocoladereepjes met kokosvulling. In een handige uitdeelverpakking. Een heerlijke combinatie van kokos en melkchocolade Individueel verpakte porties Handig formaat om mee te nemen onderweg en met anderen te delen Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen selderij' 'Geen eieren']","Snoep koek chips en chocolade Snoep Chocolade Candybars
+ Trakteren Candybars minis",ah [SEP] coconut chocolade mini [SEP] Kleine gevulde melkchocoladereepjes met kokosvulling. In een handige uitdeelverpakking. Een heerlijke combinatie van kokos en melkchocolade Individueel verpakte porties Handig formaat om mee te nemen onderweg en met anderen te delen Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] candybars mini's,ah coconut chocolade mini candybars mini's,null,null,null
+0.50867146,698,188948,AH Biologisch,Tablet melk-hazelnoot,Gemaakt van Delicata chocolade Met geroosterde hazelnoot,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'fairtrade' 'biologisch' 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met noten
+ Melkchocolade met noten",ah biologisch [SEP] tablet melk-hazelnoot [SEP] Gemaakt van Delicata chocolade Met geroosterde hazelnoot [SEP] repen en tabletten,ah biologisch tablet melk-hazelnoot repen en tabletten,null,null,null
+0.5083431,6504,58425,AH,Tablet melk-hazelnoot,Chocoladereep met hazelnoot Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'suikervrij'
+ 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen selderij' 'Geen eieren']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met noten
+ Melkchocolade met noten",ah [SEP] tablet melk-hazelnoot [SEP] Chocoladereep met hazelnoot Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] repen en tabletten,ah tablet melk-hazelnoot repen en tabletten,null,null,null
+0.5073573,13878,479572,Nocilla,Hazelnootpasta original,"Nocilla chocopasta met hazelnoten gemaakt zonder palmolie, dit zorgt voor minder verzadigde vetten in jouw favoriete zoet broodbeleg. Smeren maar! Chocolade en hazelnootpasta Palmolie vrij Glutenvrij","['Geen lactose' 'Laag zout' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen eieren' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Ontbijtgranen en beleg Zoet broodbeleg Hazelnoot- en chocoladepasta
+ Hazelnootpasta","nocilla [SEP] hazelnootpasta original [SEP] Nocilla chocopasta met hazelnoten gemaakt zonder palmolie, dit zorgt voor minder verzadigde vetten in jouw favoriete zoet broodbeleg. Smeren maar! Chocolade en hazelnootpasta Palmolie vrij Glutenvrij [SEP] pasta's",nocilla hazelnootpasta original pasta's,null,null,null
+0.5061216,6989,471629,Kinder,Schokobons wit,"Heerlijke melkvulling met stukjes hazelnoot, omhuld met witte chocolade. Heerlijk om te delen Voor jong en oud","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Paaseitjes Gevulde paaseitjes","kinder [SEP] schokobons wit [SEP] Heerlijke melkvulling met stukjes hazelnoot, omhuld met witte chocolade. Heerlijk om te delen Voor jong en oud [SEP] pasen  chocoloade",kinder schokobons wit pasen  chocoloade,null,null,null
+0.50566363,185,512977,AH Excellent,Musket eitjes melkchocolade,"Feestelijke paaseieren gemaakt met romige Belgische melkchocolade en gedecoreerd met musket. Speciaal bij AH in het schap, de kwaliteit van de chocolatier. Gemaakt met Belgische melkchocolade Vervaardigd met duurzame rainforest alliance gecertificeerd cacao Een feestje bij de koffie of thee of als decoratie bij het dessert","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Paaseitjes Melk paaseitjes","ah excellent [SEP] musket eitjes melkchocolade [SEP] Feestelijke paaseieren gemaakt met romige Belgische melkchocolade en gedecoreerd met musket. Speciaal bij AH in het schap, de kwaliteit van de chocolatier. Gemaakt met Belgische melkchocolade Vervaardigd met duurzame rainforest alliance gecertificeerd cacao Een feestje bij de koffie of thee of als decoratie bij het dessert [SEP] pasen  chocoloade",ah excellent musket eitjes melkchocolade pasen  chocoloade,null,null,null
+0.50563645,3179,172425,AH,Chocolade zeevruchten,Chocoladebonbons met hazelnootpralinevulling. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']",Snoep koek chips en chocolade Chocolade Bonbons en pralines,ah [SEP] chocolade zeevruchten [SEP] Chocoladebonbons met hazelnootpralinevulling. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] specialiteiten,ah chocolade zeevruchten specialiteiten,null,null,null
+0.5053543,18882,37025,AH,Chocoladerozijnen melk,Heerlijk voor bij de koffie of thee. Ook lekker als tussendoortje Met Rainforest Alliance gecertificeerde cacao,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ Notenmix (bakje)",ah [SEP] chocoladerozijnen melk [SEP] Heerlijk voor bij de koffie of thee. Ook lekker als tussendoortje Met Rainforest Alliance gecertificeerde cacao [SEP] zoet,ah chocoladerozijnen melk zoet,null,null,null
+0.5038146,11684,209272,Nestlé,Crunch,"Nestle crunch is een lekkere chocoladereep van melk chocolade gevuld met krokante glutenvrije granen. Een simpele combinatie die verrassend lekker is. Geniet van deze glutenvrije chocola Elke portie (1 portie = een reepje van 16,7g) bevat 86 calorieen Ook verkrijgbaar in witte chocolade Rainforest alliance gecertificeerde cacao, ingekocht via Nestle cocoa plan","['Geen lactose' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met biscuit
+ Melkchocolade met biscuit","nestlé [SEP] crunch [SEP] Nestle crunch is een lekkere chocoladereep van melk chocolade gevuld met krokante glutenvrije granen. Een simpele combinatie die verrassend lekker is. Geniet van deze glutenvrije chocola Elke portie (1 portie = een reepje van 16,7g) bevat 86 calorieen Ook verkrijgbaar in witte chocolade Rainforest alliance gecertificeerde cacao, ingekocht via Nestle cocoa plan [SEP] repen en tabletten",nestlé crunch repen en tabletten,null,null,null
+0.50200206,7096,532264,Ferrero,Rocher hazelnoot wit,"Een chocoladereep met witte chocolade en stukjes hazelnoot geinspireerd door de specialiteiten van Ferrero rocher, om je te verrassen met een nieuwe, heerlijke textuur- en smaaksensatie. Gemaakt met zorgvuldig geselecteerde ingredienten Knapperige stukjes hazelnoot, witte chocolade en een heerlijke cremevulling Een heerlijk momentje voor jezelf","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Chocoladerepen met noten Witte chocolade repen
+ Witte chocolade met noten","ferrero [SEP] rocher hazelnoot wit [SEP] Een chocoladereep met witte chocolade en stukjes hazelnoot geinspireerd door de specialiteiten van Ferrero rocher, om je te verrassen met een nieuwe, heerlijke textuur- en smaaksensatie. Gemaakt met zorgvuldig geselecteerde ingredienten Knapperige stukjes hazelnoot, witte chocolade en een heerlijke cremevulling Een heerlijk momentje voor jezelf [SEP] repen en tabletten",ferrero rocher hazelnoot wit repen en tabletten,null,null,null
+0.49979994,10661,180927,Ferrero,Rocher,"Ferrero rocher: een krokant wafeltje gevuld met een hele hazelnoot in een smeuige vulling, bedekt met heerlijke melkchocolade en licht geroosterde stukjes hazelnoot. Een mooi cadeau om te geven in een geschenkdoos met 24 stuks Of lekker om uit te delen","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij']",Snoep koek chips en chocolade Chocolade Luxe chocolade,"ferrero [SEP] rocher [SEP] Ferrero rocher: een krokant wafeltje gevuld met een hele hazelnoot in een smeuige vulling, bedekt met heerlijke melkchocolade en licht geroosterde stukjes hazelnoot. Een mooi cadeau om te geven in een geschenkdoos met 24 stuks Of lekker om uit te delen [SEP] niet gebruiken",ferrero rocher niet gebruiken,null,null,null
+0.49961755,3655,491909,Tony's Chocolonely,Paaseitjes karamel zeezout,"14 lekker grote melk karamel zeezout paaseitjes, handig in een zakkie. Onze visie is 100% slaafvrije chocolade. Niet alleen onze chocolade, maar alle chocolade wereldwijd. We betalen n extra tonys premie bovenop de Fairtrade-premie Gemaakt van Fairtrade chocolade Onze missie is om samen 100% slaafvrij de norm te maken in chocolade Met elke hap doe jij mee met onze missie","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Paaseitjes Melk paaseitjes","tony's chocolonely [SEP] paaseitjes karamel zeezout [SEP] 14 lekker grote melk karamel zeezout paaseitjes, handig in een zakkie. Onze visie is 100% slaafvrije chocolade. Niet alleen onze chocolade, maar alle chocolade wereldwijd. We betalen n extra tonys premie bovenop de Fairtrade-premie Gemaakt van Fairtrade chocolade Onze missie is om samen 100% slaafvrij de norm te maken in chocolade Met elke hap doe jij mee met onze missie [SEP] pasen  chocoloade",tony's chocolonely paaseitjes karamel zeezout pasen  chocoloade,null,null,null
+0.49959305,696,67828,Chocomel,De enige echte 0% suiker toegevoegd,"Er is een Chocomel voor iedereen, en allemaal smaken ze als de enige echte. Chocomel 0% suiker toegevoegd bevat minder calorieen, zodat genieten altijd kan. Rainforest alliance keurmerk Om van te genieten bij iedere gelegenheid Warm en koud net zo lekker Probeer ook onze heerlijke chocomel-recepten: van ijskoffie tot toppings","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Chocolademelk Chocolademelk (pakken),"chocomel [SEP] de enige echte 0% suiker toegevoegd [SEP] Er is een Chocomel voor iedereen, en allemaal smaken ze als de enige echte. Chocomel 0% suiker toegevoegd bevat minder calorieen, zodat genieten altijd kan. Rainforest alliance keurmerk Om van te genieten bij iedere gelegenheid Warm en koud net zo lekker Probeer ook onze heerlijke chocomel-recepten: van ijskoffie tot toppings [SEP] chocolademelk",chocomel de enige echte 0% suiker toegevoegd chocolademelk,null,null,null
+0.49887544,4526,479183,Nocilla,Hazelnootpasta duo 0%,"Nocilla twee kleuren melk- en chocopasta met hazelnoten en zonder palmolie, dit zorgt voor minder verzadigde vetten in jouw favoriete zoet broodbeleg. Smeren maar! Twee kleuren melk- en chocolade pasta met hazelnoten Gezoet met stevia Palmolie vrij Glutenvrij","['Geen lactose' 'Laag zout' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen eieren' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Ontbijtgranen en beleg Zoet broodbeleg Hazelnoot- en chocoladepasta
+ Hazelnootpasta","nocilla [SEP] hazelnootpasta duo 0% [SEP] Nocilla twee kleuren melk- en chocopasta met hazelnoten en zonder palmolie, dit zorgt voor minder verzadigde vetten in jouw favoriete zoet broodbeleg. Smeren maar! Twee kleuren melk- en chocolade pasta met hazelnoten Gezoet met stevia Palmolie vrij Glutenvrij [SEP] pasta's",nocilla hazelnootpasta duo 0% pasta's,null,null,null
+0.49886647,4158,507973,Delicata,Melk pecan karamel,"Melkchocolade gevuld met pecan, karamel en een korreltje zeezout. Enjoy! Van Belgische chocolade Melkchocolade: cacaobestandsdelen 36%","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met noten
+ Melkchocolade met noten","delicata [SEP] melk pecan karamel [SEP] Melkchocolade gevuld met pecan, karamel en een korreltje zeezout. Enjoy! Van Belgische chocolade Melkchocolade: cacaobestandsdelen 36% [SEP] repen en tabletten",delicata melk pecan karamel repen en tabletten,null,null,null
+0.4984627,4827,493250,Milka,Favourites pralines mix,Al jouw favoriete chocolaatjes in een box! Welke kies jij? Assortiment van heerlijke chocolade Individueel verpakt,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Koken tafelen vrije tijd Snoep koek chips en chocolade
+ Feestje gelegenheid Chocolade Chocolade geschenken",milka [SEP] favourites pralines mix [SEP] Al jouw favoriete chocolaatjes in een box! Welke kies jij? Assortiment van heerlijke chocolade Individueel verpakt [SEP] specialiteiten,milka favourites pralines mix specialiteiten,null,null,null
+0.49778658,2431,472015,Tony's Chocolonely,Paaseitjes melk,"14 lekker grote melk karamel zeezout paaseitjes, handig in een zakkie. Onze visie is 100% slaafvrije chocolade. Niet alleen onze chocolade, maar alle chocolade wereldwijd. We betalen n extra tonys premie bovenop de Fairtrade-premie Gemaakt van Fairtrade chocolade Onze missie is om samen 100% slaafvrij de norm te maken in chocolade Met elke hap doe jij mee met onze missie","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Paaseitjes Melk paaseitjes","tony's chocolonely [SEP] paaseitjes melk [SEP] 14 lekker grote melk karamel zeezout paaseitjes, handig in een zakkie. Onze visie is 100% slaafvrije chocolade. Niet alleen onze chocolade, maar alle chocolade wereldwijd. We betalen n extra tonys premie bovenop de Fairtrade-premie Gemaakt van Fairtrade chocolade Onze missie is om samen 100% slaafvrij de norm te maken in chocolade Met elke hap doe jij mee met onze missie [SEP] pasen  chocoloade",tony's chocolonely paaseitjes melk pasen  chocoloade,null,null,null
+0.4973313,1801,191174,AH,Bossche bollen,Chocobruine kussens van glanzend satijn gevuld met donzige slagroom Boordevol lekkere slagroom Met een heerlijke chocolaag,['Laag zout' 'Laag vet' 'Nutri-Score D' 'Laag suiker'],Bakkerij en banket Gebak Gebakjes Gebakje,ah [SEP] bossche bollen [SEP] Chocobruine kussens van glanzend satijn gevuld met donzige slagroom Boordevol lekkere slagroom Met een heerlijke chocolaag [SEP] stuks gebak,ah bossche bollen stuks gebak,null,null,null
+0.49715605,3522,417419,Milka,Mmmax reep melk hazelnoot,Milka hele hazelnoten is gemaakt van zachte melkchocolade gevuld met hele hazelnoten. Zachte melkchocolade Met hele hazelnoten Hersluitbare verpakking,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met noten
+ Melkchocolade met noten",milka [SEP] mmmax reep melk hazelnoot [SEP] Milka hele hazelnoten is gemaakt van zachte melkchocolade gevuld met hele hazelnoten. Zachte melkchocolade Met hele hazelnoten Hersluitbare verpakking [SEP] repen en tabletten,milka mmmax reep melk hazelnoot repen en tabletten,null,null,null
+0.49595684,15323,546253,Ferrero,Rocher golden eggs melk,Proef de magie van Ferrero rocher in een paaseitje. Heerlijke melk chocolade gevuld met hazelnootcreme en stukjes hazelnoot. De unieke smaak van Ferrero rocher in een paaseitje Hazelnootcreme omhuld met melk chocolade,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen selderij' 'Geen eieren']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Chocolade paasfiguren",ferrero [SEP] rocher golden eggs melk [SEP] Proef de magie van Ferrero rocher in een paaseitje. Heerlijke melk chocolade gevuld met hazelnootcreme en stukjes hazelnoot. De unieke smaak van Ferrero rocher in een paaseitje Hazelnootcreme omhuld met melk chocolade [SEP] pasen paaseitjes,ferrero rocher golden eggs melk pasen paaseitjes,null,null,null
+0.49586537,13472,417353,Tony's Chocolonely,Donkere melk 42%,"Donkere melk, was dat? das romige melkchocolade met de kraak en smaak van pure chocolade. Een reep van 42% cacao! Daar worden wij niet alleen blij van, de partnerboeren in Ghana en Ivoorkust ook. Volle, romige donkere melkchocolade met de kraak en smaak van puur Onze missie is om samen 100% slaafvrij de norm te maken in chocolade Met elke hap doe jij mee met onze missie Onze repen zijn ongelijk verdeeld, omdat de chocolade-industrie dat ook is","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'fairtrade' 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Melkchocolade","tony's chocolonely [SEP] donkere melk 42% [SEP] Donkere melk, was dat? das romige melkchocolade met de kraak en smaak van pure chocolade. Een reep van 42% cacao! Daar worden wij niet alleen blij van, de partnerboeren in Ghana en Ivoorkust ook. Volle, romige donkere melkchocolade met de kraak en smaak van puur Onze missie is om samen 100% slaafvrij de norm te maken in chocolade Met elke hap doe jij mee met onze missie Onze repen zijn ongelijk verdeeld, omdat de chocolade-industrie dat ook is [SEP] repen en tabletten",tony's chocolonely donkere melk 42% repen en tabletten,null,null,null
+0.49559146,5934,479179,Milka,Hazelnootpasta met chocolade,Tedere hazelnootpasta met typische Milka smaak. Deze spread wordt jouw nieuwe favoriete beleg! Zonder kunstmatige kleurstoffen Heerlijk romig en vol van smaak,"['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Zoet broodbeleg Hazelnoot- en chocoladepasta
+ Hazelnootpasta",milka [SEP] hazelnootpasta met chocolade [SEP] Tedere hazelnootpasta met typische Milka smaak. Deze spread wordt jouw nieuwe favoriete beleg! Zonder kunstmatige kleurstoffen Heerlijk romig en vol van smaak [SEP] pasta's,milka hazelnootpasta met chocolade pasta's,null,null,null
+0.49455804,4226,370829,Nutella,Cups,6 Nutella portieverpakkingen in handige cups. s Wereld nummer 1 hazelnootpasta Meer dan 50 jaar ambachtelijke kennis Handige portieverpakking,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zoet broodbeleg Hazelnoot- en chocoladepasta
+ Hazelnootpasta",nutella [SEP] cups [SEP] 6 Nutella portieverpakkingen in handige cups. s Wereld nummer 1 hazelnootpasta Meer dan 50 jaar ambachtelijke kennis Handige portieverpakking [SEP] broodbelegs minis,nutella cups broodbelegs minis,null,null,null
+0.4937917,15791,490490,Ferrero,Rocher,"Ferrero rocher: een krokant wafeltje gevuld met een hele hazelnoot in een smeuige vulling, bedekt met heerlijke melkchocolade en licht geroosterde stukjes hazelnoot. Een mooi cadeau om te geven in een geschenkdoos met 30 stuks Of lekker om uit te delen","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij']",Snoep koek chips en chocolade Chocolade Luxe chocolade,"ferrero [SEP] rocher [SEP] Ferrero rocher: een krokant wafeltje gevuld met een hele hazelnoot in een smeuige vulling, bedekt met heerlijke melkchocolade en licht geroosterde stukjes hazelnoot. Een mooi cadeau om te geven in een geschenkdoos met 30 stuks Of lekker om uit te delen [SEP] seizoenartikelen",ferrero rocher seizoenartikelen,null,null,null
+0.49341244,16934,546256,Ferrero,Rocher golden eggs donker,Proef de magie van Ferrero rocher in een paaseitje. Heerlijke pure chocolade gevuld met hazelnootcreme en stukjes hazelnoot. De unieke smaak van Ferrero rocher in een paaseitje Hazelnootcreme omhuld met pure chocolade,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen selderij' 'Geen eieren']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Chocolade paasfiguren",ferrero [SEP] rocher golden eggs donker [SEP] Proef de magie van Ferrero rocher in een paaseitje. Heerlijke pure chocolade gevuld met hazelnootcreme en stukjes hazelnoot. De unieke smaak van Ferrero rocher in een paaseitje Hazelnootcreme omhuld met pure chocolade [SEP] pasen paaseitjes,ferrero rocher golden eggs donker pasen paaseitjes,null,null,null
+0.49337682,14357,233009,AH,Handwerk bonbons,"Handwerk bonbons gevuld met vullingen op basis van hazelnootpraline, amandelmarsepein en ganache vullingen. In de smaken mokka, irish koffie, hazelnoot, butterscotch, kersen, sinaasappel en amaretto. Gemaakt met belgische melk, pure en witte chocolade De kwaliteit van de chocolatier Heerlijk bij kopje koffie, thee of bij het dessert Bereid met duurzaam, RFA gecertificeerde cacao en hazelnoten","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Vegetarisch' 'Geen eieren'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen selderij' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']",Snoep koek chips en chocolade Chocolade Bonbons en pralines,"ah [SEP] handwerk bonbons [SEP] Handwerk bonbons gevuld met vullingen op basis van hazelnootpraline, amandelmarsepein en ganache vullingen. In de smaken mokka, irish koffie, hazelnoot, butterscotch, kersen, sinaasappel en amaretto. Gemaakt met belgische melk, pure en witte chocolade De kwaliteit van de chocolatier Heerlijk bij kopje koffie, thee of bij het dessert Bereid met duurzaam, RFA gecertificeerde cacao en hazelnoten [SEP] patisserie verkoop",ah handwerk bonbons patisserie verkoop,null,null,null
+0.49330938,1291,507962,Delicata,Melk macadamia cashew rozijnen,"Laat je verrassen door deze heerlijke melkchocolade met een mix van macadamia, cashew en rozijnen. Van Belgische chocolade","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met noten
+ Melkchocolade met noten","delicata [SEP] melk macadamia cashew rozijnen [SEP] Laat je verrassen door deze heerlijke melkchocolade met een mix van macadamia, cashew en rozijnen. Van Belgische chocolade [SEP] repen en tabletten",delicata melk macadamia cashew rozijnen repen en tabletten,null,null,null
+0.49284557,8054,136245,Chocomel,0% Suiker toegevoegd 6-pack,"Er is een Chocomel voor iedereen, en allemaal smaken ze als de enige echte. Chocomel 0% suiker toegevoegd bevat minder calorieen, zodat genieten altijd kan. Rainforest alliance keurmerk Om van te genieten bij iedere gelegenheid Warm en koud net zo lekker Ideaal voor onderweg","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Zuivel plantaardig en eieren
+ Tussendoortjes Pakjes drinken Chocolademelk
+ Zuivel tussendoortjes (voor thuis en onderweg)
+ Chocolademelk (drinkpakjes) Zuivel drinkpakjes","chocomel [SEP] 0% suiker toegevoegd 6-pack [SEP] Er is een Chocomel voor iedereen, en allemaal smaken ze als de enige echte. Chocomel 0% suiker toegevoegd bevat minder calorieen, zodat genieten altijd kan. Rainforest alliance keurmerk Om van te genieten bij iedere gelegenheid Warm en koud net zo lekker Ideaal voor onderweg [SEP] chocolademelk",chocomel 0% suiker toegevoegd 6-pack chocolademelk,null,null,null
+0.4915907,4248,430109,Milka,Choco brownie,Een heerlijke brownie die gemaakt is van echte Milka alpenmelkchocolade met zachte chocoladestukjes. Met echte alpenmelkchocolade Bevatten extra veel chocolade door de grote chocoladestukjes Individueel verpakt per brownie dus ideaal voor onderweg Een verpakking bevat 6 brownies,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Snoep koek chips en chocolade Koek Koekjes met chocolade,milka [SEP] choco brownie [SEP] Een heerlijke brownie die gemaakt is van echte Milka alpenmelkchocolade met zachte chocoladestukjes. Met echte alpenmelkchocolade Bevatten extra veel chocolade door de grote chocoladestukjes Individueel verpakt per brownie dus ideaal voor onderweg Een verpakking bevat 6 brownies [SEP] verpakt choco,milka choco brownie verpakt choco,null,null,null
+0.49146113,2830,209792,Chocomel,Chocomelk vol,"Romig, vol van smaak en altijd onweerstaanbaar lekker. We hebben het trouwens nog steeds over chocomel! Rainforest alliance keurmerk Om van te genieten bij iedere gelegenheid Warm en koud net zo lekker Probeer ook onze heerlijke chocomel-recepten: van ijskoffie tot toppings","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Chocolademelk Chocolademelk (pakken),"chocomel [SEP] chocomelk vol [SEP] Romig, vol van smaak en altijd onweerstaanbaar lekker. We hebben het trouwens nog steeds over chocomel! Rainforest alliance keurmerk Om van te genieten bij iedere gelegenheid Warm en koud net zo lekker Probeer ook onze heerlijke chocomel-recepten: van ijskoffie tot toppings [SEP] chocolademelk",chocomel chocomelk vol chocolademelk,null,null,null
+0.49138027,4471,532263,Ferrero,Rocher original melk,"Een chocoladereep met melkchocolade en stukjes hazelnoot geinspireerd door de specialiteiten van Ferrero rocher, om je te verrassen met een nieuwe, heerlijke textuur- en smaaksensatie. Gemaakt met zorgvuldig geselecteerde ingredienten Knapperige stukjes hazelnoot, melkchocolade en een heerlijke cremevulling Een heerlijk momentje voor jezelf","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Melkchocolade","ferrero [SEP] rocher original melk [SEP] Een chocoladereep met melkchocolade en stukjes hazelnoot geinspireerd door de specialiteiten van Ferrero rocher, om je te verrassen met een nieuwe, heerlijke textuur- en smaaksensatie. Gemaakt met zorgvuldig geselecteerde ingredienten Knapperige stukjes hazelnoot, melkchocolade en een heerlijke cremevulling Een heerlijk momentje voor jezelf [SEP] repen en tabletten",ferrero rocher original melk repen en tabletten,null,null,null
+0.4909866,8717,550196,Danio,Mousse choco met hazelnootsmaak,"Heerlijke Danio mousse met choco-hazelnootsmaak. Bomvol smaak, en toch lekker luchtig! Heerlijke luchtige mousse Met hemelse choco-hazelnoot smaak Lekker als tussendoortje, snack of natuurlijk als toetje Handige portieverpakking om te delen en samen van te genieten",['Vegetarisch' 'Laag zout' 'Laag vet' 'Veganistisch' 'Laag suiker'],Zuivel plantaardig en eieren Toetjes Chocolademousse,"danio [SEP] mousse choco met hazelnootsmaak [SEP] Heerlijke Danio mousse met choco-hazelnootsmaak. Bomvol smaak, en toch lekker luchtig! Heerlijke luchtige mousse Met hemelse choco-hazelnoot smaak Lekker als tussendoortje, snack of natuurlijk als toetje Handige portieverpakking om te delen en samen van te genieten [SEP] desserts",danio mousse choco met hazelnootsmaak desserts,null,null,null
+0.4909683,677,161816,AH,Hazelnoten,Ideaal om te gebruiken als garnering voor maaltijden Lekker om kort te roosteren en aan de salade toe te voegen Ook ideaal om te gebruiken als garnering op de taart Verpakt in een bedrijf waar ook andere noten en pinda's worden verwerkt Tip: probeer eens zelf hazelnotenkoekjes te maken,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Soepen sauzen kruiden olie Snoep koek chips en chocolade
+ Zelf bakken Noten Garnering Bakproducten Noten pittengarnering
+ Garneringen toevoegingen Toevoegingen toppings versiering
+ Noten garnering","ah [SEP] hazelnoten [SEP] Ideaal om te gebruiken als garnering voor maaltijden Lekker om kort te roosteren en aan de salade toe te voegen Ook ideaal om te gebruiken als garnering op de taart Verpakt in een bedrijf waar ook andere noten en pinda's worden verwerkt Tip: probeer eens zelf hazelnotenkoekjes te maken [SEP] bt baknoten, zaden en pitten","ah hazelnoten bt baknoten, zaden en pitten",null,null,null
+0.49087697,1895,188228,Chocomel,De enige echte dark,Chocomel met de intense smaak van pure chocolade. Wat is 'ie toch lekker! Rainforest alliance keurmerk Om van te genieten bij iedere gelegenheid Warm en koud net zo lekker Probeer ook onze heerlijke chocomel-recepten: van ijskoffie tot toppings,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Chocolademelk Chocolademelk (pakken),chocomel [SEP] de enige echte dark [SEP] Chocomel met de intense smaak van pure chocolade. Wat is 'ie toch lekker! Rainforest alliance keurmerk Om van te genieten bij iedere gelegenheid Warm en koud net zo lekker Probeer ook onze heerlijke chocomel-recepten: van ijskoffie tot toppings [SEP] chocolademelk,chocomel de enige echte dark chocolademelk,null,null,null
+0.49083877,7938,507724,Tony's Chocolonely,Pouch melk mix,"Individueel verpakte donkere melk en melkchocolademet hazelnoot, noga, karamel, pretzel en zeezout. Fairtrade","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Snoep koek chips en chocolade Snoep Chocolade Candybars
+ Trakteren Candybars minis","tony's chocolonely [SEP] pouch melk mix [SEP] Individueel verpakte donkere melk en melkchocolademet hazelnoot, noga, karamel, pretzel en zeezout. Fairtrade [SEP] candybars mini's",tony's chocolonely pouch melk mix candybars mini's,null,null,null
+0.4907118,11892,474070,Lonka,Soft nougat pinda's & melkchocolade,"Heerlijke zachte nougat, gevuld met pinda's en omhuld met melkchocolade. Een zachte lekkernij speciaal voor bij jouw genietmomentje of om te delen met anderen. Heerlijk bij de koffie of thee! Volgens authentiek recept sinds 1920 In een handige tray, makkelijk zo te presenteren op tafel De chocolade is utz-gecertificeerd Glutenvrij","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Snoep Chocolade Nougat
+ Toffee fudge nougat","lonka [SEP] soft nougat pinda's & melkchocolade [SEP] Heerlijke zachte nougat, gevuld met pinda's en omhuld met melkchocolade. Een zachte lekkernij speciaal voor bij jouw genietmomentje of om te delen met anderen. Heerlijk bij de koffie of thee! Volgens authentiek recept sinds 1920 In een handige tray, makkelijk zo te presenteren op tafel De chocolade is utz-gecertificeerd Glutenvrij [SEP] nougat en fudge",lonka soft nougat pinda's & melkchocolade nougat en fudge,null,null,null
+0.4902982,3054,469824,Milka,Choco sensations,Sensationeel lekker! Een heerlijk krokant koekje gebakken met Milka chocolade chips en een zachte chocolade kern van Milka chocolade. Heerlijke vulling van alpenmelkchocolade Romig en vol van smaak Nog lekkerder: verwarm 10 seconden in de magnetron,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Koek Koekjes met chocolade,milka [SEP] choco sensations [SEP] Sensationeel lekker! Een heerlijk krokant koekje gebakken met Milka chocolade chips en een zachte chocolade kern van Milka chocolade. Heerlijke vulling van alpenmelkchocolade Romig en vol van smaak Nog lekkerder: verwarm 10 seconden in de magnetron [SEP] verpakt choco,milka choco sensations verpakt choco,null,null,null
+0.48980433,8924,162018,AH,Duo pasta hazelnoot wit,Lekkere hazelnoot-choco combinatie Heerlijk romig van smaak Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zoet broodbeleg Hazelnoot- en chocoladepasta
+ Hazelnootpasta",ah [SEP] duo pasta hazelnoot wit [SEP] Lekkere hazelnoot-choco combinatie Heerlijk romig van smaak Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] pasta's,ah duo pasta hazelnoot wit pasta's,null,null,null
+0.48967302,8120,484443,AH,Chocolade mini's met melkvulling,Kleine gevulde melkchocoladereepjes met een luchtige melkvulling. In een handige uitdeelverpakking. Een heerlijke combinatie van luchtige melkvulling en melkchocolade Individueel verpakte porties Handig formaat om mee te nemen onderweg en met anderen te delen Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen selderij' 'Geen eieren']","Snoep koek chips en chocolade Snoep Chocolade Candybars
+ Trakteren Candybars minis",ah [SEP] chocolade mini's met melkvulling [SEP] Kleine gevulde melkchocoladereepjes met een luchtige melkvulling. In een handige uitdeelverpakking. Een heerlijke combinatie van luchtige melkvulling en melkchocolade Individueel verpakte porties Handig formaat om mee te nemen onderweg en met anderen te delen Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] candybars mini's,ah chocolade mini's met melkvulling candybars mini's,null,null,null
+0.48870635,8402,539809,Bolletje,Goed bezig graanrepen choco-hazelnoot,"Geen tijd voor het ontbijt gehad? of Trek in iets lekkers met het goede natuurlijke gevoel van ontbijt? dan is er Bolletje goed bezig! Choco-hazelnoot. Altijd vol granen, vezels en smaak!. Een tussendoortje met lekker krokante textuur Extra smaakvol door stukjes chocolade en hazelnoot Met rainforest alliance-gecertificeerde cacao Extra veel vezels","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Ontbijtgranen en beleg Tussendoortjes
+ Snoep koek chips en chocolade Fruit noten mueslireep
+ Mueslirepen Koek","bolletje [SEP] goed bezig graanrepen choco-hazelnoot [SEP] Geen tijd voor het ontbijt gehad? of Trek in iets lekkers met het goede natuurlijke gevoel van ontbijt? dan is er Bolletje goed bezig! Choco-hazelnoot. Altijd vol granen, vezels en smaak!. Een tussendoortje met lekker krokante textuur Extra smaakvol door stukjes chocolade en hazelnoot Met rainforest alliance-gecertificeerde cacao Extra veel vezels [SEP] graan en mueslirepen",bolletje goed bezig graanrepen choco-hazelnoot graan en mueslirepen,null,null,null
+0.4887014,12830,2465,Chocomel,De enige echte vol,"Romig, vol van smaak en altijd onweerstaanbaar lekker. We hebben het trouwens nog steeds over chocomel! Rainforest alliance keurmerk Om van te genieten bij iedere gelegenheid Warm en koud net zo lekker","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Chocolademelk Chocolademelk (pakken),"chocomel [SEP] de enige echte vol [SEP] Romig, vol van smaak en altijd onweerstaanbaar lekker. We hebben het trouwens nog steeds over chocomel! Rainforest alliance keurmerk Om van te genieten bij iedere gelegenheid Warm en koud net zo lekker [SEP] chocolademelk",chocomel de enige echte vol chocolademelk,null,null,null
+0.4884797,14771,381472,AH,Hot choco,Tijd voor een heerlijke beker chocodrank! Extra lekker tijdens de koude dagen In handige sachets Lekker met slagroom voor extra verwennerij,"['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Chocolademelk cacao anijs
+ Instant chocolademelk",ah [SEP] hot choco [SEP] Tijd voor een heerlijke beker chocodrank! Extra lekker tijdens de koude dagen In handige sachets Lekker met slagroom voor extra verwennerij [SEP] cacao singleserve,ah hot choco cacao singleserve,null,null,null
+0.48758766,7223,471500,AH,Chocolade eitjes melk,"Speciaal voor de paasdagen! Chocolade eitjes van melkchocolade. Utz cacao Koffie of thee, daar hoort iets lekkers bij Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Paaseitjes Melk paaseitjes","ah [SEP] chocolade eitjes melk [SEP] Speciaal voor de paasdagen! Chocolade eitjes van melkchocolade. Utz cacao Koffie of thee, daar hoort iets lekkers bij Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] pasen paaseitjes",ah chocolade eitjes melk pasen paaseitjes,null,null,null
+0.48719907,1060,119016,Choca,Vlokmix,Een overheerlijke mix van cacaofantasie vlokken en vlokken met vanillesmaak voor elke dag! Lekker voor op een boterham of in je yoghurt,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij']","Ontbijtgranen en beleg Zoet broodbeleg Hagelslag en vlokken
+ Vlokken",choca [SEP] vlokmix [SEP] Een overheerlijke mix van cacaofantasie vlokken en vlokken met vanillesmaak voor elke dag! Lekker voor op een boterham of in je yoghurt [SEP] vlokken,choca vlokmix vlokken,null,null,null
+0.48699263,10548,510684,Verkade,Kookchocolade 74% cacao,"De ideale chocolade om mee te bakken, voor alle recepten met chocolade. Uniek recept: het smelt sneller en het vloeit mooier dan gewone chocolade Met 74% cacao, een rijke chocoladesmaak Met handige deelblokjes, dus geen weegschaal meer nodig Fairtrade","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Chocolade Smeltchocolade Garneringen toevoegingen
+ Toevoegingen toppings versiering","verkade [SEP] kookchocolade 74% cacao [SEP] De ideale chocolade om mee te bakken, voor alle recepten met chocolade. Uniek recept: het smelt sneller en het vloeit mooier dan gewone chocolade Met 74% cacao, een rijke chocoladesmaak Met handige deelblokjes, dus geen weegschaal meer nodig Fairtrade [SEP] bt garneringen",verkade kookchocolade 74% cacao bt garneringen,null,null,null
+0.48660445,6449,502005,Nuts,Snacksize 5-pack,"Nestle Nuts 5-pack bevat 5 stevige chocoladerepen met een rijke combinatie van zachte nougat, een laagje karamel en knapperige hazelnoten omhuld in melkchocolade. Met Nuts kan je er weer tegen. 'no nuts, no glory!' De chocolade candybar van vroeger die heerlijk blijft Elke portie (= 1 candybar van 30g) bevat 147 calorieen Rainforest alliance gecertificeerde cacao, ingekocht via Nestle cocoa plan","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen selderij' 'Geen eieren' 'Geen gluten']","Snoep koek chips en chocolade Chocolade Candybars
+ Candybars multipack","nuts [SEP] snacksize 5-pack [SEP] Nestle Nuts 5-pack bevat 5 stevige chocoladerepen met een rijke combinatie van zachte nougat, een laagje karamel en knapperige hazelnoten omhuld in melkchocolade. Met Nuts kan je er weer tegen. 'no nuts, no glory!' De chocolade candybar van vroeger die heerlijk blijft Elke portie (= 1 candybar van 30g) bevat 147 calorieen Rainforest alliance gecertificeerde cacao, ingekocht via Nestle cocoa plan [SEP] candybars multi's",nuts snacksize 5-pack candybars multi's,null,null,null
+0.4857008,248,467560,AH,Chocolade amandelen mix,"Heerlijk voor bij de koffie of thee, of gewoon lekker als tussendoortje. Met Rainforest Alliance gecertificeerde cacao Makkelijk hersluitbaar","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Snoep koek chips en chocolade Noten Luxe noten,"ah [SEP] chocolade amandelen mix [SEP] Heerlijk voor bij de koffie of thee, of gewoon lekker als tussendoortje. Met Rainforest Alliance gecertificeerde cacao Makkelijk hersluitbaar [SEP] mb luxe multimix",ah chocolade amandelen mix mb luxe multimix,null,null,null
+0.48537678,13142,159497,Côte d'Or,Bonbonbloc melk praline hazelnoot,Een van de meest bekende cote d'or tabletten: een zachte notenpraline omhuld met krokante cote d'or chocolade. Een rijke en intense ervaring waar je van kan blijven genieten. Cote dor melkchocolade met een zachte pralinevulling en stukjes hazelnoot Samen met cocoa life bouwt cote d or aan een duurzame toekomst van cacao,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met vulling praliné
+ Melkchocolade met vulling praliné",côte d'or [SEP] bonbonbloc melk praline hazelnoot [SEP] Een van de meest bekende cote d'or tabletten: een zachte notenpraline omhuld met krokante cote d'or chocolade. Een rijke en intense ervaring waar je van kan blijven genieten. Cote dor melkchocolade met een zachte pralinevulling en stukjes hazelnoot Samen met cocoa life bouwt cote d or aan een duurzame toekomst van cacao [SEP] repen en tabletten,côte d'or bonbonbloc melk praline hazelnoot repen en tabletten,null,null,null
+0.48503196,10116,402622,Ritter Sport,Puur hazelnoot,"Een gouden combinatie: rijke, donkere chocolade met krokante, goudbruin geroosterde hazelnoten. Puur tot in de puntjes. Om je vingers bij af te likken. Romige chocolade boordevol hazelnoten Onweerstaanbaar lekkere smaak en bijzonder goede kwaliteit Uitsluitend natuurlijke ingredienten 100% gecertificeerde, duurzame cacao (rainforest alliance)","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Chocoladerepen met noten Pure chocolade repen
+ Pure chocolade met noten","ritter sport [SEP] puur hazelnoot [SEP] Een gouden combinatie: rijke, donkere chocolade met krokante, goudbruin geroosterde hazelnoten. Puur tot in de puntjes. Om je vingers bij af te likken. Romige chocolade boordevol hazelnoten Onweerstaanbaar lekkere smaak en bijzonder goede kwaliteit Uitsluitend natuurlijke ingredienten 100% gecertificeerde, duurzame cacao (rainforest alliance) [SEP] repen en tabletten",ritter sport puur hazelnoot repen en tabletten,null,null,null
+0.48488498,8390,203254,Kinder,Schokobons,"Heerlijke melkvulling met stukjes hazelnoot, omhuld met chocolade. Heerlijk om te delen Voor jong en oud","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Snoep koek chips en chocolade Chocolade Chocoladesnoepjes,"kinder [SEP] schokobons [SEP] Heerlijke melkvulling met stukjes hazelnoot, omhuld met chocolade. Heerlijk om te delen Voor jong en oud [SEP] specialiteiten",kinder schokobons specialiteiten,null,null,null
+0.48424798,10452,377451,Nutella,B-ready,Een krokante wafel gevuld met de unieke smaak van je favoriete hazelnootpasta! Knapperig van buiten en van binnen Gevuld met de unieke smaak van nutella De individuele verpakkingen zorgen voor een optimale versheid 6 stuks per pak,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']",Snoep koek chips en chocolade Koek Koekjes met chocolade,nutella [SEP] b-ready [SEP] Een krokante wafel gevuld met de unieke smaak van je favoriete hazelnootpasta! Knapperig van buiten en van binnen Gevuld met de unieke smaak van nutella De individuele verpakkingen zorgen voor een optimale versheid 6 stuks per pak [SEP] verpakt kids,nutella b-ready verpakt kids,null,null,null

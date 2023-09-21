@@ -1,0 +1,591 @@
+scoreLLM score,ann,prd_id,brand,title,highlights,properties,taxonomies,full_text,full_text_no_sep,Unnamed: 0,search_query,scorePropensity score
+0.1296787,12866,434194,Brand,Weizen 0.0 6-pack,"Brand Weizen 0.0. Een Weizen zoals t hoort, maar dan lekker alcoholvrij, met een extra frisse, fruitige smaak en een zachte afdronk. Speciaalbier Smaak: met een extra frisse en fruitige smaak en een zachte afdonk Categorie: fris en lichtzoet Alcoholpercentage: 0,0%","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']","Bier en aperitieven Speciaalbier
+ Alcoholvrij bier en bier laag in alcohol Bier
+ Alcoholvrij speciaalbier Wit & weizen 0.0","brand [SEP] weizen 0.0 6-pack [SEP] Brand Weizen 0.0. Een Weizen zoals t hoort, maar dan lekker alcoholvrij, met een extra frisse, fruitige smaak en een zachte afdronk. Speciaalbier Smaak: met een extra frisse en fruitige smaak en een zachte afdonk Categorie: fris en lichtzoet Alcoholpercentage: 0,0% [SEP] 0.0 specialties",brand weizen 0.0 6-pack 0.0 specialties,null,null,null
+0.12948918,14665,515681,Hertog,Vegan vanille,"Hertog vanille vegan ijssalon is rijk en luxueus vanille-ijs, vegan en lactosevrij. Hertog vanille vegan ijssalon is helemaal vegan en lactosevrij Een zuivelvrij alternatief voor Hertog vanille roomijs Het vegan ijs heeft een zachte en romige structuur Heerlijk vanille-ijs, vol van smaak","['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Diepvries IJs Plantaardig ijs,"hertog [SEP] vegan vanille [SEP] Hertog vanille vegan ijssalon is rijk en luxueus vanille-ijs, vegan en lactosevrij. Hertog vanille vegan ijssalon is helemaal vegan en lactosevrij Een zuivelvrij alternatief voor Hertog vanille roomijs Het vegan ijs heeft een zachte en romige structuur Heerlijk vanille-ijs, vol van smaak [SEP] roomijs standaard",hertog vegan vanille roomijs standaard,null,null,null
+0.11744983,16062,179089,Weihenstephaner,Hefe weissbier,"Zacht, fris en romig - de tarwe geeft die romigheid, plus een lichte, aangenaam friszure smaak. In de geur domineert banaan en kruidnagel. Smaakpalet: fris, fruitig en kruidig Heerlijk bij: varkensvlees, sate, weisswurst en geitenkaas Het lekkerste op temperatuur: 6-8 graden celsius","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Vegetarisch'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam']",Bier en aperitieven Speciaalbier Bier Wit & Weizen Weizen bier,"weihenstephaner [SEP] hefe weissbier [SEP] Zacht, fris en romig - de tarwe geeft die romigheid, plus een lichte, aangenaam friszure smaak. In de geur domineert banaan en kruidnagel. Smaakpalet: fris, fruitig en kruidig Heerlijk bij: varkensvlees, sate, weisswurst en geitenkaas Het lekkerste op temperatuur: 6-8 graden celsius [SEP] weizen",weihenstephaner hefe weissbier weizen,null,null,null
+0.11732253,17541,158733,Hertog Jan,Weizener 6-pack,"Een eigenzinnig tarwebier van hoge gisting met nagisting op de fles met een volmondig fris karakter, citrusachtig met lichte bittertonen. Categorie: fruitig  en  fris Soort, smaak: banaanaroma, koriander, friszuur Brouwerij, plaats: Hertog Jan brouwerij, arcen, Nederland Alcoholpercentage: 5.7%","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij']",Bier en aperitieven Speciaalbier Bier Wit & Weizen Weizen bier,"hertog jan [SEP] weizener 6-pack [SEP] Een eigenzinnig tarwebier van hoge gisting met nagisting op de fles met een volmondig fris karakter, citrusachtig met lichte bittertonen. Categorie: fruitig  en  fris Soort, smaak: banaanaroma, koriander, friszuur Brouwerij, plaats: Hertog Jan brouwerij, arcen, Nederland Alcoholpercentage: 5.7% [SEP] weizen",hertog jan weizener 6-pack weizen,null,null,null
+0.11709267,4371,548575,Lervig,No worries,"Een alcoholarme en verfrissende pale ale. Een lichte hopsmaak met aroma's van fruit. Stijl: pale ale 0,5% alcohol Brouwerij lervig uit Noorwegen","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij']","Bier en aperitieven Speciaalbier
+ Alcoholvrij bier en bier laag in alcohol Bier
+ Speciaalbier laag in alcohol IPA laag in alcohol","lervig [SEP] no worries [SEP] Een alcoholarme en verfrissende pale ale. Een lichte hopsmaak met aroma's van fruit. Stijl: pale ale 0,5% alcohol Brouwerij lervig uit Noorwegen [SEP] 0.0 specialties",lervig no worries 0.0 specialties,null,null,null
+0.11636095,1045,188379,Hertog,Ijssalon mini ijs vanille karamel pecan,Heerlijk vanille ijs overgoten met een onvergetelijke karamelsaus. Hertog ijsbeker met vanille karamel pecan ijs Heerlijk vanille ijs overgoten met gezouten karamelsaus Met stukjes pecannoten Vanille ijs zonder kunstmatige kleur- en smaakstoffen,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Diepvries Zuivel plantaardig en eieren IJs Toetjes
+ Roomijs bekertjes Roomijs",hertog [SEP] ijssalon mini ijs vanille karamel pecan [SEP] Heerlijk vanille ijs overgoten met een onvergetelijke karamelsaus. Hertog ijsbeker met vanille karamel pecan ijs Heerlijk vanille ijs overgoten met gezouten karamelsaus Met stukjes pecannoten Vanille ijs zonder kunstmatige kleur- en smaakstoffen [SEP] roomijs standaard,hertog ijssalon mini ijs vanille karamel pecan roomijs standaard,null,null,null
+0.115319625,16469,238777,Paulaner,Hefe weissbier,"Paulaner hefe-weissbier 5.5% is een verfrissende dorstlesser. Categorie: fris en lichtzoet Smaak: de vergisting zorgt voor behoud van de licht fruitige aroma Alcoholpercentage: 5,5% Brouwerij, plaats: Paulaner brouwerij, munchen, Duitsland","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Vegetarisch'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam']",Bier en aperitieven Speciaalbier Bier Wit & Weizen Weizen bier,"paulaner [SEP] hefe weissbier [SEP] Paulaner hefe-weissbier 5.5% is een verfrissende dorstlesser. Categorie: fris en lichtzoet Smaak: de vergisting zorgt voor behoud van de licht fruitige aroma Alcoholpercentage: 5,5% Brouwerij, plaats: Paulaner brouwerij, munchen, Duitsland [SEP] weizen",paulaner hefe weissbier weizen,null,null,null
+0.114997916,20331,481176,Wakefield,Estate Shiraz,100% shiraz van druiven van de eigen wijngaarden van wakefield. Hij rijpt 12 maanden op Amerikaanse eikenhouten vaten en is stevig en stoer met krachtige tannines. 100% shiraz uit het australische clare valley. Gerijpt op amerikaans eiken,[],Wijn en bubbels Rode wijn Syrah Shiraz Syrah Shiraz (Australië),wakefield [SEP] estate shiraz [SEP] 100% shiraz van druiven van de eigen wijngaarden van wakefield. Hij rijpt 12 maanden op Amerikaanse eikenhouten vaten en is stevig en stoer met krachtige tannines. 100% shiraz uit het australische clare valley. Gerijpt op amerikaans eiken [SEP] ,wakefield estate shiraz ,null,null,null
+0.11392109,11550,99048,Hertog Jan,Lentebock 6-pack,"Lentebock is een traditioneel voorjaarsbier van hoge gisting. Categorie: seizoensbier van hoge gisting Soort, smaak: romig, fruitig, rijk en vol Brouwerij, plaats: Hertog Jan brouwerij, arcen, Nederland Alcoholpercentage: 7.2%","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']",Bier en aperitieven Speciaalbier Bier Bockbier Lentebok,"hertog jan [SEP] lentebock 6-pack [SEP] Lentebock is een traditioneel voorjaarsbier van hoge gisting. Categorie: seizoensbier van hoge gisting Soort, smaak: romig, fruitig, rijk en vol Brouwerij, plaats: Hertog Jan brouwerij, arcen, Nederland Alcoholpercentage: 7.2% [SEP] seizoen",hertog jan lentebock 6-pack seizoen,null,null,null
+0.112193316,5198,401385,Remia,Bakken en braden,"Met Remia vloeibaar bakken en braden wordt uw vlees lekker mals, sappig en prachtig bruin van kleur. Van nature rijk aan omega 3 vetzuren Met deze handige knijptube kunt u eenvoudig doseren Bevat geen water, spat niet en geeft een heerlijke jus Bakken en braden: een uitvinding van remia","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor de keuken Vloeibare margarine","remia [SEP] bakken en braden [SEP] Met Remia vloeibaar bakken en braden wordt uw vlees lekker mals, sappig en prachtig bruin van kleur. Van nature rijk aan omega 3 vetzuren Met deze handige knijptube kunt u eenvoudig doseren Bevat geen water, spat niet en geeft een heerlijke jus Bakken en braden: een uitvinding van remia [SEP] margarine vloeibaar",remia bakken en braden margarine vloeibaar,null,null,null
+0.11138539,3182,194906,Hertog Jan,Natuurzuiver bier 6-pack,"Hertog Jan pilsener is het visitekaartje van Hertog jan. Gebrouwen van zacht water uit de ardennen en van zorgvuldig geselecteerde hop en mout. Uit liefde voor bier. Categorie: pils Soort, smaak: vol, met een aangenaam bittere afdronk Brouwerij, plaats: Hertog Jan brouwerij, arcen, Nederland Alcoholpercentage: 5.1%","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Vegetarisch'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam']",Bier en aperitieven Bier Pils Pils - blik,"hertog jan [SEP] natuurzuiver bier 6-pack [SEP] Hertog Jan pilsener is het visitekaartje van Hertog jan. Gebrouwen van zacht water uit de ardennen en van zorgvuldig geselecteerde hop en mout. Uit liefde voor bier. Categorie: pils Soort, smaak: vol, met een aangenaam bittere afdronk Brouwerij, plaats: Hertog Jan brouwerij, arcen, Nederland Alcoholpercentage: 5.1% [SEP] blik 45 50cl",hertog jan natuurzuiver bier 6-pack blik 45 50cl,null,null,null
+0.111381344,19685,519842,Hertog Jan,Weizener 6-pack,"Een eigenzinnig tarwebier van hoge gisting met nagisting op de fles met een volmondig fris karakter, citrusachtig met lichte bittertonen. Categorie: Fruitig & Fris Soort, Smaak: Banaanaroma, koriander, friszuur Brouwerij, plaats: Hertog Jan Brouwerij, Arcen, Nederland Alcoholpercentage: 5.7%","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']",Bier en aperitieven Speciaalbier Bier Wit & Weizen Weizen bier,"hertog jan [SEP] weizener 6-pack [SEP] Een eigenzinnig tarwebier van hoge gisting met nagisting op de fles met een volmondig fris karakter, citrusachtig met lichte bittertonen. Categorie: Fruitig & Fris Soort, Smaak: Banaanaroma, koriander, friszuur Brouwerij, plaats: Hertog Jan Brouwerij, Arcen, Nederland Alcoholpercentage: 5.7% [SEP] weizen",hertog jan weizener 6-pack weizen,null,null,null
+0.11076916,4769,502955,Bambix,Drinkyoghurt aardbei,"Bambix drinkyoghurt aardbeismaak. Lactose vrij, dus ideaal voor kinderen met lactose intolerantie Geen suiker toegevoegd Ook geen zoetstoffen Gemakkelijk mee te nemen","['Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Zuivel plantaardig en eieren
+ Tussendoortjes Pakjes drinken
+ Zuivel tussendoortjes (voor thuis en onderweg) Zuivel drinkpakjes
+ Yoghurt (drinkpakjes)","bambix [SEP] drinkyoghurt aardbei [SEP] Bambix drinkyoghurt aardbeismaak. Lactose vrij, dus ideaal voor kinderen met lactose intolerantie Geen suiker toegevoegd Ook geen zoetstoffen Gemakkelijk mee te nemen [SEP] zuiveldrank gezoet",bambix drinkyoghurt aardbei zuiveldrank gezoet,null,null,null
+0.11068986,11435,66154,Easy Bakery,Filo bladerdeeg,Voor zoete en hartige gerechten. Laat het bladerdeeg in de plastic omhulsel ongeveer 1 uur en 40 min. ontdooien bij kamertemperatuur. De bereiding van filo bladerdeeg kan variëren per recept. Weetje of tip: Na ontdooiing niet opnieuw invriezen.,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij']",Diepvries Gebak brood bladerdeeg Filodeeg,easy bakery [SEP] filo bladerdeeg [SEP] Voor zoete en hartige gerechten. Laat het bladerdeeg in de plastic omhulsel ongeveer 1 uur en 40 min. ontdooien bij kamertemperatuur. De bereiding van filo bladerdeeg kan variëren per recept. Weetje of tip: Na ontdooiing niet opnieuw invriezen. [SEP] deegwaren overig,easy bakery filo bladerdeeg deegwaren overig,null,null,null
+0.11027782,8337,503331,Van de Boom,1kcal Ijsthee perzik-hibiscus,"Met Van de Boom groene thee perzik-hibiscus geniet jij van de lekkerste ijsthee. De mix van water, groene thee-extract, perziksap en hibiscussmaak is heerlijk fris en bevat slechts 1 kilocalorie. Heerlijk verfrissende groene ijsthee met perzik-hibiscus smaak Bevat slechts een kilocalorie Suikervrij Zonder kleurstoffen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Frisse fruitdrank Frisse fruitdrank (pakken)","van de boom [SEP] 1kcal ijsthee perzik-hibiscus [SEP] Met Van de Boom groene thee perzik-hibiscus geniet jij van de lekkerste ijsthee. De mix van water, groene thee-extract, perziksap en hibiscussmaak is heerlijk fris en bevat slechts 1 kilocalorie. Heerlijk verfrissende groene ijsthee met perzik-hibiscus smaak Bevat slechts een kilocalorie Suikervrij Zonder kleurstoffen [SEP] ice tea still gvp",van de boom 1kcal ijsthee perzik-hibiscus ice tea still gvp,null,null,null
+0.10961453,12339,502936,Affligem,Belgisch wit 0.0 6-pack,"Affligem belgisch wit is een verfrissend witbier gekruid met sinaasappelschil en koriander. Het heeft een zachte en rijke smaak. De rijke smaak en beleving van speciaalbier, maar dan zonder alcohol. Categorie: wit bier Smaak: zachte fruitigheid en een mild bitter einde Fles (6x30cl: 6-pack) Alcoholpercentage: 0.0%","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']","Bier en aperitieven Speciaalbier
+ Alcoholvrij bier en bier laag in alcohol Bier
+ Alcoholvrij speciaalbier Wit & weizen 0.0","affligem [SEP] belgisch wit 0.0 6-pack [SEP] Affligem belgisch wit is een verfrissend witbier gekruid met sinaasappelschil en koriander. Het heeft een zachte en rijke smaak. De rijke smaak en beleving van speciaalbier, maar dan zonder alcohol. Categorie: wit bier Smaak: zachte fruitigheid en een mild bitter einde Fles (6x30cl: 6-pack) Alcoholpercentage: 0.0% [SEP] 0.0 specialties",affligem belgisch wit 0.0 6-pack 0.0 specialties,null,null,null
+0.10942431,13512,506779,Häagen-Dazs,Vanilla ijs,"Heerlijk zacht vanille roomijs, gemaakt met het extract van echte bourbon-vanille met een complexe en rijke smaak. Met 39% verse room bereid Gemaakt met extract van echte bourbon-vanille Zonder kunstmatige geur- kleur en smaakstoffen","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen noten' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Roomijs premium","häagen-dazs [SEP] vanilla ijs [SEP] Heerlijk zacht vanille roomijs, gemaakt met het extract van echte bourbon-vanille met een complexe en rijke smaak. Met 39% verse room bereid Gemaakt met extract van echte bourbon-vanille Zonder kunstmatige geur- kleur en smaakstoffen [SEP] premiumijs",häagen-dazs vanilla ijs premiumijs,null,null,null
+0.10918896,18337,492064,Affligem,Belgisch wit 6-pack,"Affligem Belgisch Wit is een verfrissend witbier gekruid met sinaasappelschil en koriander. Het heeft een zachte, rijke smaak en is verrassend doordrinkbaar. Wit Bier Smaak: met een zachte fruitigheid en een mild bitter einde Categorie: fris en lichtzoet Alcoholpercentage: 4,8%","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij']",Bier en aperitieven Speciaalbier Bier Wit & Weizen Wit bier,"affligem [SEP] belgisch wit 6-pack [SEP] Affligem Belgisch Wit is een verfrissend witbier gekruid met sinaasappelschil en koriander. Het heeft een zachte, rijke smaak en is verrassend doordrinkbaar. Wit Bier Smaak: met een zachte fruitigheid en een mild bitter einde Categorie: fris en lichtzoet Alcoholpercentage: 4,8% [SEP] wit",affligem belgisch wit 6-pack wit,null,null,null
+0.10911036,18417,100089,Hoegaarden,Wit belgisch bier 6-pack,Het lichte belgische witbier met citroen- en koriandersmaak. Alcoholpercentage: 4.9% Het originele belgische witbier Een verfrissend bier Zachte aroma,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij']",Bier en aperitieven Speciaalbier Bier Wit & Weizen Wit bier,hoegaarden [SEP] wit belgisch bier 6-pack [SEP] Het lichte belgische witbier met citroen- en koriandersmaak. Alcoholpercentage: 4.9% Het originele belgische witbier Een verfrissend bier Zachte aroma [SEP] wit,hoegaarden wit belgisch bier 6-pack wit,null,null,null
+0.10898055,10486,451122,Häagen-Dazs,Strawberry cheesecake ijs,"Aardbeien roomijs met aardbeiensaus en koekjes. Uit de beste collectie van haagen-dazs: de obsessions collection! Aardbeien roomijs met aardbeiensaus Rijkelijk gevuld met koekjes en aardbeien Bereid met 28% verse room Zonder kunstmatige geur-, kleur- en smaakstoffen","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen selderij' 'Geen eieren']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Roomijs premium","häagen-dazs [SEP] strawberry cheesecake ijs [SEP] Aardbeien roomijs met aardbeiensaus en koekjes. Uit de beste collectie van haagen-dazs: de obsessions collection! Aardbeien roomijs met aardbeiensaus Rijkelijk gevuld met koekjes en aardbeien Bereid met 28% verse room Zonder kunstmatige geur-, kleur- en smaakstoffen [SEP] premiumijs",häagen-dazs strawberry cheesecake ijs premiumijs,null,null,null
+0.108851284,17428,515112,LeFort,Donker 10 4-pack,"Donker en complex degustatiebier van hoge gisting met nagisting op fles. Bier met een zoet aroma, een krachtige body vol zoete tonen van chocolade en karamel en een lange afdronk. Smaakpalet: donker, complex en krachtig Heerlijk bij: curry, lamsvlees en eendenborst Het lekkerste op temperatuur: 8-10 graden celsius","['Geen gluten' 'Geen melk' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij']",Bier en aperitieven Speciaalbier Bier Quadrupel bier,"lefort [SEP] donker 10 4-pack [SEP] Donker en complex degustatiebier van hoge gisting met nagisting op fles. Bier met een zoet aroma, een krachtige body vol zoete tonen van chocolade en karamel en een lange afdronk. Smaakpalet: donker, complex en krachtig Heerlijk bij: curry, lamsvlees en eendenborst Het lekkerste op temperatuur: 8-10 graden celsius [SEP] blond",lefort donker 10 4-pack blond,null,null,null
+0.10856988,1531,465865,Remia,Bakken & Braden,"Met Remia vloeibaar bakken en braden wordt uw vlees lekker mals, sappig en prachtig bruin van kleur. Van nature rijk aan omega 3 vetzuren Met deze handige knijptube kunt u eenvoudig doseren Bevat geen water, spat niet en geeft een heerlijke jus Bakken en braden: een uitvinding van remia","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor de keuken Vloeibare margarine","remia [SEP] bakken & braden [SEP] Met Remia vloeibaar bakken en braden wordt uw vlees lekker mals, sappig en prachtig bruin van kleur. Van nature rijk aan omega 3 vetzuren Met deze handige knijptube kunt u eenvoudig doseren Bevat geen water, spat niet en geeft een heerlijke jus Bakken en braden: een uitvinding van remia [SEP] margarine vloeibaar",remia bakken & braden margarine vloeibaar,null,null,null
+0.10812888,5112,96577,Hertog Jan,Natuurzuiver bier 6-pack,"Hertog Jan pilsener is het visitekaartje van Hertog jan. Gebrouwen van zacht water uit de ardennen en van zorgvuldig geselecteerde hop en mout. Uit liefde voor bier. Categorie: pils Soort, smaak: vol, met een aangenaam bittere afdronk Brouwerij, plaats: Hertog Jan brouwerij, arcen, Nederland Alcoholpercentage: 5.1%","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Vegetarisch'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam']",Bier en aperitieven Bier Pils Pils - blik,"hertog jan [SEP] natuurzuiver bier 6-pack [SEP] Hertog Jan pilsener is het visitekaartje van Hertog jan. Gebrouwen van zacht water uit de ardennen en van zorgvuldig geselecteerde hop en mout. Uit liefde voor bier. Categorie: pils Soort, smaak: vol, met een aangenaam bittere afdronk Brouwerij, plaats: Hertog Jan brouwerij, arcen, Nederland Alcoholpercentage: 5.1% [SEP] blik 25 30 33cl",hertog jan natuurzuiver bier 6-pack blik 25 30 33cl,null,null,null
+0.10738681,18501,519827,Hertog Jan,Weizener,"Een eigenzinnig tarwebier van hoge gisting met nagisting op de fles met een volmondig fris karakter, citrusachtig met lichte bittertonen. Categorie:fruitig en fris Alcoholpercentage: 5,7% Lekker bij: pizza, salade met vis","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']",Bier en aperitieven Speciaalbier Bier Wit & Weizen Weizen bier,"hertog jan [SEP] weizener [SEP] Een eigenzinnig tarwebier van hoge gisting met nagisting op de fles met een volmondig fris karakter, citrusachtig met lichte bittertonen. Categorie:fruitig en fris Alcoholpercentage: 5,7% Lekker bij: pizza, salade met vis [SEP] weizen",hertog jan weizener weizen,null,null,null
+0.10738681,5350,177815,Hertog Jan,Weizener,"Een eigenzinnig tarwebier van hoge gisting met nagisting op de fles met een volmondig fris karakter, citrusachtig met lichte bittertonen. Categorie:fruitig  en  fris Alcoholpercentage:5,7% Lekker bij:pizza, salade met vis","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij']",Bier en aperitieven Speciaalbier Bier Wit & Weizen Weizen bier,"hertog jan [SEP] weizener [SEP] Een eigenzinnig tarwebier van hoge gisting met nagisting op de fles met een volmondig fris karakter, citrusachtig met lichte bittertonen. Categorie:fruitig  en  fris Alcoholpercentage:5,7% Lekker bij:pizza, salade met vis [SEP] weizen",hertog jan weizener weizen,null,null,null
+0.10726998,18673,203227,Bieze,Rauwkost farmer,Farmer rauwkost geeft kleur aan je gerecht! Knapperige reepjes wortel met frisse kool en zoete stukjes ananas om het af te maken. Of de Kids het ook lusten? Geen twijfel mogelijk! Met 155g groente Vegetarisch Glutenvrij,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen mosterd' 'Geen eieren' 'Geen gluten']","Aardappel groente fruit Groente Sla rauwkost salade Rauwkost
+ Rauwkost groente",bieze [SEP] rauwkost farmer [SEP] Farmer rauwkost geeft kleur aan je gerecht! Knapperige reepjes wortel met frisse kool en zoete stukjes ananas om het af te maken. Of de Kids het ook lusten? Geen twijfel mogelijk! Met 155g groente Vegetarisch Glutenvrij [SEP] rauwkost,bieze rauwkost farmer rauwkost,null,null,null
+0.1070894,11075,124429,Flevosap,Appel,"Flevosap appel is 100% puur sap, op ambachtelijke wijze vers geperst op onze boerderij. Door licht te filteren behoudt het sap zn unieke smaak, zonder gebruik te maken van toevoegingen. Op Ambachtelijk wijze gebotteld op de boerderij van familie vermeulen Het beste van de appel blijft in het sap, omdat we het licht filteren Zonder conserveringsmiddelen, het sap wordt alleen kort gepasteuriseerd Het sap waar je de smaak ziet zitten","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (ongekoeld)","flevosap [SEP] appel [SEP] Flevosap appel is 100% puur sap, op ambachtelijke wijze vers geperst op onze boerderij. Door licht te filteren behoudt het sap zn unieke smaak, zonder gebruik te maken van toevoegingen. Op Ambachtelijk wijze gebotteld op de boerderij van familie vermeulen Het beste van de appel blijft in het sap, omdat we het licht filteren Zonder conserveringsmiddelen, het sap wordt alleen kort gepasteuriseerd Het sap waar je de smaak ziet zitten [SEP] enkel sap basis",flevosap appel enkel sap basis,null,null,null
+0.1070894,13457,164414,Flevosap,Appel,"Flevosap appel is 100% puur sap, op ambachtelijke wijze vers geperst op onze boerderij. Door licht te filteren behoudt het sap zn unieke smaak, zonder gebruik te maken van toevoegingen. Op Ambachtelijk wijze gebotteld op de boerderij van familie vermeulen Het beste van de appel blijft in het sap, omdat we het licht filteren Zonder conserveringsmiddelen, het sap wordt alleen kort gepasteuriseerd Het sap waar je de smaak ziet zitten","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Pakjes drinken
+ Vruchtensappen & drank Appelsap & drank (drinkpakjes)
+ Appelsap & drank","flevosap [SEP] appel [SEP] Flevosap appel is 100% puur sap, op ambachtelijke wijze vers geperst op onze boerderij. Door licht te filteren behoudt het sap zn unieke smaak, zonder gebruik te maken van toevoegingen. Op Ambachtelijk wijze gebotteld op de boerderij van familie vermeulen Het beste van de appel blijft in het sap, omdat we het licht filteren Zonder conserveringsmiddelen, het sap wordt alleen kort gepasteuriseerd Het sap waar je de smaak ziet zitten [SEP] enkel sap basis",flevosap appel enkel sap basis,null,null,null
+0.106783435,15550,30291,Hoegaarden,Witbier 6-fles,Het lichte belgische witbier met citroen- en koriandersmaak. Alcoholpercentage: 4.9% Het originele belgische witbier Een verfrissend bier Zachte aroma,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij']",Bier en aperitieven Speciaalbier Bier Wit & Weizen Wit bier,hoegaarden [SEP] witbier 6-fles [SEP] Het lichte belgische witbier met citroen- en koriandersmaak. Alcoholpercentage: 4.9% Het originele belgische witbier Een verfrissend bier Zachte aroma [SEP] wit,hoegaarden witbier 6-fles wit,null,null,null
+0.10615997,31,409244,Hertog Jan,Natuurzuiver bier 6-pack,"Hertog Jan pilsener is het visitekaartje van Hertog jan. Gebrouwen van zacht water uit de ardennen en van zorgvuldig geselecteerde hop en mout. Uit liefde voor bier. Categorie: pils Soort, smaak: vol, met een aangenaam bittere afdronk Brouwerij, plaats: Hertog Jan brouwerij, arcen, Nederland Alcoholpercentage: 5.1%","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Vegetarisch'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam']",Bier en aperitieven Bier Pils Pils - fles,"hertog jan [SEP] natuurzuiver bier 6-pack [SEP] Hertog Jan pilsener is het visitekaartje van Hertog jan. Gebrouwen van zacht water uit de ardennen en van zorgvuldig geselecteerde hop en mout. Uit liefde voor bier. Categorie: pils Soort, smaak: vol, met een aangenaam bittere afdronk Brouwerij, plaats: Hertog Jan brouwerij, arcen, Nederland Alcoholpercentage: 5.1% [SEP] mono fles",hertog jan natuurzuiver bier 6-pack mono fles,null,null,null
+0.10597439,19498,550152,Hertog,IJssalon feestje,"Hertog ijssalon feestje ijs is een heerlijke combinatie van romig aardbeien-ijs en ijs met marshmallowsmaak, de gekleurde chocolade confetti er bovenop maakt het ijs extra feestelijk. Hertog ijssalon feestje ijs romig aardbeien-ijs en ijs met marshmallowsmaak Schepijs met een feestelijke topping van gekleurde chocolade confetti Met dit ijs tover je een feestje op tafel voor iedere gelegenheid Lekker ijs om samen van te genieten, met vrienden of familie","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Diepvries Zuivel plantaardig en eieren IJs Toetjes
+ Roomijs bekertjes Roomijs","hertog [SEP] ijssalon feestje [SEP] Hertog ijssalon feestje ijs is een heerlijke combinatie van romig aardbeien-ijs en ijs met marshmallowsmaak, de gekleurde chocolade confetti er bovenop maakt het ijs extra feestelijk. Hertog ijssalon feestje ijs romig aardbeien-ijs en ijs met marshmallowsmaak Schepijs met een feestelijke topping van gekleurde chocolade confetti Met dit ijs tover je een feestje op tafel voor iedere gelegenheid Lekker ijs om samen van te genieten, met vrienden of familie [SEP] roomijs standaard",hertog ijssalon feestje roomijs standaard,null,null,null
+0.10591682,19319,550582,AH,Flock haas groen 26cm,AH flock haas. Kleur: groen Afmeting: 26 cm De AH paashazen zijn mooi geflockt waardoor ze er zacht en aaibaar uitzien. Plaat ze als decoratie bijvoorbeeld op de gezellige eettafel  en vier een Vrolijk Pasen!,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Paasdecoratie,ah [SEP] flock haas groen 26cm [SEP] AH flock haas. Kleur: groen Afmeting: 26 cm De AH paashazen zijn mooi geflockt waardoor ze er zacht en aaibaar uitzien. Plaat ze als decoratie bijvoorbeeld op de gezellige eettafel  en vier een Vrolijk Pasen! [SEP] pasen in out,ah flock haas groen 26cm pasen in out,null,null,null
+0.10578819,9192,482374,Two Chefs Brewing,Funky falcon,"Superfris en makkelijk te drinken pale ale met een fruitige body. Dankzij de hop bruist het bier van de citrus- en van citroengras-aromas. Pale ale 5,2% Citroengras zacht grapefruit bloemig Subtiel mondgevoel, lichte bitter maar bomvol met frisheid","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Vegetarisch'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam']",Bier en aperitieven Speciaalbier Bier IPA India Pale Ale,"two chefs brewing [SEP] funky falcon [SEP] Superfris en makkelijk te drinken pale ale met een fruitige body. Dankzij de hop bruist het bier van de citrus- en van citroengras-aromas. Pale ale 5,2% Citroengras zacht grapefruit bloemig Subtiel mondgevoel, lichte bitter maar bomvol met frisheid [SEP] craft",two chefs brewing funky falcon craft,null,null,null
+0.10560931,9255,327585,Flevosap,Appel peer,"Flevosap appel-peer is 100% puur sap, op ambachtelijke wijze vers geperst op onze boerderij. Door licht te filteren behoudt het sap zn unieke smaak, zonder gebruik te maken van toevoegingen. Ambachtelijk geproduceerd op de boerderij van familie vermeulen Het beste van het fruit blijft in het sap, omdat we het licht filteren Zonder conserveringsmiddelen, het sap wordt alleen kort gepasteuriseerd Het sap waar je de smaak ziet zitten","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ ""Sinaasappelsap & drank (jus dorange)""
+ Sinaasappelsap & drank  (ongekoeld)","flevosap [SEP] appel peer [SEP] Flevosap appel-peer is 100% puur sap, op ambachtelijke wijze vers geperst op onze boerderij. Door licht te filteren behoudt het sap zn unieke smaak, zonder gebruik te maken van toevoegingen. Ambachtelijk geproduceerd op de boerderij van familie vermeulen Het beste van het fruit blijft in het sap, omdat we het licht filteren Zonder conserveringsmiddelen, het sap wordt alleen kort gepasteuriseerd Het sap waar je de smaak ziet zitten [SEP] samengesteld sap",flevosap appel peer samengesteld sap,null,null,null
+0.10530639,9307,173661,Brand,Lentebock 6-pack,"Brand Lentebock. In iedere slok Lentebock proef je het begin van de lente. Gebrouwen met gebrande moutsoorten en vergist met een bovengist, wordt dit geweldige bier fruitig en heerlijk fris. Speciaalbier Smaak: met de frisse smaak te danken aan de saazerhop Categorie: fruitig en hoppig Alcoholpercentage: 6,5%","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']",Bier en aperitieven Speciaalbier Bier Bockbier Lentebok,"brand [SEP] lentebock 6-pack [SEP] Brand Lentebock. In iedere slok Lentebock proef je het begin van de lente. Gebrouwen met gebrande moutsoorten en vergist met een bovengist, wordt dit geweldige bier fruitig en heerlijk fris. Speciaalbier Smaak: met de frisse smaak te danken aan de saazerhop Categorie: fruitig en hoppig Alcoholpercentage: 6,5% [SEP] seizoen",brand lentebock 6-pack seizoen,null,null,null
+0.1052708,15051,388789,Flevosap,Appel-Ananas-Perzik,Flevosap appel-ananas-perzik is een zonnige mix van originele flevosap-appels met de exotische vruchten ananas en perzik. Op Ambachtelijk wijze gebotteld op de boerderij van familie vermeulen De zomerse gele kleuren zijn gevangen in een verrassend fris-zoet fruitsap Heerlijk verkoelend voor buiten en binnen Het sap waar je de smaak ziet zitten,"['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Frisdrank sappen koffie thee Bewuste voeding Puursap
+ Vruchtensappen & drank Puursap nectar",flevosap [SEP] appel-ananas-perzik [SEP] Flevosap appel-ananas-perzik is een zonnige mix van originele flevosap-appels met de exotische vruchten ananas en perzik. Op Ambachtelijk wijze gebotteld op de boerderij van familie vermeulen De zomerse gele kleuren zijn gevangen in een verrassend fris-zoet fruitsap Heerlijk verkoelend voor buiten en binnen Het sap waar je de smaak ziet zitten [SEP] samengesteld sap,flevosap appel-ananas-perzik samengesteld sap,null,null,null
+0.105085224,13084,408139,Hertog,Ijs pecan karamel vanille,Hertog ijssalon pecan karamel vanille ijs is heerlijk romig vanille-ijs overgoten met een gezouten karamelsaus en verrukkelijke stukjes gekarameliseerde pecannoot. Hertog ijssalon pecan karamel vanille ijs met lekker gezouten karamelsaus Romig vanille-ijs met stukjes knapperige gekarameliseerde pecannoot Haal het ijssalon gevoel bij jou in huis en geniet samen van lekker ijs Dit heerlijke schepijs is lekker uit een bakje of op een hoorntje,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Schepijs Roomschepijs",hertog [SEP] ijs pecan karamel vanille [SEP] Hertog ijssalon pecan karamel vanille ijs is heerlijk romig vanille-ijs overgoten met een gezouten karamelsaus en verrukkelijke stukjes gekarameliseerde pecannoot. Hertog ijssalon pecan karamel vanille ijs met lekker gezouten karamelsaus Romig vanille-ijs met stukjes knapperige gekarameliseerde pecannoot Haal het ijssalon gevoel bij jou in huis en geniet samen van lekker ijs Dit heerlijke schepijs is lekker uit een bakje of op een hoorntje [SEP] roomijs standaard,hertog ijs pecan karamel vanille roomijs standaard,null,null,null
+0.10490642,5396,521839,Lohilo,Strawberry white,Aardbeienroomijs doordrenkt met wilde swirls van aardbei en gegarneerd met een laagje witte chocolade. Met veel eiwitten en met minder calorieen en suiker. Vrij van lactose en gluten. Veel eiwitten Weinig calorieen Lactose- en glutenvrij Weinig suiker,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Roomijs premium",lohilo [SEP] strawberry white [SEP] Aardbeienroomijs doordrenkt met wilde swirls van aardbei en gegarneerd met een laagje witte chocolade. Met veel eiwitten en met minder calorieen en suiker. Vrij van lactose en gluten. Veel eiwitten Weinig calorieen Lactose- en glutenvrij Weinig suiker [SEP] premiumijs,lohilo strawberry white premiumijs,null,null,null
+0.10450946,2635,480095,Hertog Jan,Pils tray,"Hertog Jan pilsener is het visitekaartje van Hertog jan. Gebrouwen van zacht water uit de ardennen en van zorgvuldig geselecteerde hop en mout. Uit liefde voor bier. Categorie: pils Soort, smaak: vol, met een aangenaam bittere afdronk Brouwerij, plaats: Hertog Jan brouwerij, arcen, Nederland Alcoholpercentage: 5.1%",[],Bier en aperitieven Bier Pils Pils - blik,"hertog jan [SEP] pils tray [SEP] Hertog Jan pilsener is het visitekaartje van Hertog jan. Gebrouwen van zacht water uit de ardennen en van zorgvuldig geselecteerde hop en mout. Uit liefde voor bier. Categorie: pils Soort, smaak: vol, met een aangenaam bittere afdronk Brouwerij, plaats: Hertog Jan brouwerij, arcen, Nederland Alcoholpercentage: 5.1% [SEP] blik 25 30 33cl",hertog jan pils tray blik 25 30 33cl,null,null,null
+0.10331938,16550,161291,Brand,Winterbock 6-pack,"Brand winterbock. De exclusief geselecteerde mouten geven Brand winterbock zijn rijke aroma en robijnrode kleur. De zoetkruidige, verwarmende smaak, maakt Brand winterbock onweerstaanbaar. Speciaalbier Smaak: kruidig en smaakvol winterbier Categorie: kruidig en hoppig Alcoholpercentage: 7,5%","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Vegetarisch'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam']",Bier en aperitieven Speciaalbier Bier Bockbier Herfstbok,"brand [SEP] winterbock 6-pack [SEP] Brand winterbock. De exclusief geselecteerde mouten geven Brand winterbock zijn rijke aroma en robijnrode kleur. De zoetkruidige, verwarmende smaak, maakt Brand winterbock onweerstaanbaar. Speciaalbier Smaak: kruidig en smaakvol winterbier Categorie: kruidig en hoppig Alcoholpercentage: 7,5% [SEP] seizoen",brand winterbock 6-pack seizoen,null,null,null
+0.103313565,18749,420792,Wild West,Beef jerky honey bbq,"Wild West Honey BBQ Beef Jerky is een lekker en gezonde snack voor elk moment van de dag. Hoog in eiwitten Geweldige smaak Geproduceerd in de hooglanden van Schotland Geen toegevoegd MSG en geen kunstmatige kleur-, aroma- of conserveringsmiddelen","['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Kaas vleeswaren tapas Droge worst Droge worst - snacks,"wild west [SEP] beef jerky honey bbq [SEP] Wild West Honey BBQ Beef Jerky is een lekker en gezonde snack voor elk moment van de dag. Hoog in eiwitten Geweldige smaak Geproduceerd in de hooglanden van Schotland Geen toegevoegd MSG en geen kunstmatige kleur-, aroma- of conserveringsmiddelen [SEP] snack droge worsten",wild west beef jerky honey bbq snack droge worsten,null,null,null
+0.10282805,13842,485685,Het sapgilde,Appel - kersensap bio,"Het sapgilde appel-kers is puur sap van 100% biologische teelt. Het fruit wordt op ambachtelijke wijze geperst en wij voegen vervolgens niets aan het sap toe! Ambachtelijk geproduceerd in flevoland Door het sap kort te verwarmen tot 80 graden celsius wordt het langer houdbaar gemaakt Puur natuurlijk sap, biologisch Alleen het sapgilde kan het predicaat 'meesterlijk' toekennen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ ""Sinaasappelsap & drank (jus dorange)""
+ Sinaasappelsap & drank  (ongekoeld)","het sapgilde [SEP] appel - kersensap bio [SEP] Het sapgilde appel-kers is puur sap van 100% biologische teelt. Het fruit wordt op ambachtelijke wijze geperst en wij voegen vervolgens niets aan het sap toe! Ambachtelijk geproduceerd in flevoland Door het sap kort te verwarmen tot 80 graden celsius wordt het langer houdbaar gemaakt Puur natuurlijk sap, biologisch Alleen het sapgilde kan het predicaat 'meesterlijk' toekennen [SEP] samengesteld sap",het sapgilde appel - kersensap bio samengesteld sap,null,null,null
+0.102506205,16589,119846,Heineken,Premium pilsener 6-pack,"Heineken is een goudgele lager met 100% natuurlijke ingrediënten en een belangrijke toevoeging: Heineken's A-Gist. Deze unieke gist creëert een volle smaak met de typerende fruitige tonen. Pilsener Bier Smaak: Heineken bier wordt vergist met de unieke Heineken A-gist Categorie: Pils Alcoholpercentage: 5,0%","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Vegetarisch'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam']",Bier en aperitieven Bier Pils Pils - blik,"heineken [SEP] premium pilsener 6-pack [SEP] Heineken is een goudgele lager met 100% natuurlijke ingrediënten en een belangrijke toevoeging: Heineken's A-Gist. Deze unieke gist creëert een volle smaak met de typerende fruitige tonen. Pilsener Bier Smaak: Heineken bier wordt vergist met de unieke Heineken A-gist Categorie: Pils Alcoholpercentage: 5,0% [SEP] blik 45 50cl",heineken premium pilsener 6-pack blik 45 50cl,null,null,null
+0.10191403,7970,507420,Wahid,Kalfsbacon,"Magere bacon gemaakt van kalfsvlees. Voor op de boterham of in salades, maar ook lekker krokant gebakken bij een omelet. Mager kalfsvlees Halal garantie Ook te bakken Herkomst Nederland","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen gluten']","Vlees kip vis vega Ontbijtgranen en beleg Vlees Halal vlees
+ Vleeswaren beleg Halal broodbeleg Halal vleeswaren","wahid [SEP] kalfsbacon [SEP] Magere bacon gemaakt van kalfsvlees. Voor op de boterham of in salades, maar ook lekker krokant gebakken bij een omelet. Mager kalfsvlees Halal garantie Ook te bakken Herkomst Nederland [SEP] vleeswaren",wahid kalfsbacon vleeswaren,null,null,null
+0.101467736,12314,491944,Pagus,Bisano pinot grigio,"Een frisse pinot grigio uit veneto. Uit de omgeving van venezie, om precies te zijn. De wijn is droog en sappig met een hele zuivere smaak waarin je gele appel herkent.",[],Wijn en bubbels Witte wijn Pinot Grigio Pinot Grigio (Italië),"pagus [SEP] bisano pinot grigio [SEP] Een frisse pinot grigio uit veneto. Uit de omgeving van venezie, om precies te zijn. De wijn is droog en sappig met een hele zuivere smaak waarin je gele appel herkent. [SEP] ",pagus bisano pinot grigio ,null,null,null
+0.10098196,3864,186750,AH Biologisch,Witlof,"Witlof heeft een frisse, licht bittere smaak.Heerlijk gekookt, uit de oven of rauw door een geoznde salade. Smaak: Witlof heeft een frisse, licht bittere smaak. Bewaren: In de koelkast. Gezondheid: 100% Biologisch.","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Seizoensgroente (lente) Groente
+ Spinazie andijvie witlof Witlof","ah biologisch [SEP] witlof [SEP] Witlof heeft een frisse, licht bittere smaak.Heerlijk gekookt, uit de oven of rauw door een geoznde salade. Smaak: Witlof heeft een frisse, licht bittere smaak. Bewaren: In de koelkast. Gezondheid: 100% Biologisch. [SEP] bladgroente",ah biologisch witlof bladgroente,null,null,null
+0.10092542,1039,439517,Liga,Knapperige haverrepen honing,Liga knapperige haverrepen is een lekker knapperig tussendoortje: heerlijk verantwoord. Volkoren Rijk aan vezels Handig verpakt per 2 repen,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Ontbijtgranen en beleg Tussendoortjes
+ Snoep koek chips en chocolade Fruit noten mueslireep
+ Mueslirepen Koek",liga [SEP] knapperige haverrepen honing [SEP] Liga knapperige haverrepen is een lekker knapperig tussendoortje: heerlijk verantwoord. Volkoren Rijk aan vezels Handig verpakt per 2 repen [SEP] graan en mueslirepen,liga knapperige haverrepen honing graan en mueslirepen,null,null,null
+0.100767925,3852,385744,Lander bräu,Weissbeer,"Landerbräu Weissbeer is een heerlijk fruitig en fris Weissbeer. Gebrouwen met speciaal geslecteerde granen en kristal helder water. Categorie: Fruitig & Fris Soort, Smaak: Friszuur, banaanaroma, |Zoet:**|Zuur: ***|Bitter: *|Kruidig: **| Alcoholpercentage: 4,7% Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij']",Bier en aperitieven Speciaalbier Bier Wit & Weizen Weizen bier,"lander bräu [SEP] weissbeer [SEP] Landerbräu Weissbeer is een heerlijk fruitig en fris Weissbeer. Gebrouwen met speciaal geslecteerde granen en kristal helder water. Categorie: Fruitig & Fris Soort, Smaak: Friszuur, banaanaroma, |Zoet:**|Zuur: ***|Bitter: *|Kruidig: **| Alcoholpercentage: 4,7% Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] weizen",lander bräu weissbeer weizen,null,null,null
+0.10075623,9563,550149,Häagen-Dazs,Macaron strawberry & raspberry,Het beste van twee werelden samen: stukjes macaron in heerlijk zacht aardbeien- en frambozenroomijs. Gemaakt in samenwerking met top pattisier pierre hermee. Aardbeien- en frambozenroomijs Rijkelijk gevuld met stukjes macaron Bereid met 26% verse room Zonder kunstmatige geur- kleur en smaakstoffen,"['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Roomijs premium",häagen-dazs [SEP] macaron strawberry & raspberry [SEP] Het beste van twee werelden samen: stukjes macaron in heerlijk zacht aardbeien- en frambozenroomijs. Gemaakt in samenwerking met top pattisier pierre hermee. Aardbeien- en frambozenroomijs Rijkelijk gevuld met stukjes macaron Bereid met 26% verse room Zonder kunstmatige geur- kleur en smaakstoffen [SEP] premiumijs,häagen-dazs macaron strawberry & raspberry premiumijs,null,null,null
+0.10072547,20421,550583,AH,Flock haas liggend 12cm,AH flock haas liggend. Kleur: groen Afmeting: 12 cm De AH paashazen zijn mooi geflockt waardoor ze er zacht en aaibaar uitzien. Plaat ze als decoratie bijvoorbeeld op de gezellige eettafel  en vier een Vrolijk Pasen!,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Paasdecoratie,ah [SEP] flock haas liggend 12cm [SEP] AH flock haas liggend. Kleur: groen Afmeting: 12 cm De AH paashazen zijn mooi geflockt waardoor ze er zacht en aaibaar uitzien. Plaat ze als decoratie bijvoorbeeld op de gezellige eettafel  en vier een Vrolijk Pasen! [SEP] pasen in out,ah flock haas liggend 12cm pasen in out,null,null,null
+0.1006948,18839,381941,Smaakt,Wijnsteenbakpoeder,Biologische wijnsteenbakpoeder. Biologisch Natuurlijk rijsmiddel Te gebruiken als bakpoeder (in dezelfde hoeveelheid),"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ 'biologisch' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Ontbijtgranen en beleg Bewuste voeding Ontbijtgranen Wholefoods
+ Poeders Ontbijtverrijkers (toppings)",smaakt [SEP] wijnsteenbakpoeder [SEP] Biologische wijnsteenbakpoeder. Biologisch Natuurlijk rijsmiddel Te gebruiken als bakpoeder (in dezelfde hoeveelheid) [SEP] bio melen en bakken,smaakt wijnsteenbakpoeder bio melen en bakken,null,null,null
+0.10044142,4403,472483,Heineken,Premium pilsener blade fust,"Het Heineken fust van 8 liter is genoeg voor maar liefst 30 biertjes! Voor gebruik van dit fust heb je een Heineken Blade biertap nodig. Profiteer nu van ijskoud en vers tapbier! Smaak: laat je vrienden of collegas genieten van heerlijk pils van de tap Alcoholpercentage: 5,0% Fles/blik: Blade fust (8 l): exclusief biertap Overig: gekoeld op een temperatuur van 2 a 5 graden het allerlekkerst","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Vegetarisch'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam']",Bier en aperitieven Bier Pils Pils - fust,"heineken [SEP] premium pilsener blade fust [SEP] Het Heineken fust van 8 liter is genoeg voor maar liefst 30 biertjes! Voor gebruik van dit fust heb je een Heineken Blade biertap nodig. Profiteer nu van ijskoud en vers tapbier! Smaak: laat je vrienden of collegas genieten van heerlijk pils van de tap Alcoholpercentage: 5,0% Fles/blik: Blade fust (8 l): exclusief biertap Overig: gekoeld op een temperatuur van 2 a 5 graden het allerlekkerst [SEP] krachtig 5.5 pct en overig",heineken premium pilsener blade fust krachtig 5.5 pct en overig,null,null,null
+0.10015143,15661,520384,AH Biologisch,Magere kwark naturel 4-pack,AH Biologisch Magere kwark naturel 4-pack AH Biologisch Magere kwark naturel 4x,[],Zuivel plantaardig en eieren Yoghurt en kwark Kwark Magere kwark,ah biologisch [SEP] magere kwark naturel 4-pack [SEP] AH Biologisch Magere kwark naturel 4-pack AH Biologisch Magere kwark naturel 4x [SEP] ,ah biologisch magere kwark naturel 4-pack ,null,null,null
+0.10013665,645,73201,Fanta,Orange no sugar 24-pack,Fanta Orange Zero is een combinatie van sprankelend water en echt vruchtensap met natuurlijke aroma's per blik van 33 cl.,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'light'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Frisdrank Sinas Frisdrank in tray
+ Sinas cassis (in tray)",fanta [SEP] orange no sugar 24-pack [SEP] Fanta Orange Zero is een combinatie van sprankelend water en echt vruchtensap met natuurlijke aroma's per blik van 33 cl. [SEP] frisdrank en houdbaar sap,fanta orange no sugar 24-pack frisdrank en houdbaar sap,null,null,null
+0.100038305,4193,236949,Brand,Oud-bruin 6-pack,"Brand Oud Bruin is het oudste speciaalbier van Brand. Met zijn milde, zoete smaak, lichte hopbitter en een vleugje karamel is dit bier wereldberoemd in Limburg. Speciaalbier Smaak: Klassiek en mildzoet Categorie: Zoet en hoppig Alcoholpercentage: 3,5%","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Vegetarisch'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam']",Bier en aperitieven Speciaalbier Bier Dubbel bier,"brand [SEP] oud-bruin 6-pack [SEP] Brand Oud Bruin is het oudste speciaalbier van Brand. Met zijn milde, zoete smaak, lichte hopbitter en een vleugje karamel is dit bier wereldberoemd in Limburg. Speciaalbier Smaak: Klassiek en mildzoet Categorie: Zoet en hoppig Alcoholpercentage: 3,5% [SEP] laag alcohol overig",brand oud-bruin 6-pack laag alcohol overig,null,null,null
+0.099770635,10183,474133,Häagen-Dazs,Pralines & cream ijs,"Heerlijk zacht vanille roomijs met knapperige stukjes praline en pecan, en zoete karamelswirls. Met 32% verse room bereid Rijkelijk gevuld met stukjes praline, pecan, en zoete karamelswirls Zonder kunstmatige geur- kleur en smaakstoffen","['Geen lactose' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Roomijs premium","häagen-dazs [SEP] pralines & cream ijs [SEP] Heerlijk zacht vanille roomijs met knapperige stukjes praline en pecan, en zoete karamelswirls. Met 32% verse room bereid Rijkelijk gevuld met stukjes praline, pecan, en zoete karamelswirls Zonder kunstmatige geur- kleur en smaakstoffen [SEP] premiumijs",häagen-dazs pralines & cream ijs premiumijs,null,null,null
+0.0995848,10246,80101,Heineken,Premium pilsener 6-pack,"Heineken is een goudgele lager met 100% natuurlijke ingrediënten en een belangrijke toevoeging: Heineken's A-Gist. Deze unieke gist creëert een volle smaak met de typerende fruitige tonen. Pilsener Bier Smaak: Heineken bier wordt vergist met de unieke Heineken A-gist Categorie: Pils Alcoholpercentage: 5,0%","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Vegetarisch'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam']",Bier en aperitieven Bier Pils Pils - blik,"heineken [SEP] premium pilsener 6-pack [SEP] Heineken is een goudgele lager met 100% natuurlijke ingrediënten en een belangrijke toevoeging: Heineken's A-Gist. Deze unieke gist creëert een volle smaak met de typerende fruitige tonen. Pilsener Bier Smaak: Heineken bier wordt vergist met de unieke Heineken A-gist Categorie: Pils Alcoholpercentage: 5,0% [SEP] blik 25 30 33cl",heineken premium pilsener 6-pack blik 25 30 33cl,null,null,null
+0.09952837,3707,119767,AH Biologisch,Biefstuk,"Zeer mals en mager biologisch rundvlees. Naar ieders smaak te bereiden, van rood tot doorbakken. Lekker met uitjes en champignons. Biologisch rundvlees Bereiding: koekenpan, 4 tot 8 min., afhankelijk van de gewenste gaarheid Vacuum verpakt, zo blijven de pure smaak en malse vleesstructuur behouden Met 3 sterren beter leven keurmerk","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Vlees Rundvlees Biefstuk entrecote
+ Biefstuk Runderbiefstuk (vers)","ah biologisch [SEP] biefstuk [SEP] Zeer mals en mager biologisch rundvlees. Naar ieders smaak te bereiden, van rood tot doorbakken. Lekker met uitjes en champignons. Biologisch rundvlees Bereiding: koekenpan, 4 tot 8 min., afhankelijk van de gewenste gaarheid Vacuum verpakt, zo blijven de pure smaak en malse vleesstructuur behouden Met 3 sterren beter leven keurmerk [SEP] biologisch rund",ah biologisch biefstuk biologisch rund,null,null,null
+0.09911727,13050,513097,Het sapgilde,Appel peer zwarte bessensap,"Het sapgilde appel-peer-zwarte bes is puur sap van 100% biologische teelt. Het fruit wordt op ambachtelijke wijze geperst en wij voegen vervolgens niets aan het sap toe! Ambachtelijk geproduceerd in flevoland Door het sap kort te verwarmen tot 80 graden celsius wordt het langer houdbaar gemaakt Puur natuurlijk sap, biologisch Alleen het sapgilde kan het predicaat 'meesterlijk' toekennen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (ongekoeld)","het sapgilde [SEP] appel peer zwarte bessensap [SEP] Het sapgilde appel-peer-zwarte bes is puur sap van 100% biologische teelt. Het fruit wordt op ambachtelijke wijze geperst en wij voegen vervolgens niets aan het sap toe! Ambachtelijk geproduceerd in flevoland Door het sap kort te verwarmen tot 80 graden celsius wordt het langer houdbaar gemaakt Puur natuurlijk sap, biologisch Alleen het sapgilde kan het predicaat 'meesterlijk' toekennen [SEP] samengesteld sap",het sapgilde appel peer zwarte bessensap samengesteld sap,null,null,null
+0.09902851,17037,515198,Benediktiner,Weissbier,"Echte traditionele weizen met de kenmerkende smaak van tarwe, karamel en lichte banaan aroma. Gebrouwen volgens de rijke Duitse biertraditie Gebrouwen met water, mout, hop en gist 5,4% alcohol","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Vegetarisch'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam']",Bier en aperitieven Speciaalbier Bier Wit & Weizen Weizen bier,"benediktiner [SEP] weissbier [SEP] Echte traditionele weizen met de kenmerkende smaak van tarwe, karamel en lichte banaan aroma. Gebrouwen volgens de rijke Duitse biertraditie Gebrouwen met water, mout, hop en gist 5,4% alcohol [SEP] weizen",benediktiner weissbier weizen,null,null,null
+0.098439276,174,471356,Hertog Jan,0.0 Alcoholvrij bier 6-pack,"Gebrouwen met geselecteerde hoppen en dezelfde graansoorten als Hertog Jan pilsener. Met natuurzuiver water en ons Hertog jan-gist. Verdraaid lekker en alcoholvrij dankzij een speciaal brouwproces. Een 0,0 om van te genieten Vol van smaak, verfrissend met een bittertje Perfect in balans met een fruitig hoparoma en een verfrissend bittertje","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']","Bier en aperitieven Alcoholvrij bier en bier laag in alcohol Bier
+ Pils Alcoholvrij bier","hertog jan [SEP] 0.0 alcoholvrij bier 6-pack [SEP] Gebrouwen met geselecteerde hoppen en dezelfde graansoorten als Hertog Jan pilsener. Met natuurzuiver water en ons Hertog jan-gist. Verdraaid lekker en alcoholvrij dankzij een speciaal brouwproces. Een 0,0 om van te genieten Vol van smaak, verfrissend met een bittertje Perfect in balans met een fruitig hoparoma en een verfrissend bittertje [SEP] 0.0 pils",hertog jan 0.0 alcoholvrij bier 6-pack 0.0 pils,null,null,null
+0.09796867,53,550649,Fuze Tea,Peach hibiscus tray,Neem een momentje voor jezelf met de fuze tea black tea peach hibiscus. Een verrassende ijsthee fusie van zwarte thee-extracten met perziksap en een verfijnde smaak van hibiscus. Laag in calorieen Koolzuurvrije drank Duurzaam ingekochte thee Perziksmaak,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Frisdrank Ice tea
+ Ice tea koolzuurvrij Ice tea koolzuurvrij (flessen)",fuze tea [SEP] peach hibiscus tray [SEP] Neem een momentje voor jezelf met de fuze tea black tea peach hibiscus. Een verrassende ijsthee fusie van zwarte thee-extracten met perziksap en een verfijnde smaak van hibiscus. Laag in calorieen Koolzuurvrije drank Duurzaam ingekochte thee Perziksmaak [SEP] ice tea still kvp,fuze tea peach hibiscus tray ice tea still kvp,null,null,null
+0.09792346,12431,451290,Häagen-Dazs,Salted caramel ijs,"Heerlijk zacht karamel roomijs met karamelsaus en gezouten stukjes karamel. Caramel ijs met caramelsaus Rijkelijk gevuld met gezouten caramel stukjes Bereid met 31% verse room Zonder kunstmatige geur-, kleur- en smaakstoffen","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren' 'Geen gluten']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Roomijs premium","häagen-dazs [SEP] salted caramel ijs [SEP] Heerlijk zacht karamel roomijs met karamelsaus en gezouten stukjes karamel. Caramel ijs met caramelsaus Rijkelijk gevuld met gezouten caramel stukjes Bereid met 31% verse room Zonder kunstmatige geur-, kleur- en smaakstoffen [SEP] premiumijs",häagen-dazs salted caramel ijs premiumijs,null,null,null
+0.09790809,11425,479735,Flevosap,Peer,"Flevosap peer is 100% puur sap, op ambachtelijke wijze vers geperst op onze boerderij. Door licht te filteren behoudt het sap zn unieke smaak, zonder gebruik te maken van toevoegingen. Ambachtelijk geproduceerd op de boerderij van familie vermeulen Het beste van de peer blijft in het sap, omdat we het licht filteren Zonder conserveringsmiddelen, het sap wordt alleen kort gepasteuriseerd Het sap waar je de smaak ziet zitten","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Perensap & drank","flevosap [SEP] peer [SEP] Flevosap peer is 100% puur sap, op ambachtelijke wijze vers geperst op onze boerderij. Door licht te filteren behoudt het sap zn unieke smaak, zonder gebruik te maken van toevoegingen. Ambachtelijk geproduceerd op de boerderij van familie vermeulen Het beste van de peer blijft in het sap, omdat we het licht filteren Zonder conserveringsmiddelen, het sap wordt alleen kort gepasteuriseerd Het sap waar je de smaak ziet zitten [SEP] enkel sap overig",flevosap peer enkel sap overig,null,null,null
+0.09776108,5511,474132,Häagen-Dazs,Salted caramel,Nu in een kleine verpakking: heerlijk karamel ijs gecombineerd met knapperige stukjes karamel en heerlijke gezouten karamelsaus. Heerlijk karamel roomijs met gezouten karamel stukjes en saus Gemaakt met maar 5 natuurlijke ingredienten Zonder kunstmatige geur- kleur en smaakstoffen Met verse room bereid,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren' 'Geen gluten']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Roomijs premium",häagen-dazs [SEP] salted caramel [SEP] Nu in een kleine verpakking: heerlijk karamel ijs gecombineerd met knapperige stukjes karamel en heerlijke gezouten karamelsaus. Heerlijk karamel roomijs met gezouten karamel stukjes en saus Gemaakt met maar 5 natuurlijke ingredienten Zonder kunstmatige geur- kleur en smaakstoffen Met verse room bereid [SEP] premiumijs,häagen-dazs salted caramel premiumijs,null,null,null
+0.0977556,14918,502076,Little cow & cookies,Waffles & salted caramel,Romig biologisch vanille-ijs met gezouten karamelsaus en zachte stukjes wafel. En dat alles in een 100% biologisch afbreekbare beker. Romig vanille-ijs met gezouten karamelsaus en zachte stukjes wafel Gemaakt met biologische melk van onze kleine Jersey koeien Alle ingredienten zijn 100% biologisch. Lekker verantwoord Verpakt in een 100% plasticvrije en biologisch afbreekbare beker,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen selderij' 'Geen eieren']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Roomijs premium",little cow & cookies [SEP] waffles & salted caramel [SEP] Romig biologisch vanille-ijs met gezouten karamelsaus en zachte stukjes wafel. En dat alles in een 100% biologisch afbreekbare beker. Romig vanille-ijs met gezouten karamelsaus en zachte stukjes wafel Gemaakt met biologische melk van onze kleine Jersey koeien Alle ingredienten zijn 100% biologisch. Lekker verantwoord Verpakt in een 100% plasticvrije en biologisch afbreekbare beker [SEP] premiumijs,little cow & cookies waffles & salted caramel premiumijs,null,null,null
+0.09772011,12767,476694,Fanta,Watermeloen no sugar,"Probeer deze nieuwe limited edition van fanta. Een echte zomerse smaak, namelijk die van watermeloen! Je hiervan kunt genieten zonder suiker. Watermeloen frisdrank zonder suiker dus! Limited edition Fanta smaak Heerlijke zomers smaak van watermeloen Zonder suiker en calorieen In een 250ml blik verpakking","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Frisdrank Frisdrank met fruit
+ Frisdrank met fruit (blik)","fanta [SEP] watermeloen no sugar [SEP] Probeer deze nieuwe limited edition van fanta. Een echte zomerse smaak, namelijk die van watermeloen! Je hiervan kunt genieten zonder suiker. Watermeloen frisdrank zonder suiker dus! Limited edition Fanta smaak Heerlijke zomers smaak van watermeloen Zonder suiker en calorieen In een 250ml blik verpakking [SEP] fruitsmaken overig gvp",fanta watermeloen no sugar fruitsmaken overig gvp,null,null,null
+0.0976529,5506,520758,DubbelFrisss,Appel & perzik 6-pack,"Laat je verrassen door de verfrissende combinatie van appel en perzik! DubbelFrisss appel perzik is een vruchtenfrisdrank met ten minste 15% heerlijk vruchtensap. Vol van smaak, slechts 1kcal per 100ml Vrij van conserveermiddelen Verfrissende dubbele smaken","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Pakjes drinken
+ Vruchtensappen & drank Frisse fruitdrank (drinkpakjes)
+ Frisse fruitdrank","dubbelfrisss [SEP] appel & perzik 6-pack [SEP] Laat je verrassen door de verfrissende combinatie van appel en perzik! DubbelFrisss appel perzik is een vruchtenfrisdrank met ten minste 15% heerlijk vruchtensap. Vol van smaak, slechts 1kcal per 100ml Vrij van conserveermiddelen Verfrissende dubbele smaken [SEP] kids kvp",dubbelfrisss appel & perzik 6-pack kids kvp,null,null,null
+0.09730297,8335,238929,AH Biologisch,Speklap,"Ouderwets lekkere speklap van biologisch varkensvlees. Om naturel of gekruid te bakken of in stukjes gesneden te roerbakken. Biologisch varkensvlees van varkens van Nederlandse boeren Bereiding: koekenpan, ongeveer 10 minuten Recht gesneden, voorkomt kromtrekken tijdens het bakkentip: marineer de biologische speklap en bereid deze op de bbq Met 3 sterren beter leven keurmerk","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Vlees kip vis vega Vlees Varkensvlees Speklappen,"ah biologisch [SEP] speklap [SEP] Ouderwets lekkere speklap van biologisch varkensvlees. Om naturel of gekruid te bakken of in stukjes gesneden te roerbakken. Biologisch varkensvlees van varkens van Nederlandse boeren Bereiding: koekenpan, ongeveer 10 minuten Recht gesneden, voorkomt kromtrekken tijdens het bakkentip: marineer de biologische speklap en bereid deze op de bbq Met 3 sterren beter leven keurmerk [SEP] biologisch varken",ah biologisch speklap biologisch varken,null,null,null
+0.09726192,20516,210536,Wittekerke,Rosé,"Witbier met puur frambozensap met 4,3% alcohol. Het enige echte rose bier! The original. Natuurlijk verfrissend, zacht met een frambozensmaak Geur: frambozen","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']","Bier en aperitieven Bier Radler cider fruitbier Mexicaans
+ Rosé bier fruitbier Rosé bier met alcohol","wittekerke [SEP] rosé [SEP] Witbier met puur frambozensap met 4,3% alcohol. Het enige echte rose bier! The original. Natuurlijk verfrissend, zacht met een frambozensmaak Geur: frambozen [SEP] fruit rose kriek geuze",wittekerke rosé fruit rose kriek geuze,null,null,null
+0.097213775,15997,550228,Fage,Total Griekse yoghurt 2%,Naturel magere uitgelekte yoghurt volgens grieks recept. Rijk romige en met een uniek smaak Rijk aan eiwiten. Zonder toegevoegde suiker Gemaakt met slechts melk en yoghurt culturen Zonder additieven of conserveringsmiddelen,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Zuivel plantaardig en eieren Yoghurt en kwark Yoghurt
+ Griekse yoghurt",fage [SEP] total griekse yoghurt 2% [SEP] Naturel magere uitgelekte yoghurt volgens grieks recept. Rijk romige en met een uniek smaak Rijk aan eiwiten. Zonder toegevoegde suiker Gemaakt met slechts melk en yoghurt culturen Zonder additieven of conserveringsmiddelen [SEP] yoghurt naturel,fage total griekse yoghurt 2% yoghurt naturel,null,null,null
+0.097045496,15176,221728,Hertog,Ijssalon vanille,"Rijk, vol en luxueus vanilleroomijs. Bereid met verse melk en room Met heerlijke vanille uit Madagaskar Met een zachte en romige structuur De basis voor ieder toetje en dessert","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Schepijs Roomschepijs","hertog [SEP] ijssalon vanille [SEP] Rijk, vol en luxueus vanilleroomijs. Bereid met verse melk en room Met heerlijke vanille uit Madagaskar Met een zachte en romige structuur De basis voor ieder toetje en dessert [SEP] roomijs standaard",hertog ijssalon vanille roomijs standaard,null,null,null
+0.09698036,5232,230914,Heineken,Premium pilsener,Heineken Pilsener (5%) is een verfrissend volmout kwaliteitspils met een licht fruitige smaak die perfect in balans is met de frisse bitterheid van de hop. Het frisse en heldere karakter van Heineken bier is over de hele wereld gelijk omdat het vergist wordt met de unieke Heineken A-gist. Neem je favoriete bier makkelijk overal mee naartoe in handig blik: geen opener nodig! Gekoeld op een temperatuur van 2 a 5 graden is Heineken bier het lekkerst. Proost!,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Vegetarisch'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam']",Bier en aperitieven Bier Pils Pils - blik,heineken [SEP] premium pilsener [SEP] Heineken Pilsener (5%) is een verfrissend volmout kwaliteitspils met een licht fruitige smaak die perfect in balans is met de frisse bitterheid van de hop. Het frisse en heldere karakter van Heineken bier is over de hele wereld gelijk omdat het vergist wordt met de unieke Heineken A-gist. Neem je favoriete bier makkelijk overal mee naartoe in handig blik: geen opener nodig! Gekoeld op een temperatuur van 2 a 5 graden is Heineken bier het lekkerst. Proost! [SEP] blik 25 30 33cl,heineken premium pilsener blik 25 30 33cl,null,null,null
+0.096797355,17743,476283,Brand,Pilsener 6-pack,"Brand pilsener uitgeroepen tot lekkerste pils van Nederland tijdens dutch beer challenge 2020! Krachtig van smaak, zacht in afdronk, schitterend van kleur en heerlijk verfrissend. Pilsener bier Smaak: vol van smaak, fruitig van geur, rijk aan hoppen en zacht in afdronk Categorie: pils Alcoholpercentage: 5,0%","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Vegetarisch'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam']",Bier en aperitieven Bier Pils Pils - fles,"brand [SEP] pilsener 6-pack [SEP] Brand pilsener uitgeroepen tot lekkerste pils van Nederland tijdens dutch beer challenge 2020! Krachtig van smaak, zacht in afdronk, schitterend van kleur en heerlijk verfrissend. Pilsener bier Smaak: vol van smaak, fruitig van geur, rijk aan hoppen en zacht in afdronk Categorie: pils Alcoholpercentage: 5,0% [SEP] retour kleinverpakking",brand pilsener 6-pack retour kleinverpakking,null,null,null
+0.09677702,15841,474695,Fuze Tea,Black ice tea peach hibiscus,Neem een momentje voor jezelf met de fuze tea black tea peach hibiscus. Een verrassende ijsthee fusie van zwarte thee-extracten met perziksap en een verfijnde smaak van hibiscus. Laag in calorieen Koolzuurvrije drank Duurzaam ingekochte thee Perziksmaak,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Frisdrank Ice tea
+ Ice tea koolzuurvrij Ice tea koolzuurvrij (flessen)",fuze tea [SEP] black ice tea peach hibiscus [SEP] Neem een momentje voor jezelf met de fuze tea black tea peach hibiscus. Een verrassende ijsthee fusie van zwarte thee-extracten met perziksap en een verfijnde smaak van hibiscus. Laag in calorieen Koolzuurvrije drank Duurzaam ingekochte thee Perziksmaak [SEP] ice tea still kvp,fuze tea black ice tea peach hibiscus ice tea still kvp,null,null,null
+0.09669592,14255,439049,KraftBier,Hoppakee,"Hoppakee! Biertje in de hand, beentjes omhoog. Tijd om ff te genieten. Een soepel en heerlijk hopfruitig bier maar zeker niet te bitter. Voor ieder moment! Ontstaan in tilburg Heerlijk met je voeten in het gras Tonen van citrus Soepel en doodrinkbaar",[],Bier en aperitieven Speciaalbier Bier Porter en stout bier,"kraftbier [SEP] hoppakee [SEP] Hoppakee! Biertje in de hand, beentjes omhoog. Tijd om ff te genieten. Een soepel en heerlijk hopfruitig bier maar zeker niet te bitter. Voor ieder moment! Ontstaan in tilburg Heerlijk met je voeten in het gras Tonen van citrus Soepel en doodrinkbaar [SEP] lokaal bier dc",kraftbier hoppakee lokaal bier dc,null,null,null
+0.09658262,3276,520710,Hak,Oven zoete aardappel kerrie,Bij Hak willen we het graag lekker en gemakkelijk maken om groenten en bonen te eten. Daarom hebben we deze mix voor zoete aardappel kerrie uit de oven gemaakt. Op smaak gebracht met kruiden en specerijen Geen suiker toegevoegd 100% natuurlijke ingredienten Met 428 g groenten en bonen,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen mosterd' 'Geen gluten']","Soepen sauzen kruiden olie Conserven Groenteconserven
+ Bonen peulvruchten (conserven) Bonenschotel",hak [SEP] oven zoete aardappel kerrie [SEP] Bij Hak willen we het graag lekker en gemakkelijk maken om groenten en bonen te eten. Daarom hebben we deze mix voor zoete aardappel kerrie uit de oven gemaakt. Op smaak gebracht met kruiden en specerijen Geen suiker toegevoegd 100% natuurlijke ingredienten Met 428 g groenten en bonen [SEP] bijgerechten,hak oven zoete aardappel kerrie bijgerechten,null,null,null
+0.096513286,10299,63581,Heineken,Premium pilsener tray,"Heineken Premium pilsener is een verfrissend volmout kwaliteitspils met een licht fruitige smaak die perfect in balans is met de frisse bitterheid van de hop. Smaak: Heineken bier wordt vergist met de unieke Heineken a-gist Alcoholpercentage: 5,0% Fles/blik: blik (24 x 33 cl: tray) Overig: gekoeld op een temperatuur van 2 a 5 graden het allerlekkerst","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Vegetarisch'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam']",Bier en aperitieven Bier Pils Pils - blik,"heineken [SEP] premium pilsener tray [SEP] Heineken Premium pilsener is een verfrissend volmout kwaliteitspils met een licht fruitige smaak die perfect in balans is met de frisse bitterheid van de hop. Smaak: Heineken bier wordt vergist met de unieke Heineken a-gist Alcoholpercentage: 5,0% Fles/blik: blik (24 x 33 cl: tray) Overig: gekoeld op een temperatuur van 2 a 5 graden het allerlekkerst [SEP] blik 25 30 33cl",heineken premium pilsener tray blik 25 30 33cl,null,null,null
+0.096485615,14019,458967,Hipp,4m Sap appel mild bio,"100% biologische appelsap gemaakt van zongerijpte appels. Rijk aan vitamine c, zonder toegevoegde suiker, 						zonder gluten Mild en laag in zuurgehalte, zonder toegevoegde 						aroma Zonder conserveermiddelen, zonder 						kleurstoffen In overeenstemming met de regelgeving","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Baby en kind Babyvoeding Fruithapjes (baby en kind) Fruitpotjes
+ Fruitpotjes vanaf 4 maanden","hipp [SEP] 4m sap appel mild bio [SEP] 100% biologische appelsap gemaakt van zongerijpte appels. Rijk aan vitamine c, zonder toegevoegde suiker, 						zonder gluten Mild en laag in zuurgehalte, zonder toegevoegde 						aroma Zonder conserveermiddelen, zonder 						kleurstoffen In overeenstemming met de regelgeving [SEP] baby drinksappen",hipp 4m sap appel mild bio baby drinksappen,null,null,null
+0.096356094,11511,132887,Yakult,Light 15-pack,Yakult is een frisse gefermenteerde zuiveldrank met 20 miljard L. casei Shirota bacterien per flesje. Yakult past in een goede levensstijl. Gefermenteerde melkdrank 20 miljard L. casei Shirota bacterien per flesje Met vitamine D en E,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Zuivel plantaardig en eieren Tussendoortjes
+ Zuivel tussendoortjes (voor thuis en onderweg) Health tussendoortjes",yakult [SEP] light 15-pack [SEP] Yakult is een frisse gefermenteerde zuiveldrank met 20 miljard L. casei Shirota bacterien per flesje. Yakult past in een goede levensstijl. Gefermenteerde melkdrank 20 miljard L. casei Shirota bacterien per flesje Met vitamine D en E [SEP] probiotica,yakult light 15-pack probiotica,null,null,null
+0.095957786,4022,228139,Brand,Brand pilsener fl,"Brand Premium Pilsener onderscheidt zich door zijn krachtige smaak gebrouwen met meer hop. Dat geeft onze pilsener zijn unieke, krachtige smaak. Voor bij de borrel of het eten.
+
+			Brand brouwt al sinds jaar en dag krachtige pilseners en speciaalbieren. En al die tijd hebben we maar één doel gehad: iedereen kennis laten maken met de smaak van perfect gebrouwen bier. Een pilsener met een unieke smaak, maar ook een aantal onderscheidende speciaalbieren.","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Vegetarisch'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam']",Bier en aperitieven Bier Pils Pils - blik,"brand [SEP] brand pilsener fl [SEP] Brand Premium Pilsener onderscheidt zich door zijn krachtige smaak gebrouwen met meer hop. Dat geeft onze pilsener zijn unieke, krachtige smaak. Voor bij de borrel of het eten.
+
+			Brand brouwt al sinds jaar en dag krachtige pilseners en speciaalbieren. En al die tijd hebben we maar één doel gehad: iedereen kennis laten maken met de smaak van perfect gebrouwen bier. Een pilsener met een unieke smaak, maar ook een aantal onderscheidende speciaalbieren. [SEP] pils krat",brand brand pilsener fl pils krat,null,null,null
+0.09594947,11112,385085,Brouwerij 't IJ,PaasIJ,Paasij is een vroeg voorjaarsbier dat elk jaar de lente inluidt. Zachtkruidig  en  fris,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']",Bier en aperitieven Speciaalbier Bier Bockbier Lentebok,brouwerij 't ij [SEP] paasij [SEP] Paasij is een vroeg voorjaarsbier dat elk jaar de lente inluidt. Zachtkruidig  en  fris [SEP] craft,brouwerij 't ij paasij craft,null,null,null
+0.09592384,12373,437897,Fuze Tea,Black ice tea peach hibiscus,Neem een momentje voor jezelf met de fuze tea black tea peach hibiscus. Een verrassende ijsthee fusie van zwarte theeblaadjes met perziksap en een verfijnde smaak van hibiscus. Laag in calorieen Koolzuurvrije drank Duurzaam ingekochte thee Perziksmaak met een vleugje hibiscus,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Frisdrank Ice tea
+ Ice tea koolzuurvrij Ice tea koolzuurvrij (blikjes)",fuze tea [SEP] black ice tea peach hibiscus [SEP] Neem een momentje voor jezelf met de fuze tea black tea peach hibiscus. Een verrassende ijsthee fusie van zwarte theeblaadjes met perziksap en een verfijnde smaak van hibiscus. Laag in calorieen Koolzuurvrije drank Duurzaam ingekochte thee Perziksmaak met een vleugje hibiscus [SEP] ice tea still kvp,fuze tea black ice tea peach hibiscus ice tea still kvp,null,null,null
+0.09592384,575,437910,Fuze Tea,Black ice tea peach hibiscus,Neem een momentje voor jezelf met de fuze tea black tea peach hibiscus. Een verrassende ijsthee fusie van zwarte theeblaadjes met perziksap en een verfijnde smaak van hibiscus. Laag in calorieen Koolzuurvrije drank Duurzaam ingekochte thee Perziksmaak met een vleugje hibiscus,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Frisdrank Ice tea
+ Ice tea koolzuurvrij Ice tea koolzuurvrij (blikjes)",fuze tea [SEP] black ice tea peach hibiscus [SEP] Neem een momentje voor jezelf met de fuze tea black tea peach hibiscus. Een verrassende ijsthee fusie van zwarte theeblaadjes met perziksap en een verfijnde smaak van hibiscus. Laag in calorieen Koolzuurvrije drank Duurzaam ingekochte thee Perziksmaak met een vleugje hibiscus [SEP] ice tea still kvp,fuze tea black ice tea peach hibiscus ice tea still kvp,null,null,null
+0.09561999,10597,505715,Brand,Krachtig blond 6-pack,Brand krachtig Blond een bier met een vol en fruitig karakter met uitbundige aromas door de verschillende soorten hop en mout. Speciaalbier Smaak: fruitig karakter met een uitbundig hoparoma Categorie: krachtig en blond Alcoholpercentage: 7.8%,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij']",Bier en aperitieven Speciaalbier Bier Blond bier,brand [SEP] krachtig blond 6-pack [SEP] Brand krachtig Blond een bier met een vol en fruitig karakter met uitbundige aromas door de verschillende soorten hop en mout. Speciaalbier Smaak: fruitig karakter met een uitbundig hoparoma Categorie: krachtig en blond Alcoholpercentage: 7.8% [SEP] blond,brand krachtig blond 6-pack blond,null,null,null
+0.09546533,1668,456369,AH,Gepofte Wafels Naturel,"Een knapperige tarwe wafel met weinig calorieen. Van baby tot volwassene, deze wafel is geschikt voor alle leeftijden en voor alle momenten van de dag, te eten als broodvervanger of als snack. Bevat alleen natuurlijke ingredienten Weinig calorieen past in vele dieten Kan de hele dag als broodvervanger of als snack worden gegeten Geschikt voor alle leeftijden","['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score B' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Ontbijtgranen en beleg Tussendoortjes Maiswafels
+ Crackers rijstwafels","ah [SEP] gepofte wafels naturel [SEP] Een knapperige tarwe wafel met weinig calorieen. Van baby tot volwassene, deze wafel is geschikt voor alle leeftijden en voor alle momenten van de dag, te eten als broodvervanger of als snack. Bevat alleen natuurlijke ingredienten Weinig calorieen past in vele dieten Kan de hele dag als broodvervanger of als snack worden gegeten Geschikt voor alle leeftijden [SEP] extrusie",ah gepofte wafels naturel extrusie,null,null,null
+0.09538965,11785,130337,DubbelFrisss,Appel & perzik 6-pack,Laat je verrassen door de verfrissende combinatie van appel en perzik! DubbelFrisss appel-perzik is een vruchtenfrisdrank met ten minste 15% heerlijk vruchtensap. Zonder kunstmatige zoetstoffen en vrij van conserveermiddelen. Vruchtenfrisdrank met 15% heerlijke vruchtensap Vrij van conserveermiddelen Zonder kunstmatige zoetstoffen,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Pakjes drinken
+ Vruchtensappen & drank Frisse fruitdrank (drinkpakjes)
+ Frisse fruitdrank",dubbelfrisss [SEP] appel & perzik 6-pack [SEP] Laat je verrassen door de verfrissende combinatie van appel en perzik! DubbelFrisss appel-perzik is een vruchtenfrisdrank met ten minste 15% heerlijk vruchtensap. Zonder kunstmatige zoetstoffen en vrij van conserveermiddelen. Vruchtenfrisdrank met 15% heerlijke vruchtensap Vrij van conserveermiddelen Zonder kunstmatige zoetstoffen [SEP] kids kvp,dubbelfrisss appel & perzik 6-pack kids kvp,null,null,null
+0.09484014,4794,196604,Melkunie,Rijstepap,Rijstepap met een heerlijk zachte smaak. Gemaakt met 100% Nederlandse weidemelk Lekker om zo koud of warm te eten. extra lekker met wat bruine suiker.,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Vla en pap Pap Rijstepap,melkunie [SEP] rijstepap [SEP] Rijstepap met een heerlijk zachte smaak. Gemaakt met 100% Nederlandse weidemelk Lekker om zo koud of warm te eten. extra lekker met wat bruine suiker. [SEP] desserts,melkunie rijstepap desserts,null,null,null
+0.09483688,15490,487398,AH,Lamsfilet,"Lamsfilet met knoflookmarinade. Lamsfilet is het zachtste stukje vlees van het lam. Voor 1-2 personen In speciale vacuum verpakking voor optimale versheid. De complete verpakking kan gerecycled worden bij het kunststof afval Bereiding: pan of bbq 5 minuten aan beide kanten bakken Tip:prik niet in het vlees, zo blijft het lekker sappig","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Vlees Kalfsvlees lamsvlees wild Lamsvlees
+ Lamsbiefstuk","ah [SEP] lamsfilet [SEP] Lamsfilet met knoflookmarinade. Lamsfilet is het zachtste stukje vlees van het lam. Voor 1-2 personen In speciale vacuum verpakking voor optimale versheid. De complete verpakking kan gerecycled worden bij het kunststof afval Bereiding: pan of bbq 5 minuten aan beide kanten bakken Tip:prik niet in het vlees, zo blijft het lekker sappig [SEP] seizoen gourmet",ah lamsfilet seizoen gourmet,null,null,null
+0.09480794,19999,198205,Gulpener,Korenwolf witbier,"Fris viergranen witbier. Witbier Kruidig en licht bitter 0,05 Bv gulpenerbierbrouwerij, gulpen","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']",Bier en aperitieven Speciaalbier Bier Wit & Weizen Wit bier,"gulpener [SEP] korenwolf witbier [SEP] Fris viergranen witbier. Witbier Kruidig en licht bitter 0,05 Bv gulpenerbierbrouwerij, gulpen [SEP] wit",gulpener korenwolf witbier wit,null,null,null
+0.09454575,16191,447776,AH,Yoghurtdrink perzik,"Deze drinkyoghurt met de zoete smaak van aardbei is een frisfruitig tussendoortje, de basis van dagverse zuivel. Al onze drinkyoghurt wordt gemaakt van verse weidemelk. Frisse fruitsmaak 0% vet Koel serveren Gemaakt van weidemelk Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij'
+ 'Geen gluten']","Frisdrank sappen koffie thee Zuivel plantaardig en eieren
+ Chocolademelk cacao anijs Drinkyoghurt Drinkyoghurts","ah [SEP] yoghurtdrink perzik [SEP] Deze drinkyoghurt met de zoete smaak van aardbei is een frisfruitig tussendoortje, de basis van dagverse zuivel. Al onze drinkyoghurt wordt gemaakt van verse weidemelk. Frisse fruitsmaak 0% vet Koel serveren Gemaakt van weidemelk Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] zuiveldrank gezoet",ah yoghurtdrink perzik zuiveldrank gezoet,null,null,null
+0.09436958,942,230735,AH,Fuji appel los,"Fuji is lekker sappig, heeft een rijke, honingzoete smaak en een stevige beet. Deze handappel kun je ook goed verwerken in taarten. Smaak: volzoet Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Ook lekker als gezond tussendoortje of in een salade","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Los","ah [SEP] fuji appel los [SEP] Fuji is lekker sappig, heeft een rijke, honingzoete smaak en een stevige beet. Deze handappel kun je ook goed verwerken in taarten. Smaak: volzoet Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Ook lekker als gezond tussendoortje of in een salade [SEP] appels los",ah fuji appel los appels los,null,null,null
+0.094227195,3863,130265,AH,Drinkyoghurt perzik,Zuivel met vruchtensap 0% vet Bron van calcium Koel serveren. Schudden voor gebruik. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij'
+ 'Geen gluten']","Frisdrank sappen koffie thee Zuivel plantaardig en eieren
+ Tussendoortjes Pakjes drinken
+ Zuivel tussendoortjes (voor thuis en onderweg) Zuivel drinkpakjes
+ Yoghurt (drinkpakjes)",ah [SEP] drinkyoghurt perzik [SEP] Zuivel met vruchtensap 0% vet Bron van calcium Koel serveren. Schudden voor gebruik. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] zuiveldrank gezoet,ah drinkyoghurt perzik zuiveldrank gezoet,null,null,null
+0.094208635,15779,520395,AH,Haverdrink ongezoet 4-pack,AH Haverdrink ongezoet 4-pack AH Haverdrink ongezoet 4x,[],"Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Plantaardige drinks Plantaardige zuivel alternatieven Haverdrink",ah [SEP] haverdrink ongezoet 4-pack [SEP] AH Haverdrink ongezoet 4-pack AH Haverdrink ongezoet 4x [SEP] ,ah haverdrink ongezoet 4-pack ,null,null,null
+0.09410628,621,199525,Garden Gourmet,Falafel pikant,De vegan falafel pikant van Garden Gourmet is een smaakvol en licht pittig natuurlijk product voor bij het avondeten of als snack. De portiegrootte leent zich ook goed voor delen. 100% plantaardig en vol proteinen Smaakvolle falafel met Chilipeper Makkelijk en snel te bereiden in pan of oven Elk moment geschikt als vleesvervanger,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Geen mosterd' 'Geen eieren']","Vlees kip vis vega Vegetarisch en vegan Vleesvervangers
+ Falafel vega balletjes Falafel",garden gourmet [SEP] falafel pikant [SEP] De vegan falafel pikant van Garden Gourmet is een smaakvol en licht pittig natuurlijk product voor bij het avondeten of als snack. De portiegrootte leent zich ook goed voor delen. 100% plantaardig en vol proteinen Smaakvolle falafel met Chilipeper Makkelijk en snel te bereiden in pan of oven Elk moment geschikt als vleesvervanger [SEP] falafel,garden gourmet falafel pikant falafel,null,null,null
+0.09404235,13299,524814,Gerber Organic,Appel mango sap,"Gerber organic fruitsap op basis van gepureerde appel  en  Mango. Een lekker biologisch tussendoortje voor kindjes vanaf 6 maanden. Zonder toegevoegde suikes, alleen van nature aanwezige suikers uit fruit Op basis van fruitpuree Biologische ingredienten, zorgvuldig geselecteerd voor jouw kleintje Zonder conserveermiddelen  en  kleurstoffen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Baby en kind Babyvoeding Tussendoortjes (baby en kind)
+ Drankjes (baby en kind) Baby drinksapjes","gerber organic [SEP] appel mango sap [SEP] Gerber organic fruitsap op basis van gepureerde appel  en  Mango. Een lekker biologisch tussendoortje voor kindjes vanaf 6 maanden. Zonder toegevoegde suikes, alleen van nature aanwezige suikers uit fruit Op basis van fruitpuree Biologische ingredienten, zorgvuldig geselecteerd voor jouw kleintje Zonder conserveermiddelen  en  kleurstoffen [SEP] baby fruit premium",gerber organic appel mango sap baby fruit premium,null,null,null
+0.09373989,15639,485684,Het sapgilde,Appel - mangosap bio,"Het sapgilde appel-mango is puur sap van 100% biologische teelt. Het fruit wordt op ambachtelijke wijze geperst en wij voegen vervolgens niets aan het sap toe! Ambachtelijk geproduceerd in flevoland Door het sap kort te verwarmen tot 80 graden celsius wordt het langer houdbaar gemaakt Puur natuurlijk sap, biologisch Alleen het sapgilde kan het predicaat 'meesterlijk' toekennen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ ""Sinaasappelsap & drank (jus dorange)""
+ Sinaasappelsap & drank  (ongekoeld)","het sapgilde [SEP] appel - mangosap bio [SEP] Het sapgilde appel-mango is puur sap van 100% biologische teelt. Het fruit wordt op ambachtelijke wijze geperst en wij voegen vervolgens niets aan het sap toe! Ambachtelijk geproduceerd in flevoland Door het sap kort te verwarmen tot 80 graden celsius wordt het langer houdbaar gemaakt Puur natuurlijk sap, biologisch Alleen het sapgilde kan het predicaat 'meesterlijk' toekennen [SEP] samengesteld sap",het sapgilde appel - mangosap bio samengesteld sap,null,null,null
+0.09352289,9884,516544,AH,Haverrepen naturel met vleugje honing,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Ontbijtgranen en beleg Tussendoortjes
+ Snoep koek chips en chocolade Fruit noten mueslireep
+ Mueslirepen Koek",ah [SEP] haverrepen naturel met vleugje honing [SEP]  [SEP] graan en mueslirepen,ah haverrepen naturel met vleugje honing graan en mueslirepen,null,null,null
+0.09347884,4673,419811,Hertog,Ijssalon amarena-kers vanille,"Hertog IJssalon Amarena-Kers Vanille, heerlijk romig vanilleijs overgoten met een rijke amarena-kersensaus en witte chocoladekrullen. Hertog Amarena-Kers Vanille IJssalon, romig ijs met witte chocoladekrullen Een onvergetelijke combinatie van vanilleroomijs en amarena-kersensaus Met hartstocht bereid schepijs met knisperende, witte chocoladekrullen Heerlijk als nagerecht of gewoon voor tussendoor om samen van te genieten","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Schepijs Roomschepijs","hertog [SEP] ijssalon amarena-kers vanille [SEP] Hertog IJssalon Amarena-Kers Vanille, heerlijk romig vanilleijs overgoten met een rijke amarena-kersensaus en witte chocoladekrullen. Hertog Amarena-Kers Vanille IJssalon, romig ijs met witte chocoladekrullen Een onvergetelijke combinatie van vanilleroomijs en amarena-kersensaus Met hartstocht bereid schepijs met knisperende, witte chocoladekrullen Heerlijk als nagerecht of gewoon voor tussendoor om samen van te genieten [SEP] roomijs standaard",hertog ijssalon amarena-kers vanille roomijs standaard,null,null,null
+0.09347692,887,426228,AH Biologisch,Meergranen pannenkoekenmix,"Ah biologische meergranen pannenkoekenmix met spelt, rogge en tarwe. Ouderwets lekker met suiker en appelstroop of juist hartig. Je hoeft de pannenkoek alleen maar even op te warmen. Biologisch Meergranen Alleen even opwarmen in de pan of magnetron","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen selderij' 'Geen eieren']","Pasta rijst en wereldkeuken Salades pizza maaltijden
+ Bakproducten Pannenkoeken poffertjes Bak mixen Pannenkoekenmix
+ Pannenkoekenmix (diverse)","ah biologisch [SEP] meergranen pannenkoekenmix [SEP] Ah biologische meergranen pannenkoekenmix met spelt, rogge en tarwe. Ouderwets lekker met suiker en appelstroop of juist hartig. Je hoeft de pannenkoek alleen maar even op te warmen. Biologisch Meergranen Alleen even opwarmen in de pan of magnetron [SEP] hm pann poff waf",ah biologisch meergranen pannenkoekenmix hm pann poff waf,null,null,null
+0.09345837,17496,34347,Jerez,Sherry medium,"Kleur, smaak: sherry, halfzoet Druivenras: palomino Land, streek: Spanje, Jerez Lekker bij: kaas, kip Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja' 'Geen sulfiet'
+ 'Geen selderij' 'Geen kreeftachtigen (schaaldieren)' ""Geen pinda's""
+ 'Geen schelpdieren (schaaldieren)' 'Geen melk' 'Geen lupine' 'Geen sesam'
+ 'Geen vis' 'Veganistisch' 'Prijsfavoriet' 'Geen mosterd' 'Vegetarisch'
+ 'Geen eieren']","Wijn en bubbels Port sherry Sherry Half zoete sherry
+ Spaanse sherry (half zoet)","jerez [SEP] sherry medium [SEP] Kleur, smaak: sherry, halfzoet Druivenras: palomino Land, streek: Spanje, Jerez Lekker bij: kaas, kip Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] sherry",jerez sherry medium sherry,null,null,null
+0.0932817,9378,479876,Ajax,Allesreiniger fte des fleurs hibiscus,"Laat je huis stralen met Ajax fete des fleurs hibiscus. De nieuwe formule met een sterkere langdurige geur is even effectief, maar meer verantwoord met 99% ingredienen van natuurlijke oorsprong. Nieuwe formule met een sterkere 24 uur natuurlijke frisheid (vs. Vorige) Nieuwe formule met 99% ingredienten van natuurlijke oorsprong 100% reinigingskracht Fles gemaakt van 100% gerecycled plastic",['Laag zout' 'Laag vet' 'Laag suiker'],Huishouden Schoonmaakmiddelen Allesreiniger,"ajax [SEP] allesreiniger fte des fleurs hibiscus [SEP] Laat je huis stralen met Ajax fete des fleurs hibiscus. De nieuwe formule met een sterkere langdurige geur is even effectief, maar meer verantwoord met 99% ingredienen van natuurlijke oorsprong. Nieuwe formule met een sterkere 24 uur natuurlijke frisheid (vs. Vorige) Nieuwe formule met 99% ingredienten van natuurlijke oorsprong 100% reinigingskracht Fles gemaakt van 100% gerecycled plastic [SEP] allesreiniger vloeibaar",ajax allesreiniger fte des fleurs hibiscus allesreiniger vloeibaar,null,null,null
+0.09318183,18384,550584,AH,Flock haas zittend 13cm,AH flock haas zittend. Kleur: groen Afmeting: 13 cm De AH paashazen zijn mooi geflockt waardoor ze er zacht en aaibaar uitzien. Plaat ze als decoratie bijvoorbeeld op de gezellige eettafel  en vier een Vrolijk Pasen!,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Paasdecoratie,ah [SEP] flock haas zittend 13cm [SEP] AH flock haas zittend. Kleur: groen Afmeting: 13 cm De AH paashazen zijn mooi geflockt waardoor ze er zacht en aaibaar uitzien. Plaat ze als decoratie bijvoorbeeld op de gezellige eettafel  en vier een Vrolijk Pasen! [SEP] pasen in out,ah flock haas zittend 13cm pasen in out,null,null,null
+0.093095705,17173,165277,AH,Hertenbiefstuk,"Hertenbiefstuk 2 stuks ontdooid Sappig, mals vlees met een zachte wildsmaak: pure verwennerij voor wildliefhebbers. Verrassend eenvoudig te bereiden. Hertenvlees afkomstig van Nieuw Zeelandse weiden waar ze enorme vlaktes hebben om op te groeien.","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Vlees Kalfsvlees lamsvlees wild Wildvlees
+ Hert Hert (vers)","ah [SEP] hertenbiefstuk [SEP] Hertenbiefstuk 2 stuks ontdooid Sappig, mals vlees met een zachte wildsmaak: pure verwennerij voor wildliefhebbers. Verrassend eenvoudig te bereiden. Hertenvlees afkomstig van Nieuw Zeelandse weiden waar ze enorme vlaktes hebben om op te groeien. [SEP] wild",ah hertenbiefstuk wild,null,null,null
+0.09307933,6399,185533,AH,Partjes perzik op lichte siroop,Zongerijpte perziken Geschikt voor taarten en gebak,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Soepen sauzen kruiden olie Conserven
+ Fruit Fruitconserven Perziken nectarines Perziken
+ Perziken (conserven)",ah [SEP] partjes perzik op lichte siroop [SEP] Zongerijpte perziken Geschikt voor taarten en gebak [SEP] perzik,ah partjes perzik op lichte siroop perzik,null,null,null
+0.09301361,15518,478030,AH,Biefstuk peperrand,"Een mooie biefstuk met fijne structuur. Afkomstig van de dikke lende, een van de meest malse delen van het rund. Met een rand van peperkorrels, dus een echte peperbiefstuk. Rundvlees Bereiding: koekenpan, 2 tot 8 min., afhankelijk van de gewenste gaarheid Vacuum verpakt om de volle smaak en sappige structuur optimaal te behouden Tip: prik niet met een vork in de biefstuk, zo blijft deze mals en sappig","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Vlees Rundvlees Biefstuk entrecote
+ Biefstuk Runderbiefstuk (vers)","ah [SEP] biefstuk peperrand [SEP] Een mooie biefstuk met fijne structuur. Afkomstig van de dikke lende, een van de meest malse delen van het rund. Met een rand van peperkorrels, dus een echte peperbiefstuk. Rundvlees Bereiding: koekenpan, 2 tot 8 min., afhankelijk van de gewenste gaarheid Vacuum verpakt om de volle smaak en sappige structuur optimaal te behouden Tip: prik niet met een vork in de biefstuk, zo blijft deze mals en sappig [SEP] steak",ah biefstuk peperrand steak,null,null,null
+0.09286493,9266,466825,AH,Licht en sprankelend perzik,Lekker verfrissend! Sprankelend natuurlijk bronwater met perziksmaak. De ideale dorstlesser voor ieder moment van de dag. Met koolzuur Drinkt lekker weg Met slechts 2 kcal per glas Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Frisdrank Frisdrank met fruit
+ Frisdrank met fruit (fles)",ah [SEP] licht en sprankelend perzik [SEP] Lekker verfrissend! Sprankelend natuurlijk bronwater met perziksmaak. De ideale dorstlesser voor ieder moment van de dag. Met koolzuur Drinkt lekker weg Met slechts 2 kcal per glas Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] overig volwassen fris gvp,ah licht en sprankelend perzik overig volwassen fris gvp,null,null,null
+0.09285319,11812,475496,Fage,Total Griekse yoghurt 5%,"Naturel uitgelekte yoghurt volgens grieks recept. Rijk, romig en met een unieke smaak Rijk aan eiwiten. Zonder toegevoegde suiker Gemaakt met slechts melk en yoghurt culturen Zonder additieven of conserveringsmiddelen","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Zuivel plantaardig en eieren Yoghurt en kwark Yoghurt
+ Griekse yoghurt","fage [SEP] total griekse yoghurt 5% [SEP] Naturel uitgelekte yoghurt volgens grieks recept. Rijk, romig en met een unieke smaak Rijk aan eiwiten. Zonder toegevoegde suiker Gemaakt met slechts melk en yoghurt culturen Zonder additieven of conserveringsmiddelen [SEP] yoghurt naturel",fage total griekse yoghurt 5% yoghurt naturel,null,null,null

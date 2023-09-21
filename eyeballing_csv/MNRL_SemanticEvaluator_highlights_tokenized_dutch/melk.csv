@@ -1,0 +1,596 @@
+scoreLLM score,ann,prd_id,brand,title,highlights,properties,taxonomies,full_text,full_text_no_sep,Unnamed: 0,search_query,scorePropensity score
+0.1469002,1439,237304,AH,Yoghurt met kokos,"Frisse, volle yoghurt met kokos. 100% Karton uit goed beheerde bossen.","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Zuivel plantaardig en eieren Tussendoortjes Yoghurt en kwark
+ Zuivel tussendoortjes (voor thuis en onderweg) Yoghurt
+ Yoghurt tussendoortjes","ah [SEP] yoghurt met kokos [SEP] Frisse, volle yoghurt met kokos. 100% Karton uit goed beheerde bossen. [SEP] desserts",ah yoghurt met kokos desserts,null,null,null
+0.14369893,19744,455722,AH,Heren enkelsokken maat 43-46,"2 paar Met ingeborduurde maat 77% katoen, 22% polyamide, 1% elastaan",['Laag zout' 'Laag vet' 'Laag suiker'],"Koken tafelen vrije tijd Kleding en accessoires Herenmode
+ Herensokken Herensokken - maat 43-46","ah [SEP] heren enkelsokken maat 43-46 [SEP] 2 paar Met ingeborduurde maat 77% katoen, 22% polyamide, 1% elastaan [SEP] sokken",ah heren enkelsokken maat 43-46 sokken,null,null,null
+0.14313269,6891,436936,Faszination,Hugo,"Kleur, smaak: bubbels, lichtzoet Druivenras: {4} Land, streek: Duitsland Lekker bij: dessert Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen sulfiet' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sesam' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij'
+ 'Geen gluten']",Wijn en bubbels Mousserende wijn Hugo wijncocktail,"faszination [SEP] hugo [SEP] Kleur, smaak: bubbels, lichtzoet Druivenras: {4} Land, streek: Duitsland Lekker bij: dessert Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] ah eigen merk",faszination hugo ah eigen merk,null,null,null
+0.14225963,7993,506781,Hertog,Citroentaart meringue ijssalon,Heerlijke citroentaart roomijs overgoten met een frisse citroensaus en verrukkelijke stukjes meringue. Met verrukkelijke stukjes meringue Met frisse citroensaus Lekker om samen van te genieten Het ijssalon gevoel bij jou thuis,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Roomijs premium",hertog [SEP] citroentaart meringue ijssalon [SEP] Heerlijke citroentaart roomijs overgoten met een frisse citroensaus en verrukkelijke stukjes meringue. Met verrukkelijke stukjes meringue Met frisse citroensaus Lekker om samen van te genieten Het ijssalon gevoel bij jou thuis [SEP] roomijs standaard,hertog citroentaart meringue ijssalon roomijs standaard,null,null,null
+0.14074647,13967,533093,Chocomel,De enige echte koud,Chocomel koud. Koud het lekkerst,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Chocolademelk Chocolademelk (pakken),chocomel [SEP] de enige echte koud [SEP] Chocomel koud. Koud het lekkerst [SEP] drinkyoghurt,chocomel de enige echte koud drinkyoghurt,null,null,null
+0.13826588,5651,135647,AH,Yoghurtijs naturel,Lekker luchtig dessert! Yoghurtijs naturel bereid met yoghurt en een lekkere friszure smaak. Combineer eens met verse bosvruchten Tip! Zet 5 minuten buiten de koelkast voor de beste textuur en romigheid,['Nutri-Score D'],Diepvries IJs Schepijs Sorbet en yoghurtijs,ah [SEP] yoghurtijs naturel [SEP] Lekker luchtig dessert! Yoghurtijs naturel bereid met yoghurt en een lekkere friszure smaak. Combineer eens met verse bosvruchten Tip! Zet 5 minuten buiten de koelkast voor de beste textuur en romigheid [SEP] premiumijs,ah yoghurtijs naturel premiumijs,null,null,null
+0.1381334,11251,540597,Chocomel,halfvol 6 liter voordeel pakket,Chocomel halfvol 1L 6x,[],Zuivel plantaardig en eieren Chocolademelk Chocolademelk (pakken),chocomel [SEP] halfvol 6 liter voordeel pakket [SEP] Chocomel halfvol 1L 6x [SEP] ,chocomel halfvol 6 liter voordeel pakket ,null,null,null
+0.1377405,17709,552990,AH Excellent,paaschocolade pakket,Heerlijk paaschocolade pakket AH Excellent Cholade paashaasjes melk 1x AH Excellent Chocolade kuikentjes 1x,[],"Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Chocolade paasfiguren",ah excellent [SEP] paaschocolade pakket [SEP] Heerlijk paaschocolade pakket AH Excellent Cholade paashaasjes melk 1x AH Excellent Chocolade kuikentjes 1x [SEP] ,ah excellent paaschocolade pakket ,null,null,null
+0.13747634,10249,379333,AH,Volkoren eierkoeken,"Of je ze nou eet bij de koffie, tussendoor of ’s avonds
+				  op de bank, deze volkoren eierkoeken gaan erin als koek! Volle bite Bereid met vrije uitloop eieren Geliefd bij jong en oud Slechts 78 kcal per koek Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen noten' 'Geen selderij' 'Geen eieren']","Bakkerij en banket Snoep koek chips en chocolade Koek Banket
+ Eierkoeken","ah [SEP] volkoren eierkoeken [SEP] Of je ze nou eet bij de koffie, tussendoor of ’s avonds
+				  op de bank, deze volkoren eierkoeken gaan erin als koek! Volle bite Bereid met vrije uitloop eieren Geliefd bij jong en oud Slechts 78 kcal per koek Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] doorzicht koek groot",ah volkoren eierkoeken doorzicht koek groot,null,null,null
+0.13716447,15329,226544,Hertog,Ijssalon aardbeien meringue,Heerlijk vanille- en aardbeien ijs met stukjes echte meringue. Vanille- en aardbeienijs met aardbeiensaus Met stukjes echte meringue Meringue met een laagje witte chocolade Heerlijk in een bakje of op een hoorntje,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen selderij' 'Geen eieren']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Schepijs Roomschepijs",hertog [SEP] ijssalon aardbeien meringue [SEP] Heerlijk vanille- en aardbeien ijs met stukjes echte meringue. Vanille- en aardbeienijs met aardbeiensaus Met stukjes echte meringue Meringue met een laagje witte chocolade Heerlijk in een bakje of op een hoorntje [SEP] roomijs standaard,hertog ijssalon aardbeien meringue roomijs standaard,null,null,null
+0.13706931,16028,520820,AH,Zachte kokos drink naturel 4-pack,AH Zachte kokos drink naturel 4-pack AH Zachte kokos drink naturel 4x,[],"Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Plantaardige drinks Plantaardige zuivel alternatieven Kokosdrink",ah [SEP] zachte kokos drink naturel 4-pack [SEP] AH Zachte kokos drink naturel 4-pack AH Zachte kokos drink naturel 4x [SEP] ,ah zachte kokos drink naturel 4-pack ,null,null,null
+0.13699515,2835,492042,AH Excellent,Paas bokkenpootjes,"Bokkenpootjes op hun paasbest. Deze koekjes zijn gevuld met cremevulling en gedecoreerd met pindaschaafsel en een gele coating. Heerlijk Bros en knapperig Lekker tijdens pasen, bokkenpootjes in een 'paasjasje' Koffie of thee, daar hoort iets lekkers bij Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Paaslekkernijen Koek Paaskoeken,"ah excellent [SEP] paas bokkenpootjes [SEP] Bokkenpootjes op hun paasbest. Deze koekjes zijn gevuld met cremevulling en gedecoreerd met pindaschaafsel en een gele coating. Heerlijk Bros en knapperig Lekker tijdens pasen, bokkenpootjes in een 'paasjasje' Koffie of thee, daar hoort iets lekkers bij Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] pasen koek",ah excellent paas bokkenpootjes pasen koek,null,null,null
+0.13687068,10365,493725,Hertog,Ijssalon Cookie Crumble,Hertog Cookie Crumble IJssalon Mini chocolade ijs en ijs met koekjessmaak overgoten met een onvergetelijke saus met chocoladesmaak en knapperige stukjes koek. Hertog Cookie Crumble IJssalon met saus met chococladesmaak en stukjes koek Een onvergetelijke combinatie van chocolade-ijs en ijs met koekjessmaak Met hartstocht bereid roomijs met knapperige stukjes koek Heerlijk als nagerecht of gewoon voor tussendoor om samen van te genieten,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Schepijs Roomschepijs",hertog [SEP] ijssalon cookie crumble [SEP] Hertog Cookie Crumble IJssalon Mini chocolade ijs en ijs met koekjessmaak overgoten met een onvergetelijke saus met chocoladesmaak en knapperige stukjes koek. Hertog Cookie Crumble IJssalon met saus met chococladesmaak en stukjes koek Een onvergetelijke combinatie van chocolade-ijs en ijs met koekjessmaak Met hartstocht bereid roomijs met knapperige stukjes koek Heerlijk als nagerecht of gewoon voor tussendoor om samen van te genieten [SEP] roomijs standaard,hertog ijssalon cookie crumble roomijs standaard,null,null,null
+0.13666014,6675,515664,Hertog,Citroentaart meringue,"Hertog citroentaart meringue mini ijssalon, heerlijk romig citroenijs overgoten met een frisse citroensaus en verrukkelijke stukjes meringue. Hertog citroentaart meringue mini ijssalon met stukjes meringue Verrukkelijk romig citroenijs overgoten met een frisse citroensaus Voor een onvergetelijke citroen sensatie Heerlijk citroenijs met echte meringue chunks","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Diepvries Zuivel plantaardig en eieren IJs Toetjes
+ Roomijs bekertjes Roomijs","hertog [SEP] citroentaart meringue [SEP] Hertog citroentaart meringue mini ijssalon, heerlijk romig citroenijs overgoten met een frisse citroensaus en verrukkelijke stukjes meringue. Hertog citroentaart meringue mini ijssalon met stukjes meringue Verrukkelijk romig citroenijs overgoten met een frisse citroensaus Voor een onvergetelijke citroen sensatie Heerlijk citroenijs met echte meringue chunks [SEP] roomijs standaard",hertog citroentaart meringue roomijs standaard,null,null,null
+0.13551915,14062,481804,Naïf,Relaxing bath foam,Schuimfeest voor extra plezier in bad. Rijkelijk schuim zonder sles en microplastics Geschikt voor de gevoelige (baby)huid Dermatologisch getest,['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Baby en kind Verzorging Baby en kind verzorging
+ Baby bad- en doucheverzorging Lichaamsverzorging Bad en douche
+ Douchegel",naïf [SEP] relaxing bath foam [SEP] Schuimfeest voor extra plezier in bad. Rijkelijk schuim zonder sles en microplastics Geschikt voor de gevoelige (baby)huid Dermatologisch getest [SEP] babyverzorging,naïf relaxing bath foam babyverzorging,null,null,null
+0.13527937,16029,429604,Nestlé,Kaktus,"Dit knisperfrisse ijsje bestaat uit maar liefst 3 smaken: citroen, aardbei en sinaasappel. Met knisperende coating en aardbeienstukjes. Verrassende knisperende coating","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Diepvries IJs Waterijsjes,"nestlé [SEP] kaktus [SEP] Dit knisperfrisse ijsje bestaat uit maar liefst 3 smaken: citroen, aardbei en sinaasappel. Met knisperende coating en aardbeienstukjes. Verrassende knisperende coating [SEP] handijs water",nestlé kaktus handijs water,null,null,null
+0.13422191,12111,540598,Chocomel,vol 6 liter voordeel pakket,Chocomel 1L vol 6x,[],Zuivel plantaardig en eieren Chocolademelk Chocolademelk (pakken),chocomel [SEP] vol 6 liter voordeel pakket [SEP] Chocomel 1L vol 6x [SEP] ,chocomel vol 6 liter voordeel pakket ,null,null,null
+0.13402764,10728,209566,Hertog,Ijssalon mini aardbeien meringue,Vanille-aardbeienijs met merengue chunks en een laagje witte chocolade: voor echte ijs liefhebbers. Hertog ijsbeker met aardbeien merengue ijs Vanille- en aarbeienijs met aardbeien saus Voor een echte aardbeien sensatie Met stukjes echte merengue met een laagje witte chocolade,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Diepvries Zuivel plantaardig en eieren IJs Toetjes
+ Roomijs bekertjes Roomijs",hertog [SEP] ijssalon mini aardbeien meringue [SEP] Vanille-aardbeienijs met merengue chunks en een laagje witte chocolade: voor echte ijs liefhebbers. Hertog ijsbeker met aardbeien merengue ijs Vanille- en aarbeienijs met aardbeien saus Voor een echte aardbeien sensatie Met stukjes echte merengue met een laagje witte chocolade [SEP] roomijs standaard,hertog ijssalon mini aardbeien meringue roomijs standaard,null,null,null
+0.13344562,5096,493724,Hertog,Ijssalon Cookie Crumble,"Hertog Cookie Crumble IJssalon, heerlijk chocolade-ijs en ijs met koekjessmaak, overgoten met een saus met chocoladesmaak en knapperige stukjes koek. Hertog Cookie Crumble IJssalon met saus met chococladesmaak en stukjes koek Een onvergetelijke combinatie van chocolade-ijs en ijs met koekjessmaak Met hartstocht bereid roomijs met knapperige stukjes koek Heerlijk als nagerecht of gewoon voor tussendoor om samen van te genieten","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Schepijs Roomschepijs","hertog [SEP] ijssalon cookie crumble [SEP] Hertog Cookie Crumble IJssalon, heerlijk chocolade-ijs en ijs met koekjessmaak, overgoten met een saus met chocoladesmaak en knapperige stukjes koek. Hertog Cookie Crumble IJssalon met saus met chococladesmaak en stukjes koek Een onvergetelijke combinatie van chocolade-ijs en ijs met koekjessmaak Met hartstocht bereid roomijs met knapperige stukjes koek Heerlijk als nagerecht of gewoon voor tussendoor om samen van te genieten [SEP] roomijs standaard",hertog ijssalon cookie crumble roomijs standaard,null,null,null
+0.13333598,17702,138226,Nestlé,Yogolino perzik 6+ maanden,"Het toetje voor baby's! Nestle yogolino perzik is een verantwoord heerlijk zacht zuivelhapje, bereid met kwark en fruit. Niet alleen lekker als toetje, maar ook geschikt als tussendoortje. Op basis van kwark Zonder kleurstoffen, conserveermiddelen of kunstmatige aroma's Bron van calcium Koel bewaren niet nodig, dus handig om mee te nemen","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Baby en kind Babyvoeding Fruithapjes (baby en kind)
+ Toetjes (baby en kind) Toetjes vanaf 6 maanden Fruit toetjes","nestlé [SEP] yogolino perzik 6+ maanden [SEP] Het toetje voor baby's! Nestle yogolino perzik is een verantwoord heerlijk zacht zuivelhapje, bereid met kwark en fruit. Niet alleen lekker als toetje, maar ook geschikt als tussendoortje. Op basis van kwark Zonder kleurstoffen, conserveermiddelen of kunstmatige aroma's Bron van calcium Koel bewaren niet nodig, dus handig om mee te nemen [SEP] toetjes",nestlé yogolino perzik 6+ maanden toetjes,null,null,null
+0.13329986,3873,209479,Hertog,Ijssalon mini ijs 3 chocolades,"Roomijs van witte chocolade, melkchocolade en pure chocoladesaus: een traktatie voor chocoladeliefhebbers. Hertog ijsbeker met 3 chocolades Heerlijk roomijs met een chocolade sensatie Roomijs van witte chocolade en melkchocolade, met pure chocoladesaus Met knisperige chocolade chunks","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Diepvries Zuivel plantaardig en eieren IJs Toetjes
+ Roomijs bekertjes Roomijs","hertog [SEP] ijssalon mini ijs 3 chocolades [SEP] Roomijs van witte chocolade, melkchocolade en pure chocoladesaus: een traktatie voor chocoladeliefhebbers. Hertog ijsbeker met 3 chocolades Heerlijk roomijs met een chocolade sensatie Roomijs van witte chocolade en melkchocolade, met pure chocoladesaus Met knisperige chocolade chunks [SEP] roomijs standaard",hertog ijssalon mini ijs 3 chocolades roomijs standaard,null,null,null
+0.13324676,11531,62990,Kinder,Surprise,Kinder surprise eieren in een paasverpakking. Vier surprise eieren in een vrolijke verpakking Elk ei bevat een leuke verrassing Lekker genieten van heerlijke melkchocolade,"['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Paaseitjes Gevulde paaseitjes",kinder [SEP] surprise [SEP] Kinder surprise eieren in een paasverpakking. Vier surprise eieren in een vrolijke verpakking Elk ei bevat een leuke verrassing Lekker genieten van heerlijke melkchocolade [SEP] pasen  chocoloade,kinder surprise pasen  chocoloade,null,null,null
+0.13311753,4797,128352,Nestlé,Yogolino aardbei 6m+,"Het toetje speciaal ontwikkeld voor baby's! Nestle yogolino aardbei is een verantwoord, heerlijk zacht zuivelhapje, bereid met melk en fruit. Bron van calcium Zonder conserveermiddelen en kleurstoffen* (*conform wetgeving) Koel bewaren niet nodig, dus handig om mee te nemen Vanaf 6 maanden","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Baby en kind Babyvoeding Fruithapjes (baby en kind)
+ Toetjes (baby en kind) Toetjes vanaf 6 maanden Fruit toetjes","nestlé [SEP] yogolino aardbei 6m+ [SEP] Het toetje speciaal ontwikkeld voor baby's! Nestle yogolino aardbei is een verantwoord, heerlijk zacht zuivelhapje, bereid met melk en fruit. Bron van calcium Zonder conserveermiddelen en kleurstoffen* (*conform wetgeving) Koel bewaren niet nodig, dus handig om mee te nemen Vanaf 6 maanden [SEP] toetjes",nestlé yogolino aardbei 6m+ toetjes,null,null,null
+0.1313259,7334,473738,AH,Eierkoeken,Bereid met vrije uitloopeieren Altijd lekker 94 kcal per koek Geen toegevoegd zout Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen noten' 'Geen selderij' 'Geen eieren']","Bakkerij en banket Snoep koek chips en chocolade Koek Banket
+ Eierkoeken",ah [SEP] eierkoeken [SEP] Bereid met vrije uitloopeieren Altijd lekker 94 kcal per koek Geen toegevoegd zout Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] doorzicht koek groot,ah eierkoeken doorzicht koek groot,null,null,null
+0.1310494,19554,455861,AH,Ah d esok wt 35-38,"2 paar Met ingeborduurde maat 77% katoen, 22 polyamide, 1% elastaan",['Laag zout' 'Laag vet' 'Laag suiker'],"Koken tafelen vrije tijd Kleding en accessoires Damesmode
+ Damessokken Damessokken - maat 35-38","ah [SEP] ah d esok wt 35-38 [SEP] 2 paar Met ingeborduurde maat 77% katoen, 22 polyamide, 1% elastaan [SEP] sokken",ah ah d esok wt 35-38 sokken,null,null,null
+0.13057655,7447,169288,Kinder,Surprise melk chocolade,Kinder Surprise is een combinatie van drie geweldige sensaties: Lekker genieten van heerlijke melkchocolade Een leuke verrassing Keer op keer nieuwe figuurtjes verzamelen,"['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Snoep Chocolade Candybars
+ Trakteren Candybars minis",kinder [SEP] surprise melk chocolade [SEP] Kinder Surprise is een combinatie van drie geweldige sensaties: Lekker genieten van heerlijke melkchocolade Een leuke verrassing Keer op keer nieuwe figuurtjes verzamelen [SEP] kids,kinder surprise melk chocolade kids,null,null,null
+0.1302855,16693,162275,AH,Mix voor sjoko,In een handomdraai de lekkerste chocolademelk Alleen melk toevoegen en goed roeren,"['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Chocolademelk cacao anijs
+ Instant chocolademelk",ah [SEP] mix voor sjoko [SEP] In een handomdraai de lekkerste chocolademelk Alleen melk toevoegen en goed roeren [SEP] cacao multiserve,ah mix voor sjoko cacao multiserve,null,null,null
+0.13027163,4082,142572,LU,Prince start naturel,"Lekkere en krokante koekjes, geschikt als ontbijt of als tussendoortje. Rijk aan granen Bevatten magnesium, calcium en ijzer Per 4 stuks verpakt en daardoor eenvoudig om mee te nemen","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij']",Snoep koek chips en chocolade Koek Kinderkoekje,"lu [SEP] prince start naturel [SEP] Lekkere en krokante koekjes, geschikt als ontbijt of als tussendoortje. Rijk aan granen Bevatten magnesium, calcium en ijzer Per 4 stuks verpakt en daardoor eenvoudig om mee te nemen [SEP] verpakt kids",lu prince start naturel verpakt kids,null,null,null
+0.1302037,13029,544528,AH,Ontbijtkoekreep naturel 6-pack,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Nutri-Score C'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij']","Ontbijtgranen en beleg Tussendoortjes
+ Snoep koek chips en chocolade Ontbijtkoek Koek Ontbijtkoekrepen",ah [SEP] ontbijtkoekreep naturel 6-pack [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] ontbijtkoek,ah ontbijtkoekreep naturel 6-pack ontbijtkoek,null,null,null
+0.13013348,13361,508382,AH,Choco kussentjes,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Muesli (chocolade)",ah [SEP] choco kussentjes [SEP]  [SEP] kinder ontbijtgranen,ah choco kussentjes kinder ontbijtgranen,null,null,null
+0.13010797,8435,133192,Nestlé,Yogolino banaan 6+ maanden,"Het toetje speciaal ontwikkeld voor baby's! Nestle yogolino banaan is een verantwoord, heerlijk zacht zuivelhapje, bereid met melk en fruit. Bron van calcium Zonder conserveermiddelen en kleurstoffen* (*conform wetgeving) Koel bewaren niet nodig, dus handig om mee te nemen Vanaf 8 maanden","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Baby en kind Babyvoeding Fruithapjes (baby en kind)
+ Toetjes (baby en kind) Toetjes vanaf 6 maanden Fruit toetjes","nestlé [SEP] yogolino banaan 6+ maanden [SEP] Het toetje speciaal ontwikkeld voor baby's! Nestle yogolino banaan is een verantwoord, heerlijk zacht zuivelhapje, bereid met melk en fruit. Bron van calcium Zonder conserveermiddelen en kleurstoffen* (*conform wetgeving) Koel bewaren niet nodig, dus handig om mee te nemen Vanaf 8 maanden [SEP] toetjes",nestlé yogolino banaan 6+ maanden toetjes,null,null,null
+0.12998216,986,509291,AH,Choc chip lemon,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Snoep koek chips en chocolade Koek Koekjes met chocolade,ah [SEP] choc chip lemon [SEP]  [SEP] verpakt choco,ah choc chip lemon verpakt choco,null,null,null
+0.12986284,11692,497434,Nestlé,Yogolino kids biscuit 2+ jaar,"Nestle yogolino Kids is een heerlijk zacht zuivelhapje met de smaak van cacao. Lekker als toetje of tussendoortje. Elk bekertje is een natuurlijke bron van calcium. Zonder conserveermiddelen en kleurstoffen (conform wetgeving) Bevat calcium, dat bijdraagt aan de groei en ontwikkeling van botten Speciaal ontwikkeld voor peuters",['Laag zout' 'Laag vet' 'Laag suiker'],"Baby en kind Babyvoeding Toetjes (baby en kind)
+ Toetjes vanaf 12 maanden","nestlé [SEP] yogolino kids biscuit 2+ jaar [SEP] Nestle yogolino Kids is een heerlijk zacht zuivelhapje met de smaak van cacao. Lekker als toetje of tussendoortje. Elk bekertje is een natuurlijke bron van calcium. Zonder conserveermiddelen en kleurstoffen (conform wetgeving) Bevat calcium, dat bijdraagt aan de groei en ontwikkeling van botten Speciaal ontwikkeld voor peuters [SEP] toetjes",nestlé yogolino kids biscuit 2+ jaar toetjes,null,null,null
+0.12927772,9706,440744,AH,Kokos choco kokoskoek,Bite size kokoskoek met stukjes chocolade Bereid met 30% kokos Glutenvrij,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren' 'Geen gluten']",Snoep koek chips en chocolade Koek Koekjes met chocolade,ah [SEP] kokos choco kokoskoek [SEP] Bite size kokoskoek met stukjes chocolade Bereid met 30% kokos Glutenvrij [SEP] doorzicht koek klein,ah kokos choco kokoskoek doorzicht koek klein,null,null,null
+0.12832956,11975,484117,AH,Rainbow cookies,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Koek Koek bites,ah [SEP] rainbow cookies [SEP]  [SEP] verpakt choco,ah rainbow cookies verpakt choco,null,null,null
+0.12804794,15176,221728,Hertog,Ijssalon vanille,"Rijk, vol en luxueus vanilleroomijs. Bereid met verse melk en room Met heerlijke vanille uit Madagaskar Met een zachte en romige structuur De basis voor ieder toetje en dessert","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Schepijs Roomschepijs","hertog [SEP] ijssalon vanille [SEP] Rijk, vol en luxueus vanilleroomijs. Bereid met verse melk en room Met heerlijke vanille uit Madagaskar Met een zachte en romige structuur De basis voor ieder toetje en dessert [SEP] roomijs standaard",hertog ijssalon vanille roomijs standaard,null,null,null
+0.1276432,5446,515695,Ben & Jerry's,Half baked,"Bestel nu de half baked pint! Chocolade fudge brownie? cookie dough? kun je niet kiezen? kies dan niet en ga voor half baked! Ben  en  jerry's half baked ijs Ijs met chocolate fudge brownie  en  chunks van chocolate chip koekjesdeeg Bevat Fairtrade gecertificeerde chocolade, suiker en vanille Ben  en  jerrys half baked ijs, nu in verpakking met 40% minder plastic","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen selderij' 'Geen eieren']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Roomijs premium","ben & jerry's [SEP] half baked [SEP] Bestel nu de half baked pint! Chocolade fudge brownie? cookie dough? kun je niet kiezen? kies dan niet en ga voor half baked! Ben  en  jerry's half baked ijs Ijs met chocolate fudge brownie  en  chunks van chocolate chip koekjesdeeg Bevat Fairtrade gecertificeerde chocolade, suiker en vanille Ben  en  jerrys half baked ijs, nu in verpakking met 40% minder plastic [SEP] premiumijs",ben & jerry's half baked premiumijs,null,null,null
+0.12717795,1203,3706,AH,Suikerklontjes,Suikerklontjes Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score D' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Pasta rijst en wereldkeuken
+ Bakkerij en banket Snoep koek chips en chocolade Zelf bakken
+ Bakproducten Koffie Basis bakbenodigdheden Koffieverrijkers
+ Suiker Suiker en zoetstof (staafjes) Koffiefilters suiker
+ Suikerklontjes en staafjes",ah [SEP] suikerklontjes [SEP] Suikerklontjes Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] kristalsuiker singleserve,ah suikerklontjes kristalsuiker singleserve,null,null,null
+0.12654041,2310,221373,Hertog,Ijssalon drie chocolades,"Hertog drie chocolades ijsalon, heerlijk roomijs van witte chocolade & melkchocolade met een saus met chocoladesmaak en chocoladestukjes. Hertog drie chocolades ijssalon: roomijs van witte- & melkchocolade Romig chocolade-ijs overgoten met een heerlijke saus met chocoladesmaak Met verrukkelijke chocoladestukjes voor de echte chocoladeliefhebber Heerlijk als nagerecht of gewoon voor tussendoor om samen van te genieten","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Schepijs Roomschepijs","hertog [SEP] ijssalon drie chocolades [SEP] Hertog drie chocolades ijsalon, heerlijk roomijs van witte chocolade & melkchocolade met een saus met chocoladesmaak en chocoladestukjes. Hertog drie chocolades ijssalon: roomijs van witte- & melkchocolade Romig chocolade-ijs overgoten met een heerlijke saus met chocoladesmaak Met verrukkelijke chocoladestukjes voor de echte chocoladeliefhebber Heerlijk als nagerecht of gewoon voor tussendoor om samen van te genieten [SEP] roomijs standaard",hertog ijssalon drie chocolades roomijs standaard,null,null,null
+0.1264675,8877,524831,Napoleon,Cocktail mix,"De cocktail mix, ambachtelijke Napoleon kogels gevuld met pina colada, tequilla sunrice en limoncello spritz. Met natuurlijke aromas en kleuren Glutenvrij","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Snoep koek chips en chocolade Snoep Harde snoep Zuurtjes,"napoleon [SEP] cocktail mix [SEP] De cocktail mix, ambachtelijke Napoleon kogels gevuld met pina colada, tequilla sunrice en limoncello spritz. Met natuurlijke aromas en kleuren Glutenvrij [SEP] snoep",napoleon cocktail mix snoep,null,null,null
+0.12645453,5236,440743,AH,Kokos naturel kokoskoek,Proef en geniet van deze heerlijke pure kokoskoek bereid met 35% kokos. Bite size kokoskoek Bereid met 35% kokos,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen selderij' 'Geen eieren' 'Geen gluten']",Snoep koek chips en chocolade Koek Koffiekoekjes,ah [SEP] kokos naturel kokoskoek [SEP] Proef en geniet van deze heerlijke pure kokoskoek bereid met 35% kokos. Bite size kokoskoek Bereid met 35% kokos [SEP] doorzicht koek klein,ah kokos naturel kokoskoek doorzicht koek klein,null,null,null
+0.12641323,11761,127337,AH,Choco chip double choc milk dark cookies,Knapperige koekjes Met pure en melkchocolade,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Snoep koek chips en chocolade Koek Koekjes met chocolade,ah [SEP] choco chip double choc milk dark cookies [SEP] Knapperige koekjes Met pure en melkchocolade [SEP] verpakt choco,ah choco chip double choc milk dark cookies verpakt choco,null,null,null
+0.12625727,4182,509386,AH,Choc chip  omhuld met melkchocolade,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Snoep koek chips en chocolade Koek Koekjes met chocolade,ah [SEP] choc chip  omhuld met melkchocolade [SEP]  [SEP] verpakt choco,ah choc chip  omhuld met melkchocolade verpakt choco,null,null,null
+0.12618774,5620,517283,AH Biologisch,Haverkoekjes naturel,,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij']",Snoep koek chips en chocolade Koek Biscuits Granenbiscuits,ah biologisch [SEP] haverkoekjes naturel [SEP]  [SEP] verpakt koek bewust,ah biologisch haverkoekjes naturel verpakt koek bewust,null,null,null
+0.12612444,12961,540600,AH,IJsbonbons hazelnoot,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen selderij' 'Geen eieren']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ IJstaarten",ah [SEP] ijsbonbons hazelnoot [SEP]  [SEP] premiumijs,ah ijsbonbons hazelnoot premiumijs,null,null,null
+0.12548214,2164,475129,Danone,Af en toetje yoghurt met knetters,"Een danoontje kan altijd, maar voor af en toe heeft Danone af en toetje knetters. Een kindertoetje bestaande uit naturel yoghurt en knapperige knetter balletjes. Een feest voor jouw kindje! Een lekker kindertoetje om je kind af en toe eens echt te verwennen Laag in vet en nutriscore b De knetters zijn gemaakt van heerlijke knettersuiker Dubbel pret: in een verpakking zitten 2 toetjes","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet'
+ 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen selderij' 'Geen eieren']",Zuivel plantaardig en eieren Toetjes Kindertoetjes,"danone [SEP] af en toetje yoghurt met knetters [SEP] Een danoontje kan altijd, maar voor af en toe heeft Danone af en toetje knetters. Een kindertoetje bestaande uit naturel yoghurt en knapperige knetter balletjes. Een feest voor jouw kindje! Een lekker kindertoetje om je kind af en toe eens echt te verwennen Laag in vet en nutriscore b De knetters zijn gemaakt van heerlijke knettersuiker Dubbel pret: in een verpakking zitten 2 toetjes [SEP] kids desserts",danone af en toetje yoghurt met knetters kids desserts,null,null,null
+0.12544203,628,451186,Kinder,Surprise,Kinder surprise is een combinatie van drie geweldige sensaties. Lekker genieten van heerlijke melkchocolade Een leuke verrassing Keer op keer nieuwe figuurtjes verzamelen,"['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Snoep Chocolade Candybars
+ Trakteren Candybars minis",kinder [SEP] surprise [SEP] Kinder surprise is een combinatie van drie geweldige sensaties. Lekker genieten van heerlijke melkchocolade Een leuke verrassing Keer op keer nieuwe figuurtjes verzamelen [SEP] kids,kinder surprise kids,null,null,null
+0.1252932,13689,478176,Durex,Condooms pleasure me,Durex condooms real feeling - latexvrij - 20 stuks. Extra plezier: met ribbels en noppen voor extra plezier Condooms met glijmiddel: standaard glijmiddel op basis van siliconen Aangename geur Voorgevormd Durex pleasure-fit tm met reservoir voor meer comfort,['Laag zout' 'Laag vet' 'Laag suiker'],Drogisterij Gezondheid Intimiteit Condooms,durex [SEP] condooms pleasure me [SEP] Durex condooms real feeling - latexvrij - 20 stuks. Extra plezier: met ribbels en noppen voor extra plezier Condooms met glijmiddel: standaard glijmiddel op basis van siliconen Aangename geur Voorgevormd Durex pleasure-fit tm met reservoir voor meer comfort [SEP] family planning,durex condooms pleasure me family planning,null,null,null
+0.1250953,2415,234162,Oreo,Original 10x duoverpakking,"Oreo is een uniek koekje met een heerlijke vanille cremevulling. Oreo, al meer dan 100 jaar onverminderd populair Lekker om mee te bakken, of door de koffie of milkshake Per 2 koekjes verpakt en daardoor handig om mee te nemen","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij']",Snoep koek chips en chocolade Koek Koekjes met chocolade,"oreo [SEP] original 10x duoverpakking [SEP] Oreo is een uniek koekje met een heerlijke vanille cremevulling. Oreo, al meer dan 100 jaar onverminderd populair Lekker om mee te bakken, of door de koffie of milkshake Per 2 koekjes verpakt en daardoor handig om mee te nemen [SEP] verpakt choco",oreo original 10x duoverpakking verpakt choco,null,null,null
+0.12506306,2954,56401,Choca,Vlokken,Heerlijke cacaofantastie vlokken voor elke dag! Lekker voor op een boterham of in je yoghurt,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij']","Ontbijtgranen en beleg Zoet broodbeleg Hagelslag en vlokken
+ Vlokken",choca [SEP] vlokken [SEP] Heerlijke cacaofantastie vlokken voor elke dag! Lekker voor op een boterham of in je yoghurt [SEP] vlokken,choca vlokken vlokken,null,null,null
+0.12492961,2442,238020,Nestlé,Bros melkchocolade mousse,"Al het lekkere van Bros in een melkchocolade mousse, een luchtige smeltsensatie van heerlijke chocolade met de unieke Bros bubbles. Luchtige sensatie, smelt op de tong Unieke Bros bubbles Een heerlijk dessert voor de hele familie!","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Toetjes Chocolademousse,"nestlé [SEP] bros melkchocolade mousse [SEP] Al het lekkere van Bros in een melkchocolade mousse, een luchtige smeltsensatie van heerlijke chocolade met de unieke Bros bubbles. Luchtige sensatie, smelt op de tong Unieke Bros bubbles Een heerlijk dessert voor de hele familie! [SEP] desserts",nestlé bros melkchocolade mousse desserts,null,null,null
+0.12458158,1773,67813,Mona,Bitterkoekjespudding,"De klassieker, een heerlijk luchtig Mona toetje met echte stukjes amandel en bitterkoekjes. Een echt toetje. Luchtige pudding met 4,3% bitterkoekjes Heerlijk als toetje om samen te delen Calcium is goed voor je botten Proteine draagt bij aan de groei en onderhoud van je spieren","['Geen lactose' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen lupine' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Vegetarisch' 'Geen selderij' 'Geen eieren' 'Geen gluten']",Zuivel plantaardig en eieren Toetjes Pudding,"mona [SEP] bitterkoekjespudding [SEP] De klassieker, een heerlijk luchtig Mona toetje met echte stukjes amandel en bitterkoekjes. Een echt toetje. Luchtige pudding met 4,3% bitterkoekjes Heerlijk als toetje om samen te delen Calcium is goed voor je botten Proteine draagt bij aan de groei en onderhoud van je spieren [SEP] desserts",mona bitterkoekjespudding desserts,null,null,null
+0.124402866,9633,547069,Olvarit,Knijpfruit 6mnd Variatiepakket	,"Het Olvarit Knijpyoghurt Variatiepakket bestaat uit 4 verschillende smaken fruithapjes met pure en natuurlijke ingrediënten, voor kindjes vanaf 6+ maanden. Deze bevatten enkel van nature aanwezige suikers en zijn handig voor onderweg. Bereid met passie voor goed eten en zorg voor de planeet: een fruitig feestje voor jouw kindje en de natuur! Olvarit Knijpfruit Appel Banaan 6+ Maanden 1x Olvarit Knijpfruit Banaan Aardbei 6+ Maanden 1x Olvarit Knijpfruit Peer Banaan 6+ Maanden 1x Olvarit Knijpfruit Kokosmelk Bosvruchten 6+ Maanden 1x",[],"Baby en kind Babyvoeding Tussendoortjes (baby en kind)
+ Fruithapjes (baby en kind) Fruit knijpzakjes (baby en kind)
+ Fruit knijphapjes vanaf 6 maanden","olvarit [SEP] knijpfruit 6mnd variatiepakket	 [SEP] Het Olvarit Knijpyoghurt Variatiepakket bestaat uit 4 verschillende smaken fruithapjes met pure en natuurlijke ingrediënten, voor kindjes vanaf 6+ maanden. Deze bevatten enkel van nature aanwezige suikers en zijn handig voor onderweg. Bereid met passie voor goed eten en zorg voor de planeet: een fruitig feestje voor jouw kindje en de natuur! Olvarit Knijpfruit Appel Banaan 6+ Maanden 1x Olvarit Knijpfruit Banaan Aardbei 6+ Maanden 1x Olvarit Knijpfruit Peer Banaan 6+ Maanden 1x Olvarit Knijpfruit Kokosmelk Bosvruchten 6+ Maanden 1x [SEP] ",olvarit knijpfruit 6mnd variatiepakket	 ,null,null,null
+0.1242677,20294,486076,AH,Sok heren zwart 43-46,"Kleren maken de Man en sokken maken de outfit. Deze donkerblauwe sokken kun je gemakkelijk combineren. Ze zijn ideaal voor sneakers of sportschoenen, maar ook geschikt voor een nette outfit. 2 paar Geschikt voor alle seizoenen Maat: 43-46 Materiaal: 77% katoen, 22% polyamide, 1% elastaan",['Laag zout' 'Laag vet' 'Laag suiker'],"Koken tafelen vrije tijd Kleding en accessoires Herenmode
+ Herensokken Herensokken - maat 43-46","ah [SEP] sok heren zwart 43-46 [SEP] Kleren maken de Man en sokken maken de outfit. Deze donkerblauwe sokken kun je gemakkelijk combineren. Ze zijn ideaal voor sneakers of sportschoenen, maar ook geschikt voor een nette outfit. 2 paar Geschikt voor alle seizoenen Maat: 43-46 Materiaal: 77% katoen, 22% polyamide, 1% elastaan [SEP] sokken",ah sok heren zwart 43-46 sokken,null,null,null
+0.123826295,19530,486078,AH,H sok zw 43-46,"Kleren maken de Man en sokken maken de outfit. Deze zwarte sokken kun je gemakkelijk combineren. Ze zijn ideaal voor sneakers of sportschoenen, maar ook geschikt voor een nette outfit. 2 paar Geschikt voor alle seizoenen Maat: 43-46 Materiaal: 77% katoen, 22% polyamide, 1% elastaan",['Laag zout' 'Laag vet' 'Laag suiker'],"Koken tafelen vrije tijd Kleding en accessoires Herenmode
+ Herensokken Herensokken - maat 43-46","ah [SEP] h sok zw 43-46 [SEP] Kleren maken de Man en sokken maken de outfit. Deze zwarte sokken kun je gemakkelijk combineren. Ze zijn ideaal voor sneakers of sportschoenen, maar ook geschikt voor een nette outfit. 2 paar Geschikt voor alle seizoenen Maat: 43-46 Materiaal: 77% katoen, 22% polyamide, 1% elastaan [SEP] sokken",ah h sok zw 43-46 sokken,null,null,null
+0.12379853,12908,49858,AH,Roomboter jan hagel,"Knapperige roomboter Jan Hagel koekjes bestrooid met parelsuiker en amandelschaafsel. Heerlijke combinatie van een koekje met parelsuiker, amandel en kaneel Lekker voor bij de koffie of thee","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']",Snoep koek chips en chocolade Koek Koffiekoekjes,"ah [SEP] roomboter jan hagel [SEP] Knapperige roomboter Jan Hagel koekjes bestrooid met parelsuiker en amandelschaafsel. Heerlijke combinatie van een koekje met parelsuiker, amandel en kaneel Lekker voor bij de koffie of thee [SEP] doorzicht koek klein",ah roomboter jan hagel doorzicht koek klein,null,null,null
+0.12348174,343,487260,AH,Jodekoeken,Deze jodekoeken zijn heerlijk bros. Lekker bij de koffie of thee! 20 stuks Voor het hele gezin Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Koek Alledaagse koeken,ah [SEP] jodekoeken [SEP] Deze jodekoeken zijn heerlijk bros. Lekker bij de koffie of thee! 20 stuks Voor het hele gezin Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] doorzicht koek groot,ah jodekoeken doorzicht koek groot,null,null,null
+0.12325153,15719,517709,AH,Roomboter koekjes assorti,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij']",Snoep koek chips en chocolade Koek Koffiekoekjes,ah [SEP] roomboter koekjes assorti [SEP]  [SEP] doorzicht koek klein,ah roomboter koekjes assorti doorzicht koek klein,null,null,null
+0.122980304,9543,540302,Kinder,Happy moments mix,"Een mix van je favoriete mini-kinder producten: Kinder bueno, Kinder chocolade en Kinder schokobons. Ideaal als cadeau, om te delen met vrienden en familie of om gewoon zelf van te genieten. Individueel verpakte chocolaatjes dus ideaal om uit te delen Leuk om cadeau te geven, maar ook om lekker zelf van te genieten Voor ieder wat wils op elk moment","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Koken tafelen vrije tijd Snoep koek chips en chocolade
+ Feestje gelegenheid Chocolade Chocolade geschenken","kinder [SEP] happy moments mix [SEP] Een mix van je favoriete mini-kinder producten: Kinder bueno, Kinder chocolade en Kinder schokobons. Ideaal als cadeau, om te delen met vrienden en familie of om gewoon zelf van te genieten. Individueel verpakte chocolaatjes dus ideaal om uit te delen Leuk om cadeau te geven, maar ook om lekker zelf van te genieten Voor ieder wat wils op elk moment [SEP] specialiteiten",kinder happy moments mix specialiteiten,null,null,null
+0.12294816,16112,483262,A.Vogel,Junior neusspray,"Loopt je kindje te snotteren? Voor kleine, kwetsbare 'snotneusjes' is er nu de A.Vogel Junior Neusspray. Zónder conserveringsmiddelen. Mét 100% natuurlijke hyaluronan en kamille. Verweekt hinderlijke korstjes Verdunt ingedikt slijm Helpt kinderen vrijer te ademen Natuurlijke ingrediënten",['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Baby en kind Baby en kind gezondheid Gezondheid
+ Zelfzorg Neusverkoudheid baby en kind Zelfzorg kind
+ Verkoudheid hoesten Neus Neusspray","a.vogel [SEP] junior neusspray [SEP] Loopt je kindje te snotteren? Voor kleine, kwetsbare 'snotneusjes' is er nu de A.Vogel Junior Neusspray. Zónder conserveringsmiddelen. Mét 100% natuurlijke hyaluronan en kamille. Verweekt hinderlijke korstjes Verdunt ingedikt slijm Helpt kinderen vrijer te ademen Natuurlijke ingrediënten [SEP] otc hoest verkoudheid griep",a.vogel junior neusspray otc hoest verkoudheid griep,null,null,null
+0.1222353,11320,384052,Almhof,Hoekje choco balls naturel yoghurt,"Almhof Hoekje choco balls is een heerlijke combinatie van de romigste yoghurt en de knapperigste choco balls. En je bepaalt helemaal zelf hoe je het eet. Puur genieten dus. 2 overheerlijke ingrediënten die je zelf kan mixen In portieverpakking, dus een ultiem verwenmomentje voor jezelf","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen lupine' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen mosterd'
+ 'Geen selderij' 'Geen eieren']",Zuivel plantaardig en eieren Toetjes Luxe toetjes,"almhof [SEP] hoekje choco balls naturel yoghurt [SEP] Almhof Hoekje choco balls is een heerlijke combinatie van de romigste yoghurt en de knapperigste choco balls. En je bepaalt helemaal zelf hoe je het eet. Puur genieten dus. 2 overheerlijke ingrediënten die je zelf kan mixen In portieverpakking, dus een ultiem verwenmomentje voor jezelf [SEP] desserts",almhof hoekje choco balls naturel yoghurt desserts,null,null,null
+0.1220409,9341,503341,Danoontje,Knijpyoghurt appel en aardbei,"Danoontje knijpyoghurt appel aardbei zonder toegevoegde suikers van Danone is een knijpzakje vol fruityoghurt. Heerlijk als tussendoortje, toetje of traktatie. Verantwoorde vruchtenyoghurt voor kinderen zonder toegevoegde suikers Bron van calcium en vitamine d Laag in vet met nutriscore a: een verantwoord tussendoortje Deze yoghurt bevat geen kunstmatige geur-, kleur- en smaakstoffen","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Zuivel plantaardig en eieren Tussendoortjes Yoghurt en kwark
+ Zuivel tussendoortjes (voor thuis en onderweg) Yoghurt
+ Yoghurt tussendoortjes","danoontje [SEP] knijpyoghurt appel en aardbei [SEP] Danoontje knijpyoghurt appel aardbei zonder toegevoegde suikers van Danone is een knijpzakje vol fruityoghurt. Heerlijk als tussendoortje, toetje of traktatie. Verantwoorde vruchtenyoghurt voor kinderen zonder toegevoegde suikers Bron van calcium en vitamine d Laag in vet met nutriscore a: een verantwoord tussendoortje Deze yoghurt bevat geen kunstmatige geur-, kleur- en smaakstoffen [SEP] kids desserts",danoontje knijpyoghurt appel en aardbei kids desserts,null,null,null
+0.121902615,12325,221017,AH,Chocolate chip cookies,Koekje met pure chocoladestukjes en melkchocoladestukjes Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Koek Koekjes met chocolade,ah [SEP] chocolate chip cookies [SEP] Koekje met pure chocoladestukjes en melkchocoladestukjes Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] verpakt choco,ah chocolate chip cookies verpakt choco,null,null,null
+0.12183006,2018,384697,LU,Time out koekrepen choco chip,"Voor de choco chip koeken van LU Time Out gebruiken we heerlijke ingredienten, zoals granen en lekkere stukjes chocola.. Bron van vezels Omhuld met heerlijke chocolade Met heerlijke stukjes chocolade","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Koek Koekjes met chocolade,"lu [SEP] time out koekrepen choco chip [SEP] Voor de choco chip koeken van LU Time Out gebruiken we heerlijke ingredienten, zoals granen en lekkere stukjes chocola.. Bron van vezels Omhuld met heerlijke chocolade Met heerlijke stukjes chocolade [SEP] verpakt tussendoor",lu time out koekrepen choco chip verpakt tussendoor,null,null,null
+0.121772766,2818,515672,Nestlé,Mini's,"Nestle mini's is de ideale chocolade mini mix. Een feestelijke uitdeelzak met 23 mini chocoladerepen waarin ieders Nestle favoriet aanwezig is. Voor ieder wat wils Bevat 5 merken chocolade candybars: kitkat, smarties, bros, rolo, en lion Elke portie (1 portie = 1 mini) bevat tussen de 50 en 88 calorieen Rainforest alliance gecertificeerde cacao, ingekocht via Nestle cocoa plan","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij']","Snoep koek chips en chocolade Snoep Chocolade Candybars
+ Trakteren Candybars minis","nestlé [SEP] mini's [SEP] Nestle mini's is de ideale chocolade mini mix. Een feestelijke uitdeelzak met 23 mini chocoladerepen waarin ieders Nestle favoriet aanwezig is. Voor ieder wat wils Bevat 5 merken chocolade candybars: kitkat, smarties, bros, rolo, en lion Elke portie (1 portie = 1 mini) bevat tussen de 50 en 88 calorieen Rainforest alliance gecertificeerde cacao, ingekocht via Nestle cocoa plan [SEP] candybars mini's",nestlé mini's candybars mini's,null,null,null
+0.12148889,660,502003,Lion,Mini,"Nestle Lion mini is een kleine gevulde wafel met karamel en krokante granen reep omhuld met melkchocolade. Deze uitdeelzak bestaat uit 15 individueel verpakte Lion mini chocolade reepjes. Om samen je tanden in te zetten. Bite it Deze zak bevat 15 Lion mini candybars, ideaal om samen te delen Elke portie (1 portie = 1 mini) bevat 88 calorieen Rainforest alliance gecertificeerde cacao, ingekocht via Nestle cocoa plan","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij']","Snoep koek chips en chocolade Snoep Chocolade Candybars
+ Trakteren Candybars minis","lion [SEP] mini [SEP] Nestle Lion mini is een kleine gevulde wafel met karamel en krokante granen reep omhuld met melkchocolade. Deze uitdeelzak bestaat uit 15 individueel verpakte Lion mini chocolade reepjes. Om samen je tanden in te zetten. Bite it Deze zak bevat 15 Lion mini candybars, ideaal om samen te delen Elke portie (1 portie = 1 mini) bevat 88 calorieen Rainforest alliance gecertificeerde cacao, ingekocht via Nestle cocoa plan [SEP] candybars mini's",lion mini candybars mini's,null,null,null
+0.12147268,11067,520725,DubbelFrisss,1Kcal Appel & perzik siroop,"De verfrissende combinatie van appel en perzik, nu ook in een 1kcal siroop! Goed voor 30 glazen. Vol van smaak, slechts 1kcal per 100ml Goed voor 30 glazen Verfrissende dubbele smaken","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Frisse fruitdrank Frisse fruitdrank (flessen)","dubbelfrisss [SEP] 1kcal appel & perzik siroop [SEP] De verfrissende combinatie van appel en perzik, nu ook in een 1kcal siroop! Goed voor 30 glazen. Vol van smaak, slechts 1kcal per 100ml Goed voor 30 glazen Verfrissende dubbele smaken [SEP] siropen",dubbelfrisss 1kcal appel & perzik siroop siropen,null,null,null
+0.12141578,9601,546217,AH Excellent,Gespikkelde pinda eitjes melkchocolade,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij']","Snoep koek chips en chocolade Chocolade
+ Seizoenchocolade seizoensnoep",ah excellent [SEP] gespikkelde pinda eitjes melkchocolade [SEP]  [SEP] pasen  chocoloade,ah excellent gespikkelde pinda eitjes melkchocolade pasen  chocoloade,null,null,null
+0.12140294,11695,162652,AH,Luikse wafels,Met belgische parelsuikers Handig per stuk verpakt Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen noten' 'Geen selderij' 'Geen eieren']","Snoep koek chips en chocolade Koek
+ Stroopwafel stroopkoek wafels Wafels",ah [SEP] luikse wafels [SEP] Met belgische parelsuikers Handig per stuk verpakt Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] doorzicht koek groot,ah luikse wafels doorzicht koek groot,null,null,null
+0.12138055,10200,142566,AH,Kandijkoeken,Met een vleugje kaneel Lekker brosse koekjes Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Koek Alledaagse koeken,ah [SEP] kandijkoeken [SEP] Met een vleugje kaneel Lekker brosse koekjes Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] verpakt trommel,ah kandijkoeken verpakt trommel,null,null,null
+0.12122248,13238,190412,Buys,Zoenen,Buys zoenen zijn al sinds 1920 de lekkerste chocolade traktatie voor jong en oud. Bovendien bevat een zoen slechts 69 kcal. Bereid met Utz gecertificeerde cacao Slechts 69 kcal per zoen,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Snoep koek chips en chocolade Koek Koekjes met chocolade,buys [SEP] zoenen [SEP] Buys zoenen zijn al sinds 1920 de lekkerste chocolade traktatie voor jong en oud. Bovendien bevat een zoen slechts 69 kcal. Bereid met Utz gecertificeerde cacao Slechts 69 kcal per zoen [SEP] verpakt kids,buys zoenen verpakt kids,null,null,null
+0.12075806,14644,88649,Celebrations,Assortiments mix,"Een verrassende mix met de bekendste chocolademerken in een handig uitdeelverpakking. Zo creer je voor iedereen een heerlijk, klein verwenmomentje! Ideaal voor een speciale gelegenheid Kleine porties Voor ieder wat wils Alle populaire smaken in 1 doos","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen selderij' 'Geen eieren']","Koken tafelen vrije tijd Snoep koek chips en chocolade
+ Feestje gelegenheid Chocolade Chocolade geschenken","celebrations [SEP] assortiments mix [SEP] Een verrassende mix met de bekendste chocolademerken in een handig uitdeelverpakking. Zo creer je voor iedereen een heerlijk, klein verwenmomentje! Ideaal voor een speciale gelegenheid Kleine porties Voor ieder wat wils Alle populaire smaken in 1 doos [SEP] specialiteiten",celebrations assortiments mix specialiteiten,null,null,null
+0.120647244,14135,53218,AH,Roomijs kaneel,Met stukjes kaneelsuiker,"['Geen lactose' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Schepijs Roomschepijs",ah [SEP] roomijs kaneel [SEP] Met stukjes kaneelsuiker [SEP] roomijs standaard,ah roomijs kaneel roomijs standaard,null,null,null
+0.120594636,3818,224865,Van Strien,Strien lemon cookies,"In elke koekje wat uit de van strien ovens komt, proef je de liefde voor het vak, de lange traditie en de beste ingredieten. Koekjes waar je helemaal verslingerd aan raakt, die bakken ze het liefst! Lekkere roomboter koekjes met een natuurlijke citrussmaak Bereid met echte grasboter en stukjes italiaanse geconfijte citroenschil Koekje heeft eerst een licht brosse beet en is daarna verrassend zacht Waan je in het zonnige zuiden met dit frisse koekje","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Snoep koek chips en chocolade Koek Koffiekoekjes,"van strien [SEP] strien lemon cookies [SEP] In elke koekje wat uit de van strien ovens komt, proef je de liefde voor het vak, de lange traditie en de beste ingredieten. Koekjes waar je helemaal verslingerd aan raakt, die bakken ze het liefst! Lekkere roomboter koekjes met een natuurlijke citrussmaak Bereid met echte grasboter en stukjes italiaanse geconfijte citroenschil Koekje heeft eerst een licht brosse beet en is daarna verrassend zacht Waan je in het zonnige zuiden met dit frisse koekje [SEP] verpakt premium",van strien strien lemon cookies verpakt premium,null,null,null
+0.12058978,526,168705,AH,Luikse wafels chocolade,Met heerlijke belgische melkchocolade en parelsuikers Handig per stuk verpakt Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen noten' 'Geen selderij' 'Geen eieren']","Snoep koek chips en chocolade Koek
+ Stroopwafel stroopkoek wafels Wafels",ah [SEP] luikse wafels chocolade [SEP] Met heerlijke belgische melkchocolade en parelsuikers Handig per stuk verpakt Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] doorzicht koek groot,ah luikse wafels chocolade doorzicht koek groot,null,null,null
+0.12049082,2788,128919,AH,Brabantse eierkoeken,"Lekkere zachtzoete eierkoeken, een traktatie voor jong en
+					 oud! Gaan er in als koek! Per 4 verpakt Neem mee als tussendoortje","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Nutri-Score C'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen selderij' 'Geen eieren']","Bakkerij en banket Snoep koek chips en chocolade Koek Banket
+ Eierkoeken","ah [SEP] brabantse eierkoeken [SEP] Lekkere zachtzoete eierkoeken, een traktatie voor jong en
+					 oud! Gaan er in als koek! Per 4 verpakt Neem mee als tussendoortje [SEP] hbs kleinbrood",ah brabantse eierkoeken hbs kleinbrood,null,null,null
+0.12047838,8390,203254,Kinder,Schokobons,"Heerlijke melkvulling met stukjes hazelnoot, omhuld met chocolade. Heerlijk om te delen Voor jong en oud","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Snoep koek chips en chocolade Chocolade Chocoladesnoepjes,"kinder [SEP] schokobons [SEP] Heerlijke melkvulling met stukjes hazelnoot, omhuld met chocolade. Heerlijk om te delen Voor jong en oud [SEP] specialiteiten",kinder schokobons specialiteiten,null,null,null
+0.12002068,5044,512962,Kitkat,Easter break paashaasjes mini,"Nestle Kitkat chocolade konijntjes multipack bestaat uit 6 konijntjes gemaakt van heerlijke melkchocolade met een romige vulling met krokante granen- en wafelstukjes. Have a break, have a kitkat. Ideaal voor je ultieme pasen break Deze verpakking bevat 6 porties van verrukkelijke paashaasjes Elke portie (1 portie = 11g) bevat 59 kcal Rainforest alliance gecertificeerde cacao, ingekocht via Nestle cocoa plan","['Geen lactose' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Chocolade paasfiguren","kitkat [SEP] easter break paashaasjes mini [SEP] Nestle Kitkat chocolade konijntjes multipack bestaat uit 6 konijntjes gemaakt van heerlijke melkchocolade met een romige vulling met krokante granen- en wafelstukjes. Have a break, have a kitkat. Ideaal voor je ultieme pasen break Deze verpakking bevat 6 porties van verrukkelijke paashaasjes Elke portie (1 portie = 11g) bevat 59 kcal Rainforest alliance gecertificeerde cacao, ingekocht via Nestle cocoa plan [SEP] pasen  chocoloade",kitkat easter break paashaasjes mini pasen  chocoloade,null,null,null
+0.11990413,3569,163669,Optimel,Drinkyoghurt limited edition,"Deze limited edition crazy apple drinkyoghurt is rijk van smaak, maar bevat geen toegevoegde suikers en 0% vet. Bewust genieten dus! Heerlijke frisse fruitsmaak Van nature een bron van calcium en proteine 0% vet en geen toegevoegde suikers Lekker voor bij de lunch","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Zuivel plantaardig en eieren
+ Chocolademelk cacao anijs Drinkyoghurt Drinkyoghurts","optimel [SEP] drinkyoghurt limited edition [SEP] Deze limited edition crazy apple drinkyoghurt is rijk van smaak, maar bevat geen toegevoegde suikers en 0% vet. Bewust genieten dus! Heerlijke frisse fruitsmaak Van nature een bron van calcium en proteine 0% vet en geen toegevoegde suikers Lekker voor bij de lunch [SEP] drinkyoghurt",optimel drinkyoghurt limited edition drinkyoghurt,null,null,null
+0.11987172,16187,207321,AH,Fruitbiscuit yoghurt aardbeismaak,De AH fruitbiscuits met een frisse aardbeiensmaak en yoghurtcoating zijn ideaal als tussendoortje! Bereid met zonnebloemolie Een lekker tussendoortje per 2 verpakt Handig om mee te nemen,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen selderij' 'Geen eieren']","Tussendoortjes Snoep koek chips en chocolade
+ Fruitbiscuit & melkbiscuit Koek Biscuits",ah [SEP] fruitbiscuit yoghurt aardbeismaak [SEP] De AH fruitbiscuits met een frisse aardbeiensmaak en yoghurtcoating zijn ideaal als tussendoortje! Bereid met zonnebloemolie Een lekker tussendoortje per 2 verpakt Handig om mee te nemen [SEP] verpakt tussendoor,ah fruitbiscuit yoghurt aardbeismaak verpakt tussendoor,null,null,null
+0.11979033,11011,419836,De Kleine Keuken,Speltkoekjes 8+,"Deze biologische zachte koekjes hebben we gemaakt met veel spelt en haver. Appelsap zorgt voor een lekker zoetje, maar niet teveel. Een prima koekje voor kleine buikjes! Met volkoren speltmeel Zonder palmvet Zonder toegevoegde geur- kleur en smaakstoffen Per 2 stuks verpakt","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Baby en kind Babyvoeding Tussendoortjes (baby en kind)
+ Snacks (baby en kind) Vanaf 8 maanden","de kleine keuken [SEP] speltkoekjes 8+ [SEP] Deze biologische zachte koekjes hebben we gemaakt met veel spelt en haver. Appelsap zorgt voor een lekker zoetje, maar niet teveel. Een prima koekje voor kleine buikjes! Met volkoren speltmeel Zonder palmvet Zonder toegevoegde geur- kleur en smaakstoffen Per 2 stuks verpakt [SEP] tussendoortjes",de kleine keuken speltkoekjes 8+ tussendoortjes,null,null,null
+0.11966939,10923,459159,Jos Poell,IJshoorntjes naturel,Lekker thuis genieten van een ijshoorntje zoals in de ijssalon. Knapperig ijshoorntje De verpakking bevat 2 x 5 ijshoorntjes Met echte roomboter en vanille Handige presenteer gaten,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Pudding desserts",jos poell [SEP] ijshoorntjes naturel [SEP] Lekker thuis genieten van een ijshoorntje zoals in de ijssalon. Knapperig ijshoorntje De verpakking bevat 2 x 5 ijshoorntjes Met echte roomboter en vanille Handige presenteer gaten [SEP] bt overig,jos poell ijshoorntjes naturel bt overig,null,null,null
+0.1195045,19498,550152,Hertog,IJssalon feestje,"Hertog ijssalon feestje ijs is een heerlijke combinatie van romig aardbeien-ijs en ijs met marshmallowsmaak, de gekleurde chocolade confetti er bovenop maakt het ijs extra feestelijk. Hertog ijssalon feestje ijs romig aardbeien-ijs en ijs met marshmallowsmaak Schepijs met een feestelijke topping van gekleurde chocolade confetti Met dit ijs tover je een feestje op tafel voor iedere gelegenheid Lekker ijs om samen van te genieten, met vrienden of familie","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Diepvries Zuivel plantaardig en eieren IJs Toetjes
+ Roomijs bekertjes Roomijs","hertog [SEP] ijssalon feestje [SEP] Hertog ijssalon feestje ijs is een heerlijke combinatie van romig aardbeien-ijs en ijs met marshmallowsmaak, de gekleurde chocolade confetti er bovenop maakt het ijs extra feestelijk. Hertog ijssalon feestje ijs romig aardbeien-ijs en ijs met marshmallowsmaak Schepijs met een feestelijke topping van gekleurde chocolade confetti Met dit ijs tover je een feestje op tafel voor iedere gelegenheid Lekker ijs om samen van te genieten, met vrienden of familie [SEP] roomijs standaard",hertog ijssalon feestje roomijs standaard,null,null,null
+0.11943411,11223,484230,Nestlé,Choclait chips melkchocolade,"Nestle choclait chips original zijn heerlijke, knapperige granenchips omhuld met romige melkchocolade met een versiering van pure chocolade. Ideaal om te delen en samen van te genieten tijdens je favoriete serie Voor iedereen die niet kan kiezen tussen chips of chocolade Elke portie (1 portie is 8 stukjes) bevat 101 calorieen Ingekocht via het Nestle cocoa plan","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij']",Snoep koek chips en chocolade Chocolade Chocoladesnoepjes,"nestlé [SEP] choclait chips melkchocolade [SEP] Nestle choclait chips original zijn heerlijke, knapperige granenchips omhuld met romige melkchocolade met een versiering van pure chocolade. Ideaal om te delen en samen van te genieten tijdens je favoriete serie Voor iedereen die niet kan kiezen tussen chips of chocolade Elke portie (1 portie is 8 stukjes) bevat 101 calorieen Ingekocht via het Nestle cocoa plan [SEP] bitesizes",nestlé choclait chips melkchocolade bitesizes,null,null,null
+0.119054556,9522,195751,Nestlé,Yogolino peer 6m+,"Het toetje speciaal ontwikkeld voor baby's! Nestle yogolino peer is een verantwoord, heerlijk zacht zuivelhapje, bereid met melk en fruit. Bron van calcium Zonder conserveermiddelen en kleurstoffen* (*conform wetgeving) Koel bewaren niet nodig, dus handig om mee te nemen Vanaf 6 maanden","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Baby en kind Babyvoeding Fruithapjes (baby en kind)
+ Toetjes (baby en kind) Toetjes vanaf 6 maanden Fruit toetjes","nestlé [SEP] yogolino peer 6m+ [SEP] Het toetje speciaal ontwikkeld voor baby's! Nestle yogolino peer is een verantwoord, heerlijk zacht zuivelhapje, bereid met melk en fruit. Bron van calcium Zonder conserveermiddelen en kleurstoffen* (*conform wetgeving) Koel bewaren niet nodig, dus handig om mee te nemen Vanaf 6 maanden [SEP] toetjes",nestlé yogolino peer 6m+ toetjes,null,null,null
+0.11855775,11851,217847,AH,Ontbijtkoek naturel ongesneden,"Deze ontbijtkoek is lekker bij het ontbijt, de lunch of ieder ander moment van de dag. Lekker smeuïg Ook lekker met een beetje boter Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Nutri-Score C'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij']","Ontbijtgranen en beleg Tussendoortjes
+ Snoep koek chips en chocolade Ontbijtkoek Koek
+ Ontbijtkoek - ongesneden","ah [SEP] ontbijtkoek naturel ongesneden [SEP] Deze ontbijtkoek is lekker bij het ontbijt, de lunch of ieder ander moment van de dag. Lekker smeuïg Ook lekker met een beetje boter Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] ontbijtkoek",ah ontbijtkoek naturel ongesneden ontbijtkoek,null,null,null
+0.118513785,2971,421650,Celebrations,Mix uitdeelchocolade,"Een verrassende mix met de bekendste chocolademerken in een handig uitdeelverpakking. Zo creer je voor iedereen een heerlijk, klein verwenmomentje! Ideaal voor een speciale gelegenheid Kleine porties Voor ieder wat wils Alle populaire smaken in 1 doos","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen selderij' 'Geen eieren']","Koken tafelen vrije tijd Snoep koek chips en chocolade
+ Feestje gelegenheid Chocolade Chocolade geschenken","celebrations [SEP] mix uitdeelchocolade [SEP] Een verrassende mix met de bekendste chocolademerken in een handig uitdeelverpakking. Zo creer je voor iedereen een heerlijk, klein verwenmomentje! Ideaal voor een speciale gelegenheid Kleine porties Voor ieder wat wils Alle populaire smaken in 1 doos [SEP] specialiteiten",celebrations mix uitdeelchocolade specialiteiten,null,null,null
+0.11850317,10261,163631,AH,Kersenbonbons,Bonbon met kersenvulling Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Nutri-Score E'
+ 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']",Snoep koek chips en chocolade Chocolade Bonbons en pralines,ah [SEP] kersenbonbons [SEP] Bonbon met kersenvulling Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] specialiteiten,ah kersenbonbons specialiteiten,null,null,null
+0.11848744,15091,493721,DubbelFrisss,Dubbel likkersss!,"De lekkerste DubbelFrisss smaakcombinaties in een verfrissend ijsje. Zo maken we van DubbelFrisss voor iedereen een feestje! Appel perzik en framboos cranberry, allemaal in een ijsje Lekker verfrissend Voor iedereen, elk moment","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Diepvries IJs Waterijsjes,"dubbelfrisss [SEP] dubbel likkersss! [SEP] De lekkerste DubbelFrisss smaakcombinaties in een verfrissend ijsje. Zo maken we van DubbelFrisss voor iedereen een feestje! Appel perzik en framboos cranberry, allemaal in een ijsje Lekker verfrissend Voor iedereen, elk moment [SEP] handijs water",dubbelfrisss dubbel likkersss! handijs water,null,null,null
+0.118338495,359,517428,AH,Wafeltjes kokos pure chocolade,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Snoep koek chips en chocolade Koek
+ Stroopwafel stroopkoek wafels Wafels",ah [SEP] wafeltjes kokos pure chocolade [SEP]  [SEP] verpakt bitesizes,ah wafeltjes kokos pure chocolade verpakt bitesizes,null,null,null
+0.11831137,3445,121656,AH,Halfvolle yoghurt,"Een heerlijke manier om de dag te beginnen, als tussendoortje of de dag mee te eindigen. Lekker om te combineren met cruesli of vruchten","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Zuivel plantaardig en eieren Yoghurt en kwark Yoghurt
+ Yoghurt naturel Halfvolle yoghurt","ah [SEP] halfvolle yoghurt [SEP] Een heerlijke manier om de dag te beginnen, als tussendoortje of de dag mee te eindigen. Lekker om te combineren met cruesli of vruchten [SEP] yoghurt naturel",ah halfvolle yoghurt yoghurt naturel,null,null,null
+0.11825886,10245,538374,AH,Mini classic vegan choco's,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score D' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Diepvries IJs Plantaardig ijs,ah [SEP] mini classic vegan choco's [SEP]  [SEP] premiumijs,ah mini classic vegan choco's premiumijs,null,null,null
+0.118190445,2408,547736,Napoleon,Watermelon,Napoleon's fruitige watermeloen kogels. Ambachtelijke watermeloen snoepjes met een zoete poedervulling. Je kunt wel 6 lange minuten heerlijk genieten van dit unieke snoepje. Met natuurlijke aromas en zonder kunstmatige kleurstoffen Glutenvrij Vegan Halal,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Snoep koek chips en chocolade Snoep Harde snoep Zuurtjes,napoleon [SEP] watermelon [SEP] Napoleon's fruitige watermeloen kogels. Ambachtelijke watermeloen snoepjes met een zoete poedervulling. Je kunt wel 6 lange minuten heerlijk genieten van dit unieke snoepje. Met natuurlijke aromas en zonder kunstmatige kleurstoffen Glutenvrij Vegan Halal [SEP] snoep,napoleon watermelon snoep,null,null,null
+0.11817941,80,166847,Nestlé,After eight mint chocolate thins,"Nestle after eight 200g is een doosje vol heerlijke dunne pepermunt pralines omhuld met pure chocolade. Chocolade met een vulling van munt ideaal voor na de maaltijd 24 stuks individueel verpakt in een stijlvol papieren envelopje Elke portie (1 portie = 2 pralines) bevat 71 calorieen Utz gecertificeerde cacao, ingekocht via het Nestle cocoa plan","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Snoep koek chips en chocolade Chocolade Luxe chocolade,"nestlé [SEP] after eight mint chocolate thins [SEP] Nestle after eight 200g is een doosje vol heerlijke dunne pepermunt pralines omhuld met pure chocolade. Chocolade met een vulling van munt ideaal voor na de maaltijd 24 stuks individueel verpakt in een stijlvol papieren envelopje Elke portie (1 portie = 2 pralines) bevat 71 calorieen Utz gecertificeerde cacao, ingekocht via het Nestle cocoa plan [SEP] specialiteiten",nestlé after eight mint chocolate thins specialiteiten,null,null,null
+0.1180676,10816,132389,Huggies,DryNites luierbroekjes jongen 4-7 jaar,"Overdag zindelijk, maar 's nachts nog niet? drynites nachtbroekjes zijn extra absorberend en de broekjes lijken op gewoon ondergoed lijken dankzij de vrolijke Disney prints. Drynites nachtbroekjes absorberen veel meer dan reguliere luierbroekjes Aangepast aan de leeftijd van jouw kind Anti-lekrandjes die lekkage bij de benen helpt voorkomen Elastische zijkanten die zorgen voor een goede pasvorm",['Laag zout' 'Laag vet' 'Laag suiker'],Baby en kind Luiers en verschonen Luierbroekjes,"huggies [SEP] drynites luierbroekjes jongen 4-7 jaar [SEP] Overdag zindelijk, maar 's nachts nog niet? drynites nachtbroekjes zijn extra absorberend en de broekjes lijken op gewoon ondergoed lijken dankzij de vrolijke Disney prints. Drynites nachtbroekjes absorberen veel meer dan reguliere luierbroekjes Aangepast aan de leeftijd van jouw kind Anti-lekrandjes die lekkage bij de benen helpt voorkomen Elastische zijkanten die zorgen voor een goede pasvorm [SEP] broekluiers",huggies drynites luierbroekjes jongen 4-7 jaar broekluiers,null,null,null
+0.11796476,980,547598,Mars,& Snickers ijsjes voordeelpakket,"Dat moet je geprobeerd hebben! De wereldberoemde smaken van Mars en Snickers Cream, in een ijsvariant. Geniet van 100% smaaksensatie bij iedere hap. Snickers Creamy ijs multipack 1x Mars chocolade ijs multipack 1x",[],"Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Room handijs","mars [SEP] & snickers ijsjes voordeelpakket [SEP] Dat moet je geprobeerd hebben! De wereldberoemde smaken van Mars en Snickers Cream, in een ijsvariant. Geniet van 100% smaaksensatie bij iedere hap. Snickers Creamy ijs multipack 1x Mars chocolade ijs multipack 1x [SEP] ",mars & snickers ijsjes voordeelpakket ,null,null,null
+0.11796431,17906,546223,AH Excellent,Discohaasjes,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Snoep koek chips en chocolade Chocolade
+ Seizoenchocolade seizoensnoep",ah excellent [SEP] discohaasjes [SEP]  [SEP] pasen  chocoloade,ah excellent discohaasjes pasen  chocoloade,null,null,null
+0.117775396,19256,455732,AH,Herensokken zwart maat 43-46,Ah heren sokken antibacterieel zwart maat 43-46. Comfortabele herensokken met katoen en fijne pasvorm Voelen heerlijk zacht aan Te gebruiken bij iedere outfit Slippen niet weg in de schoen,['Laag zout' 'Laag vet' 'Laag suiker'],"Koken tafelen vrije tijd Kleding en accessoires Herenmode
+ Herensokken Herensokken - maat 43-46",ah [SEP] herensokken zwart maat 43-46 [SEP] Ah heren sokken antibacterieel zwart maat 43-46. Comfortabele herensokken met katoen en fijne pasvorm Voelen heerlijk zacht aan Te gebruiken bij iedere outfit Slippen niet weg in de schoen [SEP] sokken,ah herensokken zwart maat 43-46 sokken,null,null,null
+0.11761552,136,170692,AH,Viscosespons golf,100% Viscosespons golf met ergonomische handgreep Zeer absorberend Bestand tegen dun bleekwater,['Laag zout' 'Laag vet' 'Laag suiker'],Huishouden Schoonmaak benodigdheden Sponzen,ah [SEP] viscosespons golf [SEP] 100% Viscosespons golf met ergonomische handgreep Zeer absorberend Bestand tegen dun bleekwater [SEP] sponzen,ah viscosespons golf sponzen,null,null,null
+0.11749399,145,132035,Liga,Milkbreak melk chocosmaak,"Liga milkbreak is een lekkere tarwebiscuit met melkvulling. Vol bouwstoffen: vol calcium en vol ijzer Lekker voor thuis, op school of gewoon tussendoor Handig verpakt per 2 koeken","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen selderij' 'Geen eieren']","Tussendoortjes Snoep koek chips en chocolade
+ Fruitbiscuit & melkbiscuit Koek Biscuits","liga [SEP] milkbreak melk chocosmaak [SEP] Liga milkbreak is een lekkere tarwebiscuit met melkvulling. Vol bouwstoffen: vol calcium en vol ijzer Lekker voor thuis, op school of gewoon tussendoor Handig verpakt per 2 koeken [SEP] verpakt tussendoor",liga milkbreak melk chocosmaak verpakt tussendoor,null,null,null
+0.11748877,4481,1518,AH,Volle yoghurt,Zacht en vol van smaak Om op elk moment lekker van te genieten.,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Zuivel plantaardig en eieren Yoghurt en kwark Yoghurt
+ Yoghurt naturel Volle yoghurt",ah [SEP] volle yoghurt [SEP] Zacht en vol van smaak Om op elk moment lekker van te genieten. [SEP] yoghurt naturel,ah volle yoghurt yoghurt naturel,null,null,null
+0.117475346,1459,379164,Nestlé,Hot chocolate mix original,"Verwen jezelf en geniet thuis van Nestlé Hot Chocolate Mix: een heerlijke warme chocoladedrank met een volle, rijke melkschuimlaag. Mix voor cacaodrank Verpakking bevat 8 sachets voor 8 verwenmomenten Handige eenkopszakjes om van te genieten waar en wanneer je maar wilt Gemakkelijk klaar te maken","['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Chocolademelk cacao anijs
+ Instant chocolademelk","nestlé [SEP] hot chocolate mix original [SEP] Verwen jezelf en geniet thuis van Nestlé Hot Chocolate Mix: een heerlijke warme chocoladedrank met een volle, rijke melkschuimlaag. Mix voor cacaodrank Verpakking bevat 8 sachets voor 8 verwenmomenten Handige eenkopszakjes om van te genieten waar en wanneer je maar wilt Gemakkelijk klaar te maken [SEP] cacao singleserve",nestlé hot chocolate mix original cacao singleserve,null,null,null
+0.11738582,8713,512987,Smarties,Paaseitjes,"Nestle Smarties chocolade paaseitjes zijn gevulde melkchocolaatjes in een krokant, vrolijk gekleurd laagje. Ideaal voor je ultieme pasen break Deze verpakking bevat 4 porties van verrukkelijke paaseitjes Elke (1 portie = 2 eitjes) bevat 96 kcal Rainforest alliance gecertificeerde cacao, ingekocht via Nestle cocoa plan","['Geen lactose' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Paaseitjes Gevulde paaseitjes","smarties [SEP] paaseitjes [SEP] Nestle Smarties chocolade paaseitjes zijn gevulde melkchocolaatjes in een krokant, vrolijk gekleurd laagje. Ideaal voor je ultieme pasen break Deze verpakking bevat 4 porties van verrukkelijke paaseitjes Elke (1 portie = 2 eitjes) bevat 96 kcal Rainforest alliance gecertificeerde cacao, ingekocht via Nestle cocoa plan [SEP] pasen  chocoloade",smarties paaseitjes pasen  chocoloade,null,null,null
+0.11733682,2937,217852,AH,Ontbijtkoek gesneden,"Deze ontbijtkoek is lekker bij het ontbijt, de lunch of ieder ander moment van de dag. Ook lekker met een beetje boter Gesneden voor extra gemak Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Nutri-Score C'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij']","Ontbijtgranen en beleg Tussendoortjes
+ Snoep koek chips en chocolade Ontbijtkoek Koek
+ Ontbijtkoek - gesneden","ah [SEP] ontbijtkoek gesneden [SEP] Deze ontbijtkoek is lekker bij het ontbijt, de lunch of ieder ander moment van de dag. Ook lekker met een beetje boter Gesneden voor extra gemak Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] ontbijtkoek",ah ontbijtkoek gesneden ontbijtkoek,null,null,null
+0.11712073,6906,478050,Licor 43,Fresco lemon,Licor 43 fresco is een frisse cocktail met de unieke smaak van licor 43 en echt fruitsap. Deze combinatie zorgt voor een bijzondere smaakervaring met een verfrissend karakter. Alcoholische mixdrank Koud geserveerd het lekkerst,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Vegetarisch' 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Bier en aperitieven Mixdranken en seltzers Mixdranken
+ Mixdranken (blikjes en flesjes)",licor 43 [SEP] fresco lemon [SEP] Licor 43 fresco is een frisse cocktail met de unieke smaak van licor 43 en echt fruitsap. Deze combinatie zorgt voor een bijzondere smaakervaring met een verfrissend karakter. Alcoholische mixdrank Koud geserveerd het lekkerst [SEP] ready to drink,licor 43 fresco lemon ready to drink,null,null,null
+0.116833694,3494,455948,AH,Herensokken zwart maat 43-46,Ah heren sokken zwart maat 43-46. Comfortabele herensokken met katoen en fijne pasvorm Voelen heerlijk zacht aan Te gebruiken bij iedere outfit Slippen niet weg in de schoen,['Laag zout' 'Laag vet' 'Laag suiker'],"Koken tafelen vrije tijd Kleding en accessoires Herenmode
+ Herensokken Herensokken - maat 43-46",ah [SEP] herensokken zwart maat 43-46 [SEP] Ah heren sokken zwart maat 43-46. Comfortabele herensokken met katoen en fijne pasvorm Voelen heerlijk zacht aan Te gebruiken bij iedere outfit Slippen niet weg in de schoen [SEP] sokken,ah herensokken zwart maat 43-46 sokken,null,null,null
+0.11675914,13754,188217,AH,Yoghurtijs lemon,Heerlijk fris yoghurtijs Gemaakt in Italie,['Nutri-Score D'],Diepvries IJs Schepijs Sorbet en yoghurtijs,ah [SEP] yoghurtijs lemon [SEP] Heerlijk fris yoghurtijs Gemaakt in Italie [SEP] premiumijs,ah yoghurtijs lemon premiumijs,null,null,null
+0.11673168,1843,547065,Olvarit,Knijpfruit 12+ mnd variatiemenu 5-pack,"Het Olvarit Knijpyoghurt Variatiepakket bestaat uit 5 verschillende smaken fruithapjes met pure en natuurlijke ingrediënten, voor kindjes vanaf 12+ maanden. Deze bevatten enkel van nature aanwezige suikers en zijn handig voor onderweg. Bereid met passie voor goed eten en zorg voor de planeet: een fruitig feestje voor jouw kindje en de natuur! Olvarit Knijpfruit Banaan Kiwi Aardbei 12+ Maanden 1x Olvarit Knijpfruit Kokosmelk Mango 12+ Maanden 1x Olvarit Knijpfruit Peer Wortel Rode Biet 12+ Maanden 1x Olvarit Knijpfruit Appel Blauwe Bes 12+ Maanden  1x Olvarit Knijpfruit Amandeldrink Banaan 12+ Maanden 1x",[],"Baby en kind Babyvoeding Fruithapjes (baby en kind)
+ Fruitpotjes vanaf 12 maanden Fruitpotjes","olvarit [SEP] knijpfruit 12+ mnd variatiemenu 5-pack [SEP] Het Olvarit Knijpyoghurt Variatiepakket bestaat uit 5 verschillende smaken fruithapjes met pure en natuurlijke ingrediënten, voor kindjes vanaf 12+ maanden. Deze bevatten enkel van nature aanwezige suikers en zijn handig voor onderweg. Bereid met passie voor goed eten en zorg voor de planeet: een fruitig feestje voor jouw kindje en de natuur! Olvarit Knijpfruit Banaan Kiwi Aardbei 12+ Maanden 1x Olvarit Knijpfruit Kokosmelk Mango 12+ Maanden 1x Olvarit Knijpfruit Peer Wortel Rode Biet 12+ Maanden 1x Olvarit Knijpfruit Appel Blauwe Bes 12+ Maanden  1x Olvarit Knijpfruit Amandeldrink Banaan 12+ Maanden 1x [SEP] ",olvarit knijpfruit 12+ mnd variatiemenu 5-pack ,null,null,null

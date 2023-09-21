@@ -1,0 +1,673 @@
+scoreLLM score,ann,prd_id,brand,title,highlights,properties,taxonomies,full_text,full_text_no_sep,Unnamed: 0,search_query,scorePropensity score
+0.7440178,1635,239501,Appelsientje,Multifruit volle smaak,"Appelsientje multifruit met minder fruitsuiker is net zo lekker als gewone appelsientje, maar dan minder zoet door 30% minder fruitsuiker. Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen 100% puur sap, van nature rijk aan vitamine c en een bron van foliumzuur en kalium","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Multivruchtensap & drank Multivruchtensap & drank (gekoeld)","appelsientje [SEP] multifruit volle smaak [SEP] Appelsientje multifruit met minder fruitsuiker is net zo lekker als gewone appelsientje, maar dan minder zoet door 30% minder fruitsuiker. Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen 100% puur sap, van nature rijk aan vitamine c en een bron van foliumzuur en kalium [SEP] samengesteld sap",appelsientje multifruit volle smaak samengesteld sap,null,null,null
+0.7379979,13496,436169,Appelsientje,Bosfruit volle smaak,"Appelsientje bosfruit met minder fruitsuiker is net zo lekker als gewone appelsientje, maar dan minder zoet door 30% minder fruitsuiker. Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen 100% puur sap, van nature rijk aan vitamine c en een bron van foliumzuur en kalium","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Bessensap & drank Bosvruchtensap & drank","appelsientje [SEP] bosfruit volle smaak [SEP] Appelsientje bosfruit met minder fruitsuiker is net zo lekker als gewone appelsientje, maar dan minder zoet door 30% minder fruitsuiker. Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen 100% puur sap, van nature rijk aan vitamine c en een bron van foliumzuur en kalium [SEP] enkel sap overig",appelsientje bosfruit volle smaak enkel sap overig,null,null,null
+0.7293767,8227,542737,Appelsientje,Appelsientje volle smaak 6-pack,"Appelsientje sinaasappelsap met minder fruitsuiker is net zo lekker als gewone appelsientje, maar dan minder zoet door 30% minder fruitsuiker. 100% duurzaam geteelde sinaasappels en 100% puur sap Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Van nature rijk aan vitamine c en een bron van foliumzuur en kalium Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Pakjes drinken
+ Vruchtensappen & drank Sinaasappelsap & drank (drinkpakjes)
+ ""Sinaasappelsap & drank (jus dorange)""","appelsientje [SEP] appelsientje volle smaak 6-pack [SEP] Appelsientje sinaasappelsap met minder fruitsuiker is net zo lekker als gewone appelsientje, maar dan minder zoet door 30% minder fruitsuiker. 100% duurzaam geteelde sinaasappels en 100% puur sap Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Van nature rijk aan vitamine c en een bron van foliumzuur en kalium Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen [SEP] kids kvp",appelsientje appelsientje volle smaak 6-pack kids kvp,null,null,null
+0.7280235,16015,500276,Appelsientje,Proef! appel-citroen-limoen,"Appelsientje PROEF! Appel-Citroen-Limoen is een lekkere, verrassende en spannende smaakcombinatie waarbij jij naast proeven, ook een nieuwe smaak mag bedenken! Zonder kunstmatige smaak- en conserveermiddelen Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (ongekoeld)","appelsientje [SEP] proef! appel-citroen-limoen [SEP] Appelsientje PROEF! Appel-Citroen-Limoen is een lekkere, verrassende en spannende smaakcombinatie waarbij jij naast proeven, ook een nieuwe smaak mag bedenken! Zonder kunstmatige smaak- en conserveermiddelen Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers [SEP] samengesteld sap",appelsientje proef! appel-citroen-limoen samengesteld sap,null,null,null
+0.7099086,16839,195824,De Appelaere,Appelsap,De Appelaere is honderd procent puur natuurlijk appelsap In elke fles minstens één kilo geperste appels Met piepkleine stukjes vruchtvlees voor een volle smaak Een (h)eerlijk product van milieubewust geteelde appelsrassen Gekoeld het lekkerst,"['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (ongekoeld)",de appelaere [SEP] appelsap [SEP] De Appelaere is honderd procent puur natuurlijk appelsap In elke fles minstens één kilo geperste appels Met piepkleine stukjes vruchtvlees voor een volle smaak Een (h)eerlijk product van milieubewust geteelde appelsrassen Gekoeld het lekkerst [SEP] enkel sap basis,de appelaere appelsap enkel sap basis,null,null,null
+0.70676184,4961,239499,Appelsientje,Sinaasappel volle smaak,"Appelsientje sinaasappelsap met minder fruitsuiker is net zo lekker als gewone appelsientje, maar dan minder zoet door 30% minder fruitsuiker. ""	100% duurzaam geteelde sinaasappels"" Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen 100% puur sap, van nature rijk aan vitamine c en een bron van foliumzuur en kalium","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ ""Sinaasappelsap & drank (jus dorange)""
+ Sinaasappelsap & drank  (ongekoeld)","appelsientje [SEP] sinaasappel volle smaak [SEP] Appelsientje sinaasappelsap met minder fruitsuiker is net zo lekker als gewone appelsientje, maar dan minder zoet door 30% minder fruitsuiker. ""	100% duurzaam geteelde sinaasappels"" Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen 100% puur sap, van nature rijk aan vitamine c en een bron van foliumzuur en kalium [SEP] enkel sap basis",appelsientje sinaasappel volle smaak enkel sap basis,null,null,null
+0.7057507,18504,485576,Appelsientje,Extra vruchtvlees voordeelpak,Appelsientje sinaasappel is 100% puur sap van 15 braziliaanse sinaasappels per liter. De sinaasappels worden met de hand geplukt en binnen 24 uur geperst. 100% duurzaam geteelde sinaasappels Van nature rijk aan vitamine c en een bron van foliumzuur en kalium Geen suiker toegevoegd: bevat alleen van nature aanwezige fruitsuikers,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ ""Sinaasappelsap & drank (jus dorange)""
+ Sinaasappelsap & drank  (ongekoeld)",appelsientje [SEP] extra vruchtvlees voordeelpak [SEP] Appelsientje sinaasappel is 100% puur sap van 15 braziliaanse sinaasappels per liter. De sinaasappels worden met de hand geplukt en binnen 24 uur geperst. 100% duurzaam geteelde sinaasappels Van nature rijk aan vitamine c en een bron van foliumzuur en kalium Geen suiker toegevoegd: bevat alleen van nature aanwezige fruitsuikers [SEP] enkel sap basis,appelsientje extra vruchtvlees voordeelpak enkel sap basis,null,null,null
+0.70081735,11347,436027,Appelsientje,Mango volle smaak,"Appelsientje mango met minder fruitsuiker is net zo lekker als gewone appelsientje, maar dan minder zoet door 30% minder fruitsuiker. Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen 100% puur sap, van nature rijk aan vitamine c en een bron van foliumzuur en kalium","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Diverse sappen & dranken Mangosap & drank","appelsientje [SEP] mango volle smaak [SEP] Appelsientje mango met minder fruitsuiker is net zo lekker als gewone appelsientje, maar dan minder zoet door 30% minder fruitsuiker. Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen 100% puur sap, van nature rijk aan vitamine c en een bron van foliumzuur en kalium [SEP] enkel sap overig",appelsientje mango volle smaak enkel sap overig,null,null,null
+0.6985119,13371,520745,Appelsientje,Fruit & groente mango komkommer passie,"Appelsientje fruit  en  groente is gemaakt van 100% sap van de lekkerste fruit en groente.. 100% sap uit fruit en groente Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Zonder kunstmatige smaak- en conserveermiddelen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Diverse sappen & dranken Mangosap & drank","appelsientje [SEP] fruit & groente mango komkommer passie [SEP] Appelsientje fruit  en  groente is gemaakt van 100% sap van de lekkerste fruit en groente.. 100% sap uit fruit en groente Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Zonder kunstmatige smaak- en conserveermiddelen [SEP] samengesteld sap",appelsientje fruit & groente mango komkommer passie samengesteld sap,null,null,null
+0.69570494,13307,520708,Appelsientje,Fruit & groente appel rode biet framboos,"Appelsientje fruit  en  groente is gemaakt van 100% sap van de lekkerste fruit en groente.. 100% sap uit fruit en groente Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Zonder kunstmatige smaak- en conserveermiddelen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (ongekoeld)","appelsientje [SEP] fruit & groente appel rode biet framboos [SEP] Appelsientje fruit  en  groente is gemaakt van 100% sap van de lekkerste fruit en groente.. 100% sap uit fruit en groente Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Zonder kunstmatige smaak- en conserveermiddelen [SEP] samengesteld sap",appelsientje fruit & groente appel rode biet framboos samengesteld sap,null,null,null
+0.6881873,7953,520962,Appelsientje,Mandarijntje,"Appelsientje Mandarijntje is 100% puur sap van de beste zongerijpte Mandarijnen. De Mandarijnen worden speciaal voor Appelsientje geselecteerd en geperst. 100% puur sap Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ ""Sinaasappelsap & drank (jus dorange)""
+ Sinaasappelsap & drank  (ongekoeld)","appelsientje [SEP] mandarijntje [SEP] Appelsientje Mandarijntje is 100% puur sap van de beste zongerijpte Mandarijnen. De Mandarijnen worden speciaal voor Appelsientje geselecteerd en geperst. 100% puur sap Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen [SEP] enkel sap overig",appelsientje mandarijntje enkel sap overig,null,null,null
+0.68750465,10456,454466,Appelsientje,Sinaasappelsap bio,Appelsientje biologisch is 100% puur sap van +/- 11 mexicaanse sinaasappels. Samen met de door ons geselecteerde biologisch fruittelers kiezen we de beste kwaliteit fruit. Geen suiker toegevoegd Draagt het biologisch keurmerk Geen conserveermiddelen Van nature rijk aan vitamine c,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ ""Sinaasappelsap & drank (jus dorange)""
+ Sinaasappelsap & drank  (ongekoeld)",appelsientje [SEP] sinaasappelsap bio [SEP] Appelsientje biologisch is 100% puur sap van +/- 11 mexicaanse sinaasappels. Samen met de door ons geselecteerde biologisch fruittelers kiezen we de beste kwaliteit fruit. Geen suiker toegevoegd Draagt het biologisch keurmerk Geen conserveermiddelen Van nature rijk aan vitamine c [SEP] enkel sap basis,appelsientje sinaasappelsap bio enkel sap basis,null,null,null
+0.6864151,2085,239500,Appelsientje,Goudappeltje volle smaak,"Appelsientje goudappeltje met minder fruitsuiker is net zo lekker als gewone appelsientje, maar dan minder zoet door 30% minder fruitsuiker. Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen 100% puur sap, van nature rijk aan vitamine c en een bron van foliumzuur en kalium","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (ongekoeld)","appelsientje [SEP] goudappeltje volle smaak [SEP] Appelsientje goudappeltje met minder fruitsuiker is net zo lekker als gewone appelsientje, maar dan minder zoet door 30% minder fruitsuiker. Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen 100% puur sap, van nature rijk aan vitamine c en een bron van foliumzuur en kalium [SEP] enkel sap basis",appelsientje goudappeltje volle smaak enkel sap basis,null,null,null
+0.68636966,4215,129194,Appelsientje,Sinaasappel mild,"Appelsientje Mild is 100% puur sap van 22 lekkere, milde sinaasappels. De sinaasappels worden met de hand geplukt en binnen 24 uur geperst. Bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen 100% puur sap","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ ""Sinaasappelsap & drank (jus dorange)""
+ Sinaasappelsap & drank  (ongekoeld)","appelsientje [SEP] sinaasappel mild [SEP] Appelsientje Mild is 100% puur sap van 22 lekkere, milde sinaasappels. De sinaasappels worden met de hand geplukt en binnen 24 uur geperst. Bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen 100% puur sap [SEP] enkel sap basis",appelsientje sinaasappel mild enkel sap basis,null,null,null
+0.6857907,17501,520703,Appelsientje,Goudappeltje volle smaak voordeel,"Appelsientje goudappeltje met minder fruitsuiker is net zo lekker als gewone appelsientje, maar dan minder zoet door 30% minder fruitsuiker. Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen 100% puur sap, van nature rijk aan vitamine c In een 1,5 liter verpakking","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (ongekoeld)","appelsientje [SEP] goudappeltje volle smaak voordeel [SEP] Appelsientje goudappeltje met minder fruitsuiker is net zo lekker als gewone appelsientje, maar dan minder zoet door 30% minder fruitsuiker. Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen 100% puur sap, van nature rijk aan vitamine c In een 1,5 liter verpakking [SEP] enkel sap basis",appelsientje goudappeltje volle smaak voordeel enkel sap basis,null,null,null
+0.6838987,8134,2751,Appelsientje,Sinaasappel,"Appelsientje sinaasappel is 100% puur sap van 15 heerlijke braziliaanse sinaasappels. De sinaasappels worden met de hand geplukt en binnen 24 uur geperst. ""	100% duurzaam geteelde sinaasappels"" Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen 100% puur sap, van nature rijk aan vitamine c en een bron van foliumzuur en kalium","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ ""Sinaasappelsap & drank (jus dorange)""
+ Sinaasappelsap & drank  (ongekoeld)","appelsientje [SEP] sinaasappel [SEP] Appelsientje sinaasappel is 100% puur sap van 15 heerlijke braziliaanse sinaasappels. De sinaasappels worden met de hand geplukt en binnen 24 uur geperst. ""	100% duurzaam geteelde sinaasappels"" Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen 100% puur sap, van nature rijk aan vitamine c en een bron van foliumzuur en kalium [SEP] enkel sap basis",appelsientje sinaasappel enkel sap basis,null,null,null
+0.67799133,10973,542729,Appelsientje,Kids fruitdrink appel en aardbei 6-pack,"Appelsientje Kids is een lekkere fruitdrank voor ieder moment van de dag. Laag in calorieen Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen Van nature rijk aan vitamine c en een bron van foliumzuur en kalium","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Multivruchtensap & drank Multivruchtensap & drank (gekoeld)","appelsientje [SEP] kids fruitdrink appel en aardbei 6-pack [SEP] Appelsientje Kids is een lekkere fruitdrank voor ieder moment van de dag. Laag in calorieen Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen Van nature rijk aan vitamine c en een bron van foliumzuur en kalium [SEP] kids kvp",appelsientje kids fruitdrink appel en aardbei 6-pack kids kvp,null,null,null
+0.6773693,5959,55444,Appelsientje,Sinaasappel met extra vruchtvlees,"Appelsientje sinaasappel met extra vruchtvlees is 100% puur sap van 15 heerlijke braziliaanse sinaasappels. De sinaasappels worden met de hand geplukt en binnen 24 uur geperst. ""	100% duurzaam geteelde sinaasappels"" Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen 100% puur sap, van nature rijk aan vitamine c en een bron van foliumzuur en kalium","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ ""Sinaasappelsap & drank (jus dorange)""
+ Sinaasappelsap & drank  (ongekoeld)","appelsientje [SEP] sinaasappel met extra vruchtvlees [SEP] Appelsientje sinaasappel met extra vruchtvlees is 100% puur sap van 15 heerlijke braziliaanse sinaasappels. De sinaasappels worden met de hand geplukt en binnen 24 uur geperst. ""	100% duurzaam geteelde sinaasappels"" Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen 100% puur sap, van nature rijk aan vitamine c en een bron van foliumzuur en kalium [SEP] enkel sap basis",appelsientje sinaasappel met extra vruchtvlees enkel sap basis,null,null,null
+0.6751234,6201,218329,Appelsientje,Sinaasappel zonder vruchtvlees,"Appelsientje sinaasappel zonder vruchtvlees is 100% puur sap van 15 heerlijke braziliaanse sinaasappels. De sinaasappels worden met de hand geplukt en binnen 24 uur geperst. ""	100% duurzaam geteelde sinaasappels"" Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen 100% puur sap, van nature rijk aan vitamine c en een bron van foliumzuur en kalium","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ ""Sinaasappelsap & drank (jus dorange)""
+ Sinaasappelsap & drank  (ongekoeld)","appelsientje [SEP] sinaasappel zonder vruchtvlees [SEP] Appelsientje sinaasappel zonder vruchtvlees is 100% puur sap van 15 heerlijke braziliaanse sinaasappels. De sinaasappels worden met de hand geplukt en binnen 24 uur geperst. ""	100% duurzaam geteelde sinaasappels"" Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen 100% puur sap, van nature rijk aan vitamine c en een bron van foliumzuur en kalium [SEP] enkel sap basis",appelsientje sinaasappel zonder vruchtvlees enkel sap basis,null,null,null
+0.67360306,7190,454469,Appelsientje,Appel mango bio,Appelsientje biologisch is 100% puur sap van +/- 1 Indiaanse Mango en +/- 4 frisse appels. Samen met de door ons geselecteerde biologisch fruittelers kiezen we de beste kwaliteit fruit. Geen suiker toegevoegd Draagt het biologisch keurmerk Geen conserveermiddelen,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (gekoeld)",appelsientje [SEP] appel mango bio [SEP] Appelsientje biologisch is 100% puur sap van +/- 1 Indiaanse Mango en +/- 4 frisse appels. Samen met de door ons geselecteerde biologisch fruittelers kiezen we de beste kwaliteit fruit. Geen suiker toegevoegd Draagt het biologisch keurmerk Geen conserveermiddelen [SEP] samengesteld sap,appelsientje appel mango bio samengesteld sap,null,null,null
+0.6691403,12414,218327,Appelsientje,Sinaasappelsap voordeelpak,"Appelsientje sinaasappel is 100% puur sap van 22 heerlijke braziliaanse sinaasappels. De sinaasappels worden met de hand geplukt en binnen 24 uur geperst. ""	100% duurzaam geteelde sinaasappels"" Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen 100% puur sap, van nature rijk aan vitamine c en een bron van foliumzuur en kalium","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ ""Sinaasappelsap & drank (jus dorange)""
+ Sinaasappelsap & drank  (ongekoeld)","appelsientje [SEP] sinaasappelsap voordeelpak [SEP] Appelsientje sinaasappel is 100% puur sap van 22 heerlijke braziliaanse sinaasappels. De sinaasappels worden met de hand geplukt en binnen 24 uur geperst. ""	100% duurzaam geteelde sinaasappels"" Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen 100% puur sap, van nature rijk aan vitamine c en een bron van foliumzuur en kalium [SEP] enkel sap basis",appelsientje sinaasappelsap voordeelpak enkel sap basis,null,null,null
+0.6668308,11064,542736,Appelsientje,Kids fruitdrink appel 6-pack,"Appelsientje Kids is een lekkere fruitdrank voor ieder moment van de dag. Laag in calorieen Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen Van nature rijk aan vitamine c en een bron van foliumzuur en kalium","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Pakjes drinken
+ Vruchtensappen & drank Appelsap & drank (drinkpakjes)
+ Appelsap & drank","appelsientje [SEP] kids fruitdrink appel 6-pack [SEP] Appelsientje Kids is een lekkere fruitdrank voor ieder moment van de dag. Laag in calorieen Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen Van nature rijk aan vitamine c en een bron van foliumzuur en kalium [SEP] kids kvp",appelsientje kids fruitdrink appel 6-pack kids kvp,null,null,null
+0.6658135,11302,542738,Appelsientje,Goudappeltje volle smaak 6-pack,"Appelsientje goudappeltje met minder fruitsuiker is net zo lekker als gewone appelsientje, maar dan minder zoet door 30% minder fruitsuiker. 100% puur sap Van nature rijk aan vitamine c en een bron van foliumzuur en kalium Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Geen conserveermiddelen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Pakjes drinken
+ Vruchtensappen & drank Appelsap & drank (drinkpakjes)
+ Appelsap & drank","appelsientje [SEP] goudappeltje volle smaak 6-pack [SEP] Appelsientje goudappeltje met minder fruitsuiker is net zo lekker als gewone appelsientje, maar dan minder zoet door 30% minder fruitsuiker. 100% puur sap Van nature rijk aan vitamine c en een bron van foliumzuur en kalium Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Geen conserveermiddelen [SEP] kids kvp",appelsientje goudappeltje volle smaak 6-pack kids kvp,null,null,null
+0.6638229,15250,468204,Appelsientje,Proef! peer-vlierbloesem,"Appelsientje proef! Peer-vlierbloesem is een lekkere, verrassende en spannende blend van smaken waarbij jij naast proeven, ook een nieuwe smaak mag bedenken! Bedenk je eigen smaak Geen suiker toegevoegd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Perensap & drank","appelsientje [SEP] proef! peer-vlierbloesem [SEP] Appelsientje proef! Peer-vlierbloesem is een lekkere, verrassende en spannende blend van smaken waarbij jij naast proeven, ook een nieuwe smaak mag bedenken! Bedenk je eigen smaak Geen suiker toegevoegd [SEP] samengesteld sap",appelsientje proef! peer-vlierbloesem samengesteld sap,null,null,null
+0.66287273,2992,234251,AH Buitenbeentjes,Appels zak,"Deze appels zijn nét even anders. Anders van vorm, minder gekleurd of met enige schade van bijvoorbeeld hagel. Dit zijn puur uiterlijke kenmerken, deze zeggen dus niets over de smaak of houdbaarheid. Bereiden: de appel wassen en eventueel schillen Bewaren: de appel wassen en eventueel schillen Geschikt voor: snack, bakken, salade","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Zakken en boxen","ah buitenbeentjes [SEP] appels zak [SEP] Deze appels zijn nét even anders. Anders van vorm, minder gekleurd of met enige schade van bijvoorbeeld hagel. Dit zijn puur uiterlijke kenmerken, deze zeggen dus niets over de smaak of houdbaarheid. Bereiden: de appel wassen en eventueel schillen Bewaren: de appel wassen en eventueel schillen Geschikt voor: snack, bakken, salade [SEP] appels zak",ah buitenbeentjes appels zak appels zak,null,null,null
+0.66129225,1358,123209,AH,Elstar appels,"Elstar is het populairste handappeltje van Nederland. Deze friszoete appel met fijn cassisaroma is bovendien een echte alleskunner: heel geschikt voor appelmoes, appelsap en appeltaart. Smaak: zoetzuur Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Geschikt voor: snack, bakken, salade Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Zakken en boxen","ah [SEP] elstar appels [SEP] Elstar is het populairste handappeltje van Nederland. Deze friszoete appel met fijn cassisaroma is bovendien een echte alleskunner: heel geschikt voor appelmoes, appelsap en appeltaart. Smaak: zoetzuur Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Geschikt voor: snack, bakken, salade Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] appels zak",ah elstar appels appels zak,null,null,null
+0.6595979,16527,170798,Kanzi,Appelen schaal,"Kanzi is een appel met een prachtige blos, een knapperige bite en een uitgebalanceerde frizoete smaak die voorkomt uit de unieke mix van de zoete gala en de sappige knapperige braeburn. Smaak: friszoet Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Schaal","kanzi [SEP] appelen schaal [SEP] Kanzi is een appel met een prachtige blos, een knapperige bite en een uitgebalanceerde frizoete smaak die voorkomt uit de unieke mix van de zoete gala en de sappige knapperige braeburn. Smaak: friszoet Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast [SEP] appels schaal",kanzi appelen schaal appels schaal,null,null,null
+0.6595577,15937,366619,Kanzi,Appelen los,Kanzi is een appel met een prachtige blos en knapperige bite. De uitgeblanceerde friszoete smaak komt voort uit de unieke mix van de zoete Royal gala en de sappige knapperige breaburn. Smaak: friszoet Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Lekker als gezond tussendoortje of in een salade,"['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Los",kanzi [SEP] appelen los [SEP] Kanzi is een appel met een prachtige blos en knapperige bite. De uitgeblanceerde friszoete smaak komt voort uit de unieke mix van de zoete Royal gala en de sappige knapperige breaburn. Smaak: friszoet Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Lekker als gezond tussendoortje of in een salade [SEP] appels los,kanzi appelen los appels los,null,null,null
+0.6523516,19911,230728,AH,Royal gala appel los,"Royal gala is een sappige, zoete handappel met een toegankelijke smaak en tonen van nectarine. Een echte allemansvriend! Smaak: volzoet Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Lekker als gezond tussendoortje of in een salade","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Los","ah [SEP] royal gala appel los [SEP] Royal gala is een sappige, zoete handappel met een toegankelijke smaak en tonen van nectarine. Een echte allemansvriend! Smaak: volzoet Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Lekker als gezond tussendoortje of in een salade [SEP] appels los",ah royal gala appel los appels los,null,null,null
+0.6474179,3465,454468,Appelsientje,Goudappeltje bio,Appelsientje biologisch is 100% puur sap van +/- 5 fris zoete appels. Samen met de door ons geselecteerde biologisch fruittelers kiezen we de beste kwaliteit fruit. Geen suiker toegevoegd Draagt het biologisch keurmerk Geen conserveermiddelen,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (ongekoeld)",appelsientje [SEP] goudappeltje bio [SEP] Appelsientje biologisch is 100% puur sap van +/- 5 fris zoete appels. Samen met de door ons geselecteerde biologisch fruittelers kiezen we de beste kwaliteit fruit. Geen suiker toegevoegd Draagt het biologisch keurmerk Geen conserveermiddelen [SEP] enkel sap basis,appelsientje goudappeltje bio enkel sap basis,null,null,null
+0.6472125,18793,80583,AH,Elstar appels los,"Elstar is het populairste handappeltje van Nederland. Deze friszoete appel is een echte alleskunner: heel geschikt voor appelmoes, appelsap en appeltaart. Smaak: zoetzuur Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Ook lekker als gezond tussendoortje of in een salade Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Los","ah [SEP] elstar appels los [SEP] Elstar is het populairste handappeltje van Nederland. Deze friszoete appel is een echte alleskunner: heel geschikt voor appelmoes, appelsap en appeltaart. Smaak: zoetzuur Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Ook lekker als gezond tussendoortje of in een salade Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] appels los",ah elstar appels los appels los,null,null,null
+0.6465434,6678,62362,AH,Golden Delicous,Deze zachtzure tot zoete appel staat bekend om zijn stevige vruchtvlees en is daarom heel geschikt om te verwerken in taarten. Smaak: friszoet Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Ook lekker als gezond tussendoortje of in een salade,"['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Los",ah [SEP] golden delicous [SEP] Deze zachtzure tot zoete appel staat bekend om zijn stevige vruchtvlees en is daarom heel geschikt om te verwerken in taarten. Smaak: friszoet Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Ook lekker als gezond tussendoortje of in een salade [SEP] appels los,ah golden delicous appels los,null,null,null
+0.6454997,13716,128780,AH,Appelen,"Heerlijke volzoete tot friszoete appels in een zak van 2,5 kilo, genoeg voor het hele gezin! Smaak: volzoet tot friszoet Bereiden: de appel wassen en eventueel schillen Na aankoop bewaren in de koelkast Geschikt voor: snack, bakken, salade","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Zakken en boxen","ah [SEP] appelen [SEP] Heerlijke volzoete tot friszoete appels in een zak van 2,5 kilo, genoeg voor het hele gezin! Smaak: volzoet tot friszoet Bereiden: de appel wassen en eventueel schillen Na aankoop bewaren in de koelkast Geschikt voor: snack, bakken, salade [SEP] appels zak",ah appelen appels zak,null,null,null
+0.64310884,2592,129993,AH,Zoete kleine appeltjes,Royal Gala zijn zoete kleine appeltjes: sappig en zoet van smaak. Een echte allemansvriend met een toegankelijke smaak met tonen van nectarine. Smaak: volzoet Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Geschikt voor: snack,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Zakken en boxen",ah [SEP] zoete kleine appeltjes [SEP] Royal Gala zijn zoete kleine appeltjes: sappig en zoet van smaak. Een echte allemansvriend met een toegankelijke smaak met tonen van nectarine. Smaak: volzoet Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Geschikt voor: snack [SEP] appels zak,ah zoete kleine appeltjes appels zak,null,null,null
+0.6409939,4179,377719,AH,Appelsap,"Enjoy! Friszoet appelsap, een heerlijke dorstlesser op ieder moment van de dag. Voor op de ontbijttafel, lunch of ieder ander moment van de dag. Appelsap uit concentraat. 1,5L Gekoeld het lekkerst!","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (ongekoeld)","ah [SEP] appelsap [SEP] Enjoy! Friszoet appelsap, een heerlijke dorstlesser op ieder moment van de dag. Voor op de ontbijttafel, lunch of ieder ander moment van de dag. Appelsap uit concentraat. 1,5L Gekoeld het lekkerst! [SEP] enkel sap basis",ah appelsap enkel sap basis,null,null,null
+0.63980615,6453,403957,Van de Boom,Appel,"Van de Boom Appel is een heerlijk, natuurlijk, verfrissende mix van onder andere appelsap en zuiver water. Minder suiker, vol van smaak! 30% minder suiker dan appelsap 0% toegevoegde suiker, bevat van nature aanwezige suiker. 100% natuurlijk Bevat geen kunstmatige zoetstoffen, kleurstoffen en conserveermiddelen.","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (ongekoeld)","van de boom [SEP] appel [SEP] Van de Boom Appel is een heerlijk, natuurlijk, verfrissende mix van onder andere appelsap en zuiver water. Minder suiker, vol van smaak! 30% minder suiker dan appelsap 0% toegevoegde suiker, bevat van nature aanwezige suiker. 100% natuurlijk Bevat geen kunstmatige zoetstoffen, kleurstoffen en conserveermiddelen. [SEP] enkel sap basis",van de boom appel enkel sap basis,null,null,null
+0.6391704,10136,117190,Pink Lady,Schaal,"Pink lady is een volzoet en aromatisch handappeltje met hard, stevig en zeer knapperig vruchtvlees. Ook ideaal om te bakken of in een salade. Smaak: volzoet Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Schaal","pink lady [SEP] schaal [SEP] Pink lady is een volzoet en aromatisch handappeltje met hard, stevig en zeer knapperig vruchtvlees. Ook ideaal om te bakken of in een salade. Smaak: volzoet Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast [SEP] appels schaal",pink lady schaal appels schaal,null,null,null
+0.6372634,2007,520275,AH,Ananas appel druif,,"['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Tussendoortjes Fruitsalade Fruit
+ Fruitsalade (mix)",ah [SEP] ananas appel druif [SEP]  [SEP] kies en mix,ah ananas appel druif kies en mix,null,null,null
+0.6370311,11004,487,Appelsientje,Tomatientje,"Appelsientje Tomatientje is een heerlijke mix van tomaten- en
+				  groentesap aangevuld met kruiden voor een lekkere bite. Bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen  						conserveermiddelen 100% puur sap Van nature rijk aan vitamine C","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen gluten']","Frisdrank sappen koffie thee Groentesappen & drank
+ Groentesap & drank (gekoeld)","appelsientje [SEP] tomatientje [SEP] Appelsientje Tomatientje is een heerlijke mix van tomaten- en
+				  groentesap aangevuld met kruiden voor een lekkere bite. Bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen  						conserveermiddelen 100% puur sap Van nature rijk aan vitamine C [SEP] groentensap",appelsientje tomatientje groentensap,null,null,null
+0.63678575,15390,378030,AH,AH apple juice fl,"Deze lekker, frisse appelsap is een heerlijke dorstlesser op ieder moment van de dag! Appelsap uit concentraat Gekoeld het lekkerst! Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (ongekoeld)","ah [SEP] ah apple juice fl [SEP] Deze lekker, frisse appelsap is een heerlijke dorstlesser op ieder moment van de dag! Appelsap uit concentraat Gekoeld het lekkerst! Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] enkel sap basis",ah ah apple juice fl enkel sap basis,null,null,null
+0.6367643,13898,436180,Appelsientje,Goudappeltje troebel,"Appelsientje goudappeltje troebel is gemaakt met 100% puur appelsap en is zacht van smaak. 100% puur appelsap, van nature rijk aan vitamine c Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (ongekoeld)","appelsientje [SEP] goudappeltje troebel [SEP] Appelsientje goudappeltje troebel is gemaakt met 100% puur appelsap en is zacht van smaak. 100% puur appelsap, van nature rijk aan vitamine c Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen [SEP] enkel sap basis",appelsientje goudappeltje troebel enkel sap basis,null,null,null
+0.6365056,7625,94754,AH,Jonagold los,"Jonagold is een smaakvolle, evenwichtige handappel: sappig, vrij zoet en met een mild zuurtje. De appel is ook erg lekker in de yoghurt, desserts en salades. Smaak: zoetzuur Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Ook lekker als gezond tussendoortje of in een salade Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Los","ah [SEP] jonagold los [SEP] Jonagold is een smaakvolle, evenwichtige handappel: sappig, vrij zoet en met een mild zuurtje. De appel is ook erg lekker in de yoghurt, desserts en salades. Smaak: zoetzuur Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Ook lekker als gezond tussendoortje of in een salade Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] appels los",ah jonagold los appels los,null,null,null
+0.6363745,3154,485568,AH,Appelsap,"Ah appelsap, een heerlijke dorstlesser op ieder moment van de dag. 1,5 l e In handige gezinsverpakking Uit concentraat Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (ongekoeld)","ah [SEP] appelsap [SEP] Ah appelsap, een heerlijke dorstlesser op ieder moment van de dag. 1,5 l e In handige gezinsverpakking Uit concentraat Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] enkel sap basis",ah appelsap enkel sap basis,null,null,null
+0.635661,3881,377726,AH,Appelsap,"Enjoy! Friszoet appelsap, een heerlijke dorstlesser op ieder moment van de dag. Voor op de ontbijttafel, lunch of ieder ander moment van de dag. Appelsap uit concentraat. 1,0L Gekoeld het lekkerst!","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (ongekoeld)","ah [SEP] appelsap [SEP] Enjoy! Friszoet appelsap, een heerlijke dorstlesser op ieder moment van de dag. Voor op de ontbijttafel, lunch of ieder ander moment van de dag. Appelsap uit concentraat. 1,0L Gekoeld het lekkerst! [SEP] enkel sap basis",ah appelsap enkel sap basis,null,null,null
+0.6353189,9270,377654,Appelsientje,Zwarte bes,"Appelsientje Zwarte bes is 100% puur sap gemaakt van de
+					 lekkerste friszurige zwarte bessen, frisse appels en witte druif. Bevat alleen van nature aanwezige 						  suikers Alleen eventjes verhit voor houdbaarheid, dus geen 						  conserveermiddelen Rijk aan vitamine C","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Multivruchtensap & drank Multivruchtensap & drank (gekoeld)","appelsientje [SEP] zwarte bes [SEP] Appelsientje Zwarte bes is 100% puur sap gemaakt van de
+					 lekkerste friszurige zwarte bessen, frisse appels en witte druif. Bevat alleen van nature aanwezige 						  suikers Alleen eventjes verhit voor houdbaarheid, dus geen 						  conserveermiddelen Rijk aan vitamine C [SEP] enkel sap overig",appelsientje zwarte bes enkel sap overig,null,null,null
+0.62992847,8058,160131,AH,Appelsap 6-pack,Friszuur appelsap Gekoeld het lekkerst! Uit geconcentreerd sap Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Pakjes drinken
+ Vruchtensappen & drank Appelsap & drank (drinkpakjes)
+ Appelsap & drank",ah [SEP] appelsap 6-pack [SEP] Friszuur appelsap Gekoeld het lekkerst! Uit geconcentreerd sap Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] kids kvp,ah appelsap 6-pack kids kvp,null,null,null
+0.6273287,7205,520760,Appelsientje,Proef! sinaasappel mango kurkuma,"Appelsientje proef! Sinaasappel-mango-kurkuma is een lekkere, verrassende en spannende blend van smaken waarbij jij naast proeven, ook een nieuwe smaak mag bedenken! Bedenk je eigen smaak Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Zonder kunstmatige smaak- en conserveermiddelen","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Aardappel groente fruit Frisdrank sappen koffie thee
+ Vruchtensappen & drank Koudgeperste sappen & smoothies
+ Verse sappen & smoothies Multivruchtensap & drank
+ Multivruchtensap (vers) Verse sappen","appelsientje [SEP] proef! sinaasappel mango kurkuma [SEP] Appelsientje proef! Sinaasappel-mango-kurkuma is een lekkere, verrassende en spannende blend van smaken waarbij jij naast proeven, ook een nieuwe smaak mag bedenken! Bedenk je eigen smaak Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Zonder kunstmatige smaak- en conserveermiddelen [SEP] samengesteld sap",appelsientje proef! sinaasappel mango kurkuma samengesteld sap,null,null,null
+0.6264106,668,447162,Kanzi,Appelen zak,Kanzi herken je aan zijn typische rode blos. De beet is knapperig met een verrukkelijk uitgebalanceerde friszoete smaak. Ideaal als handappeltje maar ook om te bakken of in een salade. Smaak: friszoet Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast,"['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Zakken en boxen",kanzi [SEP] appelen zak [SEP] Kanzi herken je aan zijn typische rode blos. De beet is knapperig met een verrukkelijk uitgebalanceerde friszoete smaak. Ideaal als handappeltje maar ook om te bakken of in een salade. Smaak: friszoet Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast [SEP] appels zak,kanzi appelen zak appels zak,null,null,null
+0.6189517,11543,378090,AH,Appelsap 6-pack,"Lekker verfrissend! Dit friszure appelsap is een heerlijke dorstlesser op ieder moment van de dag. Voor op de ontbijttafel, lunch of ieder ander moment van de dag. Appelsap uit concentraat. 6x0,33L Gekoeld het lekkerst! Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (ongekoeld)","ah [SEP] appelsap 6-pack [SEP] Lekker verfrissend! Dit friszure appelsap is een heerlijke dorstlesser op ieder moment van de dag. Voor op de ontbijttafel, lunch of ieder ander moment van de dag. Appelsap uit concentraat. 6x0,33L Gekoeld het lekkerst! Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] enkel sap basis",ah appelsap 6-pack enkel sap basis,null,null,null
+0.6152577,9405,218326,Appelsientje,Goudappeltje voordeelpak,"Appelsientje goudappeltje is 100% puur sap van 10 appels. We gebruiken voor goudappeltje onder meer appels die aan hoogstambomen groeien, vanwege hun extra frisse smaak. 100% puur appelsap, van nature rijk aan vitamine c Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (ongekoeld)","appelsientje [SEP] goudappeltje voordeelpak [SEP] Appelsientje goudappeltje is 100% puur sap van 10 appels. We gebruiken voor goudappeltje onder meer appels die aan hoogstambomen groeien, vanwege hun extra frisse smaak. 100% puur appelsap, van nature rijk aan vitamine c Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen [SEP] enkel sap basis",appelsientje goudappeltje voordeelpak enkel sap basis,null,null,null
+0.6139871,5315,444756,AH,Elstar schaal,"Elstar is het populairste handappeltje van Nederland. Deze friszoete appel met fijn cassisaroma is bovendien een echte alleskunner: heel geschikt voor appelmoes, appelsap en appeltaart. Smaak: zoetzuur Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Geschikt voor: snack, bakken, in een salade","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Schaal","ah [SEP] elstar schaal [SEP] Elstar is het populairste handappeltje van Nederland. Deze friszoete appel met fijn cassisaroma is bovendien een echte alleskunner: heel geschikt voor appelmoes, appelsap en appeltaart. Smaak: zoetzuur Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Geschikt voor: snack, bakken, in een salade [SEP] appels schaal",ah elstar schaal appels schaal,null,null,null
+0.6132974,11106,234268,AH,Fruitbox appels voordeelpakket,"Het pakket bevar elstar appels. Elstar is het populairste handappeltje van Nederland, zoetzuur met fijn cassisaroma. Smaak: zoetzuur Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Lekker als gezond tussendoortje, om mee te bakken of in een salade","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Zakken en boxen","ah [SEP] fruitbox appels voordeelpakket [SEP] Het pakket bevar elstar appels. Elstar is het populairste handappeltje van Nederland, zoetzuur met fijn cassisaroma. Smaak: zoetzuur Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Lekker als gezond tussendoortje, om mee te bakken of in een salade [SEP] appels los",ah fruitbox appels voordeelpakket appels los,null,null,null
+0.6123079,4837,2742,Appelsientje,Goudappeltje,"Appelsientje goudappeltje is 100% puur sap van 7 appels. We gebruiken voor goudappeltje onder meer appels die aan hoogstambomen groeien, vanwege hun extra frisse smaak. 100% puur appelsap, van nature rijk aan vitamine c Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (ongekoeld)","appelsientje [SEP] goudappeltje [SEP] Appelsientje goudappeltje is 100% puur sap van 7 appels. We gebruiken voor goudappeltje onder meer appels die aan hoogstambomen groeien, vanwege hun extra frisse smaak. 100% puur appelsap, van nature rijk aan vitamine c Geen suiker toegevoegd, bevat alleen van nature aanwezige fruitsuikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen [SEP] enkel sap basis",appelsientje goudappeltje enkel sap basis,null,null,null
+0.61097705,18449,129364,Jazz,Jazz appel schaal,"Zo’n knapperige, friszoete, sappige appel - dat kan alleen een JAZZ™ appel zijn! Stevig, knapperig en sappig Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Geschikt voor: snack, salade","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Schaal","jazz [SEP] jazz appel schaal [SEP] Zo’n knapperige, friszoete, sappige appel - dat kan alleen een JAZZ™ appel zijn! Stevig, knapperig en sappig Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Geschikt voor: snack, salade [SEP] appels schaal",jazz jazz appel schaal appels schaal,null,null,null
+0.61007804,1553,230764,Jazz,Jazz appel los,"Jazz: stevig, knapperig en sappig van smaak. Smaak: volzoet Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Geschikt voor: snack, salade","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Los","jazz [SEP] jazz appel los [SEP] Jazz: stevig, knapperig en sappig van smaak. Smaak: volzoet Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Geschikt voor: snack, salade [SEP] appels los",jazz jazz appel los appels los,null,null,null
+0.6088866,9016,209178,AH Biologisch,Appel zak,"Een kilo heerlijk zoete biologische appels. Neem het ervan en geniet van het lekkerste dat de natuur te bieden heeft. Je kunt met een goed gevoel van onze biologische producten genieten, omdat ze met zorg en aandacht voor ons zijn geproduceerd. Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Zakken en boxen","ah biologisch [SEP] appel zak [SEP] Een kilo heerlijk zoete biologische appels. Neem het ervan en geniet van het lekkerste dat de natuur te bieden heeft. Je kunt met een goed gevoel van onze biologische producten genieten, omdat ze met zorg en aandacht voor ons zijn geproduceerd. Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast [SEP] appels zak",ah biologisch appel zak appels zak,null,null,null
+0.6082683,5980,109078,AH,Jonagold zak,"Jonagold is een smaakvolle, evenwichtige handappel: sappig, vrij zoet en met een mild zuurtje. De appel is ook erg lekker in desserts, yoghurt en salade. Smaak: zoetzuur Bereiden: de appel wassen en eventueel schillen Bewaren: na aankoop bewaren in de koelkast Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Zakken en boxen","ah [SEP] jonagold zak [SEP] Jonagold is een smaakvolle, evenwichtige handappel: sappig, vrij zoet en met een mild zuurtje. De appel is ook erg lekker in desserts, yoghurt en salade. Smaak: zoetzuur Bereiden: de appel wassen en eventueel schillen Bewaren: na aankoop bewaren in de koelkast Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] appels zak",ah jonagold zak appels zak,null,null,null
+0.6016635,3788,120890,AH,Granny smith los,De granny smith is een citrusfrisse dorstlesser en een knapperig handappeltje met een felgroene kleur. Dankzij zijn frisse smaak doet ie het ook heel goed in vele gerechten en salades. Smaak: friszuur Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Ook lekker als gezond tussendoortje of in een salade,"['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Los",ah [SEP] granny smith los [SEP] De granny smith is een citrusfrisse dorstlesser en een knapperig handappeltje met een felgroene kleur. Dankzij zijn frisse smaak doet ie het ook heel goed in vele gerechten en salades. Smaak: friszuur Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Ook lekker als gezond tussendoortje of in een salade [SEP] appels los,ah granny smith los appels los,null,null,null
+0.6006092,17318,486005,Innocent,Apple juice,"Ons appelsap Smaakt net als wanneer je zelf appels in de sapcentrifuge gooit: fruitig, zoet, fris en nogal appelig natuurlijk. Gemaakt van de lekkerste appels die we konden vinden. Bevat het sap van 13 appels Nooit van concentraat Geen toegevoegde suikers of conserveringsmiddelen 10% van onze winst gaat naar het goede doel","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Verse sappen & smoothies Appelsap & drank Verse sappen
+ Appelsap (vers)","innocent [SEP] apple juice [SEP] Ons appelsap Smaakt net als wanneer je zelf appels in de sapcentrifuge gooit: fruitig, zoet, fris en nogal appelig natuurlijk. Gemaakt van de lekkerste appels die we konden vinden. Bevat het sap van 13 appels Nooit van concentraat Geen toegevoegde suikers of conserveringsmiddelen 10% van onze winst gaat naar het goede doel [SEP] a merk sappen nfc",innocent apple juice a merk sappen nfc,null,null,null
+0.60048735,15008,202922,Innocent,Apple juice,"Ons appelsap Smaakt net als wanneer je zelf appels in de sapcentrifuge gooit: fruitig, zoet, fris en nogal appelig natuurlijk. Gemaakt van de lekkerste appels die we konden vinden. Bevat het sap van 8 appels Nooit van concentraat Geen toegevoegde suikers of conserveringsmiddelen 10% van onze winst gaat naar het goede doel","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (gekoeld)","innocent [SEP] apple juice [SEP] Ons appelsap Smaakt net als wanneer je zelf appels in de sapcentrifuge gooit: fruitig, zoet, fris en nogal appelig natuurlijk. Gemaakt van de lekkerste appels die we konden vinden. Bevat het sap van 8 appels Nooit van concentraat Geen toegevoegde suikers of conserveringsmiddelen 10% van onze winst gaat naar het goede doel [SEP] a merk sappen nfc",innocent apple juice a merk sappen nfc,null,null,null
+0.59419525,14003,472497,Pink Lady,Pinkids schaal,Pinkids is een volzoet en aromatisch handappeltje met stevig en zeer knapperig vruchtvlees. De zoete smaak en het kleine formaat maakt deze appel zeer geschikt voor kinderen. Smaak: volzoet Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast,"['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Schaal",pink lady [SEP] pinkids schaal [SEP] Pinkids is een volzoet en aromatisch handappeltje met stevig en zeer knapperig vruchtvlees. De zoete smaak en het kleine formaat maakt deze appel zeer geschikt voor kinderen. Smaak: volzoet Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast [SEP] appels schaal,pink lady pinkids schaal appels schaal,null,null,null
+0.5904664,15333,230750,Pink Lady,Pink lady appel los,Let op: dit product wordt in de winkel gewogen om de exacte prijs vast te stellen,[],"Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Los",pink lady [SEP] pink lady appel los [SEP] Let op: dit product wordt in de winkel gewogen om de exacte prijs vast te stellen [SEP] appels los,pink lady pink lady appel los appels los,null,null,null
+0.58951443,12408,160761,AH,Boomgaardsap appel,Overheerlijk natuurtroebel appelsap. Vanuit de boomgaard op uw tafel. 1 liter appelsap geperst uit tenminste 10 appels Met de friszoete smaak van elstar en jonagold appels Gekoeld het lekkerst,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (ongekoeld)",ah [SEP] boomgaardsap appel [SEP] Overheerlijk natuurtroebel appelsap. Vanuit de boomgaard op uw tafel. 1 liter appelsap geperst uit tenminste 10 appels Met de friszoete smaak van elstar en jonagold appels Gekoeld het lekkerst [SEP] enkel sap basis,ah boomgaardsap appel enkel sap basis,null,null,null
+0.58889663,2828,490395,AH,Sprank,,"['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Los",ah [SEP] sprank [SEP]  [SEP] appels los,ah sprank appels los,null,null,null
+0.58066285,942,230735,AH,Fuji appel los,"Fuji is lekker sappig, heeft een rijke, honingzoete smaak en een stevige beet. Deze handappel kun je ook goed verwerken in taarten. Smaak: volzoet Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Ook lekker als gezond tussendoortje of in een salade","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Los","ah [SEP] fuji appel los [SEP] Fuji is lekker sappig, heeft een rijke, honingzoete smaak en een stevige beet. Deze handappel kun je ook goed verwerken in taarten. Smaak: volzoet Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Ook lekker als gezond tussendoortje of in een salade [SEP] appels los",ah fuji appel los appels los,null,null,null
+0.5787066,13951,485564,AH,Appelsap troebel,Uit geconcentreerd sap Appelsap troebel Appelsap uit concentraat met toegevoegd vitamine c Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (ongekoeld)",ah [SEP] appelsap troebel [SEP] Uit geconcentreerd sap Appelsap troebel Appelsap uit concentraat met toegevoegd vitamine c Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] enkel sap basis,ah appelsap troebel enkel sap basis,null,null,null
+0.57712495,4971,378031,AH,AH orange juice fl,"Deze lekker, frisse sinaasappelsap is een heerlijke dorstlesser op ieder moment van de dag! Sinaasappelsap uit concentraat Gekoeld het lekkerst! Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ ""Sinaasappelsap & drank (jus dorange)""
+ Sinaasappelsap & drank  (ongekoeld)","ah [SEP] ah orange juice fl [SEP] Deze lekker, frisse sinaasappelsap is een heerlijke dorstlesser op ieder moment van de dag! Sinaasappelsap uit concentraat Gekoeld het lekkerst! Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] enkel sap basis",ah ah orange juice fl enkel sap basis,null,null,null
+0.57590187,14663,523211,AH,Appelsap 6-pack,AH Appelsap 6-pack AH Appelsap 6x,[],"Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (ongekoeld)",ah [SEP] appelsap 6-pack [SEP] AH Appelsap 6-pack AH Appelsap 6x [SEP] ,ah appelsap 6-pack ,null,null,null
+0.5753807,5137,2743,Appelsientje,Zontomaatje,"Appelsientje Zontomaatje is gemaakt met 100% puur tomatensap van 20 dieprode en smaakvolle tomaten. Bevat alleen van nature aanwezige suikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen Met 100% puur sap, en dat proef je! Rijk aan vitamine C","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Groentesappen & drank
+ Tomatensap & drank","appelsientje [SEP] zontomaatje [SEP] Appelsientje Zontomaatje is gemaakt met 100% puur tomatensap van 20 dieprode en smaakvolle tomaten. Bevat alleen van nature aanwezige suikers Alleen eventjes verhit voor houdbaarheid, dus geen conserveermiddelen Met 100% puur sap, en dat proef je! Rijk aan vitamine C [SEP] groentensap",appelsientje zontomaatje groentensap,null,null,null
+0.5743335,15034,365765,Tromp&Rueb,Appelazijn,"Het geheim van appelazijn? fruitig van smaak. Basis voor ieder gezond gerecht Puur natuur De fles is geproduceerd van gerecycled pet,","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']",Soepen sauzen kruiden olie Smaakmakers Azijn Ciderazijn,"tromp&rueb [SEP] appelazijn [SEP] Het geheim van appelazijn? fruitig van smaak. Basis voor ieder gezond gerecht Puur natuur De fles is geproduceerd van gerecycled pet, [SEP] azijnen",tromp&rueb appelazijn azijnen,null,null,null
+0.57414544,16594,386042,AH Biologisch,Appelen schaal,"Deze Nederlandse biologische appels zijn van het ras Natyra®. Deze Natyra® is knapperig, stevig, sappig en heeft een rode tot donkerrode kleur. Om zo uit het vuistje te eten. Herkomst: Nederland Smaak: Fris, zoetzuur Bewaren: Na aankoop bewaren in de koelkast Het ideale handappeltje","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Schaal","ah biologisch [SEP] appelen schaal [SEP] Deze Nederlandse biologische appels zijn van het ras Natyra®. Deze Natyra® is knapperig, stevig, sappig en heeft een rode tot donkerrode kleur. Om zo uit het vuistje te eten. Herkomst: Nederland Smaak: Fris, zoetzuur Bewaren: Na aankoop bewaren in de koelkast Het ideale handappeltje [SEP] appels schaal",ah biologisch appelen schaal appels schaal,null,null,null
+0.57360244,15049,104815,AH,Granny Smith zak,"De Granny Smith is een citrusfrisse dorstlesser, een knapperig handappeltje met een felgroene kleur. Dankzij zijn frisse smaak doet ie het ook heel goed in vele gerechten en salades. Smaak: friszuur Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Lekker als gezond tussendoortje of in de salade","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Zakken en boxen","ah [SEP] granny smith zak [SEP] De Granny Smith is een citrusfrisse dorstlesser, een knapperig handappeltje met een felgroene kleur. Dankzij zijn frisse smaak doet ie het ook heel goed in vele gerechten en salades. Smaak: friszuur Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Lekker als gezond tussendoortje of in de salade [SEP] appels zak",ah granny smith zak appels zak,null,null,null
+0.5722883,276,377725,AH,Ananassap,"Enjoy! Lekker friszoete ananassap, een tropische dorstlesser. Voor op de ontbijttafel, lunch of ieder ander moment van de dag. Ananassap uit geconcentreerd sap. 1,0L Gekoeld het lekkerst! Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score D' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Diverse sappen & dranken Ananassap & drank","ah [SEP] ananassap [SEP] Enjoy! Lekker friszoete ananassap, een tropische dorstlesser. Voor op de ontbijttafel, lunch of ieder ander moment van de dag. Ananassap uit geconcentreerd sap. 1,0L Gekoeld het lekkerst! Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] enkel sap overig",ah ananassap enkel sap overig,null,null,null
+0.5669482,17764,456588,AH,Royal Gala schaal,Royal gala is een sappige handappel met een toegankelijke zoete smaak en tonen van nectarine. Een echte allemansvriend! Smaak: volzoet Het ideale handappeltje Na aankoop bewaren in de koelkast De appel wassen en eventueel schillen,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Schaal",ah [SEP] royal gala schaal [SEP] Royal gala is een sappige handappel met een toegankelijke zoete smaak en tonen van nectarine. Een echte allemansvriend! Smaak: volzoet Het ideale handappeltje Na aankoop bewaren in de koelkast De appel wassen en eventueel schillen [SEP] appels schaal,ah royal gala schaal appels schaal,null,null,null
+0.5665982,9731,468463,Van de Boom,Ananas,"Van de Boom ananas is een heerlijk natuurlijk verfrissende mix van onder andere ananssap en zuiver water. 30% minder suiker, vol van smaak Zonder kunstmatige smaak- en conserveringsmiddelen 0% toegevoegde suiker Bevat alleen van nature aanwezige suiker","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Frisdrank Frisdrank met fruit
+ Frisdrank met fruit (fles)","van de boom [SEP] ananas [SEP] Van de Boom ananas is een heerlijk natuurlijk verfrissende mix van onder andere ananssap en zuiver water. 30% minder suiker, vol van smaak Zonder kunstmatige smaak- en conserveringsmiddelen 0% toegevoegde suiker Bevat alleen van nature aanwezige suiker [SEP] enkel sap overig",van de boom ananas enkel sap overig,null,null,null
+0.5658028,7216,184957,AH Biologisch,Royal Gala schaal,"Royal gala is een volzoete handappel met een toegankelijke smaak met tonen van nectarine, een echte allemansvriend en biologisch bovendien! Volzoet van smaak Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Geschikt voor: snack","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Schaal","ah biologisch [SEP] royal gala schaal [SEP] Royal gala is een volzoete handappel met een toegankelijke smaak met tonen van nectarine, een echte allemansvriend en biologisch bovendien! Volzoet van smaak Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Geschikt voor: snack [SEP] appels schaal",ah biologisch royal gala schaal appels schaal,null,null,null
+0.5656835,18657,195431,AH,Granny Smith schaal,"De Granny Smith is een citrusfrisse dorstlesser, een knapperig handappeltje met een felgroene kleur. Dankzij zijn frisse smaak doet ie het ook heel goed in vele gerechten en salades. Smaak: friszuur Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Lekker als gezond tussendoortje of in de salade","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Schaal","ah [SEP] granny smith schaal [SEP] De Granny Smith is een citrusfrisse dorstlesser, een knapperig handappeltje met een felgroene kleur. Dankzij zijn frisse smaak doet ie het ook heel goed in vele gerechten en salades. Smaak: friszuur Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Lekker als gezond tussendoortje of in de salade [SEP] appels schaal",ah granny smith schaal appels schaal,null,null,null
+0.56469095,1445,485566,AH Biologisch,100% Appel mango sap,"Ah bio 100% appel mango sap, een heerlijke dorstlesser op ieder moment van de dag. Geen toegevoegde suikers Bevat geen kunstmatige geur- kleur- en smaakstoffen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (ongekoeld)","ah biologisch [SEP] 100% appel mango sap [SEP] Ah bio 100% appel mango sap, een heerlijke dorstlesser op ieder moment van de dag. Geen toegevoegde suikers Bevat geen kunstmatige geur- kleur- en smaakstoffen [SEP] samengesteld sap",ah biologisch 100% appel mango sap samengesteld sap,null,null,null
+0.56449836,3226,119824,AH Biologisch,Appelsap,Geen toegevoegde suikers Bevat geen kunstmatige geur- kleur- en smaakstoffen,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (ongekoeld)",ah biologisch [SEP] appelsap [SEP] Geen toegevoegde suikers Bevat geen kunstmatige geur- kleur- en smaakstoffen [SEP] enkel sap basis,ah biologisch appelsap enkel sap basis,null,null,null
+0.56411076,6204,485570,AH,Nectar appel,"Ah apple nectar, een heerlijke dorstlesser op ieder moment van de dag. 1,5 l e In handige gezinsverpakking Appelnectar uit concentraat Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score D' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Puursap nectar Nectar dranken","ah [SEP] nectar appel [SEP] Ah apple nectar, een heerlijke dorstlesser op ieder moment van de dag. 1,5 l e In handige gezinsverpakking Appelnectar uit concentraat Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] enkel sap basis",ah nectar appel enkel sap basis,null,null,null
+0.5589531,705,430627,AH,Vers Sap mango sinaasappel appel,"Lekker fris sap van mango, sinaasappel en appel. Voor op de ontbijttafel, lunch of ieder ander moment van de dag Gewoon heel lekker!","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Frisdrank sappen koffie thee
+ Vruchtensappen & drank Koudgeperste sappen & smoothies
+ Verse sappen & smoothies Multivruchtensap & drank
+ Multivruchtensap (vers) Verse sappen","ah [SEP] vers sap mango sinaasappel appel [SEP] Lekker fris sap van mango, sinaasappel en appel. Voor op de ontbijttafel, lunch of ieder ander moment van de dag Gewoon heel lekker! [SEP] ultra vers sap",ah vers sap mango sinaasappel appel ultra vers sap,null,null,null
+0.55884486,7392,549791,AH,Mango groene appel granaatappel,,"['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Aardappel groente fruit Tussendoortjes Fruitsalade Fruit
+ Fruitsalade (mix)",ah [SEP] mango groene appel granaatappel [SEP]  [SEP] kies en mix,ah mango groene appel granaatappel kies en mix,null,null,null
+0.5576328,4740,94755,AH,Goudreinette los,"Deze appel wordt ook wel de `schone van boskoop` genoemd en is al sinds oudsher de bakappel. De stevige structuur en intens friszure en wat kruidige smaak komt goed tot zijn recht in gebak, desserts, beignets en appelmoes. Smaak: friszuur Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Ook lekker als gezond tussendoortje of in een salade","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Los","ah [SEP] goudreinette los [SEP] Deze appel wordt ook wel de `schone van boskoop` genoemd en is al sinds oudsher de bakappel. De stevige structuur en intens friszure en wat kruidige smaak komt goed tot zijn recht in gebak, desserts, beignets en appelmoes. Smaak: friszuur Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Ook lekker als gezond tussendoortje of in een salade [SEP] appels los",ah goudreinette los appels los,null,null,null
+0.5573509,10113,415223,Spring,Water & fruit appel ker,Spring water en fruit appel kers koolzuurvrije frisdrank met appel-en kersensap uit concentraat. Bron van vitamine C Gekoeld het lekkerst,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Frisdrank Frisdrank met fruit
+ Frisdrank met fruit (fles)",spring [SEP] water & fruit appel ker [SEP] Spring water en fruit appel kers koolzuurvrije frisdrank met appel-en kersensap uit concentraat. Bron van vitamine C Gekoeld het lekkerst [SEP] verfrissen,spring water & fruit appel ker verfrissen,null,null,null
+0.55263644,14107,195888,De Appelaere,De perelaere,De Perelaere is honderd procent puur natuurlijk perensap Minstens één kilo geperste peren in een fles Met een unieke zachte smaak Een (h)eerlijk productn van een uitgekiende combinatie van perenrassen Gekoeld op z'n best,"['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Perensap & drank",de appelaere [SEP] de perelaere [SEP] De Perelaere is honderd procent puur natuurlijk perensap Minstens één kilo geperste peren in een fles Met een unieke zachte smaak Een (h)eerlijk productn van een uitgekiende combinatie van perenrassen Gekoeld op z'n best [SEP] enkel sap overig,de appelaere de perelaere enkel sap overig,null,null,null
+0.5508555,12112,509290,AH,Stukjes ananas op sap,,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Soepen sauzen kruiden olie Conserven
+ Fruit Fruitconserven Ananas mango kiwi Ananas
+ Ananas (conserven)",ah [SEP] stukjes ananas op sap [SEP]  [SEP] ananas,ah stukjes ananas op sap ananas,null,null,null
+0.54767555,7370,164069,AH,Doosje met ananas,"Het hele jaar door een tropische smaak met deze frisse, zoete ananasstukjes. Ideaal voor salades, desserts, smoothies, de mogelijkheden zijn eindeloos! 100% natuurlijk fruit","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Diepvries Diepvries fruit Fruit
+ Ananas mango kiwi Diepvries ananas Ananas","ah [SEP] doosje met ananas [SEP] Het hele jaar door een tropische smaak met deze frisse, zoete ananasstukjes. Ideaal voor salades, desserts, smoothies, de mogelijkheden zijn eindeloos! 100% natuurlijk fruit [SEP] fruit",ah doosje met ananas fruit,null,null,null
+0.5475534,16504,159311,AH,Elstar appelsap,Vers geperst.,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Appelsap & drank Appelsap & drank (gekoeld)",ah [SEP] elstar appelsap [SEP] Vers geperst. [SEP] ah sappen nfc,ah elstar appelsap ah sappen nfc,null,null,null
+0.5434498,8827,202921,Innocent,Orange juice with bits,"In ons sap zit al het goede van sinaasappels en verder niets. We doen ons best om de lekkerste sinaasappels te vinden, zodat jij zonder persen iets fruitigs op tafel kunt zetten. Bevat het sap van 11 sinaasappels Nooit van concentraat Geen toegevoegde suikers of conserveringsmiddelen 10% van onze winst gaat naar het goede doel","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Geen sesam' 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Frisdrank sappen koffie thee
+ Vruchtensappen & drank Koudgeperste sappen & smoothies
+ Verse sappen & smoothies ""Sinaasappelsap jus dorange (vers)""
+ ""Sinaasappelsap & drank (jus dorange)"" Verse sappen","innocent [SEP] orange juice with bits [SEP] In ons sap zit al het goede van sinaasappels en verder niets. We doen ons best om de lekkerste sinaasappels te vinden, zodat jij zonder persen iets fruitigs op tafel kunt zetten. Bevat het sap van 11 sinaasappels Nooit van concentraat Geen toegevoegde suikers of conserveringsmiddelen 10% van onze winst gaat naar het goede doel [SEP] a merk sappen nfc",innocent orange juice with bits a merk sappen nfc,null,null,null
+0.54217744,14418,238134,Innocent,Orange juice with bits,"In ons sap zit al het goede van sinaasappels en verder niets. We doen ons best om de lekkerste sinaasappels te vinden, zodat jij zonder persen iets fruitigs op tafel kunt zetten. Bevat het sap van 19 sinaasappels Nooit van concentraat Geen toegevoegde suikers of conserveringsmiddelen 10% van onze winst gaat naar het goede doel","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Aardappel groente fruit Frisdrank sappen koffie thee
+ Vruchtensappen & drank Koudgeperste sappen & smoothies
+ Verse sappen & smoothies ""Sinaasappelsap jus dorange (vers)""
+ ""Sinaasappelsap & drank (jus dorange)"" Verse sappen","innocent [SEP] orange juice with bits [SEP] In ons sap zit al het goede van sinaasappels en verder niets. We doen ons best om de lekkerste sinaasappels te vinden, zodat jij zonder persen iets fruitigs op tafel kunt zetten. Bevat het sap van 19 sinaasappels Nooit van concentraat Geen toegevoegde suikers of conserveringsmiddelen 10% van onze winst gaat naar het goede doel [SEP] a merk sappen nfc",innocent orange juice with bits a merk sappen nfc,null,null,null
+0.54158604,8740,382975,AH,Ananas,"Deze ananas is fantastisch in een fruitsalade, een frisse
+					 smoothie en zelfs in warme maaltijden. Met een extra zoete en sappige smaak Bewaar buiten de koelkast Voor zowel warme als koude gerechten","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Fruit Ananas mango kiwi Ananas
+ Verse ananas Ananas per stuk","ah [SEP] ananas [SEP] Deze ananas is fantastisch in een fruitsalade, een frisse
+					 smoothie en zelfs in warme maaltijden. Met een extra zoete en sappige smaak Bewaar buiten de koelkast Voor zowel warme als koude gerechten [SEP] ananas",ah ananas ananas,null,null,null
+0.540815,14038,517542,AH,Vers sap appel gember,,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Frisdrank sappen koffie thee
+ Groentesappen & drank Koudgeperste sappen & smoothies
+ Verse sappen & smoothies Groente shots (vers) Verse sappen",ah [SEP] vers sap appel gember [SEP]  [SEP] ultra vers sap,ah vers sap appel gember ultra vers sap,null,null,null
+0.5385954,6640,403967,Van de Boom,Appel 6-pack,"Van de Boom Appel is een heerlijk, natuurlijk, verfrissende mix van onder andere appelsap en zuiver water. Minder suiker, vol van smaak! 30% minder suiker dan appelsap 0% toegevoegde suiker, bevat van nature aanwezige suiker. 100% natuurlijk Bevat geen kunstmatige zoetstoffen, kleurstoffen en conserveermiddelen.","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Pakjes drinken
+ Vruchtensappen & drank Appelsap & drank (drinkpakjes)
+ Appelsap & drank","van de boom [SEP] appel 6-pack [SEP] Van de Boom Appel is een heerlijk, natuurlijk, verfrissende mix van onder andere appelsap en zuiver water. Minder suiker, vol van smaak! 30% minder suiker dan appelsap 0% toegevoegde suiker, bevat van nature aanwezige suiker. 100% natuurlijk Bevat geen kunstmatige zoetstoffen, kleurstoffen en conserveermiddelen. [SEP] kids kvp",van de boom appel 6-pack kids kvp,null,null,null
+0.53744197,13740,218625,AH,Golden ananassap,"Heerlijk friszoete ananassap. Lekker bij het ontbijt, de lunch of ieder ander moment van dag. Lekker koud en zoet! Ook voor in de picknickmand Kids zijn er dol op","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Diverse sappen & dranken Ananassap & drank","ah [SEP] golden ananassap [SEP] Heerlijk friszoete ananassap. Lekker bij het ontbijt, de lunch of ieder ander moment van dag. Lekker koud en zoet! Ook voor in de picknickmand Kids zijn er dol op [SEP] ah sappen nfc",ah golden ananassap ah sappen nfc,null,null,null
+0.535507,5826,128384,AH,Frisse fruitdrank appel framboos,"Frisse fruitdrank is een heerlijke, licht sprankelende
+					 dorstlesser van koolzuurhoudend water en vruchtensap. Een glas (200 ml) bevat
+					 37% van de aanbevolen dagelijkse hoeveelheid vitamine C. met toegevoegd vitamine C Licht sprankelende, frisse dorstlesser Op basis van zuiver water en vruchtensap Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score D' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Frisse fruitdrank Frisse fruitdrank (pakken)","ah [SEP] frisse fruitdrank appel framboos [SEP] Frisse fruitdrank is een heerlijke, licht sprankelende
+					 dorstlesser van koolzuurhoudend water en vruchtensap. Een glas (200 ml) bevat
+					 37% van de aanbevolen dagelijkse hoeveelheid vitamine C. met toegevoegd vitamine C Licht sprankelende, frisse dorstlesser Op basis van zuiver water en vruchtensap Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] verfrissen",ah frisse fruitdrank appel framboos verfrissen,null,null,null
+0.53478473,7769,413616,AH,Fruitstroop 100% appel,"100% pure appelstroop, voor op de boterham of pannenkoek! Bereid van alleen maar appels Zonder extra toevoegingen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Pasta rijst en wereldkeuken Zoet broodbeleg
+ Bakproducten Stroop Appelstroop perenstroop","ah [SEP] fruitstroop 100% appel [SEP] 100% pure appelstroop, voor op de boterham of pannenkoek! Bereid van alleen maar appels Zonder extra toevoegingen [SEP] stroop",ah fruitstroop 100% appel stroop,null,null,null
+0.5338323,11063,117193,AH,Fuji schaal,"Fuji is lekker sappig, heeft een rijke honingzoete smaak en een stevige beet. Deze handappel kun je ook goed verwerken in taart. Omdat de appels zo zoet zijn hoef je dan minder suiker toe te voegen. Aromatische appel met een rijke honingzoete smaak Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Geschikt voor snack, bakken","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Schaal","ah [SEP] fuji schaal [SEP] Fuji is lekker sappig, heeft een rijke honingzoete smaak en een stevige beet. Deze handappel kun je ook goed verwerken in taart. Omdat de appels zo zoet zijn hoef je dan minder suiker toe te voegen. Aromatische appel met een rijke honingzoete smaak Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Geschikt voor snack, bakken [SEP] appels schaal",ah fuji schaal appels schaal,null,null,null
+0.5331061,14019,458967,Hipp,4m Sap appel mild bio,"100% biologische appelsap gemaakt van zongerijpte appels. Rijk aan vitamine c, zonder toegevoegde suiker, 						zonder gluten Mild en laag in zuurgehalte, zonder toegevoegde 						aroma Zonder conserveermiddelen, zonder 						kleurstoffen In overeenstemming met de regelgeving","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Baby en kind Babyvoeding Fruithapjes (baby en kind) Fruitpotjes
+ Fruitpotjes vanaf 4 maanden","hipp [SEP] 4m sap appel mild bio [SEP] 100% biologische appelsap gemaakt van zongerijpte appels. Rijk aan vitamine c, zonder toegevoegde suiker, 						zonder gluten Mild en laag in zuurgehalte, zonder toegevoegde 						aroma Zonder conserveermiddelen, zonder 						kleurstoffen In overeenstemming met de regelgeving [SEP] baby drinksappen",hipp 4m sap appel mild bio baby drinksappen,null,null,null
+0.53247625,15051,388789,Flevosap,Appel-Ananas-Perzik,Flevosap appel-ananas-perzik is een zonnige mix van originele flevosap-appels met de exotische vruchten ananas en perzik. Op Ambachtelijk wijze gebotteld op de boerderij van familie vermeulen De zomerse gele kleuren zijn gevangen in een verrassend fris-zoet fruitsap Heerlijk verkoelend voor buiten en binnen Het sap waar je de smaak ziet zitten,"['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Frisdrank sappen koffie thee Bewuste voeding Puursap
+ Vruchtensappen & drank Puursap nectar",flevosap [SEP] appel-ananas-perzik [SEP] Flevosap appel-ananas-perzik is een zonnige mix van originele flevosap-appels met de exotische vruchten ananas en perzik. Op Ambachtelijk wijze gebotteld op de boerderij van familie vermeulen De zomerse gele kleuren zijn gevangen in een verrassend fris-zoet fruitsap Heerlijk verkoelend voor buiten en binnen Het sap waar je de smaak ziet zitten [SEP] samengesteld sap,flevosap appel-ananas-perzik samengesteld sap,null,null,null
+0.53208685,5906,126744,AH,Goudreinette zak,"""Rode Goudreinette: intens, fris en licht kruidig - de authentieke bakappel. Deze appel wordt ook wel de """"Schone van Boskoop"""" genoemd en is al sinds oudsher dé bakappel. De stevige structuur en intens friszure en wat kruidige smaak komt goed tot zijn recht in gebak, desserts, beignets en appelmoes."" Smaak: friszuur Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Geschikt voor: snack, bakken","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Zakken en boxen","ah [SEP] goudreinette zak [SEP] ""Rode Goudreinette: intens, fris en licht kruidig - de authentieke bakappel. Deze appel wordt ook wel de """"Schone van Boskoop"""" genoemd en is al sinds oudsher dé bakappel. De stevige structuur en intens friszure en wat kruidige smaak komt goed tot zijn recht in gebak, desserts, beignets en appelmoes."" Smaak: friszuur Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Geschikt voor: snack, bakken [SEP] appels zak",ah goudreinette zak appels zak,null,null,null
+0.5292914,10353,494869,Lemonaid,Bloodorange,"Fruitige bloedsinaasappeldrank, afgerond met grapefruit-, sinaasappel-, citroen- en kersen sap. Gemaakt van Fairtrade ingredienten en de beste verse sappen Zonder kunstmatige smaakstoffen of conserveringsmiddelen","['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Multivruchtensap & drank Multivruchtensap & drank (gekoeld)","lemonaid [SEP] bloodorange [SEP] Fruitige bloedsinaasappeldrank, afgerond met grapefruit-, sinaasappel-, citroen- en kersen sap. Gemaakt van Fairtrade ingredienten en de beste verse sappen Zonder kunstmatige smaakstoffen of conserveringsmiddelen [SEP] fruitsmaken overig kvp",lemonaid bloodorange fruitsmaken overig kvp,null,null,null
+0.5281393,1233,128383,AH,Frisse fruitdrank appel framboos light,"Frisse fruitdrank is een heerlijke, licht sprankelende
+					 dorstlesser van koolzuurhoudend water en vruchtensap. Een glas (200 ml) bevat
+					 37% van de aanbevolen dagelijkse hoeveelheid vitamine C. Zonder toegevoegd suiker Licht sprankelende, frisse dorstlesser Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Frisse fruitdrank Frisse fruitdrank (pakken)","ah [SEP] frisse fruitdrank appel framboos light [SEP] Frisse fruitdrank is een heerlijke, licht sprankelende
+					 dorstlesser van koolzuurhoudend water en vruchtensap. Een glas (200 ml) bevat
+					 37% van de aanbevolen dagelijkse hoeveelheid vitamine C. Zonder toegevoegd suiker Licht sprankelende, frisse dorstlesser Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] verfrissen",ah frisse fruitdrank appel framboos light verfrissen,null,null,null
+0.5261403,7703,104114,AH,Vers sap appel peer framboos,"Lekker fris! Onze verse sappen worden iedere ochtend koudgeperst. Door alleen verse ingrediënten te gebruiken en het sap nooit te verhitten blijven vitamines en mineralen maximaal behouden. Zonder toevoegingen, verser & gemakkelijker kan niet. Geniet van een lekker vers & koudgeperst sap op ieder moment van de dag Voor ontbijt, lunch of tussendoor","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Frisdrank sappen koffie thee
+ Vruchtensappen & drank Koudgeperste sappen & smoothies
+ Verse sappen & smoothies Multivruchtensap & drank
+ Multivruchtensap (vers) Verse sappen","ah [SEP] vers sap appel peer framboos [SEP] Lekker fris! Onze verse sappen worden iedere ochtend koudgeperst. Door alleen verse ingrediënten te gebruiken en het sap nooit te verhitten blijven vitamines en mineralen maximaal behouden. Zonder toevoegingen, verser & gemakkelijker kan niet. Geniet van een lekker vers & koudgeperst sap op ieder moment van de dag Voor ontbijt, lunch of tussendoor [SEP] ultra vers sap",ah vers sap appel peer framboos ultra vers sap,null,null,null
+0.5261401,5953,141489,AH,Vers sap appel peer framboos,"Lekker fris! Onze verse sappen worden iedere ochtend koudgeperst. Door alleen verse ingrediënten te gebruiken en het sap nooit te verhitten blijven vitamines en mineralen maximaal behouden. Zonder toevoegingen, verser & gemakkelijker kan niet. Geniet van een lekker vers & koudgeperst sap op ieder moment van de dag Voor ontbijt, lunch of tussendoor","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Frisdrank sappen koffie thee
+ Vruchtensappen & drank Koudgeperste sappen & smoothies
+ Verse sappen & smoothies Multivruchtensap & drank
+ Multivruchtensap (vers) Verse sappen","ah [SEP] vers sap appel peer framboos [SEP] Lekker fris! Onze verse sappen worden iedere ochtend koudgeperst. Door alleen verse ingrediënten te gebruiken en het sap nooit te verhitten blijven vitamines en mineralen maximaal behouden. Zonder toevoegingen, verser & gemakkelijker kan niet. Geniet van een lekker vers & koudgeperst sap op ieder moment van de dag Voor ontbijt, lunch of tussendoor [SEP] ultra vers sap",ah vers sap appel peer framboos ultra vers sap,null,null,null
+0.52419394,8087,519646,AH,Limoenen,,"['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Fruit Citroen limoen Limoenen
+ Verse limoenen",ah [SEP] limoenen [SEP]  [SEP] overig citrus,ah limoenen overig citrus,null,null,null
+0.5234591,17536,485774,Innocent,Orange juice smooth,"Vers van de pers: sinaasappelsap zonder vruchtvlees. Het meest zachte sinaasappelsap wat we ooit hebben gemaakt, zonder stukjes. Smoother dan michael jacksons moonwalk. Bevat het sap van 11 sinaasappels Nooit van concentraat Geen toegevoegde suikers of conserveringsmiddelen 10% van onze winst gaat naar het goede doel","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Aardappel groente fruit Frisdrank sappen koffie thee Smoothie
+ Koudgeperste sappen & smoothies Verse sappen & smoothies
+ Smoothie-fruit (vers) Verse smoothies","innocent [SEP] orange juice smooth [SEP] Vers van de pers: sinaasappelsap zonder vruchtvlees. Het meest zachte sinaasappelsap wat we ooit hebben gemaakt, zonder stukjes. Smoother dan michael jacksons moonwalk. Bevat het sap van 11 sinaasappels Nooit van concentraat Geen toegevoegde suikers of conserveringsmiddelen 10% van onze winst gaat naar het goede doel [SEP] a merk sappen nfc",innocent orange juice smooth a merk sappen nfc,null,null,null
+0.52295077,12870,485569,AH,Nectar sinaasappel,"Ah orange nectar, een heerlijke dorstlesser op ieder moment van de dag. 1,5 l e In handige gezinsverpakking Sinaasappelnectar uit concentraat Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Vruchtensappen & drank
+ Puursap nectar Nectar dranken","ah [SEP] nectar sinaasappel [SEP] Ah orange nectar, een heerlijke dorstlesser op ieder moment van de dag. 1,5 l e In handige gezinsverpakking Sinaasappelnectar uit concentraat Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] enkel sap basis",ah nectar sinaasappel enkel sap basis,null,null,null
+0.5229311,13420,490393,AH,SPRANK schaal,"Bewaren: appels na aankoop bewaren in de koelkast Geschikt als snack De telers laten 'm net even wat langer aan de Boom hangen, zodat ie een heel eigen smaak krijgt. De Boom staat nooit ver weg, bij jou om de hoek, of een provincie verderop. En dat proef je, zo wordt de appel van Nederland, ook de appel voor Nederland.","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Schaal","ah [SEP] sprank schaal [SEP] Bewaren: appels na aankoop bewaren in de koelkast Geschikt als snack De telers laten 'm net even wat langer aan de Boom hangen, zodat ie een heel eigen smaak krijgt. De Boom staat nooit ver weg, bij jou om de hoek, of een provincie verderop. En dat proef je, zo wordt de appel van Nederland, ook de appel voor Nederland. [SEP] appels schaal",ah sprank schaal appels schaal,null,null,null

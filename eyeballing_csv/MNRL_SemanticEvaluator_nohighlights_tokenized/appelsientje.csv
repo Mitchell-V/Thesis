@@ -1,0 +1,663 @@
+scoreLLM score,ann,prd_id,brand,title,highlights,properties,taxonomies,full_text,full_text_no_sep,Unnamed: 0,search_query,scorePropensity score
+0.22342397,19328,126428,AH,Groene olijven in plakjes,"Gesneden groene olijven, gepasteuriseerd. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Mediterrane keuken Olijven
+ Groene olijven","ah [SEP] groene olijven in plakjes [SEP] Gesneden groene olijven, gepasteuriseerd. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] toevoegingen olijven",ah groene olijven in plakjes toevoegingen olijven,null,null,null
+0.21314123,10226,525265,AH Biologisch,Shiitake,,"['Geen lactose' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen lupine' 'biologisch'
+ ""Geen pinda's"" 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Aardappel groente fruit Groente Paddenstoelen Shi take,ah biologisch [SEP] shiitake [SEP]  [SEP] specials,ah biologisch shiitake specials,null,null,null
+0.21254522,8425,545726,AH Biologisch,Alfalfa,,"['Geen lactose' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen lupine' 'biologisch'
+ ""Geen pinda's"" 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Aardappel groente fruit Groente Kiemgroenten Alfalfa,ah biologisch [SEP] alfalfa [SEP]  [SEP] overige verrijkers,ah biologisch alfalfa overige verrijkers,null,null,null
+0.21177948,8704,525262,AH Biologisch,Portobello,,"['Geen lactose' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen lupine' 'biologisch'
+ ""Geen pinda's"" 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Groente Paddenstoelen Champignons
+ Champignons (vers)",ah biologisch [SEP] portobello [SEP]  [SEP] specials,ah biologisch portobello specials,null,null,null
+0.21159807,15849,224353,AH,AH rijstevlaai half 1st x1,"1/2 Rijstevlaai met een heerlijk licht zoete rijstevulling,
+					 afgewerkt met verse slagroom en melkchocoladeschaafsel Echte luxe Limburgse vlaai Bereid met romige rijstepap en afgewerkt met echte 						  slagroom","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen selderij' 'Geen eieren']",Bakkerij en banket Gebak Vlaai,"ah [SEP] ah rijstevlaai half 1st x1 [SEP] 1/2 Rijstevlaai met een heerlijk licht zoete rijstevulling,
+					 afgewerkt met verse slagroom en melkchocoladeschaafsel Echte luxe Limburgse vlaai Bereid met romige rijstepap en afgewerkt met echte 						  slagroom [SEP] vlaaien",ah ah rijstevlaai half 1st x1 vlaaien,null,null,null
+0.20594373,18220,540546,AH,Zeewier sesam,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Veganistisch' 'Laag zout' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen selderij' 'Geen gluten']",Kaas vleeswaren tapas Borrelhapjes Borrelhapjes groente,ah [SEP] zeewier sesam [SEP]  [SEP] chips,ah zeewier sesam chips,null,null,null
+0.20430118,14593,195777,Princes,Kabeljauwlever,Msc kabeljauwlever in eigen olie: zeer rijk aan omega-3 vetzuren. Heerlijk in blokjes gesneden toe te passen in een koude salade. Heerlijke kabeljauwlever in eigen olie Zeer rijk aan omega-3 vetzuren Duurzaam gevangen - msc gecertificeerd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Laag suiker' 'Geen lupine' 'duurzame vangst' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen vis'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Soepen sauzen kruiden olie Vis Conserven
+ Visconserven Kabeljauwlever (conserven)",princes [SEP] kabeljauwlever [SEP] Msc kabeljauwlever in eigen olie: zeer rijk aan omega-3 vetzuren. Heerlijk in blokjes gesneden toe te passen in een koude salade. Heerlijke kabeljauwlever in eigen olie Zeer rijk aan omega-3 vetzuren Duurzaam gevangen - msc gecertificeerd [SEP] overig visconserven,princes kabeljauwlever overig visconserven,null,null,null
+0.20003864,8905,952,AH,Patent tarwebloem,Zorgvuldig geselecteerde tarwe van hoge kwaliteit Zeer fijn gemalen,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Basis bakbenodigdheden Basismeel bloem Tarwebloem",ah [SEP] patent tarwebloem [SEP] Zorgvuldig geselecteerde tarwe van hoge kwaliteit Zeer fijn gemalen [SEP] hm basismeel,ah patent tarwebloem hm basismeel,null,null,null
+0.1989628,4405,507897,Leev,Bio qrackers proteine flaxseed,Biologische crackers met een zeer hoog eiwit gehalte. Biologisch Rijk aan proteine en energie Laag in koolhydraten,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'biologisch' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen lupine' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Geen selderij' 'Geen eieren']","Bewuste voeding Bakkerij en banket Glutenvrij koolhydraatarm
+ Koolhydraatarm Brood Brood en crackers (koolhydraatarm)",leev [SEP] bio qrackers proteine flaxseed [SEP] Biologische crackers met een zeer hoog eiwit gehalte. Biologisch Rijk aan proteine en energie Laag in koolhydraten [SEP] bio ontbijt en lunch,leev bio qrackers proteine flaxseed bio ontbijt en lunch,null,null,null
+0.19884604,18521,480803,Bertolli,Extra vergine gentile olijfolie,"Deze olijfolie verrast met zijn zoete noot, maar gaat subtiel over in een nootachtige smaak met een vleugje tomaat en groente. Kenmerkend is zijn lichte scherpte. Met zijn zoet-fruitige smaak is deze extra vergine ideaal voor beginners Van onder andere de olijfsoorten koroneiki, picual en arbequina Bijzonder geschikt voor gevogelte, visgerechten en frisse salades Eenvoudig en elegant","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)' 'Vegetarisch'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Olie en frituurvet Olie voor koud gebruik Olijfolie
+ Olijfolie extra vierge Extra vierge dagelijks","bertolli [SEP] extra vergine gentile olijfolie [SEP] Deze olijfolie verrast met zijn zoete noot, maar gaat subtiel over in een nootachtige smaak met een vleugje tomaat en groente. Kenmerkend is zijn lichte scherpte. Met zijn zoet-fruitige smaak is deze extra vergine ideaal voor beginners Van onder andere de olijfsoorten koroneiki, picual en arbequina Bijzonder geschikt voor gevogelte, visgerechten en frisse salades Eenvoudig en elegant [SEP] olijfolie",bertolli extra vergine gentile olijfolie olijfolie,null,null,null
+0.19357806,14613,80110,AH,Groene olijven met knoflook,"Deze manzanilla olijven met knoflook zijn heerlijk door salades en op pizza's of om gewoon zo te eten. Het ideale borrelhapje! Lekker in een frisse pastasalade Zonder pit, om direct te consumeren Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Mediterrane keuken Olijven
+ Groene olijven","ah [SEP] groene olijven met knoflook [SEP] Deze manzanilla olijven met knoflook zijn heerlijk door salades en op pizza's of om gewoon zo te eten. Het ideale borrelhapje! Lekker in een frisse pastasalade Zonder pit, om direct te consumeren Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] toevoegingen olijven",ah groene olijven met knoflook toevoegingen olijven,null,null,null
+0.19341055,2623,543427,AH,Rosbief,,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Rosbief",ah [SEP] rosbief [SEP]  [SEP] rund plakjes hb,ah rosbief rund plakjes hb,null,null,null
+0.19336051,4116,429571,AH Biologisch,Halvarine,AH Biologische halvarine is een spread met 40% vet om mee te smeren. Biologisch Plantaardig,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor op brood Smeerbare halvarine",ah biologisch [SEP] halvarine [SEP] AH Biologische halvarine is een spread met 40% vet om mee te smeren. Biologisch Plantaardig [SEP] margarine kuipje,ah biologisch halvarine margarine kuipje,null,null,null
+0.19319607,9472,515442,AH Biologisch,Extra vierge olijfolie,,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Olie en frituurvet Olie voor koud gebruik Olijfolie
+ Olijfolie extra vierge Extra vierge dagelijks",ah biologisch [SEP] extra vierge olijfolie [SEP]  [SEP] olijfolie,ah biologisch extra vierge olijfolie olijfolie,null,null,null
+0.1908998,8291,519017,AH Biologisch,Handsinaasappelen,,"['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Aardappel groente fruit Seizoensfruit (lente) Fruit
+ Seizoensfruit (herfst) Seizoensfruit Verse sinaasappels
+ Sinaasappels mandarijnen Sinaasappels",ah biologisch [SEP] handsinaasappelen [SEP]  [SEP] handsinaasappelen,ah biologisch handsinaasappelen handsinaasappelen,null,null,null
+0.19088598,10772,101169,AH Biologisch,Melbatoast met sesamzaadjes,Lekker knapperig en krokant Met een nootachtig karakter door de toegevoegde sesamzaadjes Heerlijk met waldorfsalade of een zachte kaas met walnoot,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Veganistisch' 'Laag zout' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen selderij']",Snoep koek chips en chocolade Toastjes Toast,ah biologisch [SEP] melbatoast met sesamzaadjes [SEP] Lekker knapperig en krokant Met een nootachtig karakter door de toegevoegde sesamzaadjes Heerlijk met waldorfsalade of een zachte kaas met walnoot [SEP] melba toast,ah biologisch melbatoast met sesamzaadjes melba toast,null,null,null
+0.1902496,8888,217335,AH,Groene olijven met knoflook,De populairste olijf van Nederland! Heerlijk genieten van deze verse groene Griekse olijven met kruidige knoflookplakjes. Smaak: Karakteristiek Zonder pit,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen sulfiet' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score D' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Kaas vleeswaren tapas Verse olijven
+ Borrelhapjes Mediterrane keuken Olijven",ah [SEP] groene olijven met knoflook [SEP] De populairste olijf van Nederland! Heerlijk genieten van deze verse groene Griekse olijven met kruidige knoflookplakjes. Smaak: Karakteristiek Zonder pit [SEP] olijven,ah groene olijven met knoflook olijven,null,null,null
+0.18962318,2737,538584,AH,Pinda & mais mix,,"['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Vegetarisch'
+ 'Geen selderij']","Snoep koek chips en chocolade Noten Borrelnoten
+ Borrelnoten (zakje)",ah [SEP] pinda & mais mix [SEP]  [SEP] 3v6 noten,ah pinda & mais mix 3v6 noten,null,null,null
+0.1895574,15514,467819,Fish Tales,Kabeljauwlever,"Ijslandse kabeljauwlever. Duurzaam lijngevangen in de wateren rondom IJsland door kleine boten Heerlijk voor de klasieker: kabeljauwlever op toast Bron van vitamine a, b en d Rijk aan omega 3 vetzuren","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen vis' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Soepen sauzen kruiden olie Vis Conserven
+ Visconserven Kabeljauwlever (conserven)","fish tales [SEP] kabeljauwlever [SEP] Ijslandse kabeljauwlever. Duurzaam lijngevangen in de wateren rondom IJsland door kleine boten Heerlijk voor de klasieker: kabeljauwlever op toast Bron van vitamine a, b en d Rijk aan omega 3 vetzuren [SEP] overig visconserven",fish tales kabeljauwlever overig visconserven,null,null,null
+0.1887078,13369,403907,AH,Tapenade groene olijven,"Onweerstaanbaar lekkere groene olijventapenade met zongedroogde tomaat. Heerlijk op toast of stokbrood, als dip, of in een pasta. Topcombi met een (geroosterd) broodje Ontdek hoeveel opties er zijn bij de borrel!","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Kaas vleeswaren tapas
+ Smeersels & dips Mediterrane keuken Italiaanse keuken
+ Tapenade bruschetta","ah [SEP] tapenade groene olijven [SEP] Onweerstaanbaar lekkere groene olijventapenade met zongedroogde tomaat. Heerlijk op toast of stokbrood, als dip, of in een pasta. Topcombi met een (geroosterd) broodje Ontdek hoeveel opties er zijn bij de borrel! [SEP] toevoegingen borrel",ah tapenade groene olijven toevoegingen borrel,null,null,null
+0.18805741,15889,198150,Sebahat,Tahin sesampasta,Een aromatische sesampasta die veelvuldig wordt gebruikt in de Arabische keuken. Onmisbaar voor in de huisgemaakte humus. Ook lekker verwerkt in dressings Bevat calcium en vitamines,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Pasta rijst en wereldkeuken
+ Kaas vleeswaren tapas Hartig broodbeleg Arabische keuken
+ Mediterrane keuken Smeersels & dips Spread Dip Turkse keuken
+ Tahin",sebahat [SEP] tahin sesampasta [SEP] Een aromatische sesampasta die veelvuldig wordt gebruikt in de Arabische keuken. Onmisbaar voor in de huisgemaakte humus. Ook lekker verwerkt in dressings Bevat calcium en vitamines [SEP] broodbeleg,sebahat tahin sesampasta broodbeleg,null,null,null
+0.18716636,11776,54356,AH,Zeevruchten,"AH Fruits de Mer: een mooie selectie van gekookte schaal- en schelpdieren. Met inktvis, roze garnalen, mosselen en strandschelpen. Ideaal door bijvoorbeeld de pasta of paella. Gekookt Klaar voor direct gebruik","['Geen melk' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine'
+ 'Geen schelpdieren (schaaldieren)' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen eieren' 'Geen noten' 'Vegetarisch'
+ 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Vis Schaal- & schelpdieren Zeevruchten
+ Verse vis Zeevruchten (vers)","ah [SEP] zeevruchten [SEP] AH Fruits de Mer: een mooie selectie van gekookte schaal- en schelpdieren. Met inktvis, roze garnalen, mosselen en strandschelpen. Ideaal door bijvoorbeeld de pasta of paella. Gekookt Klaar voor direct gebruik [SEP] tropische garnalen",ah zeevruchten tropische garnalen,null,null,null
+0.18699494,6923,217336,AH,Groene olijven met knoflook,De populairste olijf van Nederland! Heerlijk genieten van deze verse groene Griekse olijven met kruidige knoflookplakjes. Smaak: Karakteristiek. Zonder pit.,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen sulfiet' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score D' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Kaas vleeswaren tapas Verse olijven
+ Borrelhapjes Mediterrane keuken Olijven",ah [SEP] groene olijven met knoflook [SEP] De populairste olijf van Nederland! Heerlijk genieten van deze verse groene Griekse olijven met kruidige knoflookplakjes. Smaak: Karakteristiek. Zonder pit. [SEP] olijven,ah groene olijven met knoflook olijven,null,null,null
+0.18695173,5282,509411,AH,Verse varkenshaas krieltjes,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja' 'Geen sulfiet'
+ 'Laag suiker' 'Geen selderij' 'Geen kreeftachtigen (schaaldieren)'
+ ""Geen pinda's"" 'Geen schelpdieren (schaaldieren)' 'Geen melk' 'Laag vet'
+ 'Geen lupine' 'Geen sesam' 'Geen vis' 'Laag zout' 'Veganistisch'
+ 'Geen mosterd' 'Vegetarisch' 'Geen eieren']","Salades pizza maaltijden AH Vers uit eigen keuken
+ Verse kant- en-klaar maaltijden Verse Maaltijden",ah [SEP] verse varkenshaas krieltjes [SEP]  [SEP] ultra verse maaltijden,ah verse varkenshaas krieltjes ultra verse maaltijden,null,null,null
+0.18561313,18061,217213,Elvive,Full fiber shampoo,Elvive Full Fiber Shampoo zorgt ervoor dat het haar na iedere aanbreng dikker wordt. Verdikt de haarvezel van binnenuit Voor voller en voluptueus haar,['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Verzorging Haarverzorging Shampoo
+ Shampoo alle haartypes",elvive [SEP] full fiber shampoo [SEP] Elvive Full Fiber Shampoo zorgt ervoor dat het haar na iedere aanbreng dikker wordt. Verdikt de haarvezel van binnenuit Voor voller en voluptueus haar [SEP] shampoo,elvive full fiber shampoo shampoo,null,null,null
+0.18552887,14257,457638,AH,Pinda's ongezouten,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ ""Pindas (bakje)""",ah [SEP] pinda's ongezouten [SEP]  [SEP] 3v6 noten,ah pinda's ongezouten 3v6 noten,null,null,null
+0.18526226,12406,1981,AH,Kruidenboter,Zachte kruidenboter met frisse tuinkruiden Smaak: Fris & romig Heerlijk op een toastje of warm stokbroodje. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen selderij' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor op brood Kruidenboter",ah [SEP] kruidenboter [SEP] Zachte kruidenboter met frisse tuinkruiden Smaak: Fris & romig Heerlijk op een toastje of warm stokbroodje. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] kzb s vers smeer,ah kruidenboter kzb s vers smeer,null,null,null
+0.18502232,13076,60604,AH Biologisch,Olijfolie extra vierge,Extra vierge Fruitig en licht bitter In salades en pasta's,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Olie en frituurvet Olie voor koud gebruik Olijfolie
+ Olijfolie extra vierge Extra vierge dagelijks",ah biologisch [SEP] olijfolie extra vierge [SEP] Extra vierge Fruitig en licht bitter In salades en pasta's [SEP] olijfolie,ah biologisch olijfolie extra vierge olijfolie,null,null,null
+0.18413088,19773,225912,Elvive,Extraordinary haarmasker,Elvive Extraordinairy Oil haarmasker voedt het haar en laat het glanzen zonder te verzwaren. Hierdoor voelt het haar na gebruik soepel en zacht aan. Voedt het haar Verzacht het haar Versoepelt het haar,['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Verzorging Haarverzorging Haarkuur & Haarmasker
+ Haarmasker",elvive [SEP] extraordinary haarmasker [SEP] Elvive Extraordinairy Oil haarmasker voedt het haar en laat het glanzen zonder te verzwaren. Hierdoor voelt het haar na gebruik soepel en zacht aan. Voedt het haar Verzacht het haar Versoepelt het haar [SEP] cremesp voeding haarkleur,elvive extraordinary haarmasker cremesp voeding haarkleur,null,null,null
+0.18370123,8534,489288,AH,Vegan smeer leverworst,Deze AHvegan smeerleverworst is heerlijk smeuig en smeerbaar Lekker op een vers broodje of op een toastje Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Leverworst leverkaas Leverworst
+ Vegetarische vleeswaren Leverworst - vegetarisch",ah [SEP] vegan smeer leverworst [SEP] Deze AHvegan smeerleverworst is heerlijk smeuig en smeerbaar Lekker op een vers broodje of op een toastje Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] smeerbaar plantaardig vega,ah vegan smeer leverworst smeerbaar plantaardig vega,null,null,null
+0.18361947,1123,470036,AH Biologisch,Lijnzaad gebroken,"Dit biologische gebroken lijnzaad zit vol vezels en is ideaal om te gebruiken als garnering of ingredient in salades, muffins, yoghurt en smoothies. Puur, onbewerkt en van biologische oorsprong Voor o.a. Zoet bakken, hartig koken of gezond ontbijten Van nature vezelrijk en bevat omega 3 vetzuren","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen selderij']","Ontbijtgranen en beleg Bewuste voeding Ontbijtgranen Wholefoods
+ Zaden en pitten Ontbijtverrijkers (toppings) Lijnzaad","ah biologisch [SEP] lijnzaad gebroken [SEP] Dit biologische gebroken lijnzaad zit vol vezels en is ideaal om te gebruiken als garnering of ingredient in salades, muffins, yoghurt en smoothies. Puur, onbewerkt en van biologische oorsprong Voor o.a. Zoet bakken, hartig koken of gezond ontbijten Van nature vezelrijk en bevat omega 3 vetzuren [SEP] bio zaden & pitten",ah biologisch lijnzaad gebroken bio zaden & pitten,null,null,null
+0.18337637,5014,216367,AH,Rondeel eieren M L,Heerlijke verse scharreleieren Beter Leven Keurmerk 3 sterren,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen noten' 'Geen selderij' 'Geen eieren' 'Geen gluten']",Zuivel plantaardig en eieren Eieren Rondeeleieren,ah [SEP] rondeel eieren m l [SEP] Heerlijke verse scharreleieren Beter Leven Keurmerk 3 sterren [SEP] biologische eieren,ah rondeel eieren m l biologische eieren,null,null,null
+0.18337637,3444,168503,AH,Rondeel eieren M L,Heerlijke verse scharreleieren Beter Leven Keurmerk 3 sterren,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen noten' 'Geen selderij' 'Geen eieren' 'Geen gluten']",Zuivel plantaardig en eieren Eieren Rondeeleieren,ah [SEP] rondeel eieren m l [SEP] Heerlijke verse scharreleieren Beter Leven Keurmerk 3 sterren [SEP] biologische eieren,ah rondeel eieren m l biologische eieren,null,null,null
+0.18331857,14316,199232,AH Biologisch,Halvanaise,Met zonnebloemolie Vol van smaak,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Laag vet'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen noten' 'Geen mosterd' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Mayonaise (minder vet)",ah biologisch [SEP] halvanaise [SEP] Met zonnebloemolie Vol van smaak [SEP] mayonaise,ah biologisch halvanaise mayonaise,null,null,null
+0.18330577,6092,470168,AH Biologisch,Lijnzaad gebroken,"Dit biologische gebroken lijnzaad zit vol vezels en is ideaal om te gebruiken als garnering of als ingredient in salades, muffins, yoghurt en smoothies. Puur, onbewerkt en van biologische oorsprong Voor o.a. Zoet bakken, hartig koken of gezond ontbijten Van nature vezelrijk en bevat omega 3 vetzuren","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen selderij']","Ontbijtgranen en beleg Bewuste voeding Ontbijtgranen Wholefoods
+ Zaden en pitten Ontbijtverrijkers (toppings) Lijnzaad","ah biologisch [SEP] lijnzaad gebroken [SEP] Dit biologische gebroken lijnzaad zit vol vezels en is ideaal om te gebruiken als garnering of als ingredient in salades, muffins, yoghurt en smoothies. Puur, onbewerkt en van biologische oorsprong Voor o.a. Zoet bakken, hartig koken of gezond ontbijten Van nature vezelrijk en bevat omega 3 vetzuren [SEP] bio zaden & pitten",ah biologisch lijnzaad gebroken bio zaden & pitten,null,null,null
+0.18301672,18129,87986,Sebamed,Wastablet,"Reinigt op milde wijze. Vitamine E verzacht de huid en beschermt tegen invloeden van buitenaf. Is effectief bij acne, meeëters, puistjes en zeepallergie. Voor de gevoelige huid Huidneutrale pH waarde van 5 Vermindert de kans op irritatie, infectie en allergie",[],"Drogisterij Verzorging Lichaamsverzorging Handverzorging
+ Handzeep Blok zeep","sebamed [SEP] wastablet [SEP] Reinigt op milde wijze. Vitamine E verzacht de huid en beschermt tegen invloeden van buitenaf. Is effectief bij acne, meeëters, puistjes en zeepallergie. Voor de gevoelige huid Huidneutrale pH waarde van 5 Vermindert de kans op irritatie, infectie en allergie [SEP] ",sebamed wastablet ,null,null,null
+0.18287008,2583,437994,AH,Geroosterde muesli sinaasappel-gember,Begin je dag goed met deze krokant geroosterde muesli met frisse stukjes sinaasappel en gember. Natuurlijk lekker met yoghurt of melk. Zo is een lekker ontbijt in een handomdraai gemaakt! Laag suikergehalte Combineert uitstekend met melk of yoghurt Ook heerlijk als tussendoortje of dessert,"['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Ontbijtgranen Krokante muesli
+ Muesli (fruit)",ah [SEP] geroosterde muesli sinaasappel-gember [SEP] Begin je dag goed met deze krokant geroosterde muesli met frisse stukjes sinaasappel en gember. Natuurlijk lekker met yoghurt of melk. Zo is een lekker ontbijt in een handomdraai gemaakt! Laag suikergehalte Combineert uitstekend met melk of yoghurt Ook heerlijk als tussendoortje of dessert [SEP] geroosterde granen,ah geroosterde muesli sinaasappel-gember geroosterde granen,null,null,null
+0.18267465,5792,227147,Teutoburger,Lijnzaadolie,"Biologische lijnzaadolie voor koud gebruik (niet geraffineerd) Alleen te gebruiken voor koude gerechten, niet verhitten Koudgeperst van Biologische lijnzaad Extra nootachtige smaak Van nature rijk aan omega 3 Iedere keer vers geperst en direct afgevuld voor behoud van waardevolle voedingsstoffen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding
+ Soepen sauzen kruiden olie Wholefoods Olie en frituurvet Olie
+ Olie voor koud gebruik Lijnzaadolie","teutoburger [SEP] lijnzaadolie [SEP] Biologische lijnzaadolie voor koud gebruik (niet geraffineerd) Alleen te gebruiken voor koude gerechten, niet verhitten Koudgeperst van Biologische lijnzaad Extra nootachtige smaak Van nature rijk aan omega 3 Iedere keer vers geperst en direct afgevuld voor behoud van waardevolle voedingsstoffen [SEP] overige olien",teutoburger lijnzaadolie overige olien,null,null,null
+0.18221276,840,470169,AH Biologisch,Lijnzaad heel,"Dit biologische lijnzaad zit vol vezels en is ideaal voor zoet bakken, hartig koken en gezond ontbijten of als garnering van bijvoorbeeld broden. Puur, onbewerkt en van biologische oorsprong Meng eens een eetlepel lijnzaad door de yoghurt Van nature vezelrijk en bevat omega 3 vetzuren","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen selderij']","Ontbijtgranen en beleg Bewuste voeding Ontbijtgranen Wholefoods
+ Zaden en pitten Ontbijtverrijkers (toppings) Lijnzaad","ah biologisch [SEP] lijnzaad heel [SEP] Dit biologische lijnzaad zit vol vezels en is ideaal voor zoet bakken, hartig koken en gezond ontbijten of als garnering van bijvoorbeeld broden. Puur, onbewerkt en van biologische oorsprong Meng eens een eetlepel lijnzaad door de yoghurt Van nature vezelrijk en bevat omega 3 vetzuren [SEP] bio zaden & pitten",ah biologisch lijnzaad heel bio zaden & pitten,null,null,null
+0.18148062,4447,195943,Lay's,Pomtips original,"Heerlijk brosse aardappelstaafjes, op smaak gebracht met een snufje zout Bereid met zonnebloemolie Bevat 4-5 porties","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen sulfiet'
+ 'Laag suiker' 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten']",Snoep koek chips en chocolade Chips Chips met een vormpje,"lay's [SEP] pomtips original [SEP] Heerlijk brosse aardappelstaafjes, op smaak gebracht met een snufje zout Bereid met zonnebloemolie Bevat 4-5 porties [SEP] snacks",lay's pomtips original snacks,null,null,null
+0.18144703,10935,545724,AH Biologisch,Pittige kiemgroente,,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']",Aardappel groente fruit Groente Kiemgroenten Kiemgroente,ah biologisch [SEP] pittige kiemgroente [SEP]  [SEP] overige verrijkers,ah biologisch pittige kiemgroente overige verrijkers,null,null,null
+0.18105014,5682,127489,AH,Halvarine lekker op brood,Met zonnebloemolie Licht met volle smaak Plantaardig en lactosevrij Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor op brood Smeerbare halvarine",ah [SEP] halvarine lekker op brood [SEP] Met zonnebloemolie Licht met volle smaak Plantaardig en lactosevrij Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] margarine kuipje,ah halvarine lekker op brood margarine kuipje,null,null,null
+0.18065974,8475,281000,AH Biologisch,Rosbief,Heerlijke dungesneden biologische rosbief 3 sterren beter leven vlees Rundvleesproduct Lekker op brood!,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Rosbief",ah biologisch [SEP] rosbief [SEP] Heerlijke dungesneden biologische rosbief 3 sterren beter leven vlees Rundvleesproduct Lekker op brood! [SEP] biologisch,ah biologisch rosbief biologisch,null,null,null
+0.18006535,17324,412919,Brouwer,Pinda's extra groot gezouten,"Pinda's extra groot, gezouten.","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ ""Pindas (zakje)""","brouwer [SEP] pinda's extra groot gezouten [SEP] Pinda's extra groot, gezouten. [SEP] 3v6 noten",brouwer pinda's extra groot gezouten 3v6 noten,null,null,null
+0.17946714,9389,407141,AH,Mueslireep hazelnoot,"Een mueslireep boordevol haver en lekkere knapperige hazelnoten. Lekker tussendoortje! Bevat utz gecertificeerde hazelnoten Rijk aan vezels Per stuk verpakt Lekker voor tussendoor, onderweg of ieder ander moment van dag","['Geen gluten' 'Geen melk' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Tussendoortjes
+ Snoep koek chips en chocolade Fruit noten mueslireep Notenrepen
+ Koek","ah [SEP] mueslireep hazelnoot [SEP] Een mueslireep boordevol haver en lekkere knapperige hazelnoten. Lekker tussendoortje! Bevat utz gecertificeerde hazelnoten Rijk aan vezels Per stuk verpakt Lekker voor tussendoor, onderweg of ieder ander moment van dag [SEP] graan en mueslirepen",ah mueslireep hazelnoot graan en mueslirepen,null,null,null
+0.17916426,18359,480893,Carbonell,Extra virgen bio,Carbonell olijfolie extra virgen bio. Ideaal voor in salades Smaakmaker in o.a. Pasta's Verkregen uit biologische landbouw,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Olie en frituurvet Olie voor koud gebruik Olijfolie
+ Olijfolie extra vierge Extra vierge dagelijks",carbonell [SEP] extra virgen bio [SEP] Carbonell olijfolie extra virgen bio. Ideaal voor in salades Smaakmaker in o.a. Pasta's Verkregen uit biologische landbouw [SEP] olijfolie,carbonell extra virgen bio olijfolie,null,null,null
+0.17880005,11514,470412,AH,Pinda's extra groot ongezouten,In zonnebloemolie gebakken. Lekker knapperig Makkelijk hersluitbaar,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ ""Pindas (zakje)""",ah [SEP] pinda's extra groot ongezouten [SEP] In zonnebloemolie gebakken. Lekker knapperig Makkelijk hersluitbaar [SEP] mb luxe multimix,ah pinda's extra groot ongezouten mb luxe multimix,null,null,null
+0.17836526,15046,549640,Leev,Yes peas roasted chickpeas seasalt,The Leev yes peas are organic roasted snacks based on chickpeas with herbs. A healthy and tasty snack for at home or on the go. 100% organic and vegan As a snack or with a drink High in fibre and a source of protein No added sugar,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Laag vet' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij' 'Geen gluten']",Sport- en dieetvoeding Dieetvoeding Gezonde snacks,leev [SEP] yes peas roasted chickpeas seasalt [SEP] The Leev yes peas are organic roasted snacks based on chickpeas with herbs. A healthy and tasty snack for at home or on the go. 100% organic and vegan As a snack or with a drink High in fibre and a source of protein No added sugar [SEP] bio tussendoor,leev yes peas roasted chickpeas seasalt bio tussendoor,null,null,null
+0.17764175,15988,229834,Fish Tales,Pilchard sardines in olijfolie,"Pilchard sardines zijn groot, mals en rijk van smaak. Geschikt voor warme bereidingen maar ook voor gewoon lekker op brood! Msc, dus uit een visbestand dat niet wordt overbevist Voor de kust van Engeland gevangen door david en crew Pilchard sardines worden door kenners geprezen als lekkerste ter wereld Gebruik deze variant in olijfolie voor warme bereidingen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Laag suiker' 'Geen lupine' 'duurzame vangst' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen vis'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Soepen sauzen kruiden olie Vis Conserven
+ Visconserven Sardines (conserven)","fish tales [SEP] pilchard sardines in olijfolie [SEP] Pilchard sardines zijn groot, mals en rijk van smaak. Geschikt voor warme bereidingen maar ook voor gewoon lekker op brood! Msc, dus uit een visbestand dat niet wordt overbevist Voor de kust van Engeland gevangen door david en crew Pilchard sardines worden door kenners geprezen als lekkerste ter wereld Gebruik deze variant in olijfolie voor warme bereidingen [SEP] sardines",fish tales pilchard sardines in olijfolie sardines,null,null,null
+0.17751285,9545,513476,AH,Verse vega pompoenrisotto,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja' 'Geen sulfiet'
+ 'Laag suiker' 'Geen selderij' 'Geen kreeftachtigen (schaaldieren)'
+ 'Vegetarisch' ""Geen pinda's"" 'Geen schelpdieren (schaaldieren)'
+ 'Geen melk' 'Laag vet' 'Geen lupine' 'Geen sesam' 'Geen vis' 'Laag zout'
+ 'Veganistisch' 'Geen mosterd' 'Geen eieren']","Salades pizza maaltijden AH Vers uit eigen keuken
+ Verse kant- en-klaar maaltijden Verse Maaltijden",ah [SEP] verse vega pompoenrisotto [SEP]  [SEP] ultra verse maaltijden,ah verse vega pompoenrisotto ultra verse maaltijden,null,null,null
+0.17690946,9516,429611,AH,Roomboter met plantaardige olie ongezout,"Deze smeerbare roomboter ongezouten smeer je zo op een boterham of croissantje, lekker met óf zonder broodbeleg. Ongezouten Makkelijk smeerbaar Met plantaardige olie Voor bereiding van vele gerechten Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor op brood Smeerbare roomboter","ah [SEP] roomboter met plantaardige olie ongezout [SEP] Deze smeerbare roomboter ongezouten smeer je zo op een boterham of croissantje, lekker met óf zonder broodbeleg. Ongezouten Makkelijk smeerbaar Met plantaardige olie Voor bereiding van vele gerechten Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] roomboter melange",ah roomboter met plantaardige olie ongezout roomboter melange,null,null,null
+0.17687967,1461,470410,AH,Pinda's extra groot gezouten,In zonnebloemolie gebakken. Met zeezout Lekker knapperig Makkelijk hersluitbaar,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ ""Pindas (zakje)""",ah [SEP] pinda's extra groot gezouten [SEP] In zonnebloemolie gebakken. Met zeezout Lekker knapperig Makkelijk hersluitbaar [SEP] mb luxe multimix,ah pinda's extra groot gezouten mb luxe multimix,null,null,null
+0.17647433,18225,473787,Etos,Arganoil & silk 2-in-1 showerfoam,,[],"Drogisterij Verzorging Lichaamsverzorging Bad en douche
+ Doucheschuim",etos [SEP] arganoil & silk 2-in-1 showerfoam [SEP]  [SEP] ,etos arganoil & silk 2-in-1 showerfoam ,null,null,null
+0.17609912,15750,550007,AH Biologisch,Milde kiemgroente,,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']",Aardappel groente fruit Groente Kiemgroenten Kiemgroente,ah biologisch [SEP] milde kiemgroente [SEP]  [SEP] overige verrijkers,ah biologisch milde kiemgroente overige verrijkers,null,null,null
+0.17604281,12157,479598,AH Eco,Allesreiniger granaatappel,,['Laag zout' 'Laag vet' 'Laag suiker'],Huishouden Schoonmaakmiddelen Allesreiniger,ah eco [SEP] allesreiniger granaatappel [SEP]  [SEP] allesreiniger vloeibaar,ah eco allesreiniger granaatappel allesreiniger vloeibaar,null,null,null
+0.17581132,5742,446046,Care,Scheergel sensitive,"Shave gel helps during shave to slide the razor. Thanks to the additives leaves the skin smooth and hydrated. The rich, creamy lather is lightly-fragranced for sensitive skin Help to prevent razor irritations Softness and silkiness skin to the touch Smoothing and hydrating results Prijsfavorieten: topkwaliteit en altijd laaggeprijsd",['Laag zout' 'Laag vet' 'Laag suiker' 'Prijsfavoriet'],"Drogisterij Verzorging Lichaamsverzorging Scheren en ontharen
+ Scheren en ontharen vrouwen Scheergel - vrouwen","care [SEP] scheergel sensitive [SEP] Shave gel helps during shave to slide the razor. Thanks to the additives leaves the skin smooth and hydrated. The rich, creamy lather is lightly-fragranced for sensitive skin Help to prevent razor irritations Softness and silkiness skin to the touch Smoothing and hydrating results Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] scheerpreparaten",care scheergel sensitive scheerpreparaten,null,null,null
+0.17562903,7301,206500,Becel,Proactiv original cholesterolverlagend,"Becel proactiv is een heerlijke spread voor op brood. Een 100% vegan halvarine product met de natuurlijke kracht van toegevoegde plantensterolen die actief het cholesterol verlagen. Met een mix van zonnebloem-, lijnzaad- en koolzaadolie Plantensterolen verlagen actief cholesterol Vrij van kunstmatige kleur- en smaakstoffen 100% plantaardig, vegan, glucose- en lactosevrij","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor op brood Smeerbare halvarine","becel [SEP] proactiv original cholesterolverlagend [SEP] Becel proactiv is een heerlijke spread voor op brood. Een 100% vegan halvarine product met de natuurlijke kracht van toegevoegde plantensterolen die actief het cholesterol verlagen. Met een mix van zonnebloem-, lijnzaad- en koolzaadolie Plantensterolen verlagen actief cholesterol Vrij van kunstmatige kleur- en smaakstoffen 100% plantaardig, vegan, glucose- en lactosevrij [SEP] margarine kuipje",becel proactiv original cholesterolverlagend margarine kuipje,null,null,null
+0.17509791,1166,519385,AH,Speculoos & choco pasta,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Ontbijtgranen en beleg Zoet broodbeleg Hazelnoot- en chocoladepasta
+ Chocoladepasta",ah [SEP] speculoos & choco pasta [SEP]  [SEP] over smeerbaar,ah speculoos & choco pasta over smeerbaar,null,null,null
+0.17481013,9527,509385,AH,Edamame 2 kleintjes,,"['Laag zout' 'Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Soepen sauzen kruiden olie Conserven
+ Groente Bonen peulvruchten Groenteconserven
+ Bonen peulvruchten (conserven) Kikkererwten
+ Kikkererwten (conserven)",ah [SEP] edamame 2 kleintjes [SEP]  [SEP] exotische bonen,ah edamame 2 kleintjes exotische bonen,null,null,null
+0.17457844,12243,410191,Fish Tales,Sardines in olijfolie met cit msc,"Pilchard sardines zijn groot, mals, rijk van smaak en lekker fris door toevoeging van verse citroen. Msc, dus uit een visbestand dat niet wordt overbevist Voor de kust van Engeland gevangen door david en crew Pilchard sardines worden door kenners geprezen als lekkerste ter wereld Super om door een frisse salade te mengen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen vis' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Soepen sauzen kruiden olie Vis Conserven
+ Visconserven Sardines (conserven)","fish tales [SEP] sardines in olijfolie met cit msc [SEP] Pilchard sardines zijn groot, mals, rijk van smaak en lekker fris door toevoeging van verse citroen. Msc, dus uit een visbestand dat niet wordt overbevist Voor de kust van Engeland gevangen door david en crew Pilchard sardines worden door kenners geprezen als lekkerste ter wereld Super om door een frisse salade te mengen [SEP] sardines",fish tales sardines in olijfolie met cit msc sardines,null,null,null
+0.1741032,10473,519009,AH,Vezelreep macademia & vanillesmaak,,"['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Ontbijtgranen en beleg Tussendoortjes
+ Snoep koek chips en chocolade Fruit noten mueslireep Notenrepen
+ Koek",ah [SEP] vezelreep macademia & vanillesmaak [SEP]  [SEP] notenzadenrepen,ah vezelreep macademia & vanillesmaak notenzadenrepen,null,null,null
+0.1738677,8166,168813,AH Biologisch,Kikkererwten,Bron van vezels Makkelijk en snel op tafel,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Soepen sauzen kruiden olie Conserven
+ Groente Bonen peulvruchten Groenteconserven
+ Bonen peulvruchten (conserven) Kikkererwten
+ Kikkererwten (conserven)",ah biologisch [SEP] kikkererwten [SEP] Bron van vezels Makkelijk en snel op tafel [SEP] exotische bonen,ah biologisch kikkererwten exotische bonen,null,null,null
+0.1727193,2460,482405,AH Excellent,Olijfolie knoflook,,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen sulfiet' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Olie en frituurvet Olie voor koud gebruik Olijfolie
+ Extra vierge met toevoegingen Olijfolie extra vierge",ah excellent [SEP] olijfolie knoflook [SEP]  [SEP] olijfolie,ah excellent olijfolie knoflook olijfolie,null,null,null
+0.17266701,4305,515281,AH,Verse scharreleieren S,,['Nutri-Score B'],Zuivel plantaardig en eieren Eieren Scharreleieren,ah [SEP] verse scharreleieren s [SEP]  [SEP] scharrel 1 ster eieren,ah verse scharreleieren s scharrel 1 ster eieren,null,null,null
+0.17237559,17843,507817,AH,Gehaktballetjes satsaus,,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Nutri-Score D' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen mosterd' 'Vegetarisch' 'Geen selderij']",Kaas vleeswaren tapas Borrelhapjes Gehaktballetjes,ah [SEP] gehaktballetjes satsaus [SEP]  [SEP] snack,ah gehaktballetjes satsaus snack,null,null,null
+0.17230195,1698,490269,AH,Macadamiamix ongezouten,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ Notenmix (bakje)",ah [SEP] macadamiamix ongezouten [SEP]  [SEP] 3v6 noten,ah macadamiamix ongezouten 3v6 noten,null,null,null
+0.1722754,7764,202747,Maza,Baba anoesch,"Heerlijke salade van op houtskool gegrilde verse
+				aubergine, romige mayonaise en een vleugje Spaanse peper.","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen selderij' 'Geen eieren' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Hartig broodbeleg
+ Smeersels & dips Spread Groentespread","maza [SEP] baba anoesch [SEP] Heerlijke salade van op houtskool gegrilde verse
+				aubergine, romige mayonaise en een vleugje Spaanse peper. [SEP] smeer hummus",maza baba anoesch smeer hummus,null,null,null
+0.17199808,11966,540187,AH,Midden-Oosterse Shakshuka verspakket,"Met dit pakket heb je alles bij de hand om lekkere Midden-Oosterse Shakshuka te maken, die je met trots op tafel kunt zetten. Dit pakket bevat AH Gesneden verspakket Midden-Oosterse Shakshuka 1x AH Verse scharreleieren M 1x",[],"Aardappel groente fruit Salades pizza maaltijden Groente
+ Verspakket Maaltijdpakketten (vers) Groentepakket
+ Oosterse maaltijdpakketten (vers)","ah [SEP] midden-oosterse shakshuka verspakket [SEP] Met dit pakket heb je alles bij de hand om lekkere Midden-Oosterse Shakshuka te maken, die je met trots op tafel kunt zetten. Dit pakket bevat AH Gesneden verspakket Midden-Oosterse Shakshuka 1x AH Verse scharreleieren M 1x [SEP] ",ah midden-oosterse shakshuka verspakket ,null,null,null
+0.17196792,3360,500152,AH,Verrijker ontbijt lijnzaad gebroken,Geef je ontbijt een creatieve twist met gebroken lijnzaad. Lekker door bijvoorbeeld smoothies en (plantaardige) zuivel Rijk aan vezels en bron van eiwitten,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Ontbijtgranen Wholefoods
+ Zaden en pitten Ontbijtverrijkers (toppings) Lijnzaad",ah [SEP] verrijker ontbijt lijnzaad gebroken [SEP] Geef je ontbijt een creatieve twist met gebroken lijnzaad. Lekker door bijvoorbeeld smoothies en (plantaardige) zuivel Rijk aan vezels en bron van eiwitten [SEP] ontbijtverrijkers,ah verrijker ontbijt lijnzaad gebroken ontbijtverrijkers,null,null,null
+0.17194122,12679,490274,AH,Elitehaver de luxe,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen sulfiet' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Notenmix (zakje)",ah [SEP] elitehaver de luxe [SEP]  [SEP] 3v6 noten,ah elitehaver de luxe 3v6 noten,null,null,null
+0.17184196,967,517274,AH,Roomboter gesuikerde krakelingen,,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij']",Snoep koek chips en chocolade Koek Koffiekoekjes,ah [SEP] roomboter gesuikerde krakelingen [SEP]  [SEP] doorzicht multibuy,ah roomboter gesuikerde krakelingen doorzicht multibuy,null,null,null
+0.17136823,2826,97363,AH,Gemengde zeevruchten,"Gekookt en klaar voor consumptie Combinatie van mossel, inktvis, garnaal en surimi Vers ingevroren voor de beste kwaliteit","['Geen gluten' 'Geen melk' 'Geen soja' 'Laag suiker'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine'
+ 'Geen schelpdieren (schaaldieren)' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Geen vis'
+ 'Laag vet' 'Laag zout' 'Veganistisch' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij']","Vlees kip vis vega Diepvries Diepvries vlees vis Vis
+ Schaal- & schelpdieren Zeevruchten Diepvries schelpdieren
+ Verse vis Diepvries vis Zeevruchten (diepvries)","ah [SEP] gemengde zeevruchten [SEP] Gekookt en klaar voor consumptie Combinatie van mossel, inktvis, garnaal en surimi Vers ingevroren voor de beste kwaliteit [SEP] vis schaal schelpdieren",ah gemengde zeevruchten vis schaal schelpdieren,null,null,null
+0.17136067,14352,243875,AH,Gedroogde vijgen,Smaakvolle gedroogde vijgen. De ideale snack voor onderweg Lekker om te serveren bij een kaasplankje Rijk aan vezels,"['Laag vet' 'Laag zout' 'Geen melk' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen lupine' ""Geen pinda's"" 'Geen selderij' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Aardappel groente fruit Pasta rijst en wereldkeuken
+ Bewuste voeding Bakkerij en banket Snoep koek chips en chocolade
+ Zelf bakken Wholefoods Fruit Bakproducten
+ Fruit en bessen (superfoods) Toevoegingen toppings versiering
+ Gedroogd fruit Gedroogd fruit (diverse)",ah [SEP] gedroogde vijgen [SEP] Smaakvolle gedroogde vijgen. De ideale snack voor onderweg Lekker om te serveren bij een kaasplankje Rijk aan vezels [SEP] overig,ah gedroogde vijgen overig,null,null,null
+0.17071626,13706,543186,AH,Leverworst,,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Voorverpakt Leverworst leverkaas Leverworst
+ Stuk leverworst (voorverpakt)",ah [SEP] leverworst [SEP]  [SEP] traditioneel plakjes hb,ah leverworst traditioneel plakjes hb,null,null,null
+0.17032962,11887,537035,John West,Sardines olie,"John west sardines in zonnebloemolie, lekker voor op brood of bij de borrel! Rijk aan omega 3 Verantwoord gevist volgens msc keurmerk In zonnebloemolie voor een vollere smaak","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen vis' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Soepen sauzen kruiden olie Vis Conserven
+ Visconserven Sardines (conserven)","john west [SEP] sardines olie [SEP] John west sardines in zonnebloemolie, lekker voor op brood of bij de borrel! Rijk aan omega 3 Verantwoord gevist volgens msc keurmerk In zonnebloemolie voor een vollere smaak [SEP] sardines",john west sardines olie sardines,null,null,null
+0.17031652,18266,489652,Loving Blends,Haver shampoo bar,"Loving blends milde haver solid shampoo met verzachtende havermelk en hydraterende rijstcreme hydrateert en verzacht kwetsbaar haar. 97% biologisch afbreekbaar Van 94% plantaardige oorsprong Snel uitspoelbaar, om water te besparen Zonder siliconen en conserveringsmiddelen",['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Verzorging Haarverzorging Shampoo
+ Shampoo alle haartypes","loving blends [SEP] haver shampoo bar [SEP] Loving blends milde haver solid shampoo met verzachtende havermelk en hydraterende rijstcreme hydrateert en verzacht kwetsbaar haar. 97% biologisch afbreekbaar Van 94% plantaardige oorsprong Snel uitspoelbaar, om water te besparen Zonder siliconen en conserveringsmiddelen [SEP] shampoo",loving blends haver shampoo bar shampoo,null,null,null
+0.1701465,10397,538516,AH,Verrijker gojibes moerbei en pitten,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Veganistisch' 'Laag zout' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Ontbijtgranen Ontbijtverrijkers (toppings)
+ Zoete verrijkers",ah [SEP] verrijker gojibes moerbei en pitten [SEP]  [SEP] ontbijtverrijkers,ah verrijker gojibes moerbei en pitten ontbijtverrijkers,null,null,null
+0.1700084,11486,470172,AH Biologisch,Zonnebloempitten,"Deze knapperige biologische zonnebloempitten zijn ideaal om te gebruiken als garnering van gerechten, in een gezond ontbijt of in zelf gebakken zoetigheden. Tip: meng door de yoghurt voor een lekkere bite. Puur, onbewerkt en van biologische oorsprong Ideaal voor zoet bakken, hartig koken of gezond ontbijten Van nature rijk aan vezels en onverzadigde vetzuren, bron van eiwitten","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen selderij']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Snoep koek chips en chocolade Garnering Bakproducten Noten
+ Noten pittengarnering Garneringen toevoegingen Overige pitten","ah biologisch [SEP] zonnebloempitten [SEP] Deze knapperige biologische zonnebloempitten zijn ideaal om te gebruiken als garnering van gerechten, in een gezond ontbijt of in zelf gebakken zoetigheden. Tip: meng door de yoghurt voor een lekkere bite. Puur, onbewerkt en van biologische oorsprong Ideaal voor zoet bakken, hartig koken of gezond ontbijten Van nature rijk aan vezels en onverzadigde vetzuren, bron van eiwitten [SEP] bio zaden & pitten",ah biologisch zonnebloempitten bio zaden & pitten,null,null,null
+0.16977923,10977,130274,AH,Verse scharreleieren XL,Verpakking met 10 Scharreleieren klasse L/XL Extra grote eieren,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen noten' 'Geen selderij' 'Geen eieren' 'Geen gluten']",Zuivel plantaardig en eieren Eieren Scharreleieren,ah [SEP] verse scharreleieren xl [SEP] Verpakking met 10 Scharreleieren klasse L/XL Extra grote eieren [SEP] scharrel 1 ster eieren,ah verse scharreleieren xl scharrel 1 ster eieren,null,null,null
+0.16976582,5347,467263,AH,Voor in de oven kabeljauwhaasjes,"Licht bemeeld kabeljauwhaasje gemarineerd met een delicate boter-peterselie marinade. Heerlijk met krieltjes en groente of salade naar keuze. Zacht van smaak, sappig van textuur. Het mooiste stukje van de kabeljauw, afkomstig van duurzame visserij Een product van restaurantkwaliteit","['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Geen vis' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen eieren']",Vlees kip vis vega Vis Verse vis Kabeljauw (vers),"ah [SEP] voor in de oven kabeljauwhaasjes [SEP] Licht bemeeld kabeljauwhaasje gemarineerd met een delicate boter-peterselie marinade. Heerlijk met krieltjes en groente of salade naar keuze. Zacht van smaak, sappig van textuur. Het mooiste stukje van de kabeljauw, afkomstig van duurzame visserij Een product van restaurantkwaliteit [SEP] witvis",ah voor in de oven kabeljauwhaasjes witvis,null,null,null
+0.16936448,10953,170914,AH,Ei salade,Volle en romige ei salade Met scharrelei Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen noten' 'Geen mosterd' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Beleg salades
+ Brood- en toastsalades Salades (klein) Eiersalades (beleg)",ah [SEP] ei salade [SEP] Volle en romige ei salade Met scharrelei Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] smeer ei,ah ei salade smeer ei,null,null,null
+0.16892815,4269,518057,AH Biologisch,Olijfolie cracker,,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Veganistisch' 'Laag zout' 'Geen schelpdieren (schaaldieren)'
+ 'Geen noten' 'Geen selderij' 'Geen eieren']","Ontbijtgranen en beleg Bakkerij en banket Tussendoortjes Crackers
+ Crackers rijstwafels Ontbijtcrackers",ah biologisch [SEP] olijfolie cracker [SEP]  [SEP] crackers,ah biologisch olijfolie cracker crackers,null,null,null
+0.16837284,14831,60609,AH,Groene olijven met paprika,"Deze manzanilla olijven zijn heerlijk door salades en op pizza's of om gewoon zo te eten. Het ideale borrelhapje! Lekker in een frisse pastasalade Zonder pit, om direct te consumeren Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Mediterrane keuken Olijven
+ Groene olijven","ah [SEP] groene olijven met paprika [SEP] Deze manzanilla olijven zijn heerlijk door salades en op pizza's of om gewoon zo te eten. Het ideale borrelhapje! Lekker in een frisse pastasalade Zonder pit, om direct te consumeren Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] toevoegingen olijven",ah groene olijven met paprika toevoegingen olijven,null,null,null
+0.16827087,10621,508342,AH Biologisch,Hennep citroengras,,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Thee Kruidenthee
+ Kruidenthee meerkops",ah biologisch [SEP] hennep citroengras [SEP]  [SEP] thee kruiden,ah biologisch hennep citroengras thee kruiden,null,null,null
+0.16822584,7390,397145,Casa Mayor,Geroosterde en Gezouten Zonnebloempitten,Geroosterd en gezouten pompoenpitten. Lekker als tussendoortje Licht gezouten,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ Notenmix (bakje)",casa mayor [SEP] geroosterde en gezouten zonnebloempitten [SEP] Geroosterd en gezouten pompoenpitten. Lekker als tussendoortje Licht gezouten [SEP] snacks,casa mayor geroosterde en gezouten zonnebloempitten snacks,null,null,null
+0.16819665,2155,414982,Vegetarische Slager,Vegan petit filet americain,Vegetarische petit filet americain. 100% plantaardig 1- persoons porties Zonder kunstmatige E-nummers Romig en smeuig,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Geen selderij' 'Geen eieren']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Filet americain Vegetarische vleeswaren
+ Filet americain (vegetarisch)",vegetarische slager [SEP] vegan petit filet americain [SEP] Vegetarische petit filet americain. 100% plantaardig 1- persoons porties Zonder kunstmatige E-nummers Romig en smeuig [SEP] smeerbaar plantaardig vega,vegetarische slager vegan petit filet americain smeerbaar plantaardig vega,null,null,null
+0.16818301,6847,226267,Statesman,Sardines in zonnebloemolie,Sardines in zonnebloemolie: de basis of topping in/op jouw salade! Rijk aan eiwitten en omega-3 vetzuren! Lekker als borrelhap of als of topping in jouw salade Rijk aan eiwitten en omega-3 vetzuren Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen vis' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Soepen sauzen kruiden olie Vis Conserven
+ Visconserven Sardines (conserven)",statesman [SEP] sardines in zonnebloemolie [SEP] Sardines in zonnebloemolie: de basis of topping in/op jouw salade! Rijk aan eiwitten en omega-3 vetzuren! Lekker als borrelhap of als of topping in jouw salade Rijk aan eiwitten en omega-3 vetzuren Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] sardines,statesman sardines in zonnebloemolie sardines,null,null,null
+0.16786578,13197,516519,Leev,Protein nutbar honey seasalt,"Biologische notenreep met honing en zeezout. Ideaal als tussendoortje voor op werk of school Minder suiker, gezoet met honing Biologisch Glutenvrij","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch'
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen selderij' 'Geen gluten']",Sport- en dieetvoeding Dieetvoeding Gezonde snacks,"leev [SEP] protein nutbar honey seasalt [SEP] Biologische notenreep met honing en zeezout. Ideaal als tussendoortje voor op werk of school Minder suiker, gezoet met honing Biologisch Glutenvrij [SEP] zoete snacks",leev protein nutbar honey seasalt zoete snacks,null,null,null
+0.16767609,386,550280,Johma,100% plantaardige kaas-mosterdsalade,"Een heerlijke plantaardige kaas-mosterdsalade, royaal gevuld met plantaardige kaasstukjes in een heerlijke smeuïge saus met grove mosterd. Deze salade is vegan Lekker voor als broodbeleg of voor op een toastje","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja' 'Laag suiker'
+ 'Geen selderij' 'Geen kreeftachtigen (schaaldieren)' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen sulfiet'
+ 'Geen sesam' 'Veganistisch' 'Geen vis' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen mosterd' 'Geen eieren']","Ontbijtgranen en beleg Kaas vleeswaren tapas Beleg salades
+ Brood- en toastsalades Kaassalades Salades (klein)","johma [SEP] 100% plantaardige kaas-mosterdsalade [SEP] Een heerlijke plantaardige kaas-mosterdsalade, royaal gevuld met plantaardige kaasstukjes in een heerlijke smeuïge saus met grove mosterd. Deze salade is vegan Lekker voor als broodbeleg of voor op een toastje [SEP] smeer vegan",johma 100% plantaardige kaas-mosterdsalade smeer vegan,null,null,null
+0.16732442,15915,197175,Linesse,Light kaasspread belegen,"Linesse Belegen is een heerlijke en pittige smeerkaas, met slechts 10% vet. Verantwoord genieten dus! Smaak: Pittig Herkomst: Duitsland Gemaakt van: Koemelk","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Kaas
+ Hartig broodbeleg Kaas beleg Smeerkaas Zuivelspread
+ Kaas voor beleg Smeerkaas roomkaas cottage cheese","linesse [SEP] light kaasspread belegen [SEP] Linesse Belegen is een heerlijke en pittige smeerkaas, met slechts 10% vet. Verantwoord genieten dus! Smaak: Pittig Herkomst: Duitsland Gemaakt van: Koemelk [SEP] kzb bb smeer",linesse light kaasspread belegen kzb bb smeer,null,null,null
+0.16717717,9560,492874,AH,Pindareep cashew zeezout,"4 repen boordevol noten en een vleugje zeezout, voor een stevig tussendoortje. Bron van vezels Met pinda, cashewnoot en zeezout Lekker en voedzaam tussendoortje","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Veganistisch' 'Laag zout' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Tussendoortjes
+ Snoep koek chips en chocolade Fruit noten mueslireep Notenrepen
+ Koek","ah [SEP] pindareep cashew zeezout [SEP] 4 repen boordevol noten en een vleugje zeezout, voor een stevig tussendoortje. Bron van vezels Met pinda, cashewnoot en zeezout Lekker en voedzaam tussendoortje [SEP] notenzadenrepen",ah pindareep cashew zeezout notenzadenrepen,null,null,null
+0.16713335,10552,174266,Weleda,Granaatappel regeneratie handcrème,"Verstevigende handcreme met biologische granaatappel. Stimuleert de celvernieuwing Gaat vroegtijdige huidveroudering tegen Trekt snel in Met de warme geur van sinaasappel, vanille en davana",['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Verzorging Lichaamsverzorging Handverzorging
+ Handcreme","weleda [SEP] granaatappel regeneratie handcrème [SEP] Verstevigende handcreme met biologische granaatappel. Stimuleert de celvernieuwing Gaat vroegtijdige huidveroudering tegen Trekt snel in Met de warme geur van sinaasappel, vanille en davana [SEP] bad douche deo",weleda granaatappel regeneratie handcrème bad douche deo,null,null,null
+0.16703111,7930,549680,BioToday,Dadelreep cacao-sinaasappel,"Deze glutenvrije dadelrepen met cacao en sinaasappel van biotoday zijn een ideaal tussendoortje en makkelijk om mee te nemen voor onderweg. De repen zitten in een handige 3-pack. Alleen natuurlijke ingredienten Vrij van kunstmatige geur-, kleur- en smaakstoffen Vezelrijk Vegan","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ ""Geen pinda's"" 'biologisch' 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen lupine' 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren' 'Geen gluten']","Ontbijtgranen en beleg Tussendoortjes
+ Snoep koek chips en chocolade Fruit noten mueslireep Fruitrepen
+ Koek","biotoday [SEP] dadelreep cacao-sinaasappel [SEP] Deze glutenvrije dadelrepen met cacao en sinaasappel van biotoday zijn een ideaal tussendoortje en makkelijk om mee te nemen voor onderweg. De repen zitten in een handige 3-pack. Alleen natuurlijke ingredienten Vrij van kunstmatige geur-, kleur- en smaakstoffen Vezelrijk Vegan [SEP] bio tussendoor",biotoday dadelreep cacao-sinaasappel bio tussendoor,null,null,null
+0.16676803,15450,425675,Monini,Il poggiolo extra vergine olijfolie,"100% ongefilterde extra virgine olijfolie - rechtstreeks van de persing in de fles! De olie heeft een bijzonder aangename geur van versgemaaid gras en een zeer frisse smaak van olijven. Extra virgine olijfolie, de gezonde en smaakvolle keuze voor koken en dressings Intense aroma met een licht pittige smaak Ongefilterd, van nature troebel Gebotteld in spoleto, italie","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Veganistisch' 'Laag suiker'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen lupine' ""Geen pinda's"" 'Vegetarisch' 'Laag vet' 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Olie en frituurvet Olie voor koud gebruik Olijfolie
+ Extra vierge specialiteiten Olijfolie extra vierge","monini [SEP] il poggiolo extra vergine olijfolie [SEP] 100% ongefilterde extra virgine olijfolie - rechtstreeks van de persing in de fles! De olie heeft een bijzonder aangename geur van versgemaaid gras en een zeer frisse smaak van olijven. Extra virgine olijfolie, de gezonde en smaakvolle keuze voor koken en dressings Intense aroma met een licht pittige smaak Ongefilterd, van nature troebel Gebotteld in spoleto, italie [SEP] olijfolie",monini il poggiolo extra vergine olijfolie olijfolie,null,null,null
+0.16676793,10719,447956,Brouwer,Studenten haver ongezouten,"Feestje? Borrel? Of Trek in een tussendoortje? Ga voor deze gevarieerde mix van pinda's, walnoten, hazelnoten, amandelen en rozijnen. Lekker bij de borrel of tussendoor Heerlijk door de salade Rijk aan vezels","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Notenmix (zakje)","brouwer [SEP] studenten haver ongezouten [SEP] Feestje? Borrel? Of Trek in een tussendoortje? Ga voor deze gevarieerde mix van pinda's, walnoten, hazelnoten, amandelen en rozijnen. Lekker bij de borrel of tussendoor Heerlijk door de salade Rijk aan vezels [SEP] 3v6 noten",brouwer studenten haver ongezouten 3v6 noten,null,null,null
+0.16642061,16497,509362,Graze,Lively lemon superfood oat bites,"De graze lively lemon superfood oat bite is een lekker tussendoortje met hele havermoutvlokken, boordevol Mangaan en rijk aan vezels. Graze lively lemon superfood oat bites zijn graanrepen met havermout Een havermoutreep met minder dan 150 kcal per portie Snack zonder kunstmatige smaak- en kleurstoffen of conserveringsmiddelen Deze volkoren havermoutrepen zijn rijk aan vezels en een bron van Mangaan","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen mosterd'
+ 'Geen selderij' 'Geen eieren']","Ontbijtgranen en beleg Tussendoortjes
+ Snoep koek chips en chocolade Fruit noten mueslireep Notenrepen
+ Koek","graze [SEP] lively lemon superfood oat bites [SEP] De graze lively lemon superfood oat bite is een lekker tussendoortje met hele havermoutvlokken, boordevol Mangaan en rijk aan vezels. Graze lively lemon superfood oat bites zijn graanrepen met havermout Een havermoutreep met minder dan 150 kcal per portie Snack zonder kunstmatige smaak- en kleurstoffen of conserveringsmiddelen Deze volkoren havermoutrepen zijn rijk aan vezels en een bron van Mangaan [SEP] graan en mueslirepen",graze lively lemon superfood oat bites graan en mueslirepen,null,null,null
+0.16632679,1542,457919,AH,Studentenhaver ongebrand,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in bakje
+ Notenmix (bakje)",ah [SEP] studentenhaver ongebrand [SEP]  [SEP] 3v6 noten,ah studentenhaver ongebrand 3v6 noten,null,null,null
+0.16623268,15783,520817,AH,Vegan smeer leverworst 4-pack,AH Vegan smeer leverworst 4-pack AH Vegan smeer leverworst 4x,[],"Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Leverworst leverkaas Leverworst
+ Vegetarische vleeswaren Leverworst - vegetarisch",ah [SEP] vegan smeer leverworst 4-pack [SEP] AH Vegan smeer leverworst 4-pack AH Vegan smeer leverworst 4x [SEP] ,ah vegan smeer leverworst 4-pack ,null,null,null
+0.1660701,11779,232007,Elvive,Extraordinary shampoo,"Elvive Extraordinary Oil Shampoo voedt het haar zonder te verzwaren, waardoor het weer levendig en glanzend wordt. Voedt het haar Verzacht het haar Voorziet het haar van een heerlijke geur",['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Verzorging Haarverzorging Shampoo
+ Shampoo alle haartypes","elvive [SEP] extraordinary shampoo [SEP] Elvive Extraordinary Oil Shampoo voedt het haar zonder te verzwaren, waardoor het weer levendig en glanzend wordt. Voedt het haar Verzacht het haar Voorziet het haar van een heerlijke geur [SEP] shampoo",elvive extraordinary shampoo shampoo,null,null,null
+0.16569468,7203,462761,AH Biologisch,Rode bieten blokjes,"Gekookte rode bieten blokjes in een handige portieverpakking, de snijvorm is perfect voor salades. 100% biologisch Handig voor het maken van smoothies En lekker in een salade","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Seizoensgroente (lente)
+ Seizoensgroente (zomer) Seizoensgroente (herfst) Groente
+ Bietjes (vers) Wortelen knollen Rode bieten","ah biologisch [SEP] rode bieten blokjes [SEP] Gekookte rode bieten blokjes in een handige portieverpakking, de snijvorm is perfect voor salades. 100% biologisch Handig voor het maken van smoothies En lekker in een salade [SEP] kookgroente overig",ah biologisch rode bieten blokjes kookgroente overig,null,null,null
+0.16554707,6172,43319,Brandaris,Zware shag,Shag,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Tabak Shag,brandaris [SEP] zware shag [SEP] Shag [SEP] roll your own,brandaris zware shag roll your own,null,null,null
+0.16551208,13901,425476,BioToday,Linzenchips zeezout,"BioToday linzenchips met zeezout is gemaakt van 40% linzen en gebakken in HO (High Oleic) zonnebloemolie. De chips is 30% lager in vet dan aardappelchips en heerlijk van smaak. Biologisch Geen toegevoegd suiker, gist en smaakversterkers 30% lager in vet dan reguliere aardappelchips Vegan, hoog in eiwitten en vezelrijk","['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Geen selderij' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'biologisch' 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen gluten']","Snoep koek chips en chocolade Chips Chips minder vet zout
+ Chips minder vet","biotoday [SEP] linzenchips zeezout [SEP] BioToday linzenchips met zeezout is gemaakt van 40% linzen en gebakken in HO (High Oleic) zonnebloemolie. De chips is 30% lager in vet dan aardappelchips en heerlijk van smaak. Biologisch Geen toegevoegd suiker, gist en smaakversterkers 30% lager in vet dan reguliere aardappelchips Vegan, hoog in eiwitten en vezelrijk [SEP] bio tussendoor",biotoday linzenchips zeezout bio tussendoor,null,null,null
+0.16528377,4049,412544,Zonnatura,Groentespread spicy tomaat bio,"Een heerlijke licht pittige groentespread met maar liefst 72% biologische groente. Een verantwoorde keuze voor op je boterham, toastje of als dip bij de borrel.. 100% biologisch Bevat meer groente dan de meeste groentespreads Geschikt voor veganisten Bevat geen allergenen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Hartig broodbeleg
+ Smeersels & dips Spread Groentespread","zonnatura [SEP] groentespread spicy tomaat bio [SEP] Een heerlijke licht pittige groentespread met maar liefst 72% biologische groente. Een verantwoorde keuze voor op je boterham, toastje of als dip bij de borrel.. 100% biologisch Bevat meer groente dan de meeste groentespreads Geschikt voor veganisten Bevat geen allergenen [SEP] bio ontbijt en lunch",zonnatura groentespread spicy tomaat bio bio ontbijt en lunch,null,null,null
+0.16500615,9493,114554,AH,Pesto alla genovese,Bereid met verse basilicum.,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Nutri-Score D'
+ 'Geen sulfiet' 'Geen sesam' 'Geen vis' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen mosterd' 'Vegetarisch'
+ 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Kaas vleeswaren tapas
+ Smeersels & dips Mediterrane keuken Pesto Italiaanse keuken
+ Pesto in pot",ah [SEP] pesto alla genovese [SEP] Bereid met verse basilicum. [SEP] pesto,ah pesto alla genovese pesto,null,null,null
+0.16474171,4321,217306,AH,Kruidenboter met knoflook,"Een heerlijke, zachte kruidenboter gemaakt van roomboter en kruiden. Onweerstaanbaar op een warm stokbroodje of toastje. Smaak: Kruidig en zacht Tip: Ook ideaal om mee te koken Bak je biefstuk eens in de kruidenboter of vul een portobello met paddestoelen en deze kruidenboter Lekker op een stokbroodje","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor op brood Kruidenboter","ah [SEP] kruidenboter met knoflook [SEP] Een heerlijke, zachte kruidenboter gemaakt van roomboter en kruiden. Onweerstaanbaar op een warm stokbroodje of toastje. Smaak: Kruidig en zacht Tip: Ook ideaal om mee te koken Bak je biefstuk eens in de kruidenboter of vul een portobello met paddestoelen en deze kruidenboter Lekker op een stokbroodje [SEP] spreads dips tapenades",ah kruidenboter met knoflook spreads dips tapenades,null,null,null
+0.16459239,11337,363508,AH,Kleine salade peulvruchten geitenkaas,"Smaakvolle salade met linzen, kikkererwten, bosui, geitenkaas en een vinaigrette Geschikt als lunch, verantwoord tussendoortje of als kleine maaltijd Dressing is vrij van kunstmatige geur- en smaakstoffen Vegetarisch Ook handig om mee te nemen","['Geen gluten' 'Laag zout' 'Geen lactose'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Veganistisch' 'Laag suiker' 'Geen selderij'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen lupine' 'Geen mosterd' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam']","Aardappel groente fruit Salades pizza maaltijden Groente
+ Salades Kleine salades Sla rauwkost salade Salade","ah [SEP] kleine salade peulvruchten geitenkaas [SEP] Smaakvolle salade met linzen, kikkererwten, bosui, geitenkaas en een vinaigrette Geschikt als lunch, verantwoord tussendoortje of als kleine maaltijd Dressing is vrij van kunstmatige geur- en smaakstoffen Vegetarisch Ook handig om mee te nemen [SEP] kleine salades",ah kleine salade peulvruchten geitenkaas kleine salades,null,null,null
+0.16439259,2290,216487,Bertolli,Extra vergine olijfolie originale spray,"Met Bertolli olijfolie-spray Originale kun je nu de gewenste hoeveelheid extra vergine olijfolie snel en gelijkmatig doseren en geef je je salades, pasta's en andere gerechten op eenvoudige wijze een écht smaakvol tintje. Extra Vergine olijfolie van eerste persing Fruitige, frisse smaak Handig voor gelijkmatige verspreiding in pasta of salades","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)' 'Vegetarisch'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Olie en frituurvet Olie voor koud gebruik Olijfolie
+ Extra vierge specialiteiten Olijfolie extra vierge","bertolli [SEP] extra vergine olijfolie originale spray [SEP] Met Bertolli olijfolie-spray Originale kun je nu de gewenste hoeveelheid extra vergine olijfolie snel en gelijkmatig doseren en geef je je salades, pasta's en andere gerechten op eenvoudige wijze een écht smaakvol tintje. Extra Vergine olijfolie van eerste persing Fruitige, frisse smaak Handig voor gelijkmatige verspreiding in pasta of salades [SEP] olijfolie",bertolli extra vergine olijfolie originale spray olijfolie,null,null,null
+0.16436464,8668,519019,AH,Proteïnereep pompoenpit & dadel,,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Veganistisch' 'Laag zout' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen selderij' 'Geen gluten']","Sport- en dieetvoeding Ontbijtgranen en beleg Bewuste voeding
+ Tussendoortjes Snoep koek chips en chocolade
+ Fruit noten mueslireep Energie voeding sportvoeding Eiwitrepen
+ Sportvoeding Koek",ah [SEP] proteïnereep pompoenpit & dadel [SEP]  [SEP] notenzadenrepen,ah proteïnereep pompoenpit & dadel notenzadenrepen,null,null,null

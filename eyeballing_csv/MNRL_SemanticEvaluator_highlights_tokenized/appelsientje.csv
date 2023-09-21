@@ -1,0 +1,619 @@
+scoreLLM score,ann,prd_id,brand,title,highlights,properties,taxonomies,full_text,full_text_no_sep,Unnamed: 0,search_query,scorePropensity score
+0.149024,7626,408067,Khanum,Butter ghee,"Geklaarde boter, afkomstig uit India. Zeer geschikt om in te bakken en braden Een hoog rookpunt Lang houdbaar na opening","['Geen lactose' 'Laag zout' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Laag suiker'
+ 'Geen schelpdieren (schaaldieren)' 'Vegetarisch' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor de keuken Bak- en braadboter (vast)","khanum [SEP] butter ghee [SEP] Geklaarde boter, afkomstig uit India. Zeer geschikt om in te bakken en braden Een hoog rookpunt Lang houdbaar na opening [SEP] bakproducten",khanum butter ghee bakproducten,null,null,null
+0.14777377,7616,236492,Heinz,Sandwich Spread Pikante Groenten,Fris broodbeleg dat je boterham verfrissend anders maakt. Heinz sandwich spread pikante groenten is perfect voor de lunch en wordt gemaakt met hoge kwaliteit ingredienten die je van Heinz gewend bent. Bevat meer dan 30% groenten Zonder conserveermiddelen Een verrassende variatie op de boterham Voor het hele gezin,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen mosterd' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Hartig broodbeleg
+ Smeersels & dips Spread Groentespread",heinz [SEP] sandwich spread pikante groenten [SEP] Fris broodbeleg dat je boterham verfrissend anders maakt. Heinz sandwich spread pikante groenten is perfect voor de lunch en wordt gemaakt met hoge kwaliteit ingredienten die je van Heinz gewend bent. Bevat meer dan 30% groenten Zonder conserveermiddelen Een verrassende variatie op de boterham Voor het hele gezin [SEP] spreads,heinz sandwich spread pikante groenten spreads,null,null,null
+0.14304662,2806,187155,Heinz,Sandwich spread komkommer,Fris broodbeleg dat je boterham verfrissend anders maakt. Heinz sandwich spread komkommer is perfect voor de lunch en wordt gemaakt met hoge kwaliteit ingredienten die je van Heinz gewend bent. Bevat meer dan 30% groenten Zonder conserveermiddelen Een verrassende variatie op de boterham Voor het hele gezin,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen noten' 'Geen mosterd' 'Geen eieren' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Hartig broodbeleg
+ Smeersels & dips Spread Groentespread",heinz [SEP] sandwich spread komkommer [SEP] Fris broodbeleg dat je boterham verfrissend anders maakt. Heinz sandwich spread komkommer is perfect voor de lunch en wordt gemaakt met hoge kwaliteit ingredienten die je van Heinz gewend bent. Bevat meer dan 30% groenten Zonder conserveermiddelen Een verrassende variatie op de boterham Voor het hele gezin [SEP] spreads,heinz sandwich spread komkommer spreads,null,null,null
+0.13898505,1724,236489,Heinz,Sandwich spread fijne tuinkruiden,Fris broodbeleg dat je boterham verfrissend anders maakt. Heinz sandwich spread fijne tuinkruiden is perfect voor lunch en wordt gemaakt met hoge kwaliteit ingredienten die je van Heinz gewend bent. Bevat meer dan 30% groenten Zonder conserveermiddelen Een verrassende variatie op de boterham Voor het hele gezin,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen mosterd' 'Vegetarisch' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Hartig broodbeleg
+ Smeersels & dips Spread Groentespread",heinz [SEP] sandwich spread fijne tuinkruiden [SEP] Fris broodbeleg dat je boterham verfrissend anders maakt. Heinz sandwich spread fijne tuinkruiden is perfect voor lunch en wordt gemaakt met hoge kwaliteit ingredienten die je van Heinz gewend bent. Bevat meer dan 30% groenten Zonder conserveermiddelen Een verrassende variatie op de boterham Voor het hele gezin [SEP] spreads,heinz sandwich spread fijne tuinkruiden spreads,null,null,null
+0.1371324,15833,237846,Knorr,Kerriesaus,"Zacht en romig van smaak Met een milde kerrie smaak Zonder toegevoegde smaakversterkers, kunstmatige kleurstoffen of conserveermiddelen Deze saus zet je in een handomdraai op tafel!","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Geen eieren']","Soepen sauzen kruiden olie Sauzen Groentesaus Vleessaus
+ Kerriesauzen","knorr [SEP] kerriesaus [SEP] Zacht en romig van smaak Met een milde kerrie smaak Zonder toegevoegde smaakversterkers, kunstmatige kleurstoffen of conserveermiddelen Deze saus zet je in een handomdraai op tafel! [SEP] sauzen warm nat",knorr kerriesaus sauzen warm nat,null,null,null
+0.13080168,15730,515727,Jude's,99 Cookie dough brownie,Jude's 99 plant based cookie dough brownie ice cream. Award winning for great taste Carbon negative Bcorp business as a force for good,"['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Roomijs premium",jude's [SEP] 99 cookie dough brownie [SEP] Jude's 99 plant based cookie dough brownie ice cream. Award winning for great taste Carbon negative Bcorp business as a force for good [SEP] premiumijs,jude's 99 cookie dough brownie premiumijs,null,null,null
+0.13020411,5856,159521,Knorr,Mix roomsaus,"Een heerlijke roomsaus om groenten lekkerder mee te maken. Heerlijk romige saus voor over groenten Lekker bij prei, spinazie en spruitjes Zonder toegevoegde smaakversterkers Snel en makkelijk","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Vegetarisch' 'Geen eieren']",Soepen sauzen kruiden olie Sauzen Groentesaus Roomsaus,"knorr [SEP] mix roomsaus [SEP] Een heerlijke roomsaus om groenten lekkerder mee te maken. Heerlijk romige saus voor over groenten Lekker bij prei, spinazie en spruitjes Zonder toegevoegde smaakversterkers Snel en makkelijk [SEP] sauzen warm droog",knorr mix roomsaus sauzen warm droog,null,null,null
+0.129996,9093,236488,Heinz,Sandwich spread naturel,Fris broodbeleg dat je boterham verfrissend anders maakt. Heinz sandwich spread naturel is perfect voor de lunch en wordt gemaakt met hoge kwaliteit ingredienten die je van Heinz gewend bent. Bevat meer dan 30% groenten Zonder conserveermiddelen Een verrassende variatie op de boterham Voor het hele gezin,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen mosterd' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Hartig broodbeleg
+ Smeersels & dips Spread Groentespread",heinz [SEP] sandwich spread naturel [SEP] Fris broodbeleg dat je boterham verfrissend anders maakt. Heinz sandwich spread naturel is perfect voor de lunch en wordt gemaakt met hoge kwaliteit ingredienten die je van Heinz gewend bent. Bevat meer dan 30% groenten Zonder conserveermiddelen Een verrassende variatie op de boterham Voor het hele gezin [SEP] spreads,heinz sandwich spread naturel spreads,null,null,null
+0.129996,8607,236486,Heinz,Sandwich spread naturel,Fris broodbeleg dat je boterham verfrissend anders maakt. Heinz sandwich spread naturel is perfect voor de lunch en wordt gemaakt met hoge kwaliteit ingredienten die je van Heinz gewend bent. Bevat meer dan 30% groenten Zonder conserveermiddelen Een verrassende variatie op de boterham Voor het hele gezin,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen mosterd' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Hartig broodbeleg
+ Smeersels & dips Spread Groentespread",heinz [SEP] sandwich spread naturel [SEP] Fris broodbeleg dat je boterham verfrissend anders maakt. Heinz sandwich spread naturel is perfect voor de lunch en wordt gemaakt met hoge kwaliteit ingredienten die je van Heinz gewend bent. Bevat meer dan 30% groenten Zonder conserveermiddelen Een verrassende variatie op de boterham Voor het hele gezin [SEP] spreads,heinz sandwich spread naturel spreads,null,null,null
+0.12991272,160,149900,Honig,Mix voor groentesaus milde kerrie,"Honig milde kerriesaus voor over de groenten, handig voor 4 porties. Groentesaus milde kerrie voor 4 personen Bereiding: direct strooibaar in heet water en kookvocht Geef meer smaak aan je groente met de Honig groentesaus milde kerrie De vertrouwde smaak van honig","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen sulfiet'
+ 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen mosterd' 'Vegetarisch']","Soepen sauzen kruiden olie Sauzen Groentesaus Vleessaus
+ Kerriesauzen","honig [SEP] mix voor groentesaus milde kerrie [SEP] Honig milde kerriesaus voor over de groenten, handig voor 4 porties. Groentesaus milde kerrie voor 4 personen Bereiding: direct strooibaar in heet water en kookvocht Geef meer smaak aan je groente met de Honig groentesaus milde kerrie De vertrouwde smaak van honig [SEP] sauzen warm droog",honig mix voor groentesaus milde kerrie sauzen warm droog,null,null,null
+0.12794,2900,500621,Heinz,Tomato frito,"Heinz tomato frito Bio is op traditionele wijze bereid, door de knoflook en ui 2.5 uur in olie te laten sudderen en te mengen met 100% biologische tomaten voor een onweerstaanbare rijke smaak. Uitsluitend gemaakt van tomaten geteeld in de open lucht Zonder toegevoegde smaakstoffen of conserveermiddelen en glutenvrij Europees biologisch keurmerk Ideaal voor soepen, basissausen of elk ander gerecht","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Conserven Mediterrane keuken Italiaanse keuken Groenteconserven
+ Tomaten (conserven) Tomaten paprika pepers (conserven)
+ Tomatenpuree (conserven)","heinz [SEP] tomato frito [SEP] Heinz tomato frito Bio is op traditionele wijze bereid, door de knoflook en ui 2.5 uur in olie te laten sudderen en te mengen met 100% biologische tomaten voor een onweerstaanbare rijke smaak. Uitsluitend gemaakt van tomaten geteeld in de open lucht Zonder toegevoegde smaakstoffen of conserveermiddelen en glutenvrij Europees biologisch keurmerk Ideaal voor soepen, basissausen of elk ander gerecht [SEP] tomaten gebakken",heinz tomato frito tomaten gebakken,null,null,null
+0.12759796,13653,216749,Arla,Lactofree roomkaas,"Deze lactosevrije roomkaas is natuurlijk heerlijk voor op je boterham, maar je kunt er nog veel meer mee! Lactosevrije roomkaas Op meerdere Manieren toe te passen, zoals smeren, koken of bakken Gemaakt van koemelk 100% natuurlijk","['Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Kaas vleeswaren tapas Bewuste voeding Lactosevrij Kaas
+ Lactosevrije kaas Lactosevrij beleg","arla [SEP] lactofree roomkaas [SEP] Deze lactosevrije roomkaas is natuurlijk heerlijk voor op je boterham, maar je kunt er nog veel meer mee! Lactosevrije roomkaas Op meerdere Manieren toe te passen, zoals smeren, koken of bakken Gemaakt van koemelk 100% natuurlijk [SEP] kzb bb smeer",arla lactofree roomkaas kzb bb smeer,null,null,null
+0.125298,17851,378612,Heinz,Hot pasta sauce,Heinz hot pastasaus is een heerlijk pittige tomatensaus bereid met kwaliteit tomaten en fijne kruiden. Een pastasaus met karakter en de onmiskenbare smaak van heinz! Gemaakt met kwaliteitstomaten Perfect voor uw pasta gerechten Makkelijke voorbereiding en smaakvolle saus,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot",heinz [SEP] hot pasta sauce [SEP] Heinz hot pastasaus is een heerlijk pittige tomatensaus bereid met kwaliteit tomaten en fijne kruiden. Een pastasaus met karakter en de onmiskenbare smaak van heinz! Gemaakt met kwaliteitstomaten Perfect voor uw pasta gerechten Makkelijke voorbereiding en smaakvolle saus [SEP] pastasaus pot,heinz hot pasta sauce pastasaus pot,null,null,null
+0.12063573,1318,200649,Knorr,Basilicum roomsaus,"Een heerlijk romige groentesaus met de smaak van basilicum. Heerlijk romige saus voor over groenten Lekker bij courgette, sperziebonen en broccoli! Zonder toegevoegde smaakversterkers Snel en makkelijk","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Geen eieren']",Soepen sauzen kruiden olie Sauzen Groentesaus Roomsaus,"knorr [SEP] basilicum roomsaus [SEP] Een heerlijk romige groentesaus met de smaak van basilicum. Heerlijk romige saus voor over groenten Lekker bij courgette, sperziebonen en broccoli! Zonder toegevoegde smaakversterkers Snel en makkelijk [SEP] sauzen warm droog",knorr basilicum roomsaus sauzen warm droog,null,null,null
+0.12001176,6011,170041,Knorr,Mix kerrieroom saus,Een heerlijk romige kerriesaus voor bij verse groenten. Heerlijk romige saus voor over groenten Lekker bij bloemkool en broccoli Zonder toegevoegde smaakversterkers Snel en makkelijk,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Geen eieren']","Soepen sauzen kruiden olie Sauzen Groentesaus Vleessaus
+ Kerriesauzen",knorr [SEP] mix kerrieroom saus [SEP] Een heerlijk romige kerriesaus voor bij verse groenten. Heerlijk romige saus voor over groenten Lekker bij bloemkool en broccoli Zonder toegevoegde smaakversterkers Snel en makkelijk [SEP] sauzen warm droog,knorr mix kerrieroom saus sauzen warm droog,null,null,null
+0.1171217,17493,550453,Schär,Yogo cake,"Glutenvrije cakejes met magere yoghurt. Yoghurt cakejes met zeer zachte textuur Past binnen een glutenvrij dieet Glutenvrij, tarwevrije en lactosevrij",['Laag zout' 'Veganistisch' 'Laag suiker' 'Vegetarisch' 'Laag vet'],Snoep koek chips en chocolade Koek Cake Cakejes,"schär [SEP] yogo cake [SEP] Glutenvrije cakejes met magere yoghurt. Yoghurt cakejes met zeer zachte textuur Past binnen een glutenvrij dieet Glutenvrij, tarwevrije en lactosevrij [SEP] zoete snacks",schär yogo cake zoete snacks,null,null,null
+0.11441516,4085,543985,Heinz,Tomato frito 4-pack,"Heinz tomaten frito is op traditionele wijze bereid, door de knoflook en ui 2,5 uur in olie te laten sudderen en daarna te mengen met zongerijpte tomaten voor een onweerstaanbare rijke smaak. De beste kwaliteit zongerijpte tomaten Uitsluitend gemaakt van tomaten geteeld in de open lucht Zonder toegevoegde smaakstoffen of conserveermiddelen en glutenvrij Lekker in een pasta, lasagne, curry of op een pizza","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Mediterrane keuken Italiaanse keuken
+ Tomaten producten","heinz [SEP] tomato frito 4-pack [SEP] Heinz tomaten frito is op traditionele wijze bereid, door de knoflook en ui 2,5 uur in olie te laten sudderen en daarna te mengen met zongerijpte tomaten voor een onweerstaanbare rijke smaak. De beste kwaliteit zongerijpte tomaten Uitsluitend gemaakt van tomaten geteeld in de open lucht Zonder toegevoegde smaakstoffen of conserveermiddelen en glutenvrij Lekker in een pasta, lasagne, curry of op een pizza [SEP] tomaten gebakken",heinz tomato frito 4-pack tomaten gebakken,null,null,null
+0.11302148,4051,198105,Skippy,Creamy peanut butter,"Romige Amerikaanse pindakaas. Lekker op brood, in desserts, als snack en meer! Gemaakt van uitsluitend geroosterde pinda's voor de echte pindasmaak","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zoet broodbeleg Hartig broodbeleg
+ Pindakaas","skippy [SEP] creamy peanut butter [SEP] Romige Amerikaanse pindakaas. Lekker op brood, in desserts, als snack en meer! Gemaakt van uitsluitend geroosterde pinda's voor de echte pindasmaak [SEP] pindakaas",skippy creamy peanut butter pindakaas,null,null,null
+0.112932384,7755,416529,Heinz,Tomato Frito,"Heinz tomaten frito is op traditionele wijze bereid, door de knoflook en ui 2,5 uur in olie te laten sudderen en daarna te mengen met zongerijpte tomaten voor een onweerstaanbare rijke smaak. Uitsluitend gemaakt van tomaten geteeld in de open lucht Zonder toegevoegde smaakstoffen of conserveermiddelen en glutenvrij Lekker in een pasta, lasagne, curry of op een pizza De beste kwaliteit zongerijpte tomaten","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Conserven Mediterrane keuken Italiaanse keuken Groenteconserven
+ Tomaten (conserven) Tomaten paprika pepers (conserven)
+ Tomatenpuree (conserven)","heinz [SEP] tomato frito [SEP] Heinz tomaten frito is op traditionele wijze bereid, door de knoflook en ui 2,5 uur in olie te laten sudderen en daarna te mengen met zongerijpte tomaten voor een onweerstaanbare rijke smaak. Uitsluitend gemaakt van tomaten geteeld in de open lucht Zonder toegevoegde smaakstoffen of conserveermiddelen en glutenvrij Lekker in een pasta, lasagne, curry of op een pizza De beste kwaliteit zongerijpte tomaten [SEP] tomaten gebakken",heinz tomato frito tomaten gebakken,null,null,null
+0.112932384,1346,378632,Heinz,Tomato Frito,"Heinz tomaten frito is op traditionele wijze bereid, door de knoflook en ui 2,5 uur in olie te laten sudderen en daarna te mengen met zongerijpte tomaten voor een onweerstaanbare rijke smaak. Uitsluitend gemaakt van tomaten geteeld in de open lucht Zonder toegevoegde smaakstoffen of conserveermiddelen en glutenvrij Lekker in een pasta, lasagne, curry of op een pizza De beste kwaliteit zongerijpte tomaten","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Conserven Mediterrane keuken Italiaanse keuken Groenteconserven
+ Tomaten (conserven) Tomaten paprika pepers (conserven)
+ Tomatenpuree (conserven)","heinz [SEP] tomato frito [SEP] Heinz tomaten frito is op traditionele wijze bereid, door de knoflook en ui 2,5 uur in olie te laten sudderen en daarna te mengen met zongerijpte tomaten voor een onweerstaanbare rijke smaak. Uitsluitend gemaakt van tomaten geteeld in de open lucht Zonder toegevoegde smaakstoffen of conserveermiddelen en glutenvrij Lekker in een pasta, lasagne, curry of op een pizza De beste kwaliteit zongerijpte tomaten [SEP] tomaten gebakken",heinz tomato frito tomaten gebakken,null,null,null
+0.11288181,2268,236490,Heinz,Sandwich spread mediterraan,Fris broodbeleg dat je boterham verfrissend anders maakt. Heinz sandwich spread mediterraans is perfect voor de lunch en wordt gemaakt met hoge kwaliteit ingredienten die je van Heinz gewend bent. Bevat meer dan 30% groenten Zonder conserveermiddelen Een verrassende variatie op de boterham Voor het hele gezin,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Hartig broodbeleg
+ Smeersels & dips Spread Groentespread",heinz [SEP] sandwich spread mediterraan [SEP] Fris broodbeleg dat je boterham verfrissend anders maakt. Heinz sandwich spread mediterraans is perfect voor de lunch en wordt gemaakt met hoge kwaliteit ingredienten die je van Heinz gewend bent. Bevat meer dan 30% groenten Zonder conserveermiddelen Een verrassende variatie op de boterham Voor het hele gezin [SEP] spreads,heinz sandwich spread mediterraan spreads,null,null,null
+0.11223114,12699,543987,Heinz,Tomato frito,"Heinz tomaten frito is op traditionele wijze bereid, door de knoflook en ui 2,5 uur in olie te laten sudderen en daarna te mengen met zongerijpte tomaten voor een onweerstaanbare rijke smaak. De beste kwaliteit zongerijpte tomaten Uitsluitend gemaakt van tomaten geteeld in de open lucht Zonder toegevoegde smaakstoffen of conserveermiddelen en glutenvrij Lekker in een pasta, lasagne, curry of op een pizza","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Mediterrane keuken Italiaanse keuken
+ Tomaten producten","heinz [SEP] tomato frito [SEP] Heinz tomaten frito is op traditionele wijze bereid, door de knoflook en ui 2,5 uur in olie te laten sudderen en daarna te mengen met zongerijpte tomaten voor een onweerstaanbare rijke smaak. De beste kwaliteit zongerijpte tomaten Uitsluitend gemaakt van tomaten geteeld in de open lucht Zonder toegevoegde smaakstoffen of conserveermiddelen en glutenvrij Lekker in een pasta, lasagne, curry of op een pizza [SEP] tomaten gebakken",heinz tomato frito tomaten gebakken,null,null,null
+0.11223114,3545,543645,Heinz,Tomato frito,"Heinz tomaten frito is op traditionele wijze bereid, door de knoflook en ui 2,5 uur in olie te laten sudderen en daarna te mengen met zongerijpte tomaten voor een onweerstaanbare rijke smaak. De beste kwaliteit zongerijpte tomaten Uitsluitend gemaakt van tomaten geteeld in de open lucht Zonder toegevoegde smaakstoffen of conserveermiddelen en glutenvrij Lekker in een pasta, lasagne, curry of op een pizza","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Mediterrane keuken Italiaanse keuken
+ Tomaten producten","heinz [SEP] tomato frito [SEP] Heinz tomaten frito is op traditionele wijze bereid, door de knoflook en ui 2,5 uur in olie te laten sudderen en daarna te mengen met zongerijpte tomaten voor een onweerstaanbare rijke smaak. De beste kwaliteit zongerijpte tomaten Uitsluitend gemaakt van tomaten geteeld in de open lucht Zonder toegevoegde smaakstoffen of conserveermiddelen en glutenvrij Lekker in een pasta, lasagne, curry of op een pizza [SEP] tomaten gebakken",heinz tomato frito tomaten gebakken,null,null,null
+0.11213951,14875,444103,AH,Kerriesaus,"Met deze saus van Albert Heijn maak je vele gerechten nét iets lekkerder en specialer. De saus is gemaakt van 100% natuurlijke ingrediënten en hoeft alleen even opgewarmd te worden. AH Kerriesaus, romige saus met een vleugje ananas Lekker bij groenten of kip Met korianderblad en foelie 100% natuurlijke ingrediënten","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen mosterd' 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Groentesaus Vleessaus
+ Kerriesauzen","ah [SEP] kerriesaus [SEP] Met deze saus van Albert Heijn maak je vele gerechten nét iets lekkerder en specialer. De saus is gemaakt van 100% natuurlijke ingrediënten en hoeft alleen even opgewarmd te worden. AH Kerriesaus, romige saus met een vleugje ananas Lekker bij groenten of kip Met korianderblad en foelie 100% natuurlijke ingrediënten [SEP] sauzen warm nat",ah kerriesaus sauzen warm nat,null,null,null
+0.11200954,8989,388102,Diamant,Friet & snacks frituurolie,"Verantwoord genieten van de lekkerste snacks? ja hoor, dat kan prima met friet  en  snacks frituurolie. Want hiermee zijn je frietjes, loempias en kroketten net zo lekker en krokant. Bakt goudgeel en krokant 100% plantaardige olie Stabiel bij verhitting en rijk aan onverzadigde vetzuren Geschikt voor vegetariers","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)' 'Vegetarisch'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Olie en frituurvet Frituurvet frituurolie","diamant [SEP] friet & snacks frituurolie [SEP] Verantwoord genieten van de lekkerste snacks? ja hoor, dat kan prima met friet  en  snacks frituurolie. Want hiermee zijn je frietjes, loempias en kroketten net zo lekker en krokant. Bakt goudgeel en krokant 100% plantaardige olie Stabiel bij verhitting en rijk aan onverzadigde vetzuren Geschikt voor vegetariers [SEP] frituurvet vloeibaar",diamant friet & snacks frituurolie frituurvet vloeibaar,null,null,null
+0.11110106,3238,236487,Heinz,Sandwich spread tomaat lente-ui,Fris broodbeleg dat je boterham verfrissend anders maakt. Heinz sandwich spread tomaat lente-ui is perfect voor de lunch en wordt gemaakt met hoge kwaliteit ingredienten die je van Heinz gewend bent. Bevat meer dan 30% groenten Zonder conserveermiddelen Een verrassende variatie op de boterham Voor het hele gezin,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Hartig broodbeleg
+ Smeersels & dips Spread Groentespread",heinz [SEP] sandwich spread tomaat lente-ui [SEP] Fris broodbeleg dat je boterham verfrissend anders maakt. Heinz sandwich spread tomaat lente-ui is perfect voor de lunch en wordt gemaakt met hoge kwaliteit ingredienten die je van Heinz gewend bent. Bevat meer dan 30% groenten Zonder conserveermiddelen Een verrassende variatie op de boterham Voor het hele gezin [SEP] spreads,heinz sandwich spread tomaat lente-ui spreads,null,null,null
+0.11089117,4126,173733,AH,Roomboter custardcakes,Zacht smeuïg cakeje bereid met roomboter met een heerlijke custardvulling. Bereid met scharreleieren Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Koek Cake Cakejes,ah [SEP] roomboter custardcakes [SEP] Zacht smeuïg cakeje bereid met roomboter met een heerlijke custardvulling. Bereid met scharreleieren Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] doorzicht koek groot,ah roomboter custardcakes doorzicht koek groot,null,null,null
+0.11053936,8747,493131,Heinz,Burger Sauce,"Een romige snacksaus op basis van tomaten, met dun gesneden sjalotjes en peterselie voor een heerlijke smaak. Zo geef jij jouw favoriete burger, bittergarnituur of tosti's net dat beetje extra. Heinz burgersauce heeft een romige, Amerikaanse smaak Een romige snacksaus met tomaten, dun gesneden sjalotjes en peterselie Zo geef je bbq, burger, bittergarnituur of tosti's net dat beetje extra Verkrijgbaar in een handige 220ml knijpfles","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen noten' 'Geen mosterd' 'Geen selderij' 'Geen eieren']","Soepen sauzen kruiden olie Sauzen BBQ sauzen
+ Snacksauzen mayonaise","heinz [SEP] burger sauce [SEP] Een romige snacksaus op basis van tomaten, met dun gesneden sjalotjes en peterselie voor een heerlijke smaak. Zo geef jij jouw favoriete burger, bittergarnituur of tosti's net dat beetje extra. Heinz burgersauce heeft een romige, Amerikaanse smaak Een romige snacksaus met tomaten, dun gesneden sjalotjes en peterselie Zo geef je bbq, burger, bittergarnituur of tosti's net dat beetje extra Verkrijgbaar in een handige 220ml knijpfles [SEP] partysauzen",heinz burger sauce partysauzen,null,null,null
+0.110502824,2303,549365,Heinz,Tomaten Ketchup x AH Franse Friet,Deze dungesneden frietjes zijn lang knapperig en extra lekker met de geliefde smaak van Heinz Tomaten Ketchup. Geniet van jouw perfecte match nu extra voordelig. Heinz Tomato Ketchup 400ml 1x AH Franse friet 1x,[],"Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Ketchup",heinz [SEP] tomaten ketchup x ah franse friet [SEP] Deze dungesneden frietjes zijn lang knapperig en extra lekker met de geliefde smaak van Heinz Tomaten Ketchup. Geniet van jouw perfecte match nu extra voordelig. Heinz Tomato Ketchup 400ml 1x AH Franse friet 1x [SEP] ,heinz tomaten ketchup x ah franse friet ,null,null,null
+0.10859083,15336,492933,Heinz,Spicy burger sauce,"Een pittige snacksaus met de perfecte combinatie van mosterd, tomaten en kruiden. Zo geef jij jouw favoriete burger, bittergarnituur of tosti's net dat beetje extra. Heinz spicy burgersaus is pittig en romig van smaak Een lekker pittige snacksaus met mosterd, tomaten en kruiden. Zo geef je bbq, burger, bittergarnituur of tosti's net dat beetje extra Verkrijgbaar in een handige 220ml knijpfles","['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen BBQ sauzen
+ Snacksauzen mayonaise","heinz [SEP] spicy burger sauce [SEP] Een pittige snacksaus met de perfecte combinatie van mosterd, tomaten en kruiden. Zo geef jij jouw favoriete burger, bittergarnituur of tosti's net dat beetje extra. Heinz spicy burgersaus is pittig en romig van smaak Een lekker pittige snacksaus met mosterd, tomaten en kruiden. Zo geef je bbq, burger, bittergarnituur of tosti's net dat beetje extra Verkrijgbaar in een handige 220ml knijpfles [SEP] partysauzen",heinz spicy burger sauce partysauzen,null,null,null
+0.108446315,2974,549363,Heinz,Frito x Heinz Tomatenblokjes,Haal dit voordelige Heinz Frito en Tomatenblokjes pakket in huis. Perfect voor elk gerecht. Zet in een handomdraai een heerlijk gerecht op tafel! Heinz Tomato Frito 350g 1x Heinz Tomato blokjes 390g 1x,[],"Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Conserven Mediterrane keuken Italiaanse keuken Groenteconserven
+ Tomaten (conserven) Tomaten paprika pepers (conserven)
+ Tomatenpuree (conserven)",heinz [SEP] frito x heinz tomatenblokjes [SEP] Haal dit voordelige Heinz Frito en Tomatenblokjes pakket in huis. Perfect voor elk gerecht. Zet in een handomdraai een heerlijk gerecht op tafel! Heinz Tomato Frito 350g 1x Heinz Tomato blokjes 390g 1x [SEP] ,heinz frito x heinz tomatenblokjes ,null,null,null
+0.10770217,8100,474478,Heinz,Tomato frito multipack,"Heinz tomaten frito is op traditionele wijze bereid, door de knoflook en ui 2,5 uur in olie te laten sudderen en daarna te mengen met zongerijpte tomaten voor een onweerstaanbare rijke smaak. Uitsluitend gemaakt van tomaten geteeld in de open lucht Zonder toegevoegde smaakstoffen of conserveermiddelen en glutenvrij Lekker in een pasta, lasagne, curry of op een pizza De beste kwaliteit zongerijpte tomaten","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Conserven Mediterrane keuken Italiaanse keuken Groenteconserven
+ Tomaten (conserven) Tomaten paprika pepers (conserven)
+ Tomatenpuree (conserven)","heinz [SEP] tomato frito multipack [SEP] Heinz tomaten frito is op traditionele wijze bereid, door de knoflook en ui 2,5 uur in olie te laten sudderen en daarna te mengen met zongerijpte tomaten voor een onweerstaanbare rijke smaak. Uitsluitend gemaakt van tomaten geteeld in de open lucht Zonder toegevoegde smaakstoffen of conserveermiddelen en glutenvrij Lekker in een pasta, lasagne, curry of op een pizza De beste kwaliteit zongerijpte tomaten [SEP] tomaten gebakken",heinz tomato frito multipack tomaten gebakken,null,null,null
+0.10707357,11105,159512,Knorr,Mix kerriesaus,"Een milde, volle kerriesmaak voor bij een goed stuk vlees. Heerlijk romige saus voor bij vlees Lekker bij kip met rijst Zonder toegevoegde smaakversterkers Snel en makkelijk","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Geen eieren']","Soepen sauzen kruiden olie Sauzen Groentesaus Vleessaus
+ Kerriesauzen","knorr [SEP] mix kerriesaus [SEP] Een milde, volle kerriesmaak voor bij een goed stuk vlees. Heerlijk romige saus voor bij vlees Lekker bij kip met rijst Zonder toegevoegde smaakversterkers Snel en makkelijk [SEP] sauzen warm droog",knorr mix kerriesaus sauzen warm droog,null,null,null
+0.106885485,14144,65699,AH,Roomboter cake,Lekkere luchtige roomboter cake. Bereid met roomboter Met vrije uitloopei Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Koek Cake Cakes,ah [SEP] roomboter cake [SEP] Lekkere luchtige roomboter cake. Bereid met roomboter Met vrije uitloopei Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] doorzicht cake,ah roomboter cake doorzicht cake,null,null,null
+0.10619557,15143,459932,Cune,Rioja Crianza,,[],Wijn en bubbels Rode wijn Tempranillo Tempranillo (Spanje),cune [SEP] rioja crianza [SEP]  [SEP] ,cune rioja crianza ,null,null,null
+0.103806965,13283,410090,Heksehyl,Salmiakdrop,Suiker-gekandeerde drop met vulling met salmiaksmaak Suiker-gekandeerde drop met vulling met salmiaksmaak Vegan/gelatinevrij Vrij van kleurstoffen Bevat alleen natuurlijke kleur- en smaakstoffen,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij']","Snoep koek chips en chocolade Snoep Drop Zachte snoep
+ Zoute drop Zoute drop (zacht)",heksehyl [SEP] salmiakdrop [SEP] Suiker-gekandeerde drop met vulling met salmiaksmaak Suiker-gekandeerde drop met vulling met salmiaksmaak Vegan/gelatinevrij Vrij van kleurstoffen Bevat alleen natuurlijke kleur- en smaakstoffen [SEP] drop,heksehyl salmiakdrop drop,null,null,null
+0.10339983,18222,517267,AH,Cookie bites koektoefjes met citroen,,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Koek Koek bites,ah [SEP] cookie bites koektoefjes met citroen [SEP]  [SEP] verpakt bitesizes,ah cookie bites koektoefjes met citroen verpakt bitesizes,null,null,null
+0.10325368,16213,550216,Zuivelhoeve,Roomyoghurt lemon cheesecake,"Zuivelhoeve fijnproevers lemon cheesecake is heerlijk romig en vol van smaak, verrijkt met frisse citroen onderlegging en echte stukjes koek. Heerlijk romig en vol van smaak met stukjes koek Lekker als dessert of tussendoortje Gemaakt op de boerderij van verse weidemelk 100% puur, geen kunstmatige kleur- en smaakstoffen",['Laag zout' 'Veganistisch' 'Laag suiker' 'Vegetarisch' 'Laag vet'],"Zuivel plantaardig en eieren Yoghurt en kwark Yoghurt
+ Yoghurt met smaak Vruchten yoghurt","zuivelhoeve [SEP] roomyoghurt lemon cheesecake [SEP] Zuivelhoeve fijnproevers lemon cheesecake is heerlijk romig en vol van smaak, verrijkt met frisse citroen onderlegging en echte stukjes koek. Heerlijk romig en vol van smaak met stukjes koek Lekker als dessert of tussendoortje Gemaakt op de boerderij van verse weidemelk 100% puur, geen kunstmatige kleur- en smaakstoffen [SEP] yoghurt toegevoegd",zuivelhoeve roomyoghurt lemon cheesecake yoghurt toegevoegd,null,null,null
+0.10240897,19446,532967,Ipuro,Lavender touch roomspray,Het samenspel van de heerlijke geur van lavendel met subtiele frissen noten en citrusgeuren staat voor puurheid en onschuld. Lang aanhoudende geurbeleving Hoogste kwaliteit - made in europe Gecomponeerd door parfumeurs Gerecycled verpakkingen,['Laag zout' 'Laag vet' 'Laag suiker'],"Huishouden Toiletreinigers & verfrissers Luchtverfrissers
+ Luchtverfrissers woonkamer",ipuro [SEP] lavender touch roomspray [SEP] Het samenspel van de heerlijke geur van lavendel met subtiele frissen noten en citrusgeuren staat voor puurheid en onschuld. Lang aanhoudende geurbeleving Hoogste kwaliteit - made in europe Gecomponeerd door parfumeurs Gerecycled verpakkingen [SEP] room spray,ipuro lavender touch roomspray room spray,null,null,null
+0.10146864,4298,62593,Heinz,Beanz,"Heinz beanz is een van de Heinz klassiekers, naast de iconische Heinz tomaten ketchup. Heinz beanz is de welbekende witte bonen in tomatensaus: een hoofdingredient in ontelbare gerechten. Een van de Heinz klassiekers, naast de Heinz tomaten ketchup Een natuurlijke bron van eiwitten en rijk aan vezels De perfecte toevoeging aan je maaltijd Het hoofdingredient van ontelbare gerechten","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Soepen sauzen kruiden olie Conserven
+ Groente Bonen peulvruchten Groenteconserven Witte bonen
+ Bonen peulvruchten (conserven) Witte bonen (conserven)","heinz [SEP] beanz [SEP] Heinz beanz is een van de Heinz klassiekers, naast de iconische Heinz tomaten ketchup. Heinz beanz is de welbekende witte bonen in tomatensaus: een hoofdingredient in ontelbare gerechten. Een van de Heinz klassiekers, naast de Heinz tomaten ketchup Een natuurlijke bron van eiwitten en rijk aan vezels De perfecte toevoeging aan je maaltijd Het hoofdingredient van ontelbare gerechten [SEP] traditionele bonen",heinz beanz traditionele bonen,null,null,null
+0.1008465,1618,446058,Mister Kitchen's,Veggie spread & dip kerrie appel,"Mister kitchen maakt groentespreads op basis van smeuige peulvruchten in plaats van olie, waardoor ze voor meer dan 65% uit groente bestaan. Kerrie appel is zoetzuur, vegan en verrukkelijk. Glutenvrij, veganistisch Arm aan verzadigde vetten en suikers Bron van eiwitten en vezels","['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Hartig broodbeleg
+ Smeersels & dips Spread Groentespread","mister kitchen's [SEP] veggie spread & dip kerrie appel [SEP] Mister kitchen maakt groentespreads op basis van smeuige peulvruchten in plaats van olie, waardoor ze voor meer dan 65% uit groente bestaan. Kerrie appel is zoetzuur, vegan en verrukkelijk. Glutenvrij, veganistisch Arm aan verzadigde vetten en suikers Bron van eiwitten en vezels [SEP] spreads",mister kitchen's veggie spread & dip kerrie appel spreads,null,null,null
+0.100593835,5079,142575,AH,Roomboter spritsen,Lekkere brosse koeken. Bereid met roomboter Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Vegetarisch' 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Koek Alledaagse koeken,ah [SEP] roomboter spritsen [SEP] Lekkere brosse koeken. Bereid met roomboter Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] doorzicht koek groot,ah roomboter spritsen doorzicht koek groot,null,null,null
+0.09965617,11071,142553,AH,Roomboter boterkoekreepjes,"Koffie of thee, daar hoort iets lekkers bij! Deze reepjes boterkoek bereid met echte roomboter en scharrelei zijn altijd een succes. De ideale verwennerij die je maar beter stand-by kunt hebben in de voorraadkast Nu met verbeterde receptuur Bereid met echte roomboter bereid met scharrelei Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Koek Alledaagse koeken,"ah [SEP] roomboter boterkoekreepjes [SEP] Koffie of thee, daar hoort iets lekkers bij! Deze reepjes boterkoek bereid met echte roomboter en scharrelei zijn altijd een succes. De ideale verwennerij die je maar beter stand-by kunt hebben in de voorraadkast Nu met verbeterde receptuur Bereid met echte roomboter bereid met scharrelei Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] doorzicht koek groot",ah roomboter boterkoekreepjes doorzicht koek groot,null,null,null
+0.099427864,7137,217280,AH,Roomkaas met bieslook,"Een zachte combinatie van roomkaas en mascarpone met stukjes
+				  bieslook. Smaak: Zacht en romig","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Kaas Kaas beleg
+ Roomkaas Kaas voor borrel Kaas voor beleg Roomkaas (kruiden)
+ Smeerkaas roomkaas cottage cheese","ah [SEP] roomkaas met bieslook [SEP] Een zachte combinatie van roomkaas en mascarpone met stukjes
+				  bieslook. Smaak: Zacht en romig [SEP] spreads dips tapenades",ah roomkaas met bieslook spreads dips tapenades,null,null,null
+0.09890857,11458,506658,Lay's,Family mix,Alle favoriete Lay's en Cheetos snacks bij elkaar in een grote zak met uitdeelzakjes. Bevat 15 uitdeelzakjes Handig om uit te delen en lekker als tussendoortje,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij']",Snoep koek chips en chocolade Chips Uitdeelzakjes chips,lay's [SEP] family mix [SEP] Alle favoriete Lay's en Cheetos snacks bij elkaar in een grote zak met uitdeelzakjes. Bevat 15 uitdeelzakjes Handig om uit te delen en lekker als tussendoortje [SEP] kleinverpakking multipacks,lay's family mix kleinverpakking multipacks,null,null,null
+0.09885816,3285,500479,Heinz,Tomato blokjes,"Heinz tomatenblokjes Bio is gemaakt van 100% biologische tomaten met vers gesneden knoflook en ui voor een onweerstaanbare, rijke smaak.een heerlijke basis voor vele tomatengerechten. Uitsluitend gemaakt van tomaten geteeld in de open lucht Zonder toegevoegde smaakstoffen of conserveermiddelen en glutenvrij Europees biologisch keurmerk Ideaal voor soepen, basissausen of elk ander gerecht","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Conserven Mediterrane keuken Italiaanse keuken Groenteconserven
+ Tomaten (conserven) Tomaten paprika pepers (conserven)
+ Tomatenblokjes (conserven)","heinz [SEP] tomato blokjes [SEP] Heinz tomatenblokjes Bio is gemaakt van 100% biologische tomaten met vers gesneden knoflook en ui voor een onweerstaanbare, rijke smaak.een heerlijke basis voor vele tomatengerechten. Uitsluitend gemaakt van tomaten geteeld in de open lucht Zonder toegevoegde smaakstoffen of conserveermiddelen en glutenvrij Europees biologisch keurmerk Ideaal voor soepen, basissausen of elk ander gerecht [SEP] tomaten gesneden",heinz tomato blokjes tomaten gesneden,null,null,null
+0.09883556,2187,230445,Knorr,Peper roomsaus,"Een romige, maar pittige pepersaus voor bij een lekker stukje vlees. Zacht en romig van smaak Met peperkorrels Geen kunstmatige kleurstoffen toegevoegd Zonder conserveermiddelen","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Vegetarisch' 'Geen eieren']",Soepen sauzen kruiden olie Sauzen Vleessaus Pepersaus,"knorr [SEP] peper roomsaus [SEP] Een romige, maar pittige pepersaus voor bij een lekker stukje vlees. Zacht en romig van smaak Met peperkorrels Geen kunstmatige kleurstoffen toegevoegd Zonder conserveermiddelen [SEP] sauzen warm nat",knorr peper roomsaus sauzen warm nat,null,null,null
+0.097251944,13703,198104,Skippy,Super chunk peanut butter,"Krokante Amerikaanse pindakaas. Lekker op brood, in het dessert, als snack en meer! Gemaakt van uitsluitend geroosterde pinda's voor de echte pindasmaak","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zoet broodbeleg Hartig broodbeleg
+ Pindakaas","skippy [SEP] super chunk peanut butter [SEP] Krokante Amerikaanse pindakaas. Lekker op brood, in het dessert, als snack en meer! Gemaakt van uitsluitend geroosterde pinda's voor de echte pindasmaak [SEP] pindakaas",skippy super chunk peanut butter pindakaas,null,null,null
+0.09581858,15169,517269,AH,Cookie bites koektoefjes bokkenpootjes,,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Koek Koek bites,ah [SEP] cookie bites koektoefjes bokkenpootjes [SEP]  [SEP] verpakt bitesizes,ah cookie bites koektoefjes bokkenpootjes verpakt bitesizes,null,null,null
+0.0944348,3818,224865,Van Strien,Strien lemon cookies,"In elke koekje wat uit de van strien ovens komt, proef je de liefde voor het vak, de lange traditie en de beste ingredieten. Koekjes waar je helemaal verslingerd aan raakt, die bakken ze het liefst! Lekkere roomboter koekjes met een natuurlijke citrussmaak Bereid met echte grasboter en stukjes italiaanse geconfijte citroenschil Koekje heeft eerst een licht brosse beet en is daarna verrassend zacht Waan je in het zonnige zuiden met dit frisse koekje","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Snoep koek chips en chocolade Koek Koffiekoekjes,"van strien [SEP] strien lemon cookies [SEP] In elke koekje wat uit de van strien ovens komt, proef je de liefde voor het vak, de lange traditie en de beste ingredieten. Koekjes waar je helemaal verslingerd aan raakt, die bakken ze het liefst! Lekkere roomboter koekjes met een natuurlijke citrussmaak Bereid met echte grasboter en stukjes italiaanse geconfijte citroenschil Koekje heeft eerst een licht brosse beet en is daarna verrassend zacht Waan je in het zonnige zuiden met dit frisse koekje [SEP] verpakt premium",van strien strien lemon cookies verpakt premium,null,null,null
+0.093595244,8670,191446,Heinz,Tomatenpuree,"Heinz tomaten puree is een dubbel geconcentreerde puree gemaakt van echte Heinz tomaten. Een rijke volle smaak van kwaliteit tomaten, en dat proef je! Uitsluitend gemaakt van tomaten geteeld in de open lucht Zonder toegevoegde smaakstoffen of conserveermiddelen en glutenvrij Lekker in een pasta, lasagne, curry of op een pizza De beste kwaliteit zongerijpte tomaten","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Conserven Mediterrane keuken Italiaanse keuken Groenteconserven
+ Tomaten (conserven) Tomaten paprika pepers (conserven)
+ Tomatenpuree (conserven)","heinz [SEP] tomatenpuree [SEP] Heinz tomaten puree is een dubbel geconcentreerde puree gemaakt van echte Heinz tomaten. Een rijke volle smaak van kwaliteit tomaten, en dat proef je! Uitsluitend gemaakt van tomaten geteeld in de open lucht Zonder toegevoegde smaakstoffen of conserveermiddelen en glutenvrij Lekker in een pasta, lasagne, curry of op een pizza De beste kwaliteit zongerijpte tomaten [SEP] tomaten puree",heinz tomatenpuree tomaten puree,null,null,null
+0.09358418,19317,389949,Germain,Chaource,"Chaource is een Franse AOP kaas, afkomstig uit de Champagnestreek en gemaakt van volle melk. Hierdoor ontstaat een romige smaak. Chaource wordt traditioneel gerijpt op stromatten. Smaak: Romig en lichtpittig Herkomst: Frankrijk Gemaakt van: Rauwe koemelk*","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Kaas vleeswaren tapas Kaas Kaas voor borrel
+ Witte korst kaas brie","germain [SEP] chaource [SEP] Chaource is een Franse AOP kaas, afkomstig uit de Champagnestreek en gemaakt van volle melk. Hierdoor ontstaat een romige smaak. Chaource wordt traditioneel gerijpt op stromatten. Smaak: Romig en lichtpittig Herkomst: Frankrijk Gemaakt van: Rauwe koemelk* [SEP] kb s witte korst",germain chaource kb s witte korst,null,null,null
+0.09308854,10514,143594,MOODS,Filter,Sigaren,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Tabak Sigaren,moods [SEP] filter [SEP] Sigaren [SEP] sigaren,moods filter sigaren,null,null,null
+0.093031235,14582,354543,Panter,Filter red,Sigaren,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Tabak Sigaren,panter [SEP] filter red [SEP] Sigaren [SEP] sigaren,panter filter red sigaren,null,null,null
+0.09253516,12005,485640,Van Wijngaarden's,Zaanse kerrie mayonaise,Volle en romige kerriemayonaise op basis van zaanse mayonaise. Lichtzoete kerriesmaak Geen kunstmatige kleur- en smaakstoffen Ideaal voor gebruik op tafel Voor op zowel koude als warme gerechten,"['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Laag suiker' 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Geen mosterd' 'Geen eieren' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Mayonaise (snacksauzen)",van wijngaarden's [SEP] zaanse kerrie mayonaise [SEP] Volle en romige kerriemayonaise op basis van zaanse mayonaise. Lichtzoete kerriesmaak Geen kunstmatige kleur- en smaakstoffen Ideaal voor gebruik op tafel Voor op zowel koude als warme gerechten [SEP] mayonaise,van wijngaarden's zaanse kerrie mayonaise mayonaise,null,null,null
+0.0921421,723,517342,Lenor,Wasverzachter peony & hibiscus,Lenor pioenroos en hibiscus wasverzachter zorgt ervoor dat je je goed voelt in al je kleding met lenors beste frisheid ooit en plantaardige zachtheid. Voel je goed in al je kleding met lenors beste frisheid ooit Wasverzachter met plantaardige zachtheid Ontdek het bloemige hart dat is geinspireerd door pioenroos en hibiscus Authentieke geuren,[],"Huishouden Wasmiddelen wasverzachters Wasverzachters
+ Wasverzachters - geconcentreerd",lenor [SEP] wasverzachter peony & hibiscus [SEP] Lenor pioenroos en hibiscus wasverzachter zorgt ervoor dat je je goed voelt in al je kleding met lenors beste frisheid ooit en plantaardige zachtheid. Voel je goed in al je kleding met lenors beste frisheid ooit Wasverzachter met plantaardige zachtheid Ontdek het bloemige hart dat is geinspireerd door pioenroos en hibiscus Authentieke geuren [SEP] wvz premium,lenor wasverzachter peony & hibiscus wvz premium,null,null,null
+0.09172601,15929,199621,Schär,Fette croccanti,Deze cracker van Schär is een ideale glutenvrije broodvervanger die heerlijk te combineren is met verschillende zoete of hartige toppings. Tarwevrij Lactosevrij Glutenvrij,"['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Glutenvrij
+ Crackers rijstwafels Ontbijtgranen crackers
+ Glutenvrije crackers knackebrod",schär [SEP] fette croccanti [SEP] Deze cracker van Schär is een ideale glutenvrije broodvervanger die heerlijk te combineren is met verschillende zoete of hartige toppings. Tarwevrij Lactosevrij Glutenvrij [SEP] broodvervangers,schär fette croccanti broodvervangers,null,null,null
+0.09116625,12683,192711,Knorr,Mix groentensaus,Een heerlijke groentesaus voor bij je verse groenten. Heerlijk romige saus voor over groenten Direct oplosbaar in kookvocht Zonder toegevoegde smaakversterkers Snel en makkelijk,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Geen eieren']",Soepen sauzen kruiden olie Sauzen Groentesaus Groentesauzen,knorr [SEP] mix groentensaus [SEP] Een heerlijke groentesaus voor bij je verse groenten. Heerlijk romige saus voor over groenten Direct oplosbaar in kookvocht Zonder toegevoegde smaakversterkers Snel en makkelijk [SEP] sauzen warm droog,knorr mix groentensaus sauzen warm droog,null,null,null
+0.09071799,2637,166966,Katja,Yoghurtgums,"Katja Yoghurtgums zijn heerlijke zachte gums in 6 fruitsmaken, al vele jaren een absolute topper in ons snoepland. Gemaakt met natuurlijke kleur- en smaakstoffen en zonder dierlijke gelatine. Natuurlijke kleur- en smaakstoffen Vrij van dierlijke gelatine In de smaken framboos, aardbei, peer, bosbes, citroen en kers.","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Snoep koek chips en chocolade Snoep Zachte snoep Winegums,"katja [SEP] yoghurtgums [SEP] Katja Yoghurtgums zijn heerlijke zachte gums in 6 fruitsmaken, al vele jaren een absolute topper in ons snoepland. Gemaakt met natuurlijke kleur- en smaakstoffen en zonder dierlijke gelatine. Natuurlijke kleur- en smaakstoffen Vrij van dierlijke gelatine In de smaken framboos, aardbei, peer, bosbes, citroen en kers. [SEP] snoep",katja yoghurtgums snoep,null,null,null
+0.09053488,12875,195092,AH,Franse friet,Deze dungesneden frietjes zijn lang knapperig en lekker met groenten en vlees of vis. Rijk aan onverzadigde vetten Serveer met ketchup of mayonaise Gebakken in zonnebloemolie 15-20 minuten in de oven Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Diepvries Aardappelproducten Friet,ah [SEP] franse friet [SEP] Deze dungesneden frietjes zijn lang knapperig en lekker met groenten en vlees of vis. Rijk aan onverzadigde vetten Serveer met ketchup of mayonaise Gebakken in zonnebloemolie 15-20 minuten in de oven Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] frites oven,ah franse friet frites oven,null,null,null
+0.090487435,5302,550162,Lohilo,Cookie dough,"Heerlijk vanille ijs met een Swirl van chocolade en stukjes proteine koek. Veel eiwitten, maar minder calorieen en suiker. Vrij van lactose. Veel eiwitten Weinig calorieen Lactosevrij Weinig suiker","['Geen gluten' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Vegetarisch' 'Geen selderij' 'Geen eieren']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Roomijs premium","lohilo [SEP] cookie dough [SEP] Heerlijk vanille ijs met een Swirl van chocolade en stukjes proteine koek. Veel eiwitten, maar minder calorieen en suiker. Vrij van lactose. Veel eiwitten Weinig calorieen Lactosevrij Weinig suiker [SEP] premiumijs",lohilo cookie dough premiumijs,null,null,null
+0.09048143,12756,500478,Heinz,Tomato gezeefd,"Heinz tomaten gezeefd Bio is gemaakt van zongerijpte 100% biologische tomaten voor een onweerstaanbare smaak. De tomaten worden binnen 48 uur na de oogst verpakt om de rijke verse smaak te garanderen. Uitsluitend gemaakt van tomaten geteeld in de open lucht Zonder toegevoegde smaakstoffen of conserveermiddelen en glutenvrij Europees biologisch keurmerk Ideaal voor soepen, basissausen of elk ander gerecht","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Conserven Mediterrane keuken Italiaanse keuken Groenteconserven
+ Tomaten (conserven) Tomaten paprika pepers (conserven)
+ Gezeefde tomaten (conserven)","heinz [SEP] tomato gezeefd [SEP] Heinz tomaten gezeefd Bio is gemaakt van zongerijpte 100% biologische tomaten voor een onweerstaanbare smaak. De tomaten worden binnen 48 uur na de oogst verpakt om de rijke verse smaak te garanderen. Uitsluitend gemaakt van tomaten geteeld in de open lucht Zonder toegevoegde smaakstoffen of conserveermiddelen en glutenvrij Europees biologisch keurmerk Ideaal voor soepen, basissausen of elk ander gerecht [SEP] tomaten gezeefd",heinz tomato gezeefd tomaten gezeefd,null,null,null
+0.090105355,4568,378610,Heinz,Traditional pasta sauce,Heinz traditional pastasaus is een heerlijke pastasaus bereid met stukjes tomaten en fijne kruiden. Een pastasaus met karakter en de onmiskenbare smaak van heinz. Seriously good! Gemaakt met kwaliteitstomaten Perfect voor uw pasta gerechten Makkelijke voorbereiding en smaakvolle saus,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot",heinz [SEP] traditional pasta sauce [SEP] Heinz traditional pastasaus is een heerlijke pastasaus bereid met stukjes tomaten en fijne kruiden. Een pastasaus met karakter en de onmiskenbare smaak van heinz. Seriously good! Gemaakt met kwaliteitstomaten Perfect voor uw pasta gerechten Makkelijke voorbereiding en smaakvolle saus [SEP] pastasaus pot,heinz traditional pasta sauce pastasaus pot,null,null,null
+0.08979704,466,522401,AH,Groentespread komkommer tomaat,Gezonde veggie spread op basis van tomaat en komkommer. Te serveren op brood en toast Nutri-score a Extra groente en peulvruchten Vegan,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Laag vet' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij']","Ontbijtgranen en beleg Kaas vleeswaren tapas Hartig broodbeleg
+ Smeersels & dips Spread Groentespread",ah [SEP] groentespread komkommer tomaat [SEP] Gezonde veggie spread op basis van tomaat en komkommer. Te serveren op brood en toast Nutri-score a Extra groente en peulvruchten Vegan [SEP] smeer vegan,ah groentespread komkommer tomaat smeer vegan,null,null,null
+0.089505315,4439,230448,Honig,Groentesaus tuinkruiden,"Honig groentesaus tuinkruiden voor over de groenten, handig voor 5 porties. Groentesaus tuinkruiden voor 5 personen Bereiding: direct strooibaar in heet water en kookvocht Geef meer smaak aan je groente met de Honig groentesaus tuinkruiden De vertrouwde smaak van honig","['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Geen selderij' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen mosterd' 'Vegetarisch' 'Geen gluten']",Soepen sauzen kruiden olie Sauzen Groentesaus Tuinkruidensaus,"honig [SEP] groentesaus tuinkruiden [SEP] Honig groentesaus tuinkruiden voor over de groenten, handig voor 5 porties. Groentesaus tuinkruiden voor 5 personen Bereiding: direct strooibaar in heet water en kookvocht Geef meer smaak aan je groente met de Honig groentesaus tuinkruiden De vertrouwde smaak van honig [SEP] sauzen warm droog",honig groentesaus tuinkruiden sauzen warm droog,null,null,null
+0.089413255,12249,223444,Céréal,Kokoskoekjes,"Koekje met kokossmaak. Zonder suikers. Slechts 94 kcal per 2 koekjes. Bron van vezels. Met natuurlijke aroma's, zonder kleurstoffen en bewaarmiddelen.","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen lupine' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen selderij'
+ 'Geen eieren']","Bewuste voeding Snoep koek chips en chocolade Koek Suikerbewust
+ Koek (suikerbewust)","céréal [SEP] kokoskoekjes [SEP] Koekje met kokossmaak. Zonder suikers. Slechts 94 kcal per 2 koekjes. Bron van vezels. Met natuurlijke aroma's, zonder kleurstoffen en bewaarmiddelen. [SEP] verpakt premium",céréal kokoskoekjes verpakt premium,null,null,null
+0.088473506,6990,420268,D&L,Tartare saus,D en l tartare is een milde saus op basis van mayonaise en mosterd met stukjes ui en peterselie. Deze frisse saus combineert perfect met (gepaneerde) vis en zeevruchten Ook heerlijk bij inktvisringetjes Devos  en  lemmens maakt sinds 1886 de lekkerste belgische mayo's en sauzen,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Geen mosterd' 'Geen eieren' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Vissauzen Ravigottesaus tartare saus",d&l [SEP] tartare saus [SEP] D en l tartare is een milde saus op basis van mayonaise en mosterd met stukjes ui en peterselie. Deze frisse saus combineert perfect met (gepaneerde) vis en zeevruchten Ook heerlijk bij inktvisringetjes Devos  en  lemmens maakt sinds 1886 de lekkerste belgische mayo's en sauzen [SEP] partysauzen,d&l tartare saus partysauzen,null,null,null
+0.0875549,6827,224863,Van Strien,Roomboter zandkoekjes,"In elke koekje wat uit de van strien ovens komt, proef je de liefde voor het vak, de lange traditie en de beste ingredieten. Koekjes waar je helemaal verslingerd aan raakt, die bakken ze het liefst! Heerlijke roomboter koekjes in 3 varianten: sprits, goudse mop en choco Zacht brosse koekjes, gemaakt met echte grasboter Kleine koekjes, zodat je met een gerust hart nog een neemt","['Geen gluten' 'Laag zout' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen selderij'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Geen eieren']",Snoep koek chips en chocolade Koek Koffiekoekjes,"van strien [SEP] roomboter zandkoekjes [SEP] In elke koekje wat uit de van strien ovens komt, proef je de liefde voor het vak, de lange traditie en de beste ingredieten. Koekjes waar je helemaal verslingerd aan raakt, die bakken ze het liefst! Heerlijke roomboter koekjes in 3 varianten: sprits, goudse mop en choco Zacht brosse koekjes, gemaakt met echte grasboter Kleine koekjes, zodat je met een gerust hart nog een neemt [SEP] verpakt premium",van strien roomboter zandkoekjes verpakt premium,null,null,null
+0.086757995,4204,526380,Lay's,Heinz tomato ketchup flavour,De enige echte Lay's chips met de authentieke smaak van Heinz tomato ketchup. Knapperig gebakken en met een heerlijke intense smaak. Zonder kunstmatige kleurstoffen en conserveringsmiddelen Zonder toegevoegde smaakversterkers Verpakt onder beschermende atmosfeer Bevat 6-7 porties,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Chips Smaakvarianten chips
+ Diverse smaken chips",lay's [SEP] heinz tomato ketchup flavour [SEP] De enige echte Lay's chips met de authentieke smaak van Heinz tomato ketchup. Knapperig gebakken en met een heerlijke intense smaak. Zonder kunstmatige kleurstoffen en conserveringsmiddelen Zonder toegevoegde smaakversterkers Verpakt onder beschermende atmosfeer Bevat 6-7 porties [SEP] flat chips,lay's heinz tomato ketchup flavour flat chips,null,null,null
+0.08605482,11179,429307,Picard,Quiches lorraines,Niets eenvoudiger en lekkerder dan deze luchtige quiche Lorraine. Dit individuele formaat is uiterst praktisch als klein gerecht.,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Nutri-Score D'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen mosterd' 'Vegetarisch'
+ 'Geen selderij' 'Geen eieren']","Diepvries Salades pizza maaltijden Hartige taart quiches
+ Diepvries kant-en-klaar maaltijden Diepvries quiche",picard [SEP] quiches lorraines [SEP] Niets eenvoudiger en lekkerder dan deze luchtige quiche Lorraine. Dit individuele formaat is uiterst praktisch als klein gerecht. [SEP] picard,picard quiches lorraines picard,null,null,null
+0.08519931,10989,482628,BFree,Pita broodjes glutenvrij,"Glutenvrij, tarwevrij, lactosevrij, hoog vezelgehalte, laag in vet. Gezond en voedzaam Heerlijk om te vullen met rauwkost, vlees of vis Snel te bereiden, uit broodrooster, magnetron of oven Snel te bereiden, uit broodrooster, magnetron of oven","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij' 'Geen gluten']","Kerst Bewuste voeding Bakkerij en banket
+ Glutenvrij koolhydraatarm Kerstontbijt Glutenvrij Afbakbrood
+ Bakkerij glutenvrij Thuis afbakken (glutenvrij)
+ Glutenvrije afbakbroodjes","bfree [SEP] pita broodjes glutenvrij [SEP] Glutenvrij, tarwevrij, lactosevrij, hoog vezelgehalte, laag in vet. Gezond en voedzaam Heerlijk om te vullen met rauwkost, vlees of vis Snel te bereiden, uit broodrooster, magnetron of oven Snel te bereiden, uit broodrooster, magnetron of oven [SEP] brood",bfree pita broodjes glutenvrij brood,null,null,null
+0.08507983,8896,228427,Consenza,Croissants,"Luchtige croissants Gluten en tarwevrij per verpakking 3 croissants Kant en klaar, maar nog lekkerder als je ze opwarmt in de oven","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen lupine'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren' 'Geen gluten']","Kerst Bewuste voeding Bakkerij en banket
+ Glutenvrij koolhydraatarm Kerstontbijt Glutenvrij Afbakbrood
+ Bakkerij glutenvrij Croissants Croissants (glutenvrij)","consenza [SEP] croissants [SEP] Luchtige croissants Gluten en tarwevrij per verpakking 3 croissants Kant en klaar, maar nog lekkerder als je ze opwarmt in de oven [SEP] brood",consenza croissants brood,null,null,null
+0.08467966,362,159531,Knorr,Mix peperroomsaus,"Knorr Peperroomsaus Heerlijk romige saus voor bij vlees Lekker bij biefstuk, varkenshaas en kip! Zonder toegevoegde smaakversterkers Snel en makkelijk","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Geen eieren']",Soepen sauzen kruiden olie Sauzen Vleessaus Pepersaus,"knorr [SEP] mix peperroomsaus [SEP] Knorr Peperroomsaus Heerlijk romige saus voor bij vlees Lekker bij biefstuk, varkenshaas en kip! Zonder toegevoegde smaakversterkers Snel en makkelijk [SEP] sauzen warm droog",knorr mix peperroomsaus sauzen warm droog,null,null,null
+0.08443247,10486,451122,Häagen-Dazs,Strawberry cheesecake ijs,"Aardbeien roomijs met aardbeiensaus en koekjes. Uit de beste collectie van haagen-dazs: de obsessions collection! Aardbeien roomijs met aardbeiensaus Rijkelijk gevuld met koekjes en aardbeien Bereid met 28% verse room Zonder kunstmatige geur-, kleur- en smaakstoffen","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen selderij' 'Geen eieren']","Diepvries Zuivel plantaardig en eieren IJs Toetjes Roomijs
+ Roomijs premium","häagen-dazs [SEP] strawberry cheesecake ijs [SEP] Aardbeien roomijs met aardbeiensaus en koekjes. Uit de beste collectie van haagen-dazs: de obsessions collection! Aardbeien roomijs met aardbeiensaus Rijkelijk gevuld met koekjes en aardbeien Bereid met 28% verse room Zonder kunstmatige geur-, kleur- en smaakstoffen [SEP] premiumijs",häagen-dazs strawberry cheesecake ijs premiumijs,null,null,null
+0.08372776,20124,177057,Steneker,Groningse knakkers,"Steneker Groningse knakkers, het hartige tussendoortje Authentiek gekruid en gedroogd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Kaas vleeswaren tapas Droge worst Droge worst - metworst,"steneker [SEP] groningse knakkers [SEP] Steneker Groningse knakkers, het hartige tussendoortje Authentiek gekruid en gedroogd [SEP] boerenmetworsten",steneker groningse knakkers boerenmetworsten,null,null,null
+0.083416924,11690,535162,AH,Mix voor kerriesaus,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen selderij'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch']","Soepen sauzen kruiden olie Sauzen Groentesaus Vleessaus
+ Kerriesauzen",ah [SEP] mix voor kerriesaus [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] sauzen warm droog,ah mix voor kerriesaus sauzen warm droog,null,null,null
+0.0833029,2856,129016,AH,Roomboter gevulde koeken,Verse smeuiige gevulde koeken. Een lekkere traktatie! Bereid met roomboter Heerlijk voor bij de koffie of thee Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen selderij' 'Geen eieren']","Bakkerij en banket Snoep koek chips en chocolade Koek Banket
+ Verse koeken",ah [SEP] roomboter gevulde koeken [SEP] Verse smeuiige gevulde koeken. Een lekkere traktatie! Bereid met roomboter Heerlijk voor bij de koffie of thee Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] bo banket zoet,ah roomboter gevulde koeken bo banket zoet,null,null,null
+0.082891054,7791,196427,AH,Roomboter boterkoek,Volgens traditioneel recept Zacht & romig van smaak Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Koek Cake Cakes,ah [SEP] roomboter boterkoek [SEP] Volgens traditioneel recept Zacht & romig van smaak Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] doorzicht koek groot,ah roomboter boterkoek doorzicht koek groot,null,null,null
+0.08279167,12908,49858,AH,Roomboter jan hagel,"Knapperige roomboter Jan Hagel koekjes bestrooid met parelsuiker en amandelschaafsel. Heerlijke combinatie van een koekje met parelsuiker, amandel en kaneel Lekker voor bij de koffie of thee","['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']",Snoep koek chips en chocolade Koek Koffiekoekjes,"ah [SEP] roomboter jan hagel [SEP] Knapperige roomboter Jan Hagel koekjes bestrooid met parelsuiker en amandelschaafsel. Heerlijke combinatie van een koekje met parelsuiker, amandel en kaneel Lekker voor bij de koffie of thee [SEP] doorzicht koek klein",ah roomboter jan hagel doorzicht koek klein,null,null,null
+0.08253725,3973,444854,Boursin,Knoflook & fijne kruiden,Een heerlijke zachte en kruidige roomkaas van Boursin met een luchtige textuur. Om te smeren en om te dippen Hersluitbare verpakking Smaak: intense smaak van roomkaas met knoflook en fijne kruiden Herkomst: frankrijk,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Kaas Kaas beleg
+ Roomkaas Kaas voor borrel Kaas voor beleg Roomkaas (kruiden)
+ Smeerkaas roomkaas cottage cheese",boursin [SEP] knoflook & fijne kruiden [SEP] Een heerlijke zachte en kruidige roomkaas van Boursin met een luchtige textuur. Om te smeren en om te dippen Hersluitbare verpakking Smaak: intense smaak van roomkaas met knoflook en fijne kruiden Herkomst: frankrijk [SEP] kzb s vers smeer,boursin knoflook & fijne kruiden kzb s vers smeer,null,null,null
+0.08218229,4858,500469,Knorr,Foodtrips poke bowl,"Met Knorr Wereldgerechten Poké Bowl Foodtrips zet je makkelijk en snel echt even wat anders op tafel, met lekker veel groente, geschikt voor veganisten. Knorr Wereldgerechten Poké Bowl Foodtrips met inspiratie uit Honolulu Zet makkelijk en snel een wereldgerecht op tafel, met lekker veel groente Zonder conserveermiddelen, kunstmatige kleurstoffen of smaakversterkers Knorr Poké Bowl is een gerecht dat geschikt is voor veganisten","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Geen eieren']","Pasta rijst en wereldkeuken Oosterse keuken
+ Maaltijdpakketten mixen Japans Maaltijdpakketten
+ Japans maaltijdpakket","knorr [SEP] foodtrips poke bowl [SEP] Met Knorr Wereldgerechten Poké Bowl Foodtrips zet je makkelijk en snel echt even wat anders op tafel, met lekker veel groente, geschikt voor veganisten. Knorr Wereldgerechten Poké Bowl Foodtrips met inspiratie uit Honolulu Zet makkelijk en snel een wereldgerecht op tafel, met lekker veel groente Zonder conserveermiddelen, kunstmatige kleurstoffen of smaakversterkers Knorr Poké Bowl is een gerecht dat geschikt is voor veganisten [SEP] maaltijdpakketten",knorr foodtrips poke bowl maaltijdpakketten,null,null,null
+0.082063444,11557,467379,Lenor,Wasverzachter zacht voor de huid,"Geniet van heerlijke zachtheid en een milde geur die speciaal is ontworpen voor een gevoelige huid. Dermatologisch getest en gecertificeerd door ecarf Hypoallergeen, 0% kleurstoffen, milde geur Wasverzachter voor hemelse zachtheid Fles van 100% gerecycled plastic die opnieuw gerecycled kan worden",['Laag zout' 'Laag vet' 'Laag suiker'],"Huishouden Wasmiddelen wasverzachters Wasverzachters
+ Wasverzachters - geconcentreerd","lenor [SEP] wasverzachter zacht voor de huid [SEP] Geniet van heerlijke zachtheid en een milde geur die speciaal is ontworpen voor een gevoelige huid. Dermatologisch getest en gecertificeerd door ecarf Hypoallergeen, 0% kleurstoffen, milde geur Wasverzachter voor hemelse zachtheid Fles van 100% gerecycled plastic die opnieuw gerecycled kan worden [SEP] wvz premium",lenor wasverzachter zacht voor de huid wvz premium,null,null,null
+0.08168444,17977,378912,Lactacyd,Gevoelige huid intiem tissues,"Lactacyd Gevoelige Huid Intiem Tissues voor snelle verfrissing, thuis of onderweg. Verrijkt met katoenextract Zonder parabenen Makkelijk mee te nemen Gynaecologisch getest",[],"Drogisterij Verzorging Lichaamsverzorging Persoonlijke hygiëne
+ Intieme zeep","lactacyd [SEP] gevoelige huid intiem tissues [SEP] Lactacyd Gevoelige Huid Intiem Tissues voor snelle verfrissing, thuis of onderweg. Verrijkt met katoenextract Zonder parabenen Makkelijk mee te nemen Gynaecologisch getest [SEP] ",lactacyd gevoelige huid intiem tissues ,null,null,null
+0.08162537,1179,378258,Ipuro,Ipuro cedar wood,"Houtachtige geuren, omgeven door fruitige en bloemige nuances. Een aangenaam warme en kruidige geur. Lang aanhoudende geurbeleving Hoogste kwaliteit - made in europe Gecomponeerd door parfumeurs",['Laag zout' 'Laag vet' 'Laag suiker'],"Koken tafelen vrije tijd Tafelen Wonen slapen Kaarsen
+ Geurstokjes","ipuro [SEP] ipuro cedar wood [SEP] Houtachtige geuren, omgeven door fruitige en bloemige nuances. Een aangenaam warme en kruidige geur. Lang aanhoudende geurbeleving Hoogste kwaliteit - made in europe Gecomponeerd door parfumeurs [SEP] geurstokjes",ipuro ipuro cedar wood geurstokjes,null,null,null
+0.08142232,8530,387923,Wasa,Lichtgewicht,"Wasa lichtgewicht is ons dunne en milde rogge knackebrod. De cracker bevat magere melk die de specifieke krokante textuur een frisse smaak geeft. 100% volkoren rogge Rijk aan vezels (20%) Dun en krokant Combineert perfect met diverse soorten beleg, hartig of zoet","['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']","Ontbijtgranen en beleg Tussendoortjes Knackebrod
+ Crackers rijstwafels","wasa [SEP] lichtgewicht [SEP] Wasa lichtgewicht is ons dunne en milde rogge knackebrod. De cracker bevat magere melk die de specifieke krokante textuur een frisse smaak geeft. 100% volkoren rogge Rijk aan vezels (20%) Dun en krokant Combineert perfect met diverse soorten beleg, hartig of zoet [SEP] knackebrod",wasa lichtgewicht knackebrod,null,null,null
+0.08102057,12437,378629,Heinz,Tomaten gezeefd,"Heinz tomaten gezeefd is gemaakt met zongerijpte tomaten. De gladde textuur van de gezeefde tomaten en de natuurlijke smaak zijn een perfecte tomatenbasis voor vele gerechten. Uitsluitend gemaakt van tomaten geteeld in de open lucht Zonder toegevoegde smaakstoffen of conserveermiddelen en glutenvrij Lekker in een pasta, lasagne, curry of op een pizza De beste kwaliteit zongerijpte tomaten","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Conserven Mediterrane keuken Italiaanse keuken Groenteconserven
+ Tomaten (conserven) Tomaten paprika pepers (conserven)
+ Gezeefde tomaten (conserven)","heinz [SEP] tomaten gezeefd [SEP] Heinz tomaten gezeefd is gemaakt met zongerijpte tomaten. De gladde textuur van de gezeefde tomaten en de natuurlijke smaak zijn een perfecte tomatenbasis voor vele gerechten. Uitsluitend gemaakt van tomaten geteeld in de open lucht Zonder toegevoegde smaakstoffen of conserveermiddelen en glutenvrij Lekker in een pasta, lasagne, curry of op een pizza De beste kwaliteit zongerijpte tomaten [SEP] tomaten gezeefd",heinz tomaten gezeefd tomaten gezeefd,null,null,null
+0.080725744,8613,63275,Libresse,String inlegkruisjes,Libresse String inlegkruisjes zijn speciaal ontworpen voor stringondergoed. Daarnaast zijn ze ademend en ongeparfumeerd. Voor dagelijks gebruik en ter bescherming van het ondergoed Ongeparfumeerd Dermatologisch getest Ademende onderzijde,['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Verzorging Lichaamsverzorging Persoonlijke hygiëne
+ Inlegkruisjes",libresse [SEP] string inlegkruisjes [SEP] Libresse String inlegkruisjes zijn speciaal ontworpen voor stringondergoed. Daarnaast zijn ze ademend en ongeparfumeerd. Voor dagelijks gebruik en ter bescherming van het ondergoed Ongeparfumeerd Dermatologisch getest Ademende onderzijde [SEP] dameshygiene,libresse string inlegkruisjes dameshygiene,null,null,null
+0.080683604,16790,445649,AH,Likdoornverwijder pleister,AH Likdoorn verwijderpleister met salicylzuur verlichten te pijnlijke druk van likdoorns en eelt. Helpen bij het veilig en effectief verwijderen van likdoorns Verlicht onmiddellijk pijn en druk bij likdoorns,['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Gezondheid EHBO en sport Zelfzorg EHBO
+ Wondverzorging Pleisters",ah [SEP] likdoornverwijder pleister [SEP] AH Likdoorn verwijderpleister met salicylzuur verlichten te pijnlijke druk van likdoorns en eelt. Helpen bij het veilig en effectief verwijderen van likdoorns Verlicht onmiddellijk pijn en druk bij likdoorns [SEP] voetverzorging,ah likdoornverwijder pleister voetverzorging,null,null,null
+0.080594316,12415,509487,Saus Guru,Bigger than Mack hamburger sauce,"Saus.gurus ultieme hamburgersaus. Bigger than mack: een heerlijke combinatie van romigheid en flame-grilled karakters met een gebalanceerd pallet kruiden, specerijen, mosterd en gesnipperde ui. Maak in een handomdraai vande simpelste hamburger een iconische In handige spuitfles voor thuis, op de zaak of tijdens het kamperen 100% natuurlijke geur-, kleur- en smaakstoffen Nooit meer in de rij bij de drive-thru","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen mosterd' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Variatiesauzen","saus guru [SEP] bigger than mack hamburger sauce [SEP] Saus.gurus ultieme hamburgersaus. Bigger than mack: een heerlijke combinatie van romigheid en flame-grilled karakters met een gebalanceerd pallet kruiden, specerijen, mosterd en gesnipperde ui. Maak in een handomdraai vande simpelste hamburger een iconische In handige spuitfles voor thuis, op de zaak of tijdens het kamperen 100% natuurlijke geur-, kleur- en smaakstoffen Nooit meer in de rij bij de drive-thru [SEP] partysauzen",saus guru bigger than mack hamburger sauce partysauzen,null,null,null
+0.080466345,8423,195849,De Zaanse Hoeve,Creme fraiche,room voor het verrijken van warme maaltijden fris en romig van smaak voor het verfijnen van warme maaltijden Lekker in de soep of warme saus Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Zuivel plantaardig en eieren
+ Creme fraiche slagroom kookroom kokosmelk Creme fraiche",de zaanse hoeve [SEP] creme fraiche [SEP] room voor het verrijken van warme maaltijden fris en romig van smaak voor het verfijnen van warme maaltijden Lekker in de soep of warme saus Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] keukenzuivel,de zaanse hoeve creme fraiche keukenzuivel,null,null,null
+0.08004752,154,509388,AH,Roomboter cakeplakjes,Lekkere luchtige roomboter cakeplakjes. In handige portieverpakking Bereid met roomboter,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Snoep koek chips en chocolade Koek Cake Cakes,ah [SEP] roomboter cakeplakjes [SEP] Lekkere luchtige roomboter cakeplakjes. In handige portieverpakking Bereid met roomboter [SEP] doorzicht cake,ah roomboter cakeplakjes doorzicht cake,null,null,null
+0.07991551,11323,516636,Oliehoorn,Mayonaise,"Oliehoorn mayonaise gemaakt volgens traditioneel recept met natuurlijke ingredienten voor een verfijnde smaak. Romig, licht gekruid en verrassend fris van smaak Heerlijke volle, romige smaakmaker bij een portie friet Uitermate geschikt als basis voor dressings of andere sauzen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Geen selderij' 'Geen eieren' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Mayonaise (snacksauzen)","oliehoorn [SEP] mayonaise [SEP] Oliehoorn mayonaise gemaakt volgens traditioneel recept met natuurlijke ingredienten voor een verfijnde smaak. Romig, licht gekruid en verrassend fris van smaak Heerlijke volle, romige smaakmaker bij een portie friet Uitermate geschikt als basis voor dressings of andere sauzen [SEP] mayonaise",oliehoorn mayonaise mayonaise,null,null,null
+0.07946365,14977,490473,Vitakraft,Jelly lovers schol zalm,De jelly lover kalkoen en kip laat elk kattenhart sneller kloppen. Een onweerstaanbare gelei snack. Heerlijke traktatie zonder kleurstoffen en conseveringsmiddelen Suiker en graanvrij Calorie arm Gemaakt in Duitsland,['Laag zout' 'Laag vet' 'Laag suiker'],Huisdier Katten Kattensnacks,vitakraft [SEP] jelly lovers schol zalm [SEP] De jelly lover kalkoen en kip laat elk kattenhart sneller kloppen. Een onweerstaanbare gelei snack. Heerlijke traktatie zonder kleurstoffen en conseveringsmiddelen Suiker en graanvrij Calorie arm Gemaakt in Duitsland [SEP] kat snack,vitakraft jelly lovers schol zalm kat snack,null,null,null
+0.078942895,15731,490472,Vitakraft,Jelly lovers kalkoen kip,De jelly lover zalm en schol laat elk kattenhart sneller kloppen. Een onweerstaanbare gelei snack. Heerlijke traktatie zonder kleurstoffen en conseveringsmiddelen Suiker en graanvrij Calorie arm Gemaakt in Duitsland,['Laag zout' 'Laag vet' 'Laag suiker'],Huisdier Katten Kattensnacks,vitakraft [SEP] jelly lovers kalkoen kip [SEP] De jelly lover zalm en schol laat elk kattenhart sneller kloppen. Een onweerstaanbare gelei snack. Heerlijke traktatie zonder kleurstoffen en conseveringsmiddelen Suiker en graanvrij Calorie arm Gemaakt in Duitsland [SEP] kat snack,vitakraft jelly lovers kalkoen kip kat snack,null,null,null
+0.078853406,5317,437124,Arla,Lactofree magere kwark,"Een zachte en milde kwark, maar dan zonder lactose. Dat is wel zo fijn voor de buik. Lactosevrije magere kwark Gemaakt van koemelk 100% natuurlijk Van nature rijk aan eiwitten","['Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Bewuste voeding Zuivel plantaardig en eieren Yoghurt en kwark
+ Lactosevrij Lactosevrije zuivel Lactosevrije yoghurt en kwark
+ Yoghurt Lactosevrije yoghurt en desserts","arla [SEP] lactofree magere kwark [SEP] Een zachte en milde kwark, maar dan zonder lactose. Dat is wel zo fijn voor de buik. Lactosevrije magere kwark Gemaakt van koemelk 100% natuurlijk Van nature rijk aan eiwitten [SEP] kwark naturel",arla lactofree magere kwark kwark naturel,null,null,null
+0.0787261,17989,429320,Picard,Crème brûlée,Een onweerstaanbare combinatie van knapperigheid en fondant gepresenteerd in keramiek. Een dubbel contrast van texturen en smaken om de fijnproevers tevreden te stellen. Esthetische presentatie in traditioneel keramiek Snel en gemakkelijk te bereiden: 5 minuten onder de grill,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen selderij' 'Geen eieren']",Diepvries Desserts (diepvries),picard [SEP] crème brûlée [SEP] Een onweerstaanbare combinatie van knapperigheid en fondant gepresenteerd in keramiek. Een dubbel contrast van texturen en smaken om de fijnproevers tevreden te stellen. Esthetische presentatie in traditioneel keramiek Snel en gemakkelijk te bereiden: 5 minuten onder de grill [SEP] picard,picard crème brûlée picard,null,null,null
+0.07830242,5638,519375,Gouda's Glorie,Fritessaus zacht & romig,Goudas glorie fritessaus is fris en romig van smaak. Heerlijk bij frites en allerlei snacks Bereid met vrije uitloopeieren In 100% recyclebare verpakking Bevat geen gluten,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Fritessaus",gouda's glorie [SEP] fritessaus zacht & romig [SEP] Goudas glorie fritessaus is fris en romig van smaak. Heerlijk bij frites en allerlei snacks Bereid met vrije uitloopeieren In 100% recyclebare verpakking Bevat geen gluten [SEP] fritessaus,gouda's glorie fritessaus zacht & romig fritessaus,null,null,null
+0.078299955,20488,475809,Lactacyd,Intieme wasgel 0%,"Lactacyd 0% is een ultra milde wasgel speciaal voor de uitwendige intieme zone. Milde reiniging Vrij van parfum, zeep  en  alcohol Geschikt voor gevoelige huid",['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Verzorging Lichaamsverzorging Persoonlijke hygiëne
+ Intieme zeep","lactacyd [SEP] intieme wasgel 0% [SEP] Lactacyd 0% is een ultra milde wasgel speciaal voor de uitwendige intieme zone. Milde reiniging Vrij van parfum, zeep  en  alcohol Geschikt voor gevoelige huid [SEP] dameshygiene",lactacyd intieme wasgel 0% dameshygiene,null,null,null
+0.07800852,10099,419899,Wasa,Glutenvrij en lactosevrij classic,"Wasa gluten- en lactosevrij is onze glutenvrije cracker, die rijk is aan vezels. Prachtig goud gebakken met een heerlijke krokante smaak. Vegan Rijk aan vezels (7,7%) Handig verpakt in portieverpakking voor gemak  en  versheid Lekker als ontbijt, lunch of gewoon tussendoor, met je favoriete beleg","['Laag zout' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen schelpdieren (schaaldieren)' 'Vegetarisch'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Geen sesam' 'Veganistisch' 'Geen gluten']","Ontbijtgranen en beleg Tussendoortjes Knackebrod
+ Crackers rijstwafels","wasa [SEP] glutenvrij en lactosevrij classic [SEP] Wasa gluten- en lactosevrij is onze glutenvrije cracker, die rijk is aan vezels. Prachtig goud gebakken met een heerlijke krokante smaak. Vegan Rijk aan vezels (7,7%) Handig verpakt in portieverpakking voor gemak  en  versheid Lekker als ontbijt, lunch of gewoon tussendoor, met je favoriete beleg [SEP] broodvervangers",wasa glutenvrij en lactosevrij classic broodvervangers,null,null,null
+0.07787518,468,228417,AH Glutenvrij,Luchtige crackers,"Luchtige en knapperige crackers voor ontbijt of als tussendoortje Vrij van gluten De Vrij van gluten-producten van Albert Heijn zijn zorgvuldig ontwikkeld voor mensen met een intolerantie of sensitiviteit voor gluten, voldoen aan de wettelijke eisen en zijn bovendien heerlijk van smaak.","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd'
+ 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Glutenvrij
+ Crackers rijstwafels Ontbijtgranen crackers
+ Glutenvrije crackers knackebrod","ah glutenvrij [SEP] luchtige crackers [SEP] Luchtige en knapperige crackers voor ontbijt of als tussendoortje Vrij van gluten De Vrij van gluten-producten van Albert Heijn zijn zorgvuldig ontwikkeld voor mensen met een intolerantie of sensitiviteit voor gluten, voldoen aan de wettelijke eisen en zijn bovendien heerlijk van smaak. [SEP] broodvervangers",ah glutenvrij luchtige crackers broodvervangers,null,null,null
+0.07781682,12007,240749,Panter,Sprint,Sigaren,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Tabak Sigaren,panter [SEP] sprint [SEP] Sigaren [SEP] sigaren,panter sprint sigaren,null,null,null
+0.07747634,1973,543070,Céréal,Soft cookies choco-walnut,"Proef deze Cereal soft cookies met heerlijke chocolade en knapperige walnoot! Met de helft minder suikers ten opzichte van vergelijkbare tussendoortjes en maar 99 kcal per cookie. Zonder zoetstof.. 55% minder suikers, zonder zoetstoffen Rijk aan vezels en bron van omega-3-vetzuren Zonder palmolie Duurzame gecertificeerde cacao","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen lupine'
+ 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Bewuste voeding Snoep koek chips en chocolade Koek Suikerbewust
+ Koek (suikerbewust)","céréal [SEP] soft cookies choco-walnut [SEP] Proef deze Cereal soft cookies met heerlijke chocolade en knapperige walnoot! Met de helft minder suikers ten opzichte van vergelijkbare tussendoortjes en maar 99 kcal per cookie. Zonder zoetstof.. 55% minder suikers, zonder zoetstoffen Rijk aan vezels en bron van omega-3-vetzuren Zonder palmolie Duurzame gecertificeerde cacao [SEP] verpakt premium",céréal soft cookies choco-walnut verpakt premium,null,null,null
+0.07741116,3259,493179,AH,Roomboter cupcake naturel,Heerlijk luchtige roomboter cupcakejes. Perfect voor bij de koffie of thee Met echte roomboter bereid Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Koek Cake Cakejes,ah [SEP] roomboter cupcake naturel [SEP] Heerlijk luchtige roomboter cupcakejes. Perfect voor bij de koffie of thee Met echte roomboter bereid Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] doorzicht cake,ah roomboter cupcake naturel doorzicht cake,null,null,null
+0.0774005,6202,518761,Boursin,Zacht & romig knoflook & kruiden,"Een heerlijke zachte en kruidige roomkaas van Boursin met een luchtige textuur. Makkelijk te smeren, maar ook om te dippen. Eenvoudig te smeren, eenvoudig te creeren Intense smaak van roomkaas met knoflook en fijne kruiden Handige hersluitbare verpakking. Nu ook in xl verpakking Herkomst: Frankrijk","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Kaas Kaas beleg
+ Roomkaas Kaas voor borrel Kaas voor beleg Roomkaas (kruiden)
+ Smeerkaas roomkaas cottage cheese","boursin [SEP] zacht & romig knoflook & kruiden [SEP] Een heerlijke zachte en kruidige roomkaas van Boursin met een luchtige textuur. Makkelijk te smeren, maar ook om te dippen. Eenvoudig te smeren, eenvoudig te creeren Intense smaak van roomkaas met knoflook en fijne kruiden Handige hersluitbare verpakking. Nu ook in xl verpakking Herkomst: Frankrijk [SEP] kzb s vers smeer",boursin zacht & romig knoflook & kruiden kzb s vers smeer,null,null,null
+0.077178046,10471,67885,Tena,Lady ultra mini inlegkruisjes,"Tena discteet ultra mini biedt u drievoudige bescherming tegen doorlekken, geurtjes en een vochtig gevoel. Deze inlegkruisjes zijn net zo dun maar absorberen veel beter dan reguliere inlegkruisjes. Drievoudige bescherming tegen doorlekken, geurtjes en een vochtig gevoel Zijdezacht en comfortabel inlegkruisje net zo dun maar absorberen veel beter dan reguliere inlegkruisjes Fresh odour control",['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Verzorging Lichaamsverzorging Persoonlijke hygiëne
+ Incontinentiemateriaal Incontinentie vrouwen","tena [SEP] lady ultra mini inlegkruisjes [SEP] Tena discteet ultra mini biedt u drievoudige bescherming tegen doorlekken, geurtjes en een vochtig gevoel. Deze inlegkruisjes zijn net zo dun maar absorberen veel beter dan reguliere inlegkruisjes. Drievoudige bescherming tegen doorlekken, geurtjes en een vochtig gevoel Zijdezacht en comfortabel inlegkruisje net zo dun maar absorberen veel beter dan reguliere inlegkruisjes Fresh odour control [SEP] incontinentie",tena lady ultra mini inlegkruisjes incontinentie,null,null,null
+0.07713207,8547,407792,AH Glutenvrij,Boekweit meel,"Glutenvrij boekweitmeel is de ideale basis voor het maken van onder andere (hartige) pannenkoeken, poffertjes, brood of cake. 100% boekweitmeel gemaakt van de boekweitplant Glutenvrij Lactosevrij","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Glutenvrij
+ Bakproducten Basis bakbenodigdheden Glutenvrije bakproducten
+ Bakkerij glutenvrij Bakproducten (glutenvrij) Basismeel bloem
+ Basismeel (glutenvrij)","ah glutenvrij [SEP] boekweit meel [SEP] Glutenvrij boekweitmeel is de ideale basis voor het maken van onder andere (hartige) pannenkoeken, poffertjes, brood of cake. 100% boekweitmeel gemaakt van de boekweitplant Glutenvrij Lactosevrij [SEP] bakmixen",ah glutenvrij boekweit meel bakmixen,null,null,null
+0.07713143,12811,195844,De Zaanse Hoeve,Slagroom,Verse slagroom 30% vet Vol en romig van smaak Opkloppen tussen 4 - 7 graden Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij'
+ 'Geen gluten']","Zuivel plantaardig en eieren
+ Creme fraiche slagroom kookroom kokosmelk Slagroom",de zaanse hoeve [SEP] slagroom [SEP] Verse slagroom 30% vet Vol en romig van smaak Opkloppen tussen 4 - 7 graden Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] keukenzuivel,de zaanse hoeve slagroom keukenzuivel,null,null,null
+0.07683298,8676,479944,Wasa,Sandwich sour cream & onion,"Wasa sandwich sour cream  en  onion bestaat uit twee repen knackebrod met een op haver gebaseerde vulling met zure room- en uiensmaak. Rijk aan vezels en volledig veganistisch. Met volkoren roggemeel Rijk aan vezels (12%) Vegan Ideaal als snack voor tussendoor, waar en wanneer je maar wilt","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen lupine' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Tussendoortjes Snoep koek chips en chocolade
+ Hartige biscuit knackbrod Koek Biscuits","wasa [SEP] sandwich sour cream & onion [SEP] Wasa sandwich sour cream  en  onion bestaat uit twee repen knackebrod met een op haver gebaseerde vulling met zure room- en uiensmaak. Rijk aan vezels en volledig veganistisch. Met volkoren roggemeel Rijk aan vezels (12%) Vegan Ideaal als snack voor tussendoor, waar en wanneer je maar wilt [SEP] knackebrod",wasa sandwich sour cream & onion knackebrod,null,null,null

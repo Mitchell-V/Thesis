@@ -1,0 +1,563 @@
+scoreLLM score,ann,prd_id,brand,title,highlights,properties,taxonomies,full_text,full_text_no_sep,Unnamed: 0,search_query,scorePropensity score
+0.12139292,19319,550582,AH,Flock haas groen 26cm,AH flock haas. Kleur: groen Afmeting: 26 cm De AH paashazen zijn mooi geflockt waardoor ze er zacht en aaibaar uitzien. Plaat ze als decoratie bijvoorbeeld op de gezellige eettafel  en vier een Vrolijk Pasen!,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Paasdecoratie,ah [SEP] flock haas groen 26cm [SEP] AH flock haas. Kleur: groen Afmeting: 26 cm De AH paashazen zijn mooi geflockt waardoor ze er zacht en aaibaar uitzien. Plaat ze als decoratie bijvoorbeeld op de gezellige eettafel  en vier een Vrolijk Pasen! [SEP] pasen in out,ah flock haas groen 26cm pasen in out,null,null,null
+0.11631976,20421,550583,AH,Flock haas liggend 12cm,AH flock haas liggend. Kleur: groen Afmeting: 12 cm De AH paashazen zijn mooi geflockt waardoor ze er zacht en aaibaar uitzien. Plaat ze als decoratie bijvoorbeeld op de gezellige eettafel  en vier een Vrolijk Pasen!,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Paasdecoratie,ah [SEP] flock haas liggend 12cm [SEP] AH flock haas liggend. Kleur: groen Afmeting: 12 cm De AH paashazen zijn mooi geflockt waardoor ze er zacht en aaibaar uitzien. Plaat ze als decoratie bijvoorbeeld op de gezellige eettafel  en vier een Vrolijk Pasen! [SEP] pasen in out,ah flock haas liggend 12cm pasen in out,null,null,null
+0.11621401,18384,550584,AH,Flock haas zittend 13cm,AH flock haas zittend. Kleur: groen Afmeting: 13 cm De AH paashazen zijn mooi geflockt waardoor ze er zacht en aaibaar uitzien. Plaat ze als decoratie bijvoorbeeld op de gezellige eettafel  en vier een Vrolijk Pasen!,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Paasdecoratie,ah [SEP] flock haas zittend 13cm [SEP] AH flock haas zittend. Kleur: groen Afmeting: 13 cm De AH paashazen zijn mooi geflockt waardoor ze er zacht en aaibaar uitzien. Plaat ze als decoratie bijvoorbeeld op de gezellige eettafel  en vier een Vrolijk Pasen! [SEP] pasen in out,ah flock haas zittend 13cm pasen in out,null,null,null
+0.11404894,17738,516242,AH,Pasen melamine eierdopje haas,Non food paasassortiment. Leuk voor op de paastafel,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Servies,ah [SEP] pasen melamine eierdopje haas [SEP] Non food paasassortiment. Leuk voor op de paastafel [SEP] pasen in out,ah pasen melamine eierdopje haas pasen in out,null,null,null
+0.113436945,7553,516237,AH,Pasen melamine bord haas,Non food paasassortiment. Leuk voor op de paastafel,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Servies,ah [SEP] pasen melamine bord haas [SEP] Non food paasassortiment. Leuk voor op de paastafel [SEP] pasen in out,ah pasen melamine bord haas pasen in out,null,null,null
+0.11248266,15379,550580,AH,Flock haas wit,AH Flock kuiken in wit. Bevat 6 stuks Leuke decoratie tijdens Pasen!,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Paasdecoratie,ah [SEP] flock haas wit [SEP] AH Flock kuiken in wit. Bevat 6 stuks Leuke decoratie tijdens Pasen! [SEP] pasen in out,ah flock haas wit pasen in out,null,null,null
+0.11088922,9637,516243,AH,Pasen re-usable glas haas,Non food paasassortiment. Leuk voor op de paastafel,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Servies,ah [SEP] pasen re-usable glas haas [SEP] Non food paasassortiment. Leuk voor op de paastafel [SEP] pasen in out,ah pasen re-usable glas haas pasen in out,null,null,null
+0.10718758,13670,467621,Smaakt,Gerst gepareld,"Parelgerst is geparelde gerst. Bij parelgort is de zemel er als het ware van afgeslepen, daarom heeft hij zon mooie ronde vorm. Biologisch","['Geen gluten' 'Geen melk' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Wholefoods Basis bakbenodigdheden Granen en melen
+ Basismeel bloem Melen (superfood)","smaakt [SEP] gerst gepareld [SEP] Parelgerst is geparelde gerst. Bij parelgort is de zemel er als het ware van afgeslepen, daarom heeft hij zon mooie ronde vorm. Biologisch [SEP] bio maaltijden",smaakt gerst gepareld bio maaltijden,null,null,null
+0.1056689,18617,550014,Craft Lab,3D dieren knutselset Pasen,Maak het leukste 3d knutselfiguur voor pasen. Maak zelf een 3d konijn met deze knutselset Voor een creatief pasen,['Laag zout' 'Laag vet' 'Laag suiker'],"Koken tafelen vrije tijd Paas knutsels speelgoed
+ Hobby vrije tijd Paasversiering & decoratie
+ Tekenen verven knutselen Knutselspullen",craft lab [SEP] 3d dieren knutselset pasen [SEP] Maak het leukste 3d knutselfiguur voor pasen. Maak zelf een 3d konijn met deze knutselset Voor een creatief pasen [SEP] pasen in out,craft lab 3d dieren knutselset pasen pasen in out,null,null,null
+0.10535934,20099,550606,AH,Set nestjes gekleurd,"Set van 4 nestjes in de kleuren roze, groen, geel en oranje. Afmeting: 15 x 15 cm Leuke decoratie tijdens Pasen!",['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Paasdecoratie,"ah [SEP] set nestjes gekleurd [SEP] Set van 4 nestjes in de kleuren roze, groen, geel en oranje. Afmeting: 15 x 15 cm Leuke decoratie tijdens Pasen! [SEP] pasen in out",ah set nestjes gekleurd pasen in out,null,null,null
+0.10399933,18005,550559,AH,Vogel op clip rood,AH Vogels op een clip. Set van 2 Leuke decoratie tijdens Pasen!,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Paasdecoratie,ah [SEP] vogel op clip rood [SEP] AH Vogels op een clip. Set van 2 Leuke decoratie tijdens Pasen! [SEP] pasen in out,ah vogel op clip rood pasen in out,null,null,null
+0.10285853,8548,417968,Oatly!,Haver cuisine bio,Perfect voor elke type kookactiviteit met een gehalte verzadigde vetten van slechts 3%. En dat is opmerkelijk laag Feitelijk kunt u dit product gebruiken in plaats van room We only do oats Wow no Cow Post milk generation,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' 'biologisch'
+ ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij']","Zuivel plantaardig en eieren Plantaardige zuivel alternatieven
+ Plantaardige room",oatly! [SEP] haver cuisine bio [SEP] Perfect voor elke type kookactiviteit met een gehalte verzadigde vetten van slechts 3%. En dat is opmerkelijk laag Feitelijk kunt u dit product gebruiken in plaats van room We only do oats Wow no Cow Post milk generation [SEP] plantaardig keuken,oatly! haver cuisine bio plantaardig keuken,null,null,null
+0.1023401,11381,550591,Decoris,Haas polyester,Haas met hanger. leuk om een paastak mee te versieren Te gebruiken voor paasdecoratie Vrolijke kleuren Speels effect,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Paasdecoratie,decoris [SEP] haas polyester [SEP] Haas met hanger. leuk om een paastak mee te versieren Te gebruiken voor paasdecoratie Vrolijke kleuren Speels effect [SEP] pasen in out,decoris haas polyester pasen in out,null,null,null
+0.10074375,2653,516241,AH,Pasen melamine eierdopje eend,Non food paasassortiment. Leuk voor op de paastafel,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Servies,ah [SEP] pasen melamine eierdopje eend [SEP] Non food paasassortiment. Leuk voor op de paastafel [SEP] pasen in out,ah pasen melamine eierdopje eend pasen in out,null,null,null
+0.10027238,11343,68156,AH,Leverworst,"Ambachtelijke gekookte leverworst met een kruidige, licht
+		bittere smaak.","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen lactose'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen mosterd' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Leverworst leverkaas Leverworst
+ Stuk leverworst (versafdeling)","ah [SEP] leverworst [SEP] Ambachtelijke gekookte leverworst met een kruidige, licht
+		bittere smaak. [SEP] leverworst",ah leverworst leverworst,null,null,null
+0.10021791,16621,169613,AH,Haagse leverworst,"Smaak: Mild zout, licht bitter","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Voorverpakt Leverworst leverkaas Leverworst
+ Plakken leverworst (voorverpakt)","ah [SEP] haagse leverworst [SEP] Smaak: Mild zout, licht bitter [SEP] leverworst plakjes hb",ah haagse leverworst leverworst plakjes hb,null,null,null
+0.10000122,3348,516239,AH,Pasen melamine bord eend,Non food paasassortiment. Leuk voor op de paastafel,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Servies,ah [SEP] pasen melamine bord eend [SEP] Non food paasassortiment. Leuk voor op de paastafel [SEP] pasen in out,ah pasen melamine bord eend pasen in out,null,null,null
+0.09962868,7939,171472,AH Biologisch,Katenspek,"Smaak: Mild zout, zoet, braad Vleessoort: Varkensvlees","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Ontbijtgranen en beleg
+ Kaas vleeswaren tapas Vleeswaren Vlees Varkensvlees
+ Vleeswaren beleg Spek / bacon broodbeleg Spek & bacon
+ Spek broodbeleg Spek Plakken spek (versafdeling)","ah biologisch [SEP] katenspek [SEP] Smaak: Mild zout, zoet, braad Vleessoort: Varkensvlees [SEP] biologisch",ah biologisch katenspek biologisch,null,null,null
+0.09910695,19768,550598,AH,Vogel op clip rose,AH Vogels op een clip. Set van 2 Leuke decoratie tijdens Pasen!,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Paasdecoratie,ah [SEP] vogel op clip rose [SEP] AH Vogels op een clip. Set van 2 Leuke decoratie tijdens Pasen! [SEP] pasen in out,ah vogel op clip rose pasen in out,null,null,null
+0.09860404,20295,550034,Craft Lab,Waterverf kleurset Pasen,Leuke set met kaarten en verfstrips om de mooiste kaarten mee te maken Maak zelf je eigen Paaskaarten Voor een creactief Pasen,['Laag zout' 'Laag vet' 'Laag suiker'],"Koken tafelen vrije tijd Paas knutsels speelgoed
+ Hobby vrije tijd Paasversiering & decoratie
+ Tekenen verven knutselen Vingerverf waterverf",craft lab [SEP] waterverf kleurset pasen [SEP] Leuke set met kaarten en verfstrips om de mooiste kaarten mee te maken Maak zelf je eigen Paaskaarten Voor een creactief Pasen [SEP] pasen in out,craft lab waterverf kleurset pasen pasen in out,null,null,null
+0.09751841,19732,516245,AH,Pasen re-usable glas eend,Non food paasassortiment. Leuk voor op de paastafel,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Servies,ah [SEP] pasen re-usable glas eend [SEP] Non food paasassortiment. Leuk voor op de paastafel [SEP] pasen in out,ah pasen re-usable glas eend pasen in out,null,null,null
+0.09750599,4627,516240,AH,Pasen melamine eierdopje kuiken,Non food paasassortiment. Leuk voor op de paastafel,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Servies,ah [SEP] pasen melamine eierdopje kuiken [SEP] Non food paasassortiment. Leuk voor op de paastafel [SEP] pasen in out,ah pasen melamine eierdopje kuiken pasen in out,null,null,null
+0.097174235,7127,497556,AH,Plantaardige rasp cheddar,"Plantaardig alternatief voor geraspte kaas. Heerlijk om te gebruiken in tex-mex of ovenschotel gerechten, zoals nacho's of wraps. Plantaardig alternatief Smaak: licht pittig Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score E' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Kaas vleeswaren tapas Kaas Plantaardig alternatief voor kaas,"ah [SEP] plantaardige rasp cheddar [SEP] Plantaardig alternatief voor geraspte kaas. Heerlijk om te gebruiken in tex-mex of ovenschotel gerechten, zoals nacho's of wraps. Plantaardig alternatief Smaak: licht pittig Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] kzb p koken",ah plantaardige rasp cheddar kzb p koken,null,null,null
+0.096834145,19030,516238,AH,Pasen melamine bord kuiken,Non food paasassortiment. Leuk voor op de paastafel,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Servies,ah [SEP] pasen melamine bord kuiken [SEP] Non food paasassortiment. Leuk voor op de paastafel [SEP] pasen in out,ah pasen melamine bord kuiken pasen in out,null,null,null
+0.096327186,5861,412171,Zonnatura,Hazelnoot rijst drink biologisch,"Een heelijke combinatie van hazelnoot en rijst in een lekkere, lichtzoete plantaardige drank. Heerlijk in de koffie, bij het ontbijt of als koude dorstlesser 100% plantaardig en biologisch Van nature lactosevrij en glutenvrij Zonder toegevoegde suikers","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch'
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']","Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Plantaardige drinks Plantaardige zuivel alternatieven Rijstdrank","zonnatura [SEP] hazelnoot rijst drink biologisch [SEP] Een heelijke combinatie van hazelnoot en rijst in een lekkere, lichtzoete plantaardige drank. Heerlijk in de koffie, bij het ontbijt of als koude dorstlesser 100% plantaardig en biologisch Van nature lactosevrij en glutenvrij Zonder toegevoegde suikers [SEP] bio koude dranken",zonnatura hazelnoot rijst drink biologisch bio koude dranken,null,null,null
+0.095810406,9667,401934,Oatly!,Haverdrank bio,"Deze haverdrank is gemaakt van 100% biologische zweedse haver die wordt verbouwd in schone grond en sterk wordt door zon en regen. Haver die bekendstaat om zn vezels en Allerhande nuttige voedingsstoffen, zoals beta-glucanen, die bijzonder goed zijn voor het hart. Deze drank is gemaakt van 100% biologische zweedse haver Als je van bakken houdt, zul je zien dat brood en gebak door de havervezels extra sappig worden Product is ongeopend erg langhoudbaar. Alleen kort voor het serveren even koelen. Na openen, gekoeld bewaren (max. 5 dagen) Haver die bekendstaat om zn vezels en Allerhande nuttige voedingsstoffen, zoals beta-glucanen, die bijzonder goed zijn voor het hart","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' 'biologisch'
+ ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij']","Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Plantaardige drinks Plantaardige zuivel alternatieven Haverdrink","oatly! [SEP] haverdrank bio [SEP] Deze haverdrank is gemaakt van 100% biologische zweedse haver die wordt verbouwd in schone grond en sterk wordt door zon en regen. Haver die bekendstaat om zn vezels en Allerhande nuttige voedingsstoffen, zoals beta-glucanen, die bijzonder goed zijn voor het hart. Deze drank is gemaakt van 100% biologische zweedse haver Als je van bakken houdt, zul je zien dat brood en gebak door de havervezels extra sappig worden Product is ongeopend erg langhoudbaar. Alleen kort voor het serveren even koelen. Na openen, gekoeld bewaren (max. 5 dagen) Haver die bekendstaat om zn vezels en Allerhande nuttige voedingsstoffen, zoals beta-glucanen, die bijzonder goed zijn voor het hart [SEP] plantaardig drink",oatly! haverdrank bio plantaardig drink,null,null,null
+0.09499884,3651,548463,Oatly!,Haverdrank vol,"Deze haverdrank is net zo smaakvol als de gekoelde variant, maar dan langer houdbaar. Plantaardige melk vervanger Ook ideaal voor tijdens het bakken en koken Opschuimbaar, maar is geen barista","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij']","Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Plantaardige drinks Plantaardige zuivel alternatieven Haverdrink","oatly! [SEP] haverdrank vol [SEP] Deze haverdrank is net zo smaakvol als de gekoelde variant, maar dan langer houdbaar. Plantaardige melk vervanger Ook ideaal voor tijdens het bakken en koken Opschuimbaar, maar is geen barista [SEP] plantaardig drink",oatly! haverdrank vol plantaardig drink,null,null,null
+0.09489973,10466,550556,AH,Vogels op clip geel,AH Vogels op een clip. Set van 2 Leuke decoratie tijdens Pasen!,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Paasdecoratie,ah [SEP] vogels op clip geel [SEP] AH Vogels op een clip. Set van 2 Leuke decoratie tijdens Pasen! [SEP] pasen in out,ah vogels op clip geel pasen in out,null,null,null
+0.093058325,11622,232992,BioToday,Ahornsiroop,"Maple syrup, ook wel ahornsiroop of esdoornsiroop genoemd, is gemaakt van het sap van de esdoorn. In Canada en Amerika razend populair bij de welbekende pancakes. Biologisch Vrij van kunstmatige geur-, kleur- en smaakstoffen Klasse A Alternatief voor schenkstroop","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Ontbijtgranen en beleg
+ Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Zoet broodbeleg
+ Bakproducten Koffie Basis bakbenodigdheden Koffieverrijkers
+ Ahornsiroop Koffiefilters suiker","biotoday [SEP] ahornsiroop [SEP] Maple syrup, ook wel ahornsiroop of esdoornsiroop genoemd, is gemaakt van het sap van de esdoorn. In Canada en Amerika razend populair bij de welbekende pancakes. Biologisch Vrij van kunstmatige geur-, kleur- en smaakstoffen Klasse A Alternatief voor schenkstroop [SEP] bio ontbijt en lunch",biotoday ahornsiroop bio ontbijt en lunch,null,null,null
+0.0921076,6468,460745,AH,Le Marcaire,"Deze le marcaire is een mooie franse kaas uit de vogezen met een uniek aromatisch karakter door de gewassen roodkorst. Een klein proefstukje voor een meeneemprijsje, om de kaasplank mee af te maken. Smaak: karakteristiek en vol Gemaakt van: koemelk Herkomst: frankrijk","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Kaas vleeswaren tapas Kaas Kaas voor borrel
+ Rode korst kaas port salut","ah [SEP] le marcaire [SEP] Deze le marcaire is een mooie franse kaas uit de vogezen met een uniek aromatisch karakter door de gewassen roodkorst. Een klein proefstukje voor een meeneemprijsje, om de kaasplank mee af te maken. Smaak: karakteristiek en vol Gemaakt van: koemelk Herkomst: frankrijk [SEP] kb s rode korst",ah le marcaire kb s rode korst,null,null,null
+0.09024294,9848,550020,Craft Lab,Doeboek Pasen,"Een boek met diverse spelletjes, kleurplaten en knutselwerkjes. Gegarandeerd een paar uur speelplezier. Een leuke bezigheid Voor een gezellige Pasen",['Laag zout' 'Laag vet' 'Laag suiker'],"Koken tafelen vrije tijd Paas knutsels speelgoed
+ Hobby vrije tijd Paasversiering & decoratie
+ Tekenen verven knutselen Leer- en doeboek","craft lab [SEP] doeboek pasen [SEP] Een boek met diverse spelletjes, kleurplaten en knutselwerkjes. Gegarandeerd een paar uur speelplezier. Een leuke bezigheid Voor een gezellige Pasen [SEP] pasen in out",craft lab doeboek pasen pasen in out,null,null,null
+0.090197325,5236,440743,AH,Kokos naturel kokoskoek,Proef en geniet van deze heerlijke pure kokoskoek bereid met 35% kokos. Bite size kokoskoek Bereid met 35% kokos,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen selderij' 'Geen eieren' 'Geen gluten']",Snoep koek chips en chocolade Koek Koffiekoekjes,ah [SEP] kokos naturel kokoskoek [SEP] Proef en geniet van deze heerlijke pure kokoskoek bereid met 35% kokos. Bite size kokoskoek Bereid met 35% kokos [SEP] doorzicht koek klein,ah kokos naturel kokoskoek doorzicht koek klein,null,null,null
+0.08991502,12211,450232,AH,Chocolade eitjes praliné melk wit puur,"Speciaal voor de paasdagen: een mix van praliné gevulde chocolade paaseitjes, kies maar uit! Assortiment van verschillende smaken 500 gram De lekkerste traktatie tijdens Pasen Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Paaseitjes Gevulde paaseitjes","ah [SEP] chocolade eitjes praliné melk wit puur [SEP] Speciaal voor de paasdagen: een mix van praliné gevulde chocolade paaseitjes, kies maar uit! Assortiment van verschillende smaken 500 gram De lekkerste traktatie tijdens Pasen Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] pasen paaseitjes",ah chocolade eitjes praliné melk wit puur pasen paaseitjes,null,null,null
+0.08979049,18591,500516,Maple gold,Ahorn siroop,Maple syrup. Canadese ahornsiroop Zoete siroop gemaakt van esdoornsap Heerlijk voor op pannenkoeken of over ijs,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Ontbijtgranen en beleg
+ Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Zoet broodbeleg
+ Bakproducten Koffie Basis bakbenodigdheden Koffieverrijkers
+ Ahornsiroop Koffiefilters suiker",maple gold [SEP] ahorn siroop [SEP] Maple syrup. Canadese ahornsiroop Zoete siroop gemaakt van esdoornsap Heerlijk voor op pannenkoeken of over ijs [SEP] bt stroop en poedersuiker,maple gold ahorn siroop bt stroop en poedersuiker,null,null,null
+0.08955968,6090,512963,Kitkat,Chocolade paashaas,"Nestle Kitkat chocolade paashaas is een knapperige chocolade paashaasjes gemaakt van melk chocolade met een romige vulling met krokante granen- en wafelstukjes. Have a break, have a kitkat. Ideaal voor je ultieme pasen break Deze verpakking bevat 1 individueel verpakte melk chocolade paashaas Elke portie (1 portie = 17g) bevat 91 kcal Rainforest alliance gecertificeerde cacao, ingekocht via Nestle cocoa plan","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Chocolade paasfiguren","kitkat [SEP] chocolade paashaas [SEP] Nestle Kitkat chocolade paashaas is een knapperige chocolade paashaasjes gemaakt van melk chocolade met een romige vulling met krokante granen- en wafelstukjes. Have a break, have a kitkat. Ideaal voor je ultieme pasen break Deze verpakking bevat 1 individueel verpakte melk chocolade paashaas Elke portie (1 portie = 17g) bevat 91 kcal Rainforest alliance gecertificeerde cacao, ingekocht via Nestle cocoa plan [SEP] pasen  chocoloade",kitkat chocolade paashaas pasen  chocoloade,null,null,null
+0.08946428,11893,550557,AH,Vogel op clip zacht groen,AH Vogels op een clip. Set van 2 Leuke decoratie tijdens Pasen!,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Paasdecoratie,ah [SEP] vogel op clip zacht groen [SEP] AH Vogels op een clip. Set van 2 Leuke decoratie tijdens Pasen! [SEP] pasen in out,ah vogel op clip zacht groen pasen in out,null,null,null
+0.089457974,2123,550025,Craft Lab,Knutselset Pasen,Leuke knutselset voor urenlang knutselplezier tijdens de paasdagen Maak zelf de leukste paasdecoraties Voor een gezellige Pasen,['Laag zout' 'Laag vet' 'Laag suiker'],"Koken tafelen vrije tijd Paas knutsels speelgoed
+ Hobby vrije tijd Paasversiering & decoratie
+ Tekenen verven knutselen Knutselspullen",craft lab [SEP] knutselset pasen [SEP] Leuke knutselset voor urenlang knutselplezier tijdens de paasdagen Maak zelf de leukste paasdecoraties Voor een gezellige Pasen [SEP] pasen in out,craft lab knutselset pasen pasen in out,null,null,null
+0.08924427,9428,475223,Oatly!,Verse haver cuisine,"Oatly plantaardige kookroom. Kookroom van haver, net zo lekker en functioneel als traditionele kookroom 100% plantaardig Geheel vrij van soja en zuivel Het presteert uitstekend in zowel warme als koude gerechten","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij']","Zuivel plantaardig en eieren
+ Creme fraiche slagroom kookroom kokosmelk Kookroom","oatly! [SEP] verse haver cuisine [SEP] Oatly plantaardige kookroom. Kookroom van haver, net zo lekker en functioneel als traditionele kookroom 100% plantaardig Geheel vrij van soja en zuivel Het presteert uitstekend in zowel warme als koude gerechten [SEP] plantaardig keukenzuivel",oatly! verse haver cuisine plantaardig keukenzuivel,null,null,null
+0.08858208,16826,548465,Oatly!,Haverdrank no sugar,"Deze haverdrank zonder natuurlijke suikers is net zo romig en zacht, maar een stuk minder zoet. Plantaardige melk vervanger, zonder suiker Ook ideaal voor tijdens het bakken en koken Opschuimbaar, maar is geen barista","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Plantaardige drinks Plantaardige zuivel alternatieven Haverdrink","oatly! [SEP] haverdrank no sugar [SEP] Deze haverdrank zonder natuurlijke suikers is net zo romig en zacht, maar een stuk minder zoet. Plantaardige melk vervanger, zonder suiker Ook ideaal voor tijdens het bakken en koken Opschuimbaar, maar is geen barista [SEP] plantaardig drink",oatly! haverdrank no sugar plantaardig drink,null,null,null
+0.08813146,12796,67562,AH,Leverworst,"Een zeer populaire leverworst welke heerlijk is op de boterham
+		en als snack. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Voorverpakt Leverworst leverkaas Leverworst
+ Stuk leverworst (voorverpakt)","ah [SEP] leverworst [SEP] Een zeer populaire leverworst welke heerlijk is op de boterham
+		en als snack. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] leverworst stukje hb",ah leverworst leverworst stukje hb,null,null,null
+0.08749312,94,375602,Maple Joe,Ahornsiroop,De natuurlijke zoetheid van de natuur. Esdoorn siroop wordt ook wel maple of ahorn siroop genoemd Komt van de esdoornboom in Canada Sap van de boom wordt ingekookt tot siroop Je kan er heel goed mee bakken en is erg lekker over pannenkoeken,"['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Frisdrank sappen koffie thee Ontbijtgranen en beleg
+ Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Zoet broodbeleg
+ Bakproducten Koffie Basis bakbenodigdheden Koffieverrijkers
+ Ahornsiroop Koffiefilters suiker",maple joe [SEP] ahornsiroop [SEP] De natuurlijke zoetheid van de natuur. Esdoorn siroop wordt ook wel maple of ahorn siroop genoemd Komt van de esdoornboom in Canada Sap van de boom wordt ingekookt tot siroop Je kan er heel goed mee bakken en is erg lekker over pannenkoeken [SEP] honing,maple joe ahornsiroop honing,null,null,null
+0.08727434,12612,475226,Oatly!,Haverdrank halfvol bio,"Oatly biologische, halfvolle haverdrank. Lekker en romig van smaak 100% plantaardig Geheel vrij van soja en zuivel 100% biologisch","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' 'biologisch'
+ ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij']","Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Plantaardige drinks Plantaardige zuivel alternatieven Haverdrink","oatly! [SEP] haverdrank halfvol bio [SEP] Oatly biologische, halfvolle haverdrank. Lekker en romig van smaak 100% plantaardig Geheel vrij van soja en zuivel 100% biologisch [SEP] plantaardig drink",oatly! haverdrank halfvol bio plantaardig drink,null,null,null
+0.087248504,14685,190712,AH Biologisch,Chocolade paaseitjes melk,"Geniet van het lekkerste dat de natuur te bieden heeft. Deze biologische melkchocolade eitjes zijn speciaal voor pasen. Heerlijk voor bij de koffie of thee. Biologische chocolade Gemaakt van Belgische chocolade Duurzame Fairtrade gecertificeerde suiker, cacao en vanille","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'biologisch' 'fairtrade' 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Paaseitjes Melk paaseitjes","ah biologisch [SEP] chocolade paaseitjes melk [SEP] Geniet van het lekkerste dat de natuur te bieden heeft. Deze biologische melkchocolade eitjes zijn speciaal voor pasen. Heerlijk voor bij de koffie of thee. Biologische chocolade Gemaakt van Belgische chocolade Duurzame Fairtrade gecertificeerde suiker, cacao en vanille [SEP] pasen paaseitjes",ah biologisch chocolade paaseitjes melk pasen paaseitjes,null,null,null
+0.08700298,4924,190710,AH Biologisch,Chocolade paaseitjes extra puur,"Geniet van het lekkerste dat de natuur te bieden heeft. Deze biologische chocolade eitjes zijn speciaal voor pasen. Bereid met extra pure 70% cacao chocolade. Heerlijk voor bij de koffie of thee. Biologische chocolade Gemaakt van Belgische chocolade Duurzame Fairtrade gecertificeerde suiker, cacao en vanille","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'biologisch' 'fairtrade' 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Paaseitjes Pure paaseitjes","ah biologisch [SEP] chocolade paaseitjes extra puur [SEP] Geniet van het lekkerste dat de natuur te bieden heeft. Deze biologische chocolade eitjes zijn speciaal voor pasen. Bereid met extra pure 70% cacao chocolade. Heerlijk voor bij de koffie of thee. Biologische chocolade Gemaakt van Belgische chocolade Duurzame Fairtrade gecertificeerde suiker, cacao en vanille [SEP] pasen paaseitjes",ah biologisch chocolade paaseitjes extra puur pasen paaseitjes,null,null,null
+0.08644822,18549,516244,AH,Pasen re-usable glas kuiken,Non food paasassortiment. Leuk voor op de paastafel,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Servies,ah [SEP] pasen re-usable glas kuiken [SEP] Non food paasassortiment. Leuk voor op de paastafel [SEP] pasen in out,ah pasen re-usable glas kuiken pasen in out,null,null,null
+0.08630489,9828,502983,AH,Ongezoet hazelnoot drink,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Plantaardige drinks Plantaardige zuivel alternatieven
+ Amandel cashewdrink",ah [SEP] ongezoet hazelnoot drink [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] plantaardig drink,ah ongezoet hazelnoot drink plantaardig drink,null,null,null
+0.08630316,11530,190711,AH Biologisch,Chocolade paaseitjes wit,"Geniet van het lekkerste dat de natuur te bieden heeft. Deze biologische witte chocolade eitjes zijn speciaal voor pasen. Heerlijk voor bij de koffie of thee. Biologische chocolade Gemaakt van Belgische chocolade Duurzame Fairtrade gecertificeerde suiker, cacao en vanille","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'biologisch' 'fairtrade' 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Paaseitjes Witte paaseitjes","ah biologisch [SEP] chocolade paaseitjes wit [SEP] Geniet van het lekkerste dat de natuur te bieden heeft. Deze biologische witte chocolade eitjes zijn speciaal voor pasen. Heerlijk voor bij de koffie of thee. Biologische chocolade Gemaakt van Belgische chocolade Duurzame Fairtrade gecertificeerde suiker, cacao en vanille [SEP] pasen paaseitjes",ah biologisch chocolade paaseitjes wit pasen paaseitjes,null,null,null
+0.08588748,13863,512959,AH Excellent,Vogelnestjes,Vrolijke melkchocolade vogelnestjes Met gekleurde decoratie eitjes,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Chocolade paasfiguren",ah excellent [SEP] vogelnestjes [SEP] Vrolijke melkchocolade vogelnestjes Met gekleurde decoratie eitjes [SEP] pasen  chocoloade,ah excellent vogelnestjes pasen  chocoloade,null,null,null
+0.08587288,7264,541509,Leev,Rosemary lentil protein cakes,Biologische rozemarijn linzenwafels met veel vezels en hoog eiwitgehalte. Biologisch  en  glutenvrij Rijk aan proteine en energie Geen suiker toegevoegd,"['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' 'biologisch'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score A'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Bewuste voeding Tussendoortjes Glutenvrij
+ Tussendoortjes (glutenvrij) Koek chips tussendoortjes
+ Glutenvrije tussendoortjes",leev [SEP] rosemary lentil protein cakes [SEP] Biologische rozemarijn linzenwafels met veel vezels en hoog eiwitgehalte. Biologisch  en  glutenvrij Rijk aan proteine en energie Geen suiker toegevoegd [SEP] bio ontbijt en lunch,leev rosemary lentil protein cakes bio ontbijt en lunch,null,null,null
+0.08503356,10850,514506,AH,Kaarsjes,Kaarsjes. Kaarsjes om je verjaardagstaart mee te versieren Leuk als iemand jarig is,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Feestje gelegenheid Taartversiering,ah [SEP] kaarsjes [SEP] Kaarsjes. Kaarsjes om je verjaardagstaart mee te versieren Leuk als iemand jarig is [SEP] versiering,ah kaarsjes versiering,null,null,null
+0.08488731,13132,546254,Kitkat,Mini eggs caramel,"Nestle Kitkat chocolade paaseitjes karamelsmaak zijn gemaakt van heerlijke melkchocolade met een vulling van karamelsmaak met krokante granen. Have a break, have a kitkat. Ideaal voor je ultieme pasen break Deze verpakking bevat 5 porties van verrukkelijke paaseitjes Elke portie (1 portie = 2 eitjes) bevat 96 kcal Rainforest alliance gecertificeerde cacao, ingekocht via Nestle cocoa plan","['Geen lactose' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Paaseitjes Melk paaseitjes","kitkat [SEP] mini eggs caramel [SEP] Nestle Kitkat chocolade paaseitjes karamelsmaak zijn gemaakt van heerlijke melkchocolade met een vulling van karamelsmaak met krokante granen. Have a break, have a kitkat. Ideaal voor je ultieme pasen break Deze verpakking bevat 5 porties van verrukkelijke paaseitjes Elke portie (1 portie = 2 eitjes) bevat 96 kcal Rainforest alliance gecertificeerde cacao, ingekocht via Nestle cocoa plan [SEP] pasen  chocoloade",kitkat mini eggs caramel pasen  chocoloade,null,null,null
+0.084864065,17354,550579,AH,Flock kuiken geel,AH Flock kuiken in geel. Bevat 6 stuks Leuke decoratie tijdens Pasen!,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Paasdecoratie,ah [SEP] flock kuiken geel [SEP] AH Flock kuiken in geel. Bevat 6 stuks Leuke decoratie tijdens Pasen! [SEP] pasen in out,ah flock kuiken geel pasen in out,null,null,null
+0.083910644,14029,197356,Kroon,Fijne leverworst,Kroon fijne leverworst bevat een hoog leverpercentage wat duidelijk in de smaak tot uitdrukking komt. Top kwaliteit van Kroon dit product is een ware delicatesse Verukkelijk op brood en toast Gezond en ijzerrijk product,"['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Voorverpakt Leverworst leverkaas Leverworst
+ Stuk leverworst (voorverpakt)",kroon [SEP] fijne leverworst [SEP] Kroon fijne leverworst bevat een hoog leverpercentage wat duidelijk in de smaak tot uitdrukking komt. Top kwaliteit van Kroon dit product is een ware delicatesse Verukkelijk op brood en toast Gezond en ijzerrijk product [SEP] leverworst stukje hb,kroon fijne leverworst leverworst stukje hb,null,null,null
+0.08391064,6145,197301,Kroon,Fijne leverworst,Kroon fijne leverworst bevat een hoog leverpercentage wat duidelijk in de smaak tot uitdrukking komt. Top kwaliteit van Kroon dit product is een ware delicatesse Verukkelijk op brood en toast Gezond en ijzerrijk product,"['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Voorverpakt Leverworst leverkaas Leverworst
+ Stuk leverworst (voorverpakt)",kroon [SEP] fijne leverworst [SEP] Kroon fijne leverworst bevat een hoog leverpercentage wat duidelijk in de smaak tot uitdrukking komt. Top kwaliteit van Kroon dit product is een ware delicatesse Verukkelijk op brood en toast Gezond en ijzerrijk product [SEP] leverworst stukje hb,kroon fijne leverworst leverworst stukje hb,null,null,null
+0.08362224,754,168655,Zonnatura,Maïswafels,"Deze zijn samengesteld uit pofmaïs en zilvervliesrijst van biologische teelt, met een vleugje zeezout. 100% biologisch Bevatten per stuk 27 kcal Bron van vezels.","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Tussendoortjes Maiswafels
+ Crackers rijstwafels","zonnatura [SEP] maïswafels [SEP] Deze zijn samengesteld uit pofmaïs en zilvervliesrijst van biologische teelt, met een vleugje zeezout. 100% biologisch Bevatten per stuk 27 kcal Bron van vezels. [SEP] bio ontbijt en lunch",zonnatura maïswafels bio ontbijt en lunch,null,null,null
+0.08339176,12629,515725,AH,Plantaardig dessert chocolade mousse,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Zuivel plantaardig en eieren Plantaardige zuivel alternatieven
+ Plantaardige toetjes",ah [SEP] plantaardig dessert chocolade mousse [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] plantaardig desserts,ah plantaardig dessert chocolade mousse plantaardig desserts,null,null,null
+0.08330502,6081,187581,AH,Varkensgehakt schnitzel sate,"Gehaktschnitzel gevuld met heerlijk zoete satésaus, een topper onder kids! Varkensvlees met Beter Leven Keurmerk Serveer met aardappelen en groenten Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen mosterd' 'Vegetarisch']","Vlees kip vis vega Vlees Varkensvlees Schnitzel cordon bleu
+ Schnitzel","ah [SEP] varkensgehakt schnitzel sate [SEP] Gehaktschnitzel gevuld met heerlijk zoete satésaus, een topper onder kids! Varkensvlees met Beter Leven Keurmerk Serveer met aardappelen en groenten Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] schnitzel",ah varkensgehakt schnitzel sate schnitzel,null,null,null
+0.08311869,20443,550558,AH,Vogel op clip fuchsia,AH Vogels op een clip. Set van 2 Leuke decoratie tijdens Pasen!,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Paasdecoratie,ah [SEP] vogel op clip fuchsia [SEP] AH Vogels op een clip. Set van 2 Leuke decoratie tijdens Pasen! [SEP] pasen in out,ah vogel op clip fuchsia pasen in out,null,null,null
+0.08282316,1137,469387,AH Biologisch,Hazelnoten,"De hazelnoten zijn ongebrand, bevatten goede onverzadigde vetzuren en zijn een bron van eiwitten en vezels. Gehakt en geroosterd heerlijk door salades, yoghurt of als topping over een pasta. Van nature rijk aan magnesium, vitamine e, fosfor en onverzadigde vetten De schijf van 5 adviseert een handje noten per dag Ideaal voor in salades, yoghurt en zelfs smoothies","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'biologisch' 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Pasta rijst en wereldkeuken Bewuste voeding
+ Soepen sauzen kruiden olie Snoep koek chips en chocolade Noten
+ Wholefoods Garnering Bakproducten Zaden en pitten
+ Noten pittengarnering Garneringen toevoegingen Zaden (diverse)","ah biologisch [SEP] hazelnoten [SEP] De hazelnoten zijn ongebrand, bevatten goede onverzadigde vetzuren en zijn een bron van eiwitten en vezels. Gehakt en geroosterd heerlijk door salades, yoghurt of als topping over een pasta. Van nature rijk aan magnesium, vitamine e, fosfor en onverzadigde vetten De schijf van 5 adviseert een handje noten per dag Ideaal voor in salades, yoghurt en zelfs smoothies [SEP] bio noten",ah biologisch hazelnoten bio noten,null,null,null
+0.08265683,5781,193233,AH Biologisch,Pure chocolade met hazelnoot,Gemaakt van Delicata chocolade Met geroosterde hazelnoot,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'fairtrade' 'biologisch' 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Chocoladerepen met noten Pure chocolade repen
+ Pure chocolade met noten",ah biologisch [SEP] pure chocolade met hazelnoot [SEP] Gemaakt van Delicata chocolade Met geroosterde hazelnoot [SEP] repen en tabletten,ah biologisch pure chocolade met hazelnoot repen en tabletten,null,null,null
+0.08254523,4526,479183,Nocilla,Hazelnootpasta duo 0%,"Nocilla twee kleuren melk- en chocopasta met hazelnoten en zonder palmolie, dit zorgt voor minder verzadigde vetten in jouw favoriete zoet broodbeleg. Smeren maar! Twee kleuren melk- en chocolade pasta met hazelnoten Gezoet met stevia Palmolie vrij Glutenvrij","['Geen lactose' 'Laag zout' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen eieren' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Ontbijtgranen en beleg Zoet broodbeleg Hazelnoot- en chocoladepasta
+ Hazelnootpasta","nocilla [SEP] hazelnootpasta duo 0% [SEP] Nocilla twee kleuren melk- en chocopasta met hazelnoten en zonder palmolie, dit zorgt voor minder verzadigde vetten in jouw favoriete zoet broodbeleg. Smeren maar! Twee kleuren melk- en chocolade pasta met hazelnoten Gezoet met stevia Palmolie vrij Glutenvrij [SEP] pasta's",nocilla hazelnootpasta duo 0% pasta's,null,null,null
+0.081875116,5228,533234,AH,Vegan visfilet,"Veganistische visfilet met een malse structuur in een krokant jasje. Net zo lekker als en met de smaak en bite van vis, maar dan plantaardig. 100% plantaardig Bron van vezels Voor de vleeseter, vegetarier en veganist Gemakkelijk en snel te bereiden","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']",Vlees kip vis vega Vegetarisch en vegan Visvervangers,"ah [SEP] vegan visfilet [SEP] Veganistische visfilet met een malse structuur in een krokant jasje. Net zo lekker als en met de smaak en bite van vis, maar dan plantaardig. 100% plantaardig Bron van vezels Voor de vleeseter, vegetarier en veganist Gemakkelijk en snel te bereiden [SEP] vis",ah vegan visfilet vis,null,null,null
+0.08179046,12935,492163,AH Excellent,Marsepeinen paaseitjes,Heerlijke paaseitjes van marsepein. Met amandelmarsepein Lekker voor bij de koffie of thee,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Paaseitjes Mix paaseitjes",ah excellent [SEP] marsepeinen paaseitjes [SEP] Heerlijke paaseitjes van marsepein. Met amandelmarsepein Lekker voor bij de koffie of thee [SEP] pasen overig,ah excellent marsepeinen paaseitjes pasen overig,null,null,null
+0.08173722,991,515151,De Kleine Keuken,Biologische chocopasta met hazelnoot,"Deze heerlijke chocopasta is gemaakt met kikkererwten waardoor het maar liefst 60% minder suiker bevat dan andere chocopasta's. Echt lekker, probeer deze Kids favoriet zelf!. 100% biologisch 60% minder suiker Zonder palmvet, melkpoeder en kunstmatige toevoegingen Vegan","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch'
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zoet broodbeleg Hazelnoot- en chocoladepasta
+ Hazelnootpasta","de kleine keuken [SEP] biologische chocopasta met hazelnoot [SEP] Deze heerlijke chocopasta is gemaakt met kikkererwten waardoor het maar liefst 60% minder suiker bevat dan andere chocopasta's. Echt lekker, probeer deze Kids favoriet zelf!. 100% biologisch 60% minder suiker Zonder palmvet, melkpoeder en kunstmatige toevoegingen Vegan [SEP] baby ontbijt",de kleine keuken biologische chocopasta met hazelnoot baby ontbijt,null,null,null
+0.0817032,8478,122534,AH,Ossenworst,Smaak: Rauw en licht 						  gekruid Vleessoort: Rundvlees Tip/Weetje: Ossenworst smaakt 						  heerlijk op brood(jes) of als snack op een toastje. De ossenworst is een 						  lekkere vleeswaar bij een lunch en/ of brunch maar is ook prima te gebruiken 						  als onderdeel van een gourmet- en/ of steengrillschotel.,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Ossenworst Stuk ossenworst (versafdeling)",ah [SEP] ossenworst [SEP] Smaak: Rauw en licht 						  gekruid Vleessoort: Rundvlees Tip/Weetje: Ossenworst smaakt 						  heerlijk op brood(jes) of als snack op een toastje. De ossenworst is een 						  lekkere vleeswaar bij een lunch en/ of brunch maar is ook prima te gebruiken 						  als onderdeel van een gourmet- en/ of steengrillschotel. [SEP] ossenworst,ah ossenworst ossenworst,null,null,null
+0.08142631,3766,498775,Nakd.,Almond macaroon fruit- & notenrepen,"Alleen fruit en noten samengeperst, zonder te verwarmen, in een overheerlijke en natuurlijke Raw bar. Nakd. Almond macaroon repen zijn simpel, verantwoord en vooral heel erg lekker! Verpakking bevat 4 repen a 35 gram. Enkel fruit en noten, niets anders Je dagelijkse gezonde snack, ideaal voor onderweg en als tussendoortje Gemaakt van 100% natuurlijke ingredienten, geen toegevoegde suikers Glutenvrij, zuivelvrij, veganistisch en koosjer","['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Tussendoortjes
+ Snoep koek chips en chocolade Fruit noten mueslireep Fruitrepen
+ Koek","nakd. [SEP] almond macaroon fruit- & notenrepen [SEP] Alleen fruit en noten samengeperst, zonder te verwarmen, in een overheerlijke en natuurlijke Raw bar. Nakd. Almond macaroon repen zijn simpel, verantwoord en vooral heel erg lekker! Verpakking bevat 4 repen a 35 gram. Enkel fruit en noten, niets anders Je dagelijkse gezonde snack, ideaal voor onderweg en als tussendoortje Gemaakt van 100% natuurlijke ingredienten, geen toegevoegde suikers Glutenvrij, zuivelvrij, veganistisch en koosjer [SEP] fruitbasis",nakd. almond macaroon fruit- & notenrepen fruitbasis,null,null,null
+0.08098726,1952,474617,AH,Plantaardig alternatief ongezoet amandel,,"['Geen lactose' 'Geen melk' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Zuivel plantaardig en eieren Plantaardige zuivel alternatieven
+ Plantaardige yoghurt Plantaardige yoghurt met smaak",ah [SEP] plantaardig alternatief ongezoet amandel [SEP]  [SEP] plantaardig eet,ah plantaardig alternatief ongezoet amandel plantaardig eet,null,null,null
+0.080954045,11112,385085,Brouwerij 't IJ,PaasIJ,Paasij is een vroeg voorjaarsbier dat elk jaar de lente inluidt. Zachtkruidig  en  fris,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']",Bier en aperitieven Speciaalbier Bier Bockbier Lentebok,brouwerij 't ij [SEP] paasij [SEP] Paasij is een vroeg voorjaarsbier dat elk jaar de lente inluidt. Zachtkruidig  en  fris [SEP] craft,brouwerij 't ij paasij craft,null,null,null
+0.08086843,16604,189443,Prioderm,Luizen- & netenkam,"Prioderm Luizen- en netenkam voor het controleren op en verwijderen van hoofdluizen en neten. Meer info? Bekijk hieronder de productinformatie Persoonlijk advies nodig? Bel gratis: 0800-4040017. Wij zijn bereikbaar van maandag t/m vrijdag van 09.00 - 17.00 uur. Of kijk op http://www.thuisarts.nl/ Wij adviseren u alleen tot aanschaf en gebruik van een zelfzorgmedicijn over te gaan indien u goed geinformeerd bent. De informatie op ah.nl vervangt niet het individueel advies van een arts, apotheker of drogist. Voor de volledige consumenten-informatie van een zelfzorgmedicijn, verwijzen wij u naar de bijsluiter van de fabrikant, zoals goedgekeurd door het College ter Beoordeling van Geneesmiddelen. AH biedt deze verwijzingen, zoals het CBG, als service aan. AH is niet verantwoordelijk voor de juistheid van de aldaar aangeboden informatie. Er geldt voor dit product een maximum van 3 stuks per bestelling.",[],"Drogisterij Baby en kind Gezondheid Baby en kind gezondheid
+ Zelfzorg Luizen Zelfzorg kind","prioderm [SEP] luizen- & netenkam [SEP] Prioderm Luizen- en netenkam voor het controleren op en verwijderen van hoofdluizen en neten. Meer info? Bekijk hieronder de productinformatie Persoonlijk advies nodig? Bel gratis: 0800-4040017. Wij zijn bereikbaar van maandag t/m vrijdag van 09.00 - 17.00 uur. Of kijk op http://www.thuisarts.nl/ Wij adviseren u alleen tot aanschaf en gebruik van een zelfzorgmedicijn over te gaan indien u goed geinformeerd bent. De informatie op ah.nl vervangt niet het individueel advies van een arts, apotheker of drogist. Voor de volledige consumenten-informatie van een zelfzorgmedicijn, verwijzen wij u naar de bijsluiter van de fabrikant, zoals goedgekeurd door het College ter Beoordeling van Geneesmiddelen. AH biedt deze verwijzingen, zoals het CBG, als service aan. AH is niet verantwoordelijk voor de juistheid van de aldaar aangeboden informatie. Er geldt voor dit product een maximum van 3 stuks per bestelling. [SEP] ",prioderm luizen- & netenkam ,null,null,null
+0.080795825,5640,437495,AH,Vegan schnitzel,Net zo lekker als een gewone schnitzel maar dan plantaardig. Deze vegetarische schnitzel is een krokant gepaneerde vleesvervanger die heerlijk smaakt bij een warme maaltijd. Rijk aan eiwit Bron van Vitamine B12 Bron van ijzer Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Geen selderij']","Vlees kip vis vega Vegetarisch en vegan Vleesvervangers
+ Vegetarische schnitzel",ah [SEP] vegan schnitzel [SEP] Net zo lekker als een gewone schnitzel maar dan plantaardig. Deze vegetarische schnitzel is een krokant gepaneerde vleesvervanger die heerlijk smaakt bij een warme maaltijd. Rijk aan eiwit Bron van Vitamine B12 Bron van ijzer Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] schnitzels,ah vegan schnitzel schnitzels,null,null,null
+0.0804407,3795,475225,Oatly!,Haverdrank halfvol,"Oatly halfvolle haverdrank. Het is romig en heeft een gladde, subtiele smaak 100% plantaardig Geheel vrij van soja en zuivel Deze haverdrank werkt trouwens ook heel goed in warme koffie /maaltijden","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij']","Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Plantaardige drinks Plantaardige zuivel alternatieven Haverdrink","oatly! [SEP] haverdrank halfvol [SEP] Oatly halfvolle haverdrank. Het is romig en heeft een gladde, subtiele smaak 100% plantaardig Geheel vrij van soja en zuivel Deze haverdrank werkt trouwens ook heel goed in warme koffie /maaltijden [SEP] plantaardig drink",oatly! haverdrank halfvol plantaardig drink,null,null,null
+0.080399334,1857,163548,AH,Saksische leverworst,varkensvlees Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Voorverpakt Leverworst leverkaas Leverworst
+ Stuk leverworst (voorverpakt)",ah [SEP] saksische leverworst [SEP] varkensvlees Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] leverworst smeerbaar hb,ah saksische leverworst leverworst smeerbaar hb,null,null,null
+0.080366716,2011,451673,Zonnatura,Vegetarische pat naturel,Biologische vegetarische pate naturel. 100% biologisch Vegetarisch en vegan Ideaal voor een dagje zonder vlees,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Pate Vegetarische vleeswaren Pate - vegetarisch",zonnatura [SEP] vegetarische pat naturel [SEP] Biologische vegetarische pate naturel. 100% biologisch Vegetarisch en vegan Ideaal voor een dagje zonder vlees [SEP] bio ontbijt en lunch,zonnatura vegetarische pat naturel bio ontbijt en lunch,null,null,null
+0.080216415,4021,492041,AH Excellent,Paas cakejes,"Een echte lentetopper! Smeuige cakejes met een gele fondantlaag. Lekkere cakejes met gele fondant Met een vrolijke paasopdruk Koffie of thee, daar hoort iets lekkers bij Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Paaslekkernijen Koek Paaskoeken,"ah excellent [SEP] paas cakejes [SEP] Een echte lentetopper! Smeuige cakejes met een gele fondantlaag. Lekkere cakejes met gele fondant Met een vrolijke paasopdruk Koffie of thee, daar hoort iets lekkers bij Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] pasen koek",ah excellent paas cakejes pasen koek,null,null,null
+0.08016707,20018,550026,Craft Lab,Neon verft set Pasen,Maak zelf de mooiste creacties met deze verftubes in neon kleuren Maak zelf de mooiste creacties Voor een creactieve bezigheid,['Laag zout' 'Laag vet' 'Laag suiker'],"Koken tafelen vrije tijd Paas knutsels speelgoed
+ Hobby vrije tijd Paasversiering & decoratie
+ Tekenen verven knutselen Vingerverf waterverf",craft lab [SEP] neon verft set pasen [SEP] Maak zelf de mooiste creacties met deze verftubes in neon kleuren Maak zelf de mooiste creacties Voor een creactieve bezigheid [SEP] pasen in out,craft lab neon verft set pasen pasen in out,null,null,null
+0.07997462,1431,475245,AH Biologisch,5-granenmix,"Een heerlijke vlokkenmix van haver, gerst, tarwe en rijst met gepofte quinoa. Biologisch Vezelrijk Bron van eiwitten Zonder toegevoegde suikers","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen selderij']","Ontbijtgranen en beleg Bewuste voeding Ontbijtgranen Wholefoods
+ Granen en melen Ontbijtverrijkers (toppings) Graanvlokken gepoft","ah biologisch [SEP] 5-granenmix [SEP] Een heerlijke vlokkenmix van haver, gerst, tarwe en rijst met gepofte quinoa. Biologisch Vezelrijk Bron van eiwitten Zonder toegevoegde suikers [SEP] bio ontbijt en lunch",ah biologisch 5-granenmix bio ontbijt en lunch,null,null,null
+0.07995489,18423,507908,Smaakt,Vegan eivervanger,"Biologische, vegan vervanger voor ei, te gebruiken in verschillende lekkere baksels. Meng de eivervanger met bruisend water voor een perfect resultaat. Biologisch Vegan Glutenvrij Rijk aan eiwitten en vezels","['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Vegetarisch' ""Geen pinda's"" 'biologisch' 'Laag vet'
+ 'Geen mosterd' 'Geen lupine' 'Geen lactose' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Basis bakbenodigdheden Bindmiddel","smaakt [SEP] vegan eivervanger [SEP] Biologische, vegan vervanger voor ei, te gebruiken in verschillende lekkere baksels. Meng de eivervanger met bruisend water voor een perfect resultaat. Biologisch Vegan Glutenvrij Rijk aan eiwitten en vezels [SEP] bio maaltijden",smaakt vegan eivervanger bio maaltijden,null,null,null
+0.079809144,14549,493487,Zonnatura,Oat & go fabulous fruit,"Op zoek naar een lekkere tussendoorreep om nog even door te kunnen? Ga dan voor Zonnatura¿s Oat & Go. Helemaal vegan en gemaakt van volkoren haver, echte clean fuel! 100% biologisch Vegan Clean fuel 32g carbs per reep","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Bewuste voeding Snoep koek chips en chocolade Koek Suikerbewust
+ Koek (suikerbewust)","zonnatura [SEP] oat & go fabulous fruit [SEP] Op zoek naar een lekkere tussendoorreep om nog even door te kunnen? Ga dan voor Zonnatura¿s Oat & Go. Helemaal vegan en gemaakt van volkoren haver, echte clean fuel! 100% biologisch Vegan Clean fuel 32g carbs per reep [SEP] bio tussendoor",zonnatura oat & go fabulous fruit bio tussendoor,null,null,null
+0.07979089,12060,462463,AH,Haverdrink ongezoet,"Een 100% plantaardig en van nature lactosevrij alternatief voor zuivel. Zonder toegevoegde suikers en laag in verzadigde vetten. Je proeft enkel de zachte zoetheid afkomstig van de haver. 100% veganistisch Lactosevrij Zonder toegevoegde suikers Rijk aan vitamine b2, b12, d en calcium Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij']","Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Plantaardige drinks Plantaardige zuivel alternatieven Haverdrink","ah [SEP] haverdrink ongezoet [SEP] Een 100% plantaardig en van nature lactosevrij alternatief voor zuivel. Zonder toegevoegde suikers en laag in verzadigde vetten. Je proeft enkel de zachte zoetheid afkomstig van de haver. 100% veganistisch Lactosevrij Zonder toegevoegde suikers Rijk aan vitamine b2, b12, d en calcium Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] plantaardig drink",ah haverdrink ongezoet plantaardig drink,null,null,null
+0.079024374,16645,33027,AH,Boerenleverworst,"Grove gekookte leverworst, gekruid met o.a. kruidnagel.","['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Voorverpakt Leverworst leverkaas Leverworst
+ Stuk leverworst (voorverpakt)","ah [SEP] boerenleverworst [SEP] Grove gekookte leverworst, gekruid met o.a. kruidnagel. [SEP] leverworst stukje hb",ah boerenleverworst leverworst stukje hb,null,null,null
+0.0786725,3986,61007,AH Biologisch,Halfvolle melk,"Halfvolle melk van koeien die grazen op weilanden die alleen met natuurlijke middelen worden behandeld en biologisch voer krijgen Om zo te drinken maar ook voor toetjes, bij het bakken of voor havermout Goed alternatief voor volle melk","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Halfvolle melk,"ah biologisch [SEP] halfvolle melk [SEP] Halfvolle melk van koeien die grazen op weilanden die alleen met natuurlijke middelen worden behandeld en biologisch voer krijgen Om zo te drinken maar ook voor toetjes, bij het bakken of voor havermout Goed alternatief voor volle melk [SEP] halfvolle melk en magere melk",ah biologisch halfvolle melk halfvolle melk en magere melk,null,null,null
+0.07848156,4003,130455,AH,Pannenkoeken naturel,Traditionele receptuur Zonder toegevoegd suiker Makkelijk en snel te bereiden,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score C'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen selderij'
+ 'Geen eieren']",Salades pizza maaltijden Pannenkoeken poffertjes Pannenkoeken,ah [SEP] pannenkoeken naturel [SEP] Traditionele receptuur Zonder toegevoegd suiker Makkelijk en snel te bereiden [SEP] pannenkoeken en poffertjes,ah pannenkoeken naturel pannenkoeken en poffertjes,null,null,null
+0.07842133,5044,512962,Kitkat,Easter break paashaasjes mini,"Nestle Kitkat chocolade konijntjes multipack bestaat uit 6 konijntjes gemaakt van heerlijke melkchocolade met een romige vulling met krokante granen- en wafelstukjes. Have a break, have a kitkat. Ideaal voor je ultieme pasen break Deze verpakking bevat 6 porties van verrukkelijke paashaasjes Elke portie (1 portie = 11g) bevat 59 kcal Rainforest alliance gecertificeerde cacao, ingekocht via Nestle cocoa plan","['Geen lactose' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Chocolade paasfiguren","kitkat [SEP] easter break paashaasjes mini [SEP] Nestle Kitkat chocolade konijntjes multipack bestaat uit 6 konijntjes gemaakt van heerlijke melkchocolade met een romige vulling met krokante granen- en wafelstukjes. Have a break, have a kitkat. Ideaal voor je ultieme pasen break Deze verpakking bevat 6 porties van verrukkelijke paashaasjes Elke portie (1 portie = 11g) bevat 59 kcal Rainforest alliance gecertificeerde cacao, ingekocht via Nestle cocoa plan [SEP] pasen  chocoloade",kitkat easter break paashaasjes mini pasen  chocoloade,null,null,null
+0.07828922,11986,469386,AH Biologisch,Cashewnoten ongebrand,"De cashewnoten zijn ongebrand en hebben een zachtromige smaak. Lekker als tussendoortje op het werk, als snack bij de borrel, een picknick in het park, als ingredient in de maaltijd of on-the-go. Van nature rijk aan ijzer, zink en onverzadigde vetten Een handje noten per dag draagt bij aan een gezond voedingspatroon Ideaal voor in salades, yoghurt en zelfs smoothies","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch'
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Ontbijtgranen Wholefoods
+ Noten (superfoods) Ontbijtverrijkers (toppings) Noten en fruitmix","ah biologisch [SEP] cashewnoten ongebrand [SEP] De cashewnoten zijn ongebrand en hebben een zachtromige smaak. Lekker als tussendoortje op het werk, als snack bij de borrel, een picknick in het park, als ingredient in de maaltijd of on-the-go. Van nature rijk aan ijzer, zink en onverzadigde vetten Een handje noten per dag draagt bij aan een gezond voedingspatroon Ideaal voor in salades, yoghurt en zelfs smoothies [SEP] bio noten",ah biologisch cashewnoten ongebrand bio noten,null,null,null
+0.07784678,2201,227985,Smaakt,Volkoren havermeel,"Biologisch Havermeel Haver kan verwerkt worden in koeken, havermout en ontbijtgranen. Ook kunt u zelf brood maken van havermeel. Biologisch Zonder toevoegingen niet genetisch gemanipuleerd","['Geen gluten' 'Geen melk' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' ""Geen pinda's"" 'biologisch' 'Laag vet' 'Geen mosterd'
+ 'Geen lupine' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Wholefoods Basis bakbenodigdheden Granen en melen
+ Basismeel bloem Melen (superfood)","smaakt [SEP] volkoren havermeel [SEP] Biologisch Havermeel Haver kan verwerkt worden in koeken, havermout en ontbijtgranen. Ook kunt u zelf brood maken van havermeel. Biologisch Zonder toevoegingen niet genetisch gemanipuleerd [SEP] bio melen en bakken",smaakt volkoren havermeel bio melen en bakken,null,null,null
+0.07782946,12458,520092,Oatly!,Barista edition haver,Oatly Haverdrank Barista Edition nu ook gekoeld & en net zo romig van smaak! 100% plantaardig Geheel vrij van soja en zuivel Perfect opschuimbaar & smaakt fantastisch in je (ijs)koffie.,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij']","Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Plantaardige drinks Plantaardige zuivel alternatieven Haverdrink",oatly! [SEP] barista edition haver [SEP] Oatly Haverdrank Barista Edition nu ook gekoeld & en net zo romig van smaak! 100% plantaardig Geheel vrij van soja en zuivel Perfect opschuimbaar & smaakt fantastisch in je (ijs)koffie. [SEP] plantaardig drink,oatly! barista edition haver plantaardig drink,null,null,null
+0.07757418,3849,519785,Natrue,Barista oat drink,Heerlijke haverdrank ideeal te combineren met je koffie! Slechts 4 ingredienten Geen toevoegingen Glutenvrij Het water komt uit de bergen,"['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']","Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Plantaardige drinks Plantaardige zuivel alternatieven Haverdrink",natrue [SEP] barista oat drink [SEP] Heerlijke haverdrank ideeal te combineren met je koffie! Slechts 4 ingredienten Geen toevoegingen Glutenvrij Het water komt uit de bergen [SEP] barista,natrue barista oat drink barista,null,null,null
+0.07751064,2973,546220,,Paashaasfiguur,Heerlijke chocolade Fijne en heerlijke smaak Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Chocolade paashaas", [SEP] paashaasfiguur [SEP] Heerlijke chocolade Fijne en heerlijke smaak Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] pasen  chocoloade, paashaasfiguur pasen  chocoloade,null,null,null
+0.07750425,4278,46302,Honig,Basis voor lasagnesaus tradizionale,"Met de Honig basis voor lasagnesaus Tradizionale zet je snel een heerlijke lasagne op tafel. Lasagnesaus Tradizionale voor 3 a 4 personen Bereidingstijd: 50 minuten inclusief oventijd Zelf toevoegen: halfvolle melk, gehakt, groentepakket, lasagnebladen Varieer met je favoriete groenten","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen selderij'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch']","Pasta rijst en wereldkeuken Maaltijdpakketten mixen
+ Mediterrane keuken Maaltijdmixen Italiaanse keuken Italiaanse mix","honig [SEP] basis voor lasagnesaus tradizionale [SEP] Met de Honig basis voor lasagnesaus Tradizionale zet je snel een heerlijke lasagne op tafel. Lasagnesaus Tradizionale voor 3 a 4 personen Bereidingstijd: 50 minuten inclusief oventijd Zelf toevoegen: halfvolle melk, gehakt, groentepakket, lasagnebladen Varieer met je favoriete groenten [SEP] maaltijdmixen",honig basis voor lasagnesaus tradizionale maaltijdmixen,null,null,null
+0.077424884,10617,227593,AH,Ongebrande hazelnoten,"Hazelnoten met vlies hebben een krachtige, nootachtige smaak. Gehakt en geroosterd heerlijk door salades, yoghurt of als topping over een pasta. Bron van magnesium, fosfor, ijzer en vitamine B1 en rijk aan Vitamine E. De hazelnoot komt vooral voor in landen rond de Middellandse Zee. De hazelnoot groeit tegenwoordig in Turkije, Spanje, Italie en de VS Lekker in koekjes en gebak of als topping over een pasta De hazelnoot is een vrucht van de hazelaar, een grote heester die wel 3 tot 5 meter hoog kan worden","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Snoep koek chips en chocolade Noten Noten in zak
+ Hazelnoten (zakje)","ah [SEP] ongebrande hazelnoten [SEP] Hazelnoten met vlies hebben een krachtige, nootachtige smaak. Gehakt en geroosterd heerlijk door salades, yoghurt of als topping over een pasta. Bron van magnesium, fosfor, ijzer en vitamine B1 en rijk aan Vitamine E. De hazelnoot komt vooral voor in landen rond de Middellandse Zee. De hazelnoot groeit tegenwoordig in Turkije, Spanje, Italie en de VS Lekker in koekjes en gebak of als topping over een pasta De hazelnoot is een vrucht van de hazelaar, een grote heester die wel 3 tot 5 meter hoog kan worden [SEP] ongebrand zak",ah ongebrande hazelnoten ongebrand zak,null,null,null
+0.07731928,903,546257,Kinder,Mini eitjes hazelnoot,Kleine paaseitjes gemaakt van de vertrouwde Kinder chocolade. Vertrouwde Kinder chocolade in de vorm van een paaseitje Gevuld met een zachte hazelnootcreme,"['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Paaseitjes Melk paaseitjes",kinder [SEP] mini eitjes hazelnoot [SEP] Kleine paaseitjes gemaakt van de vertrouwde Kinder chocolade. Vertrouwde Kinder chocolade in de vorm van een paaseitje Gevuld met een zachte hazelnootcreme [SEP] pasen paaseitjes,kinder mini eitjes hazelnoot pasen paaseitjes,null,null,null
+0.07728421,20144,515405,AH,Tafellaken lente 138x220cm,Dit tafellaken is perfect voor een gezellige sfeer tijdens Pasen. Textiel uitstraling en voor eenmalig gebruik Afmeting: 138 x 220 cm Leuk om te combineren met de bijpassende servetten!,['Laag zout' 'Laag vet' 'Laag suiker'],"Koken tafelen vrije tijd Paasversiering & decoratie
+ Tafelversiering",ah [SEP] tafellaken lente 138x220cm [SEP] Dit tafellaken is perfect voor een gezellige sfeer tijdens Pasen. Textiel uitstraling en voor eenmalig gebruik Afmeting: 138 x 220 cm Leuk om te combineren met de bijpassende servetten! [SEP] pasen in out,ah tafellaken lente 138x220cm pasen in out,null,null,null
+0.07711449,4149,142438,AH,Pannenkoeken naturel voordeel,Traditionele receptuur Zonder toegevoegd suiker Makkelijk en snel te bereiden,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score C'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen selderij'
+ 'Geen eieren']",Salades pizza maaltijden Pannenkoeken poffertjes Pannenkoeken,ah [SEP] pannenkoeken naturel voordeel [SEP] Traditionele receptuur Zonder toegevoegd suiker Makkelijk en snel te bereiden [SEP] pannenkoeken en poffertjes,ah pannenkoeken naturel voordeel pannenkoeken en poffertjes,null,null,null
+0.07685667,20224,515410,AH,3-in-1 tafelaankleding Lente,De basis van een feestelijk gedekte tafel. En handig: met deze 3-in-1 tafelloper maak je ook een placemat en tete-a-tete. Afmeting: 40 x 480 cm Lente dessin Textiel uitstraling voor eenmalig gebruik Luxe basis voor de aankleding van je (paas)tafel,['Laag zout' 'Laag vet' 'Laag suiker'],"Koken tafelen vrije tijd Paasversiering & decoratie
+ Tafelversiering",ah [SEP] 3-in-1 tafelaankleding lente [SEP] De basis van een feestelijk gedekte tafel. En handig: met deze 3-in-1 tafelloper maak je ook een placemat en tete-a-tete. Afmeting: 40 x 480 cm Lente dessin Textiel uitstraling voor eenmalig gebruik Luxe basis voor de aankleding van je (paas)tafel [SEP] pasen in out,ah 3-in-1 tafelaankleding lente pasen in out,null,null,null
+0.07681403,5492,491911,Kitkat,Mini eggs,"Nestle Kitkat chocolade paaseitjes zijn gemaakt van heerlijke melkchocolade met een romige vulling van cacao met krokante rijst- en wafelstukjes. Have a break, have a kitkat. Ideaal voor je ultieme pasen break Deze verpakking bevat 5 porties van verrukkelijke paaseitjes Elke portie (1 portie = 2 eitjes) bevat 98 kcal Rainforest alliance gecertificeerde cacao, ingekocht via Nestle cocoa plan","['Geen lactose' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Paaseitjes Gevulde paaseitjes","kitkat [SEP] mini eggs [SEP] Nestle Kitkat chocolade paaseitjes zijn gemaakt van heerlijke melkchocolade met een romige vulling van cacao met krokante rijst- en wafelstukjes. Have a break, have a kitkat. Ideaal voor je ultieme pasen break Deze verpakking bevat 5 porties van verrukkelijke paaseitjes Elke portie (1 portie = 2 eitjes) bevat 98 kcal Rainforest alliance gecertificeerde cacao, ingekocht via Nestle cocoa plan [SEP] pasen  chocoloade",kitkat mini eggs pasen  chocoloade,null,null,null
+0.07665844,687,108655,AH Biologisch,Houdbare halfvolle melk,Halfvolle melk van koeien die grazen op weilanden die alleen met natuurlijke middelen worden behandeld en biologisch voer krijgen Lang houdbaar Goed alternatief voor volle melk,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Halfvolle melk,ah biologisch [SEP] houdbare halfvolle melk [SEP] Halfvolle melk van koeien die grazen op weilanden die alleen met natuurlijke middelen worden behandeld en biologisch voer krijgen Lang houdbaar Goed alternatief voor volle melk [SEP] halfvolle melk,ah biologisch houdbare halfvolle melk halfvolle melk,null,null,null
+0.076481834,14952,63837,Mascotte,Vloei original,Shag,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Tabak Vloei,mascotte [SEP] vloei original [SEP] Shag [SEP] toebehoren,mascotte vloei original toebehoren,null,null,null
+0.07595403,14276,467434,Smaakt,Hazelnootmeel,"De melen worden gemaakt van 100% procent gemalen hazelnoten zonder voorbehandeling. De melen zijn van nature glutenvrij en licht verteerbaar. Biologisch Vezelrijk Van nature glutenvrij `vrij van kunstmatige geur-, kleur- en smaakstoffen`","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'biologisch'
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Veganistisch' 'Laag zout' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren']","Pasta rijst en wereldkeuken Bewuste voeding Bakkerij en banket
+ Snoep koek chips en chocolade Zelf bakken Bakproducten
+ Wholefoods Basis bakbenodigdheden Granen en melen
+ Basismeel bloem Melen (superfood)","smaakt [SEP] hazelnootmeel [SEP] De melen worden gemaakt van 100% procent gemalen hazelnoten zonder voorbehandeling. De melen zijn van nature glutenvrij en licht verteerbaar. Biologisch Vezelrijk Van nature glutenvrij `vrij van kunstmatige geur-, kleur- en smaakstoffen` [SEP] bio melen en bakken",smaakt hazelnootmeel bio melen en bakken,null,null,null
+0.075895056,8224,493545,Valess,Schnitzel saté,"De Valess sate schnitzel is ongelofelijk lekker en ook nog eens vegetarisch. Knapperig van buiten met een heerlijk gekruide sate vulling van binnen. Een absolute favoriet om een avond mee te varieren! Vegetarisch Een heerlijk krokant jasje met een vulling van sate Lekker bij een nasi gerecht, of aardappelgerechten en groenten Makkelijk te bereiden in koekenpan, oven of airfryer","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen selderij'
+ 'Geen eieren']","Vlees kip vis vega Vegetarisch en vegan Vleesvervangers
+ Vegetarische schnitzel","valess [SEP] schnitzel saté [SEP] De Valess sate schnitzel is ongelofelijk lekker en ook nog eens vegetarisch. Knapperig van buiten met een heerlijk gekruide sate vulling van binnen. Een absolute favoriet om een avond mee te varieren! Vegetarisch Een heerlijk krokant jasje met een vulling van sate Lekker bij een nasi gerecht, of aardappelgerechten en groenten Makkelijk te bereiden in koekenpan, oven of airfryer [SEP] schnitzels",valess schnitzel saté schnitzels,null,null,null
+0.07586108,7620,492103,Kitkat,Easter break chocolade paashaasjes,"Nestle Kitkat chocolade paashaasjes multipack bestaat uit 5 paashaasjes gemaakt van melkchocolade met een romige vulling met krokante granen- en wafelstukjes. Have a break, have a kitkat. Ideaal voor je ultieme pasen break Deze verpakking bevat 5 individueel verpakte melk chocolade paashaasjes Elke portie (1 portie = 1 29g) bevat 156 kcal Rainforest alliance gecertificeerde cacao, ingekocht via Nestle cocoa plan","['Geen lactose' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Chocolade paashaas","kitkat [SEP] easter break chocolade paashaasjes [SEP] Nestle Kitkat chocolade paashaasjes multipack bestaat uit 5 paashaasjes gemaakt van melkchocolade met een romige vulling met krokante granen- en wafelstukjes. Have a break, have a kitkat. Ideaal voor je ultieme pasen break Deze verpakking bevat 5 individueel verpakte melk chocolade paashaasjes Elke portie (1 portie = 1 29g) bevat 156 kcal Rainforest alliance gecertificeerde cacao, ingekocht via Nestle cocoa plan [SEP] pasen  chocoloade",kitkat easter break chocolade paashaasjes pasen  chocoloade,null,null,null
+0.07584928,19825,550258,AH,Tafellaken haasjes 138x220cm,Dit tafellaken is perfect voor een gezellige sfeer tijdens Pasen. Textiel uitstraling en voor eenmalig gebruik Afmeting: 138 x 220 cm Leuk om te combineren met de bijpassende servetten!,['Laag zout' 'Laag vet' 'Laag suiker'],"Koken tafelen vrije tijd Paasversiering & decoratie
+ Tafelversiering",ah [SEP] tafellaken haasjes 138x220cm [SEP] Dit tafellaken is perfect voor een gezellige sfeer tijdens Pasen. Textiel uitstraling en voor eenmalig gebruik Afmeting: 138 x 220 cm Leuk om te combineren met de bijpassende servetten! [SEP] pasen in out,ah tafellaken haasjes 138x220cm pasen in out,null,null,null
+0.07580996,4174,450269,Nakd.,Fruitreep met noten salted caramel,"Alleen fruit en noten samengeperst, zonder te verwarmen, in een overheerlijke en natuurlijke Raw bar. Nakd. Salted caramel repen zijn simpel, verantwoord en vooral heel erg lekker! Verpakking bevat 4 repen a 35 gram. Enkel fruit en noten, niets anders Je dagelijkse gezonde snack, ideaal voor onderweg en als tussendoortje Gemaakt van 100% natuurlijke ingredienten, geen toegevoegde suikers Glutenvrij, zuivelvrij, veganistisch en koosjer","['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Tussendoortjes
+ Snoep koek chips en chocolade Fruit noten mueslireep Notenrepen
+ Koek","nakd. [SEP] fruitreep met noten salted caramel [SEP] Alleen fruit en noten samengeperst, zonder te verwarmen, in een overheerlijke en natuurlijke Raw bar. Nakd. Salted caramel repen zijn simpel, verantwoord en vooral heel erg lekker! Verpakking bevat 4 repen a 35 gram. Enkel fruit en noten, niets anders Je dagelijkse gezonde snack, ideaal voor onderweg en als tussendoortje Gemaakt van 100% natuurlijke ingredienten, geen toegevoegde suikers Glutenvrij, zuivelvrij, veganistisch en koosjer [SEP] fruitbasis",nakd. fruitreep met noten salted caramel fruitbasis,null,null,null
+0.07562911,2178,475227,Oatly!,Haver drink vol,Oatly volle haverdrank. Gekoelde haverdrank met een perfect romige smaak 100% plantaardig Geheel vrij van soja en zuivel Deze haverdrank werkt trouwens ook heel goed in warme koffie /maaltijden,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij']","Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Plantaardige drinks Plantaardige zuivel alternatieven Haverdrink",oatly! [SEP] haver drink vol [SEP] Oatly volle haverdrank. Gekoelde haverdrank met een perfect romige smaak 100% plantaardig Geheel vrij van soja en zuivel Deze haverdrank werkt trouwens ook heel goed in warme koffie /maaltijden [SEP] plantaardig drink,oatly! haver drink vol plantaardig drink,null,null,null
+0.07560642,20198,550023,Craft Lab,Electrische eierverfmolen,Versier met deze elektrische eierverfmolen de eieren gemakkelijk. Voor de mooiste versierde eieren Voor een creactief Pasen,['Laag zout' 'Laag vet' 'Laag suiker'],"Koken tafelen vrije tijd Paas knutsels speelgoed
+ Hobby vrije tijd Paasversiering & decoratie
+ Tekenen verven knutselen Vingerverf waterverf",craft lab [SEP] electrische eierverfmolen [SEP] Versier met deze elektrische eierverfmolen de eieren gemakkelijk. Voor de mooiste versierde eieren Voor een creactief Pasen [SEP] pasen in out,craft lab electrische eierverfmolen pasen in out,null,null,null
+0.07558245,20034,550590,Decoris,Kuiken polyester,Kuiken met hanger. leuk om een paastak mee te versieren Te gebruiken voor paasdecoratie Vrolijke kleuren Speels effect,['Laag zout' 'Laag vet' 'Laag suiker'],Koken tafelen vrije tijd Paasversiering & decoratie Paasdecoratie,decoris [SEP] kuiken polyester [SEP] Kuiken met hanger. leuk om een paastak mee te versieren Te gebruiken voor paasdecoratie Vrolijke kleuren Speels effect [SEP] pasen in out,decoris kuiken polyester pasen in out,null,null,null
+0.07532276,11935,203861,AH,Frambozen,"Frambozen behoren net als bramen tot de rozenfamilie. De
+				frambozenstruik ziet er dan ook uit als de rozenstruik. De dieprode frambozen
+				bestaan uit meerdere vruchtjes die elk een zaadje bevatten.","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst)
+ Seizoensfruit (zomer) Frambozen (vers) Aardbeien frambozen
+ Frambozen","ah [SEP] frambozen [SEP] Frambozen behoren net als bramen tot de rozenfamilie. De
+				frambozenstruik ziet er dan ook uit als de rozenstruik. De dieprode frambozen
+				bestaan uit meerdere vruchtjes die elk een zaadje bevatten. [SEP] frambozen",ah frambozen frambozen,null,null,null
+0.075283505,7780,234558,Spring Home,Roti paratha plain,Een heerlijk oosters pannenkoekje Geschikt als maaltijdcomponent of als snack Voor hartige en zoete gerechtjes,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Diepvries Gebak brood bladerdeeg
+ Surinaams Antilliaans Roti vellen (diepvries) Rotivellen",spring home [SEP] roti paratha plain [SEP] Een heerlijk oosters pannenkoekje Geschikt als maaltijdcomponent of als snack Voor hartige en zoete gerechtjes [SEP] brood,spring home roti paratha plain brood,null,null,null
+0.07527534,14316,199232,AH Biologisch,Halvanaise,Met zonnebloemolie Vol van smaak,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Laag vet'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen noten' 'Geen mosterd' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Mayonaise (minder vet)",ah biologisch [SEP] halvanaise [SEP] Met zonnebloemolie Vol van smaak [SEP] mayonaise,ah biologisch halvanaise mayonaise,null,null,null

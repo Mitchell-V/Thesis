@@ -1,0 +1,648 @@
+scoreLLM score,ann,prd_id,brand,title,highlights,properties,taxonomies,full_text,full_text_no_sep,Unnamed: 0,search_query,scorePropensity score
+0.5522325,17635,209786,Melkunie,Milkshake aardbei,Melkunie milkshake aardbei heeft een heerlijk zachte aardbeismaak. Schudden voor gebruik Gekoeld het lekkerst,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Zuivel plantaardig en eieren Tussendoortjes Yoghurt en kwark
+ Zuivel tussendoortjes (voor thuis en onderweg) Yoghurt
+ Yoghurt tussendoortjes",melkunie [SEP] milkshake aardbei [SEP] Melkunie milkshake aardbei heeft een heerlijk zachte aardbeismaak. Schudden voor gebruik Gekoeld het lekkerst [SEP] zuiveldrank gezoet,melkunie milkshake aardbei zuiveldrank gezoet,null,null,null
+0.5515244,9660,523483,AH,Melk,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen selderij']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Melkchocolade",ah [SEP] melk [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] repen en tabletten,ah melk repen en tabletten,null,null,null
+0.5226575,2709,523176,AH,houdbare volle melk 6-pack,AH Volle melk 6-pack AH volle melk x6,[],Zuivel plantaardig en eieren Melk Volle melk,ah [SEP] houdbare volle melk 6-pack [SEP] AH Volle melk 6-pack AH volle melk x6 [SEP] ,ah houdbare volle melk 6-pack ,null,null,null
+0.52243364,14686,1516,AH,Magere melk,Natuurlijk lekker Makkelijk te openen en te hersluiten,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Magere melk,ah [SEP] magere melk [SEP] Natuurlijk lekker Makkelijk te openen en te hersluiten [SEP] halfvolle melk en magere melk,ah magere melk halfvolle melk en magere melk,null,null,null
+0.5118587,10018,450535,AH,Volle melk,"Houdbare volle melk van 100% weidemelk, want de lekkerste melk komt van de gelukkigste koeien.. Heerlijk vol en romig van smaak Ideaal om romig cappuccinoschuim van te maken Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij'
+ 'Geen gluten']","Zuivel plantaardig en eieren Melk Houdbare melk
+ Volle houdbare melk","ah [SEP] volle melk [SEP] Houdbare volle melk van 100% weidemelk, want de lekkerste melk komt van de gelukkigste koeien.. Heerlijk vol en romig van smaak Ideaal om romig cappuccinoschuim van te maken Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] volle melk",ah volle melk volle melk,null,null,null
+0.50821924,15922,520476,AH,houdbare magere melk 4-pack,AH Magere melk 4-pack AH Magere melk 4x,[],Zuivel plantaardig en eieren Melk Magere melk,ah [SEP] houdbare magere melk 4-pack [SEP] AH Magere melk 4-pack AH Magere melk 4x [SEP] ,ah houdbare magere melk 4-pack ,null,null,null
+0.50741434,8555,209787,Melkunie,Milkshake banaan,Melkunie milkshake banaan heeft een heerlijk zachte banaansmaak. Schudden voor gebruik Gekoeld het lekkerst,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Zuivel plantaardig en eieren Tussendoortjes Yoghurt en kwark
+ Zuivel tussendoortjes (voor thuis en onderweg) Yoghurt
+ Yoghurt tussendoortjes",melkunie [SEP] milkshake banaan [SEP] Melkunie milkshake banaan heeft een heerlijk zachte banaansmaak. Schudden voor gebruik Gekoeld het lekkerst [SEP] zuiveldrank gezoet,melkunie milkshake banaan zuiveldrank gezoet,null,null,null
+0.50532395,11438,447717,Holland Jersey,Volle melk,"Andere koe andere melk. Jersey melk is anders. Het bevat van nature meer proteïne en vet dan gewone melk. Perfect om op te schuimen voor in je cappuccino! Alleen gesteriliseerd en verder niks 6% vet en 4,2% proteïne Hollandse weidemelk Schuimt perfect voor cappuccino","['Geen lactose' 'Laag zout' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen selderij' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Zuivel plantaardig en eieren Melk Houdbare melk
+ Volle houdbare melk","holland jersey [SEP] volle melk [SEP] Andere koe andere melk. Jersey melk is anders. Het bevat van nature meer proteïne en vet dan gewone melk. Perfect om op te schuimen voor in je cappuccino! Alleen gesteriliseerd en verder niks 6% vet en 4,2% proteïne Hollandse weidemelk Schuimt perfect voor cappuccino [SEP] volle melk",holland jersey volle melk volle melk,null,null,null
+0.50157183,1169,382907,AH Biologisch,Halfvolle melk,"Een lekker glas koude halfvolle melk voor ieder moment van de dag. Melk van koeien die grazen op weilanden en biologisch voer krijgen Om zo te drinken maar ook voor toetjes, bij het bakken of voor havermout Voor het hele gezin Een lekkere dorstlesser","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Halfvolle melk,"ah biologisch [SEP] halfvolle melk [SEP] Een lekker glas koude halfvolle melk voor ieder moment van de dag. Melk van koeien die grazen op weilanden en biologisch voer krijgen Om zo te drinken maar ook voor toetjes, bij het bakken of voor havermout Voor het hele gezin Een lekkere dorstlesser [SEP] halfvolle melk en magere melk",ah biologisch halfvolle melk halfvolle melk en magere melk,null,null,null
+0.5006012,625,545264,AH,Digestive melk,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Geen selderij']",Snoep koek chips en chocolade Koek Koekjes met chocolade,ah [SEP] digestive melk [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] verpakt trommel,ah digestive melk verpakt trommel,null,null,null
+0.49843174,9969,33693,AH,Halfvolle melk,"Een koud glas halfvolle melk is op elk moment van de dag
+				heerlijk. En ook nog eens heel gezond. Gezond Vers Lekker op elk moment v/d dag","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Halfvolle melk,"ah [SEP] halfvolle melk [SEP] Een koud glas halfvolle melk is op elk moment van de dag
+				heerlijk. En ook nog eens heel gezond. Gezond Vers Lekker op elk moment v/d dag [SEP] halfvolle melk en magere melk",ah halfvolle melk halfvolle melk en magere melk,null,null,null
+0.49709398,10293,1524,AH,Volle melk,"Verse Volle melk Lekker vol van smaak Weidemelk keurmerk: koeien die minimaal 120 dagen, 6uur per dag in de wei lopen","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Volle melk,"ah [SEP] volle melk [SEP] Verse Volle melk Lekker vol van smaak Weidemelk keurmerk: koeien die minimaal 120 dagen, 6uur per dag in de wei lopen [SEP] volle melk",ah volle melk volle melk,null,null,null
+0.49708393,10367,523167,AH,houdbare halfvolle melk 6-pack,AH halfvolle melk 6-pack AH Halfvolle melk 6x,[],Zuivel plantaardig en eieren Melk Halfvolle melk,ah [SEP] houdbare halfvolle melk 6-pack [SEP] AH halfvolle melk 6-pack AH Halfvolle melk 6x [SEP] ,ah houdbare halfvolle melk 6-pack ,null,null,null
+0.49553633,5867,33710,AH,Volle melk,"Verse volle melk Lekker vol van smaak Weidemelk keurmerk: koeien die minimaal 120 dagen, 6 uur per dag in de wei lopen","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Volle melk,"ah [SEP] volle melk [SEP] Verse volle melk Lekker vol van smaak Weidemelk keurmerk: koeien die minimaal 120 dagen, 6 uur per dag in de wei lopen [SEP] volle melk",ah volle melk volle melk,null,null,null
+0.49230105,13676,450536,AH,Magere melk,"Houdbare magere melk van 100% weidemelk, want de lekkerste melk komt van de gelukkigste koeien. 0,3% vet Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij'
+ 'Geen gluten']",Zuivel plantaardig en eieren Melk Magere melk,"ah [SEP] magere melk [SEP] Houdbare magere melk van 100% weidemelk, want de lekkerste melk komt van de gelukkigste koeien. 0,3% vet Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] magere melk",ah magere melk magere melk,null,null,null
+0.48835814,846,520393,AH,Halfvolle melk 4-pack,AH Halfvolle melk 4-pack AH Halfvolle melk 4x,[],Zuivel plantaardig en eieren Melk Halfvolle melk,ah [SEP] halfvolle melk 4-pack [SEP] AH Halfvolle melk 4-pack AH Halfvolle melk 4x [SEP] ,ah halfvolle melk 4-pack ,null,null,null
+0.4876005,134,128423,AH Biologisch,Halfvolle koffiemelk,Zacht en romig van smaak Met zorg gemaakt van de lekkerste melk,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Zuivel plantaardig en eieren Koffiemelk koffieroom koffiecreamers
+ Koffiemelk",ah biologisch [SEP] halfvolle koffiemelk [SEP] Zacht en romig van smaak Met zorg gemaakt van de lekkerste melk [SEP] koffiemelk fles,ah biologisch halfvolle koffiemelk koffiemelk fles,null,null,null
+0.48759735,1471,34419,AH Biologisch,Volle koffiemelk,Zacht en romig van smaak Met zorg gemaakt van de lekkerste melk,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Zuivel plantaardig en eieren Koffiemelk koffieroom koffiecreamers
+ Koffiemelk",ah biologisch [SEP] volle koffiemelk [SEP] Zacht en romig van smaak Met zorg gemaakt van de lekkerste melk [SEP] koffiemelk fles,ah biologisch volle koffiemelk koffiemelk fles,null,null,null
+0.48609874,13755,1107,AH,Halfvolle koffiemelk,Zacht en romig van smaak Met zorg gemaakt van de lekkerste melk Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij'
+ 'Geen gluten']","Zuivel plantaardig en eieren Koffiemelk koffieroom koffiecreamers
+ Koffiemelk",ah [SEP] halfvolle koffiemelk [SEP] Zacht en romig van smaak Met zorg gemaakt van de lekkerste melk Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] koffiemelk fles,ah halfvolle koffiemelk koffiemelk fles,null,null,null
+0.48609874,12890,1101,AH,Halfvolle koffiemelk,Zacht en romig van smaak Met zorg gemaakt van de lekkerste melk Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij'
+ 'Geen gluten']","Zuivel plantaardig en eieren Koffiemelk koffieroom koffiecreamers
+ Koffiemelk",ah [SEP] halfvolle koffiemelk [SEP] Zacht en romig van smaak Met zorg gemaakt van de lekkerste melk Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] koffiemelk fles,ah halfvolle koffiemelk koffiemelk fles,null,null,null
+0.48287934,12466,35485,Merci,Finest Selection melk,"Het exclusieve assortiment van 4 verschillende soorten overheerlijke merci Chocolade is een ware traktatie voor iedere liefhebber. Het kleine bedankje, recht uit het hart 20 individueel verpakte, in goud gewikkelde, chocolade reepjes Voor elk wat wils: een combinatie van in de meest populaire melk varianten Zoals: Hazelnoot-praliné, melkchocolade, amandel-hazelnoot, melk-praliné","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen selderij' 'Geen eieren' 'Geen gluten']","Koken tafelen vrije tijd Snoep koek chips en chocolade
+ Feestje gelegenheid Chocolade Chocolade geschenken","merci [SEP] finest selection melk [SEP] Het exclusieve assortiment van 4 verschillende soorten overheerlijke merci Chocolade is een ware traktatie voor iedere liefhebber. Het kleine bedankje, recht uit het hart 20 individueel verpakte, in goud gewikkelde, chocolade reepjes Voor elk wat wils: een combinatie van in de meest populaire melk varianten Zoals: Hazelnoot-praliné, melkchocolade, amandel-hazelnoot, melk-praliné [SEP] specialiteiten",merci finest selection melk specialiteiten,null,null,null
+0.48252657,6556,109982,Milka,Lepelei melk,Vier heerlijke Milka chocolade eieren. De Milka lepeleieren bestaan uit zachte melkchocolade met een onweerstaanbare vulling met melkcreme. Zachte melkchocolade Inclusief 2 plastic lepeltjes Een heerlijk chocolade ei om leeg te lepelen,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij']","Snoep koek chips en chocolade Paaslekkernijen Chocolade
+ Paaschocolade Paaseitjes Grote paaseieren",milka [SEP] lepelei melk [SEP] Vier heerlijke Milka chocolade eieren. De Milka lepeleieren bestaan uit zachte melkchocolade met een onweerstaanbare vulling met melkcreme. Zachte melkchocolade Inclusief 2 plastic lepeltjes Een heerlijk chocolade ei om leeg te lepelen [SEP] pasen  chocoloade,milka lepelei melk pasen  chocoloade,null,null,null
+0.48245186,2525,417428,Milka,Mmmax reep alpenmelk,Milka melkchocolade is gemaakt van de heerlijke combinatie van cacao en alpenmelk. Deze twee ingredienten zijn verantwoordelijk voor de bekende zachte Milka smaak. Zachte melkchocolade Hersluitbare verpakkingen,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Melkchocolade",milka [SEP] mmmax reep alpenmelk [SEP] Milka melkchocolade is gemaakt van de heerlijke combinatie van cacao en alpenmelk. Deze twee ingredienten zijn verantwoordelijk voor de bekende zachte Milka smaak. Zachte melkchocolade Hersluitbare verpakkingen [SEP] repen en tabletten,milka mmmax reep alpenmelk repen en tabletten,null,null,null
+0.48203993,3003,486992,Boeren van Amstel,Melk vol,"Boeren van Amstel melk is gemaakt van dagverse gepasteuriseerde (niet gestandaardiseerde) koemelk met een natuurlijk vetgehalte varierend tussen 3,9% en 4,6%. De lekkerste volle melk, vol en romig van smaak Zuivel zoals onze koeien die geven Perfecte basis voor een schuimende cappuccino Goed voor de natuur","['Geen lactose' 'Laag zout' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Vegetarisch' 'Geen melk' 'Laag vet' 'Geen selderij' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Geen gluten']",Zuivel plantaardig en eieren Melk Volle melk,"boeren van amstel [SEP] melk vol [SEP] Boeren van Amstel melk is gemaakt van dagverse gepasteuriseerde (niet gestandaardiseerde) koemelk met een natuurlijk vetgehalte varierend tussen 3,9% en 4,6%. De lekkerste volle melk, vol en romig van smaak Zuivel zoals onze koeien die geven Perfecte basis voor een schuimende cappuccino Goed voor de natuur [SEP] regionaal",boeren van amstel melk vol regionaal,null,null,null
+0.48179954,16717,520406,AH,Lactosevrije volle melk 4-pack,AH Lactosevrije volle melk 4-pack AH Lactosevrije volle melk 4x,[],"Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Lactosevrije zuivel Melk Lactosevrije melk",ah [SEP] lactosevrije volle melk 4-pack [SEP] AH Lactosevrije volle melk 4-pack AH Lactosevrije volle melk 4x [SEP] ,ah lactosevrije volle melk 4-pack ,null,null,null
+0.47748196,11094,1408,Milka,Reep alpenmelk,Milka melkchocolade is gemaakt van de heerlijke combinatie van cacao en alpenmelk. Deze twee ingredienten zijn verantwoordelijk voor de bekende zachte Milka smaak. Zachte melkchocolade Hersluitbare verpakkingen,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Melkchocolade",milka [SEP] reep alpenmelk [SEP] Milka melkchocolade is gemaakt van de heerlijke combinatie van cacao en alpenmelk. Deze twee ingredienten zijn verantwoordelijk voor de bekende zachte Milka smaak. Zachte melkchocolade Hersluitbare verpakkingen [SEP] repen en tabletten,milka reep alpenmelk repen en tabletten,null,null,null
+0.47742736,9849,407049,Arla,Halfvolle melk biologisch,"Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen. Groot pak, voor grote liefhebbers Zonder chemische en synthetische bestrijdingsmiddelen Van nature rijk aan eiwit, calcium en vitamines 100% natuurlijk","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Halfvolle melk,"arla [SEP] halfvolle melk biologisch [SEP] Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen. Groot pak, voor grote liefhebbers Zonder chemische en synthetische bestrijdingsmiddelen Van nature rijk aan eiwit, calcium en vitamines 100% natuurlijk [SEP] halfvolle melk en magere melk",arla halfvolle melk biologisch halfvolle melk en magere melk,null,null,null
+0.47702092,3681,401927,Melkunie,Protein milkdrink chocolade,"De Melkunie protein chocolade melkdrank bevat 25 gram proteine, is laag in suiker en bevat geen kunstmatige zoetstoffen. Makkelijk mee te nemen en ideaal voor bij het sporten. Hoog in eiwitten (25g per fles) Laag in suiker, zonder kunstmatige zoetstoffen Laag in vet Lactosevrij (lactosegehalte minder dan 0.01g / 100g)","['Laag vet' 'Geen lactose' 'Laag zout'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Geen selderij' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Sport- en dieetvoeding Bewuste voeding
+ Zuivel plantaardig en eieren Tussendoortjes Yoghurt en kwark
+ Energie voeding sportvoeding Sportvoeding
+ Zuivel tussendoortjes (voor thuis en onderweg) High Protein
+ High protein tussendoortjes","melkunie [SEP] protein milkdrink chocolade [SEP] De Melkunie protein chocolade melkdrank bevat 25 gram proteine, is laag in suiker en bevat geen kunstmatige zoetstoffen. Makkelijk mee te nemen en ideaal voor bij het sporten. Hoog in eiwitten (25g per fles) Laag in suiker, zonder kunstmatige zoetstoffen Laag in vet Lactosevrij (lactosegehalte minder dan 0.01g / 100g) [SEP] zuiveldrank gezoet",melkunie protein milkdrink chocolade zuiveldrank gezoet,null,null,null
+0.4761585,6149,509543,Alpro,This is not m*lk drink vol,"Plantaardig voor melkliefhebbers. Je kunt het gebruiken om te koken, in je ontbijt en koffie of natuurlijk gewoon lekker uit een glas drinken. Plantaardig met de zachte, subtiel zoete smaak van haver Gemaakt van in Europa geoogste haver 3,5% vet, zonder suikers en bron van calcium Van nature lactosevrij en vegan","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Plantaardige drinks Plantaardige zuivel alternatieven Haverdrink","alpro [SEP] this is not m*lk drink vol [SEP] Plantaardig voor melkliefhebbers. Je kunt het gebruiken om te koken, in je ontbijt en koffie of natuurlijk gewoon lekker uit een glas drinken. Plantaardig met de zachte, subtiel zoete smaak van haver Gemaakt van in Europa geoogste haver 3,5% vet, zonder suikers en bron van calcium Van nature lactosevrij en vegan [SEP] plantaardig drink",alpro this is not m*lk drink vol plantaardig drink,null,null,null
+0.47524196,16668,407086,Holland Jersey,Volle Jersey melk,Jersey melk is van nature een bron van proteine en heeft een eigen volle smaak. Perfect om zo op te drinken en om op te schuimen voor in je cappuccino. 100% natuurlijke Jersey melk Van nature een bron van proteine Van Hollandse weidemelk A2 melk,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Volle melk,holland jersey [SEP] volle jersey melk [SEP] Jersey melk is van nature een bron van proteine en heeft een eigen volle smaak. Perfect om zo op te drinken en om op te schuimen voor in je cappuccino. 100% natuurlijke Jersey melk Van nature een bron van proteine Van Hollandse weidemelk A2 melk [SEP] volle melk,holland jersey volle jersey melk volle melk,null,null,null
+0.47411975,13291,1109,AH,Volle koffiemelk,Vol en romig van smaak Met zorg gemaakt van de lekkerste melk Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij'
+ 'Geen gluten']","Zuivel plantaardig en eieren Koffiemelk koffieroom koffiecreamers
+ Koffiemelk",ah [SEP] volle koffiemelk [SEP] Vol en romig van smaak Met zorg gemaakt van de lekkerste melk Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] koffiemelk pak,ah volle koffiemelk koffiemelk pak,null,null,null
+0.47244096,12529,33691,AH,Halfvolle melk,"Verse halfvolle melk voor iedere dag. Weidemelk keurmerk: koeien die minimaal 120 dagen, 6 uur per dag in de wei lopen Lekker met ontbijtgranen","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Halfvolle melk,"ah [SEP] halfvolle melk [SEP] Verse halfvolle melk voor iedere dag. Weidemelk keurmerk: koeien die minimaal 120 dagen, 6 uur per dag in de wei lopen Lekker met ontbijtgranen [SEP] halfvolle melk en magere melk",ah halfvolle melk halfvolle melk en magere melk,null,null,null
+0.4715305,7495,225665,Arla,Biologisch halfvolle melk,"Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen. Zonder chemische en synthetische bestrijdingsmiddelen Van nature rijk aan eiwit, calcium en vitamines 100% natuurlijk","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Halfvolle melk,"arla [SEP] biologisch halfvolle melk [SEP] Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen. Zonder chemische en synthetische bestrijdingsmiddelen Van nature rijk aan eiwit, calcium en vitamines 100% natuurlijk [SEP] halfvolle melk en magere melk",arla biologisch halfvolle melk halfvolle melk en magere melk,null,null,null
+0.47128683,16362,196610,Melkunie,Gortepap,Gortepap met een lekkere frisse zachtzure smaak. Gemaakt met 100% Nederlandse weidemelk Bereid met verse karnemelk Lekker om zo koud of warm te eten,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij']",Zuivel plantaardig en eieren Vla en pap Pap Pap overig,melkunie [SEP] gortepap [SEP] Gortepap met een lekkere frisse zachtzure smaak. Gemaakt met 100% Nederlandse weidemelk Bereid met verse karnemelk Lekker om zo koud of warm te eten [SEP] desserts,melkunie gortepap desserts,null,null,null
+0.46934453,2009,460931,Arla,Lactofree houdbare halfvolle melk,"Arla lactofree houdbare melk in handige kleinverpakking. Zodat jij overal kan genieten van deze melk die goed voelt. Arla lactofree is gemaakt van echte koemelk: rijk aan eiwit, vitamines, mineralen. Lactosevrije halfvolle melk Handige meeneemverpakking voor bijvoorbeeld onderweg, thuis of in de koffie 100% natuurlijk Gemaakt van echte koemelk: rijk aan eiwit, calcium, vitamines en mineralen","['Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Lactosevrije zuivel Melk Lactosevrije melk","arla [SEP] lactofree houdbare halfvolle melk [SEP] Arla lactofree houdbare melk in handige kleinverpakking. Zodat jij overal kan genieten van deze melk die goed voelt. Arla lactofree is gemaakt van echte koemelk: rijk aan eiwit, vitamines, mineralen. Lactosevrije halfvolle melk Handige meeneemverpakking voor bijvoorbeeld onderweg, thuis of in de koffie 100% natuurlijk Gemaakt van echte koemelk: rijk aan eiwit, calcium, vitamines en mineralen [SEP] halfvolle melk en magere melk",arla lactofree houdbare halfvolle melk halfvolle melk en magere melk,null,null,null
+0.46881938,13149,509561,Alpro,This is not m*lk drink halfvol,"Plantaardig voor melkliefhebbers. Je kunt het gebruiken om te koken, in je ontbijt en koffie of natuurlijk gewoon lekker uit een glas drinken. Plantaardig met de zachte, subtiel zoete smaak van haver Gemaakt van in Europa geoogste haver 1,8% vet, zonder suikers en bron van calcium Van nature lactosevrij en vegan","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Plantaardige drinks Plantaardige zuivel alternatieven Haverdrink","alpro [SEP] this is not m*lk drink halfvol [SEP] Plantaardig voor melkliefhebbers. Je kunt het gebruiken om te koken, in je ontbijt en koffie of natuurlijk gewoon lekker uit een glas drinken. Plantaardig met de zachte, subtiel zoete smaak van haver Gemaakt van in Europa geoogste haver 1,8% vet, zonder suikers en bron van calcium Van nature lactosevrij en vegan [SEP] plantaardig drink",alpro this is not m*lk drink halfvol plantaardig drink,null,null,null
+0.46715727,11395,437620,Melkunie,Protein vanille drink lactosevrij,"De Melkunie protein vanille melkdrank bevat 25 gram proteine, is laag in suiker en bevat geen kunstmatige zoetstoffen. Makkelijk mee te nemen en ideaal voor bij het sporten. Hoog in eiwitten (25g per fles) Laag in suiker, zonder kunstmatige zoetstoffen Laag in vet Lactosevrij (lactosegehalte minder dan 0.01g / 100g)","['Laag vet' 'Geen lactose' 'Laag zout'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Geen selderij' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Sport- en dieetvoeding Bewuste voeding
+ Zuivel plantaardig en eieren Tussendoortjes Yoghurt en kwark
+ Energie voeding sportvoeding Sportvoeding
+ Zuivel tussendoortjes (voor thuis en onderweg) High Protein
+ High protein tussendoortjes","melkunie [SEP] protein vanille drink lactosevrij [SEP] De Melkunie protein vanille melkdrank bevat 25 gram proteine, is laag in suiker en bevat geen kunstmatige zoetstoffen. Makkelijk mee te nemen en ideaal voor bij het sporten. Hoog in eiwitten (25g per fles) Laag in suiker, zonder kunstmatige zoetstoffen Laag in vet Lactosevrij (lactosegehalte minder dan 0.01g / 100g) [SEP] zuiveldrank gezoet",melkunie protein vanille drink lactosevrij zuiveldrank gezoet,null,null,null
+0.46604395,6899,548470,Alpro,This is not m*lk drink vol,"Plantaardig voor melkliefhebbers. Je kunt het gebruiken om te koken, in je ontbijt en koffie of natuurlijk gewoon lekker uit een glas drinken. Plantaardig met de zachte, subtiel zoete smaak van haver Gemaakt van in europa geoogste haver Bron van calcium Van nature lactosevrij","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Plantaardige drinks Plantaardige zuivel alternatieven Haverdrink","alpro [SEP] this is not m*lk drink vol [SEP] Plantaardig voor melkliefhebbers. Je kunt het gebruiken om te koken, in je ontbijt en koffie of natuurlijk gewoon lekker uit een glas drinken. Plantaardig met de zachte, subtiel zoete smaak van haver Gemaakt van in europa geoogste haver Bron van calcium Van nature lactosevrij [SEP] plantaardig drink",alpro this is not m*lk drink vol plantaardig drink,null,null,null
+0.46379492,3305,108654,AH Biologisch,Houdbare volle melk,Volle melk van koeien die grazen op weilanden die alleen met natuurlijke middelen worden behandeld en biologisch voer krijgen Lang houdbaar Uitermate geschikt om romig cappuccinoschuim van te maken,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Zuivel plantaardig en eieren Melk Houdbare melk
+ Volle houdbare melk",ah biologisch [SEP] houdbare volle melk [SEP] Volle melk van koeien die grazen op weilanden die alleen met natuurlijke middelen worden behandeld en biologisch voer krijgen Lang houdbaar Uitermate geschikt om romig cappuccinoschuim van te maken [SEP] volle melk,ah biologisch houdbare volle melk volle melk,null,null,null
+0.46307635,7943,213334,Arla,Lactofree halfvolle melk lactosevrij,"Handig om op voorraad te hebben, deze heerlijke halfvolle melk zonder lactose. Dat is wel zo fijn voor de buik. Lactosevrije halfvolle melk Lang houdbaar en gesloten buiten de koelkast te bewaren Gemaakt van koemelk 100% natuurlijk","['Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Lactosevrije zuivel Melk Lactosevrije melk","arla [SEP] lactofree halfvolle melk lactosevrij [SEP] Handig om op voorraad te hebben, deze heerlijke halfvolle melk zonder lactose. Dat is wel zo fijn voor de buik. Lactosevrije halfvolle melk Lang houdbaar en gesloten buiten de koelkast te bewaren Gemaakt van koemelk 100% natuurlijk [SEP] halfvolle melk",arla lactofree halfvolle melk lactosevrij halfvolle melk,null,null,null
+0.46202216,10482,34388,AH,Volle koffiemelk,"Koffiemelk, vol van smaak. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij'
+ 'Geen gluten']","Zuivel plantaardig en eieren Koffiemelk koffieroom koffiecreamers
+ Koffiemelk","ah [SEP] volle koffiemelk [SEP] Koffiemelk, vol van smaak. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] koffiemelk fles",ah volle koffiemelk koffiemelk fles,null,null,null
+0.46102345,19936,195400,Melkmeisje,Melkmeisje b&d karnem&kat,"Melkmeisje B&D crème met melkproteinen, zacht en zuiver, parabenen vrij en huidvriendelijk. Huidvriendelijk ph neutraal Reinigt, verzacht en verzorgd Gevoelige huid",['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Verzorging Lichaamsverzorging Bad en douche
+ Badschuim Badschuim alle huidtypes","melkmeisje [SEP] melkmeisje b&d karnem&kat [SEP] Melkmeisje B&D crème met melkproteinen, zacht en zuiver, parabenen vrij en huidvriendelijk. Huidvriendelijk ph neutraal Reinigt, verzacht en verzorgd Gevoelige huid [SEP] schuimbadproducten",melkmeisje melkmeisje b&d karnem&kat schuimbadproducten,null,null,null
+0.46100193,10907,206449,Milka,Reep melk lu,Milka LU bestaat uit knapperige petit beurre biscuits gecombineerd met zachte Milka melkchocolade. Zachte melkchocolade Met knapperige LU koekjes Hersluitbare verpakking,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen selderij' 'Geen eieren']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met biscuit
+ Melkchocolade met biscuit",milka [SEP] reep melk lu [SEP] Milka LU bestaat uit knapperige petit beurre biscuits gecombineerd met zachte Milka melkchocolade. Zachte melkchocolade Met knapperige LU koekjes Hersluitbare verpakking [SEP] repen en tabletten,milka reep melk lu repen en tabletten,null,null,null
+0.46097767,5667,550193,Müller,Müllermilk milkshake aardbei,"Mullermilk milkshake aardbei is bereid met de beste kwaliteit volle melk, luchtig  en  romig van smaak en niet te zoet. Voor verfrissende genietmomenten. The muh you can't resist! Op basis van hoge kwaliteit s-klasse melk Extra genieten door de romige textuur Bevat het goede van melk en vitamines b1, b2, b6, e Mullermilk heeft een unieke verpakkingsvorm en is makkelijk mee te nemen","['Geen lactose' 'Laag zout' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen selderij' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Frisdrank sappen koffie thee Zuivel plantaardig en eieren
+ Chocolademelk cacao anijs Drinkyoghurt Drinkyoghurts","müller [SEP] müllermilk milkshake aardbei [SEP] Mullermilk milkshake aardbei is bereid met de beste kwaliteit volle melk, luchtig  en  romig van smaak en niet te zoet. Voor verfrissende genietmomenten. The muh you can't resist! Op basis van hoge kwaliteit s-klasse melk Extra genieten door de romige textuur Bevat het goede van melk en vitamines b1, b2, b6, e Mullermilk heeft een unieke verpakkingsvorm en is makkelijk mee te nemen [SEP] drinkyoghurt",müller müllermilk milkshake aardbei drinkyoghurt,null,null,null
+0.4607221,9126,417432,Milka,Mmmax reep melk noisette,Milka hazelnootcreme is gemaakt van zachte melkchocolade gevuld met romige hazelnootcreme. Zachte melkchocolade Met een vulling van romige hazelnootcreme Hersluitbare verpakking,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met vulling praliné
+ Melkchocolade met vulling praliné",milka [SEP] mmmax reep melk noisette [SEP] Milka hazelnootcreme is gemaakt van zachte melkchocolade gevuld met romige hazelnootcreme. Zachte melkchocolade Met een vulling van romige hazelnootcreme Hersluitbare verpakking [SEP] repen en tabletten,milka mmmax reep melk noisette repen en tabletten,null,null,null
+0.46068126,3986,61007,AH Biologisch,Halfvolle melk,"Halfvolle melk van koeien die grazen op weilanden die alleen met natuurlijke middelen worden behandeld en biologisch voer krijgen Om zo te drinken maar ook voor toetjes, bij het bakken of voor havermout Goed alternatief voor volle melk","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Halfvolle melk,"ah biologisch [SEP] halfvolle melk [SEP] Halfvolle melk van koeien die grazen op weilanden die alleen met natuurlijke middelen worden behandeld en biologisch voer krijgen Om zo te drinken maar ook voor toetjes, bij het bakken of voor havermout Goed alternatief voor volle melk [SEP] halfvolle melk en magere melk",ah biologisch halfvolle melk halfvolle melk en magere melk,null,null,null
+0.4601869,11098,168925,Arla,Biologisch halfvolle melk,"Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen. Zonder chemische en synthetische bestrijdingsmiddelen Van nature rijk aan eiwit, calcium en vitamines 100% natuurlijk Van koeien die, als het even kan, lekker veel buiten lopen","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Halfvolle melk,"arla [SEP] biologisch halfvolle melk [SEP] Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen. Zonder chemische en synthetische bestrijdingsmiddelen Van nature rijk aan eiwit, calcium en vitamines 100% natuurlijk Van koeien die, als het even kan, lekker veel buiten lopen [SEP] halfvolle melk en magere melk",arla biologisch halfvolle melk halfvolle melk en magere melk,null,null,null
+0.4590574,3522,417419,Milka,Mmmax reep melk hazelnoot,Milka hele hazelnoten is gemaakt van zachte melkchocolade gevuld met hele hazelnoten. Zachte melkchocolade Met hele hazelnoten Hersluitbare verpakking,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met noten
+ Melkchocolade met noten",milka [SEP] mmmax reep melk hazelnoot [SEP] Milka hele hazelnoten is gemaakt van zachte melkchocolade gevuld met hele hazelnoten. Zachte melkchocolade Met hele hazelnoten Hersluitbare verpakking [SEP] repen en tabletten,milka mmmax reep melk hazelnoot repen en tabletten,null,null,null
+0.4588882,3247,441199,Campina,Halfvolle melk,"Een glas verse melk is lekker en gezond. Het bevat voedingsstoffen die je dagelijks nodig hebt zoals calcium en proteine. Daarnaast besteden Campina boeren extra aandacht aan koe, natuur en klimaat. Vers, lekker en gezond Van nature rijk aan calcium, proteine, vitamine b2 en b13 Planetproof gecertificeerd en daarmee duurzamer geproduceerd Gemaakt van Nederlandse weidemelk","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Halfvolle melk,"campina [SEP] halfvolle melk [SEP] Een glas verse melk is lekker en gezond. Het bevat voedingsstoffen die je dagelijks nodig hebt zoals calcium en proteine. Daarnaast besteden Campina boeren extra aandacht aan koe, natuur en klimaat. Vers, lekker en gezond Van nature rijk aan calcium, proteine, vitamine b2 en b13 Planetproof gecertificeerd en daarmee duurzamer geproduceerd Gemaakt van Nederlandse weidemelk [SEP] halfvolle melk en magere melk",campina halfvolle melk halfvolle melk en magere melk,null,null,null
+0.45843336,6799,208278,Campina,Halfvolle melk,"Een glas verse melk is lekker en gezond. Het bevat voedingsstoffen die je dagelijks nodig hebt zoals calcium en proteine. Daarnaast besteden Campina boeren extra aandacht aan koe, natuur en klimaat. Vers, lekker en gezond Van nature rijk aan calcium, proteine, vitamine b2 en b14 Planetproof gecertificeerd en daarmee duurzamer geproduceerd Gemaakt van Nederlandse weidemelk","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Halfvolle melk,"campina [SEP] halfvolle melk [SEP] Een glas verse melk is lekker en gezond. Het bevat voedingsstoffen die je dagelijks nodig hebt zoals calcium en proteine. Daarnaast besteden Campina boeren extra aandacht aan koe, natuur en klimaat. Vers, lekker en gezond Van nature rijk aan calcium, proteine, vitamine b2 en b14 Planetproof gecertificeerd en daarmee duurzamer geproduceerd Gemaakt van Nederlandse weidemelk [SEP] halfvolle melk en magere melk",campina halfvolle melk halfvolle melk en magere melk,null,null,null
+0.4582488,4772,208300,Campina,Halfvolle melk,"Een glas verse melk is lekker en gezond. Het bevat voedingsstoffen die je dagelijks nodig hebt zoals calcium en proteine. Daarnaast besteden Campina boeren extra aandacht aan koe, natuur en klimaat. Vers, lekker en gezond Van nature rijk aan calcium, proteine, vitamine b2 en b12 Planetproof gecertificeerd en daarmee duurzamer geproduceerd Gemaakt van Nederlandse weidemelk","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Halfvolle melk,"campina [SEP] halfvolle melk [SEP] Een glas verse melk is lekker en gezond. Het bevat voedingsstoffen die je dagelijks nodig hebt zoals calcium en proteine. Daarnaast besteden Campina boeren extra aandacht aan koe, natuur en klimaat. Vers, lekker en gezond Van nature rijk aan calcium, proteine, vitamine b2 en b12 Planetproof gecertificeerd en daarmee duurzamer geproduceerd Gemaakt van Nederlandse weidemelk [SEP] halfvolle melk en magere melk",campina halfvolle melk halfvolle melk en magere melk,null,null,null
+0.4574661,8340,106580,Friesche Vlag,Volle melk gecondenseerd,"Friesche vlag gecondenseerde melk is geevaporeerde, ofwel ingedikte, melk waaraan suiker is toegevoegd. Onze zoete gecondenseerde melk kan voor talloze toepassingen worden gebruikt! Het is een veelzijdig ingredient bij koken en bakken Perfect om ice coffee mee te maken Door het blikje lang te koken ontstaat een karamelpasta","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Zuivel plantaardig en eieren
+ Surinaams Antilliaans Melk Gecondenseerde melk
+ Gecondenseerde melk poeder","friesche vlag [SEP] volle melk gecondenseerd [SEP] Friesche vlag gecondenseerde melk is geevaporeerde, ofwel ingedikte, melk waaraan suiker is toegevoegd. Onze zoete gecondenseerde melk kan voor talloze toepassingen worden gebruikt! Het is een veelzijdig ingredient bij koken en bakken Perfect om ice coffee mee te maken Door het blikje lang te koken ontstaat een karamelpasta [SEP] kokosmelk",friesche vlag volle melk gecondenseerd kokosmelk,null,null,null
+0.45671007,14400,476428,Douwe Egberts,Warm of koud creamy latte,Geniet van deze overheerlijke latte met een onweerstaanbaar lekkere melkschuimlaag. Een echte verwennerij waar je zowel warm als koud van kunt genieten. Overal op ieder moment door de handige zakjes. Koude of warme melkkoffie Met magere melk,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Koffie Oploskoffie
+ Oploskoffie (melkbasis)",douwe egberts [SEP] warm of koud creamy latte [SEP] Geniet van deze overheerlijke latte met een onweerstaanbaar lekkere melkschuimlaag. Een echte verwennerij waar je zowel warm als koud van kunt genieten. Overal op ieder moment door de handige zakjes. Koude of warme melkkoffie Met magere melk [SEP] oplos milk singleserve,douwe egberts warm of koud creamy latte oplos milk singleserve,null,null,null
+0.4560153,12206,61009,AH Biologisch,Volle melk,Volle melk van koeien die grazen op weilanden die alleen met natuurlijke middelen worden behandeld en biologisch voer krijgen Uitermate geschikt om romig cappuccinoschuim van te maken,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Volle melk,ah biologisch [SEP] volle melk [SEP] Volle melk van koeien die grazen op weilanden die alleen met natuurlijke middelen worden behandeld en biologisch voer krijgen Uitermate geschikt om romig cappuccinoschuim van te maken [SEP] volle melk,ah biologisch volle melk volle melk,null,null,null
+0.45589647,3514,448523,De Zaanse Hoeve,Magere melk,"Lekker! Een koel en fris glas magere melk voor een goede start van de dag, of op ieder ander moment zoals de lunch of tussendoor. 0 % vet Een lekkere dorstlesser Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij'
+ 'Geen gluten']",Zuivel plantaardig en eieren Melk Magere melk,"de zaanse hoeve [SEP] magere melk [SEP] Lekker! Een koel en fris glas magere melk voor een goede start van de dag, of op ieder ander moment zoals de lunch of tussendoor. 0 % vet Een lekkere dorstlesser Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] halfvolle melk en magere melk",de zaanse hoeve magere melk halfvolle melk en magere melk,null,null,null
+0.45457983,717,437621,Melkunie,Protein framboos aardbei drink,"De Melkunie protein framboos aardbei melkdrank bevat 25 gram proteine, is laag in suiker en bevat geen kunstmatige zoetstoffen. Makkelijk mee te nemen en ideaal voor bij het sporten. Hoog in eiwitten (25g per fles) Laag in suiker, zonder kunstmatige zoetstoffen Laag in vet Lactosevrij (lactosegehalte minder dan 0.01g / 100g)","['Laag vet' 'Geen lactose' 'Laag zout'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Geen selderij' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Sport- en dieetvoeding Bewuste voeding
+ Zuivel plantaardig en eieren Tussendoortjes Yoghurt en kwark
+ Energie voeding sportvoeding Sportvoeding
+ Zuivel tussendoortjes (voor thuis en onderweg) High Protein
+ High protein tussendoortjes","melkunie [SEP] protein framboos aardbei drink [SEP] De Melkunie protein framboos aardbei melkdrank bevat 25 gram proteine, is laag in suiker en bevat geen kunstmatige zoetstoffen. Makkelijk mee te nemen en ideaal voor bij het sporten. Hoog in eiwitten (25g per fles) Laag in suiker, zonder kunstmatige zoetstoffen Laag in vet Lactosevrij (lactosegehalte minder dan 0.01g / 100g) [SEP] zuiveldrank gezoet",melkunie protein framboos aardbei drink zuiveldrank gezoet,null,null,null
+0.453907,5436,448315,AH,Lactosevrije houdbare volle melk,"Volle lactosevrije melk, net zo lekker als gewone melk maar dan lactosevrij. Bron van calcium en eiwit Voor mensen met een lactose-intolerantie Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Lactosevrije zuivel Melk Lactosevrije melk","ah [SEP] lactosevrije houdbare volle melk [SEP] Volle lactosevrije melk, net zo lekker als gewone melk maar dan lactosevrij. Bron van calcium en eiwit Voor mensen met een lactose-intolerantie Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] volle melk",ah lactosevrije houdbare volle melk volle melk,null,null,null
+0.4528607,13453,209828,Arla,Lactofree halfvolle melk,"Heerlijke halfvolle melk, maar dan zonder lactose. Dat is wel zo fijn voor de buik. Lactosevrije halfvolle melk Gemaakt van koemelk 100% natuurlijk Van nature rijk aan eiwitten, vitamines en calcium","['Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Lactosevrije zuivel Melk Lactosevrije melk","arla [SEP] lactofree halfvolle melk [SEP] Heerlijke halfvolle melk, maar dan zonder lactose. Dat is wel zo fijn voor de buik. Lactosevrije halfvolle melk Gemaakt van koemelk 100% natuurlijk Van nature rijk aan eiwitten, vitamines en calcium [SEP] halfvolle melk en magere melk",arla lactofree halfvolle melk halfvolle melk en magere melk,null,null,null
+0.44978744,14020,440376,Den Eelder,Geitenmelk,De melk van de geit laten we zo puur en zuiver mogelijk en wordt elke dag vers bereid. Door de aandacht en ons vakmanschap Smaakt de geitenzuivel fris en heeft het iets zilts. Licht verteerbaar dus een goed en bovenal lekker alternatief voor koemelk Op lage temperatuur gepasteuriseerd Lekker mild en zonder kooksmaak Gemaakt op familiebedrijf den eelder,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Geitenmelk,den eelder [SEP] geitenmelk [SEP] De melk van de geit laten we zo puur en zuiver mogelijk en wordt elke dag vers bereid. Door de aandacht en ons vakmanschap Smaakt de geitenzuivel fris en heeft het iets zilts. Licht verteerbaar dus een goed en bovenal lekker alternatief voor koemelk Op lage temperatuur gepasteuriseerd Lekker mild en zonder kooksmaak Gemaakt op familiebedrijf den eelder [SEP] volle melk,den eelder geitenmelk volle melk,null,null,null
+0.449482,771,1525,AH,Halfvolle melk,"Verse halfvolle melk voor iedere dag. Een natuurlijke bron van calcium. Weidemelk keurmerk: koeien die minimaal 120 dagen, 6 uur per dag in de wei lopen Lekker met ontbijtgranen","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Halfvolle melk,"ah [SEP] halfvolle melk [SEP] Verse halfvolle melk voor iedere dag. Een natuurlijke bron van calcium. Weidemelk keurmerk: koeien die minimaal 120 dagen, 6 uur per dag in de wei lopen Lekker met ontbijtgranen [SEP] halfvolle melk en magere melk",ah halfvolle melk halfvolle melk en magere melk,null,null,null
+0.4474547,3398,550194,Müller,Müllermilk milkshake vanille,"Mullermilk milkshake vanille is bereid met de beste kwaliteit volle melk, luchtig  en  romig van smaak en niet te zoet. Voor verfrissende genietmomenten. The muh you can't resist! Op basis van hoge kwaliteit s-klasse melk Extra genieten door de romige textuur Bevat het goede van melk en vitamines b1, b2, b6, e Mullermilk heeft een unieke verpakkingsvorm en is makkelijk mee te nemen","['Geen lactose' 'Laag zout' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen selderij' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Frisdrank sappen koffie thee Zuivel plantaardig en eieren
+ Chocolademelk cacao anijs Drinkyoghurt Drinkyoghurts","müller [SEP] müllermilk milkshake vanille [SEP] Mullermilk milkshake vanille is bereid met de beste kwaliteit volle melk, luchtig  en  romig van smaak en niet te zoet. Voor verfrissende genietmomenten. The muh you can't resist! Op basis van hoge kwaliteit s-klasse melk Extra genieten door de romige textuur Bevat het goede van melk en vitamines b1, b2, b6, e Mullermilk heeft een unieke verpakkingsvorm en is makkelijk mee te nemen [SEP] drinkyoghurt",müller müllermilk milkshake vanille drinkyoghurt,null,null,null
+0.4468386,12716,200486,De Zaanse Hoeve,Halfvolle Melk,"Verse halfvolle melk, gepasteuriseerd. 2 liter can met handige schroefdop Weidemelk Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij'
+ 'Geen gluten']",Zuivel plantaardig en eieren Melk Halfvolle melk,"de zaanse hoeve [SEP] halfvolle melk [SEP] Verse halfvolle melk, gepasteuriseerd. 2 liter can met handige schroefdop Weidemelk Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] halfvolle melk en magere melk",de zaanse hoeve halfvolle melk halfvolle melk en magere melk,null,null,null
+0.44658184,9480,451195,De Zaanse Hoeve,Halfvolle melk,Halfvolle melk 500 ml. Verse halfvolle melk gemaakt van weidemelk Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij'
+ 'Geen gluten']",Zuivel plantaardig en eieren Melk Halfvolle melk,de zaanse hoeve [SEP] halfvolle melk [SEP] Halfvolle melk 500 ml. Verse halfvolle melk gemaakt van weidemelk Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] halfvolle melk en magere melk,de zaanse hoeve halfvolle melk halfvolle melk en magere melk,null,null,null
+0.4454316,10914,467185,Milka,Moments mix,"Populaire smaken van Milka in een toffe box! Milka moments is ideaal om te delen, of om gewoon lekker zelf van te genieten. Gemaakt van zachte melkchocolade Individueel verpakte pralines Gevuld met o.a. OREO, hazelnoot  en  karamel","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']",Snoep koek chips en chocolade Chocolade Bonbons en pralines,"milka [SEP] moments mix [SEP] Populaire smaken van Milka in een toffe box! Milka moments is ideaal om te delen, of om gewoon lekker zelf van te genieten. Gemaakt van zachte melkchocolade Individueel verpakte pralines Gevuld met o.a. OREO, hazelnoot  en  karamel [SEP] specialiteiten",milka moments mix specialiteiten,null,null,null
+0.44511482,16994,520387,AH Biologisch,Volle melk houdbaar 4-pack,AH Biologisch Volle melk houdbaar 4-pack AH Biologisch Volle melk houdbaar 4x,[],"Zuivel plantaardig en eieren Melk Houdbare melk
+ Volle houdbare melk",ah biologisch [SEP] volle melk houdbaar 4-pack [SEP] AH Biologisch Volle melk houdbaar 4-pack AH Biologisch Volle melk houdbaar 4x [SEP] ,ah biologisch volle melk houdbaar 4-pack ,null,null,null
+0.44466943,4859,437834,AH,Houdbare volle melk 6-pack,"Deze volle melk lang houdbaar in een handige sixpack is heerlijk romig van smaak. Gekoeld het lekkerst maar ook ideaal voor het maken van romig melkschuim voor een cappuccino. Vol van smaak Handige 6pack, 6 pakjes a 200ml, ongekoeld te bewaren Gemakkelijk voor onderweg, voorzien van een rietje Bij uitstek geschikt voor melkschuim op de cappuccino Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij'
+ 'Geen gluten']","Frisdrank sappen koffie thee Zuivel plantaardig en eieren
+ Tussendoortjes Pakjes drinken
+ Zuivel tussendoortjes (voor thuis en onderweg) Melk
+ Zuivel drinkpakjes Melk (drinkpakjes)","ah [SEP] houdbare volle melk 6-pack [SEP] Deze volle melk lang houdbaar in een handige sixpack is heerlijk romig van smaak. Gekoeld het lekkerst maar ook ideaal voor het maken van romig melkschuim voor een cappuccino. Vol van smaak Handige 6pack, 6 pakjes a 200ml, ongekoeld te bewaren Gemakkelijk voor onderweg, voorzien van een rietje Bij uitstek geschikt voor melkschuim op de cappuccino Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] volle melk",ah houdbare volle melk 6-pack volle melk,null,null,null
+0.44454113,9524,35362,AH,Tablet melk,Melkchocolade Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen selderij' 'Geen eieren']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Melkchocolade",ah [SEP] tablet melk [SEP] Melkchocolade Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] repen en tabletten,ah tablet melk repen en tabletten,null,null,null
+0.442272,7522,160473,Milka,Reep caramel,Milka karamel is gemaakt van zachte melkchocolade met een smeuige karamelvulling. Laat je verrassen door de lekkere combinatie van de bekende Milka melkchocolade met vloeibare caramel. Zachte melkchocolade Met vloeibare caramelvulling Hersluitbare verpakking,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met vulling praliné
+ Melkchocolade met vulling praliné",milka [SEP] reep caramel [SEP] Milka karamel is gemaakt van zachte melkchocolade met een smeuige karamelvulling. Laat je verrassen door de lekkere combinatie van de bekende Milka melkchocolade met vloeibare caramel. Zachte melkchocolade Met vloeibare caramelvulling Hersluitbare verpakking [SEP] repen en tabletten,milka reep caramel repen en tabletten,null,null,null
+0.44156036,6537,416906,Betsie's,Volle geitenmelk,Betsie's gepasteuriseerde volle geitenmelk. Heerlijke milde smaak Lekker romig Van nature licht verteerbaar Verrassend alernatief voor koemelk,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Geitenmelk,betsie's [SEP] volle geitenmelk [SEP] Betsie's gepasteuriseerde volle geitenmelk. Heerlijke milde smaak Lekker romig Van nature licht verteerbaar Verrassend alernatief voor koemelk [SEP] volle melk,betsie's volle geitenmelk volle melk,null,null,null
+0.440557,10020,515787,Arla,Lactofree halfvolle melk lactosevrij,"Heerlijke halfvolle melk, maar dan zonder lactose. Dat voelt goed voor iedereen. Halfvolle melk van Arla lactofree is gemaakt van koemelk en daardoor van nature rijk aan eiwit, vitamines en mineralen. Lactosevrije halfvolle melk Nu in handige grootverpakking Van nature rijk aan eiwit, calcium, vitamines en mineralen Melk die goed voelt","['Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Lactosevrije zuivel Melk Lactosevrije melk","arla [SEP] lactofree halfvolle melk lactosevrij [SEP] Heerlijke halfvolle melk, maar dan zonder lactose. Dat voelt goed voor iedereen. Halfvolle melk van Arla lactofree is gemaakt van koemelk en daardoor van nature rijk aan eiwit, vitamines en mineralen. Lactosevrije halfvolle melk Nu in handige grootverpakking Van nature rijk aan eiwit, calcium, vitamines en mineralen Melk die goed voelt [SEP] halfvolle melk en magere melk",arla lactofree halfvolle melk lactosevrij halfvolle melk en magere melk,null,null,null
+0.44049853,4457,469664,AH,Lactosevrij verse halfvolle melk drank,"Verse halfvolle melkdrank zonder lactose, dus makkelijker te verteren. Voor iedereen met een lactose-intolerantie. Lactosevrije halfvolle melkdrank Van nature een bron van calcium en eiwit","['Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Lactosevrije zuivel Melk Lactosevrije melk","ah [SEP] lactosevrij verse halfvolle melk drank [SEP] Verse halfvolle melkdrank zonder lactose, dus makkelijker te verteren. Voor iedereen met een lactose-intolerantie. Lactosevrije halfvolle melkdrank Van nature een bron van calcium en eiwit [SEP] halfvolle melk en magere melk",ah lactosevrij verse halfvolle melk drank halfvolle melk en magere melk,null,null,null
+0.43885761,17396,475093,Melkunie,Hopjes vla,Melkunie hopjesvla is heerlijk zacht en romig van smaak. Zacht en romig van smaak Gemaakt van Nederlandse weidemelk,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Vla en pap Vla Karamel hopjes vla,melkunie [SEP] hopjes vla [SEP] Melkunie hopjesvla is heerlijk zacht en romig van smaak. Zacht en romig van smaak Gemaakt van Nederlandse weidemelk [SEP] vla,melkunie hopjes vla vla,null,null,null
+0.43855017,9593,450534,AH,Houdbare halfvolle melk,"Houdbare halfvolle melk van 100% weidemelk, want de lekkerste melk komt van de gelukkigste koeien. Bevat calcium Hersluitbaar Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij'
+ 'Geen gluten']","Zuivel plantaardig en eieren Melk Houdbare melk
+ Halfvolle houdbare melk","ah [SEP] houdbare halfvolle melk [SEP] Houdbare halfvolle melk van 100% weidemelk, want de lekkerste melk komt van de gelukkigste koeien. Bevat calcium Hersluitbaar Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] halfvolle melk",ah houdbare halfvolle melk halfvolle melk,null,null,null
+0.43852115,3850,33867,Campina,Biologisch volle melk,"Proef de rijke, pure smaak Campina biologische volle melk. Met liefde en zorg gemaakt door Nederlandse boeren. En dat proef je! Rijke, pure smaak 100% Nederlandse weidemelk waarbij de koeien lekker veel buiten lopen 100% klimaatneutrale verpakking Bron van calcium voor sterke botten en tanden","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Volle melk,"campina [SEP] biologisch volle melk [SEP] Proef de rijke, pure smaak Campina biologische volle melk. Met liefde en zorg gemaakt door Nederlandse boeren. En dat proef je! Rijke, pure smaak 100% Nederlandse weidemelk waarbij de koeien lekker veel buiten lopen 100% klimaatneutrale verpakking Bron van calcium voor sterke botten en tanden [SEP] volle melk",campina biologisch volle melk volle melk,null,null,null
+0.43823832,10349,474966,Arla,Lactofree Volle Melk,"Heerlijke volle melk, maar dan zonder lactose. Dat is wel zo fijn voor de buik. Volle melk van Arla lactofree is gemaakt van koemelk en is daardoor van nature rijk aan eiwit, vitamines en mineralen. Lactosevrije volle melk Van nature rijk aan eiwit, calcium, vitamines en mineralen 100% natuurlijk Gemaakt van koemelk","['Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Lactosevrije zuivel Melk Lactosevrije melk","arla [SEP] lactofree volle melk [SEP] Heerlijke volle melk, maar dan zonder lactose. Dat is wel zo fijn voor de buik. Volle melk van Arla lactofree is gemaakt van koemelk en is daardoor van nature rijk aan eiwit, vitamines en mineralen. Lactosevrije volle melk Van nature rijk aan eiwit, calcium, vitamines en mineralen 100% natuurlijk Gemaakt van koemelk [SEP] volle melk",arla lactofree volle melk volle melk,null,null,null
+0.43793535,4708,523432,Milka,Mmmax reep nussini,Milka mmmax nussini is een chocolade reep in extra groot formaat met een heerlijke combinatie van melkchocolade en nussini wafer. Zachte melkchocolade Hersluitbare verpakking Extra groot formaat: maximaal genieten,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met noten
+ Melkchocolade met noten",milka [SEP] mmmax reep nussini [SEP] Milka mmmax nussini is een chocolade reep in extra groot formaat met een heerlijke combinatie van melkchocolade en nussini wafer. Zachte melkchocolade Hersluitbare verpakking Extra groot formaat: maximaal genieten [SEP] repen en tabletten,milka mmmax reep nussini repen en tabletten,null,null,null
+0.43787134,9514,448314,AH,Lactosevrije houdbare halfvolle melk,AH houdbare halfvolle melk lactosevrij. Zowel warm als koud hartstikke lekker! Vrij van lactose Bron van calcium en eiwit Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Lactosevrije zuivel Melk Lactosevrije melk",ah [SEP] lactosevrije houdbare halfvolle melk [SEP] AH houdbare halfvolle melk lactosevrij. Zowel warm als koud hartstikke lekker! Vrij van lactose Bron van calcium en eiwit Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] halfvolle melk,ah lactosevrije houdbare halfvolle melk halfvolle melk,null,null,null
+0.43785512,10667,184761,Campina,Biologisch halfvolle melk,"Proef de rijke, pure smaak Campina biologische halfvolle melk. Met liefde en zorg gemaakt door Nederlandse boeren. En dat proef je! Rijke, pure smaak 100% Nederlandse weidemelk waarbij de koeien lekker veel buiten lopen 100% klimaatneutrale verpakking Bron van calcium voor sterke botten en tanden","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Halfvolle melk,"campina [SEP] biologisch halfvolle melk [SEP] Proef de rijke, pure smaak Campina biologische halfvolle melk. Met liefde en zorg gemaakt door Nederlandse boeren. En dat proef je! Rijke, pure smaak 100% Nederlandse weidemelk waarbij de koeien lekker veel buiten lopen 100% klimaatneutrale verpakking Bron van calcium voor sterke botten en tanden [SEP] halfvolle melk en magere melk",campina biologisch halfvolle melk halfvolle melk en magere melk,null,null,null
+0.4372468,3489,548469,Alpro,This is not m*lk drink halfvol,"Plantaardig voor melkliefhebbers! Geniet van de neutrale smaak en veelzijdigheid door je ontbijt, bij de lunch, in een smoothie of bak  en  kook ermee! Lekker bezig zo! Plantaardig met de zachte, subtiel zoete smaak van haver Gemaakt van in europa geoogste haver Bron van calcium Van nature lactosevrij","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Bewuste voeding Zuivel plantaardig en eieren Lactosevrij
+ Plantaardige drinks Plantaardige zuivel alternatieven Haverdrink","alpro [SEP] this is not m*lk drink halfvol [SEP] Plantaardig voor melkliefhebbers! Geniet van de neutrale smaak en veelzijdigheid door je ontbijt, bij de lunch, in een smoothie of bak  en  kook ermee! Lekker bezig zo! Plantaardig met de zachte, subtiel zoete smaak van haver Gemaakt van in europa geoogste haver Bron van calcium Van nature lactosevrij [SEP] plantaardig drink",alpro this is not m*lk drink halfvol plantaardig drink,null,null,null
+0.4370518,5379,507978,Delicata,Melk kletskop,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Chocoladerepen met biscuit
+ Melkchocolade met biscuit",delicata [SEP] melk kletskop [SEP]  [SEP] repen en tabletten,delicata melk kletskop repen en tabletten,null,null,null
+0.43674737,1536,215514,Milka,Reep bubbly alpine melk,"Milka bubbly is echt een unieke chocolade ervaring: onze tedere melkchocolade, maar dan lekker luchtig. Zachte melkchocolade Heerlijk luchtig Hersluitbare verpakking","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Snoep koek chips en chocolade Chocolade Repen en tabletten
+ Melkchocolade repen Melkchocolade","milka [SEP] reep bubbly alpine melk [SEP] Milka bubbly is echt een unieke chocolade ervaring: onze tedere melkchocolade, maar dan lekker luchtig. Zachte melkchocolade Heerlijk luchtig Hersluitbare verpakking [SEP] repen en tabletten",milka reep bubbly alpine melk repen en tabletten,null,null,null
+0.43615702,3001,493087,Müller,Mullermilk strawberry,"Mullermilk is een unieke combinatie van het goede van melk met een onweerstaanbare smaak sensatie. Een bron aan vitamines E, B6, B2, B1 Heeft slechts 1,4% vet Gemaakt met hoge kwaliteit s-klasse melk Mullermilk heeft een unieke vorm en is makkelijk mee te nemen","['Laag vet' 'Geen lactose' 'Laag zout'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Vegetarisch'
+ 'Geen melk' 'Geen selderij' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Frisdrank sappen koffie thee Zuivel plantaardig en eieren
+ Chocolademelk cacao anijs Drinkyoghurt Drinkyoghurts","müller [SEP] mullermilk strawberry [SEP] Mullermilk is een unieke combinatie van het goede van melk met een onweerstaanbare smaak sensatie. Een bron aan vitamines E, B6, B2, B1 Heeft slechts 1,4% vet Gemaakt met hoge kwaliteit s-klasse melk Mullermilk heeft een unieke vorm en is makkelijk mee te nemen [SEP] drinkyoghurt",müller mullermilk strawberry drinkyoghurt,null,null,null
+0.43583733,6195,481272,Douwe Egberts,Verwenkoffie latte mocha,Een heerlijk zachte melkkoffie met onweerstaanbare melkschuimlaag en verrukkelijke mokka smaak. Maak in een handomdraai een klein feestje van je koffiemoment. In handige zakjes. Geen koffiezetapparaat benodigd Smaaksegment rond: gebalanceerd  en  zoet Meest geschikt voor het zetten van: melkkoffie Mocha smaak,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Koffie Oploskoffie
+ Oploskoffie (melkbasis)",douwe egberts [SEP] verwenkoffie latte mocha [SEP] Een heerlijk zachte melkkoffie met onweerstaanbare melkschuimlaag en verrukkelijke mokka smaak. Maak in een handomdraai een klein feestje van je koffiemoment. In handige zakjes. Geen koffiezetapparaat benodigd Smaaksegment rond: gebalanceerd  en  zoet Meest geschikt voor het zetten van: melkkoffie Mocha smaak [SEP] oplos milk singleserve,douwe egberts verwenkoffie latte mocha oplos milk singleserve,null,null,null
+0.4351824,687,108655,AH Biologisch,Houdbare halfvolle melk,Halfvolle melk van koeien die grazen op weilanden die alleen met natuurlijke middelen worden behandeld en biologisch voer krijgen Lang houdbaar Goed alternatief voor volle melk,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Halfvolle melk,ah biologisch [SEP] houdbare halfvolle melk [SEP] Halfvolle melk van koeien die grazen op weilanden die alleen met natuurlijke middelen worden behandeld en biologisch voer krijgen Lang houdbaar Goed alternatief voor volle melk [SEP] halfvolle melk,ah biologisch houdbare halfvolle melk halfvolle melk,null,null,null
+0.43491992,9673,177476,AH,Magere yoghurt 0%,"Deze melk is afkomstig van koeien die zoveel mogelijk buiten in de wei staan. Van deze melk wordt een heerlijke, frisse yoghurt gemaakt. Direct verpakt, lekker vers in de winkel. 0% vet Fris van smaak Elke dag lekker","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Zuivel plantaardig en eieren Yoghurt en kwark Yoghurt
+ Yoghurt naturel Magere yoghurt","ah [SEP] magere yoghurt 0% [SEP] Deze melk is afkomstig van koeien die zoveel mogelijk buiten in de wei staan. Van deze melk wordt een heerlijke, frisse yoghurt gemaakt. Direct verpakt, lekker vers in de winkel. 0% vet Fris van smaak Elke dag lekker [SEP] yoghurt naturel",ah magere yoghurt 0% yoghurt naturel,null,null,null
+0.4344831,7168,196710,Melkunie,Griesmeelpap,Griesmeelpap volop voedzaam en met een zachte smaak. Gemaakt met 100% Nederlandse weidemelk Voor stevige trek Lekker om zo koud of warm te eten,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']",Zuivel plantaardig en eieren Vla en pap Pap Griesmeelpap,melkunie [SEP] griesmeelpap [SEP] Griesmeelpap volop voedzaam en met een zachte smaak. Gemaakt met 100% Nederlandse weidemelk Voor stevige trek Lekker om zo koud of warm te eten [SEP] desserts,melkunie griesmeelpap desserts,null,null,null
+0.43368033,9754,96644,AH,Karnemelk,"Een heerlijk friszure karnemelk gemaakt van verse weidemelk. Heerlijk bij ontbijt, lunch of tussendoor Weidemelk keurmerk: koeien die minimaal 120 dagen, 6uur per dag in de wei lopen Minimaal 6 dagen houdbaar","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Karnemelk,"ah [SEP] karnemelk [SEP] Een heerlijk friszure karnemelk gemaakt van verse weidemelk. Heerlijk bij ontbijt, lunch of tussendoor Weidemelk keurmerk: koeien die minimaal 120 dagen, 6uur per dag in de wei lopen Minimaal 6 dagen houdbaar [SEP] karnemelk",ah karnemelk karnemelk,null,null,null
+0.43347734,6270,349195,Arla,Biologisch volle melk,"Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen. Vol en romig van smaak Voor de beste schuimlaag in je cappuccino Zonder chemische en synthetische bestrijdingsmiddelen 100% natuurlijk","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Volle melk,"arla [SEP] biologisch volle melk [SEP] Arla biologisch. Goed voor de natuur en goed voor jou. Gewoon puur natuur, daar hoeven we niets aan toe te voegen. Vol en romig van smaak Voor de beste schuimlaag in je cappuccino Zonder chemische en synthetische bestrijdingsmiddelen 100% natuurlijk [SEP] volle melk",arla biologisch volle melk volle melk,null,null,null
+0.4331646,6292,237556,AH Biologisch,Houdbare halfvolle melk 3-pack,Halfvolle melk van koeien die grazen op weilanden die alleen met natuurlijke middelen worden behandeld en biologisch voer krijgen Lang houdbaar Goed alternatief voor volle melk,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Zuivel plantaardig en eieren Melk Houdbare melk
+ Halfvolle houdbare melk",ah biologisch [SEP] houdbare halfvolle melk 3-pack [SEP] Halfvolle melk van koeien die grazen op weilanden die alleen met natuurlijke middelen worden behandeld en biologisch voer krijgen Lang houdbaar Goed alternatief voor volle melk [SEP] halfvolle melk,ah biologisch houdbare halfvolle melk 3-pack halfvolle melk,null,null,null
+0.43312055,13747,121577,AH,Halfvolle melkdrank extra calcium,"Wat je dichtbij haalt is natuurlijk lekkerder. Daarom komt onze melk van koeien van Nederlandse bodem. De beste verse melk, om op elk moment van te genieten. Natuurlijke bron van calcium Eiwitten zijn van belang voor de opbouw en instandhouding van het lichaam. Ze dragen bij aan een goede conditie van de spieren. Calcium is nodig voor instandhouding van normale tanden en draagt bij tot instandhouding van normale botten.","['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij']",Zuivel plantaardig en eieren Melk Halfvolle melk,"ah [SEP] halfvolle melkdrank extra calcium [SEP] Wat je dichtbij haalt is natuurlijk lekkerder. Daarom komt onze melk van koeien van Nederlandse bodem. De beste verse melk, om op elk moment van te genieten. Natuurlijke bron van calcium Eiwitten zijn van belang voor de opbouw en instandhouding van het lichaam. Ze dragen bij aan een goede conditie van de spieren. Calcium is nodig voor instandhouding van normale tanden en draagt bij tot instandhouding van normale botten. [SEP] halfvolle melk en magere melk",ah halfvolle melkdrank extra calcium halfvolle melk en magere melk,null,null,null
+0.43213728,376,130270,AH,Houdbare halfvolle melk,Een bron van calcium & eiwit Gekoeld net zo lekker als verse melk Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij'
+ 'Geen gluten']","Frisdrank sappen koffie thee Zuivel plantaardig en eieren
+ Tussendoortjes Pakjes drinken
+ Zuivel tussendoortjes (voor thuis en onderweg) Melk
+ Zuivel drinkpakjes Melk (drinkpakjes)",ah [SEP] houdbare halfvolle melk [SEP] Een bron van calcium & eiwit Gekoeld net zo lekker als verse melk Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] halfvolle melk,ah houdbare halfvolle melk halfvolle melk,null,null,null
+0.43056118,16426,520217,Müller,Mullermilk banaan,"Mullermilk banaan is een heerlijke melkdrank, met het goede van zuivel en een onweerstaanbare smaak. Voor een ultiem genietmoment! Op basis van hoge kwaliteit s-klasse melk Vol van smaak en bevat slechts 1,4% vet Mullermilk heeft een unieke verpakkingsvorm en is makkelijk mee te nemen Een bron aan vitamines e, b6, b2, b1","['Laag vet' 'Geen lactose' 'Laag zout'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Vegetarisch'
+ 'Geen melk' 'Geen selderij' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Frisdrank sappen koffie thee Zuivel plantaardig en eieren
+ Chocolademelk cacao anijs Drinkyoghurt Drinkyoghurts","müller [SEP] mullermilk banaan [SEP] Mullermilk banaan is een heerlijke melkdrank, met het goede van zuivel en een onweerstaanbare smaak. Voor een ultiem genietmoment! Op basis van hoge kwaliteit s-klasse melk Vol van smaak en bevat slechts 1,4% vet Mullermilk heeft een unieke verpakkingsvorm en is makkelijk mee te nemen Een bron aan vitamines e, b6, b2, b1 [SEP] drinkyoghurt",müller mullermilk banaan drinkyoghurt,null,null,null
+0.42929,11793,173573,AH,Halfvolle koffiemelk cups,Zacht en romig van smaak Met zorg gemaakt van de lekkerste melk Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij'
+ 'Geen gluten']","Zuivel plantaardig en eieren Koffiemelk koffieroom koffiecreamers
+ Koffiemelk",ah [SEP] halfvolle koffiemelk cups [SEP] Zacht en romig van smaak Met zorg gemaakt van de lekkerste melk Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] koffiemelk cups,ah halfvolle koffiemelk cups koffiemelk cups,null,null,null
+0.4283878,7574,533097,Melkunie,Protein yogurt drink aardbei & vanille,"Deze heerlijk romige en vullende Melkunie protein yoghurt drink bevat 20g eiwit per portie, 0% vet en bevat geen kunstmatige zoetstoffen. Ideaal bij het sporten of tussendoor. Hoog in eiwitten (20g per flesje) Geen kunstmatige zoetstoffen Lactosevrij (lactosegehalte minder dan 0.01g / 100g) Heerlijk romig van smaak","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Sport- en dieetvoeding Bewuste voeding
+ Zuivel plantaardig en eieren Tussendoortjes Yoghurt en kwark
+ Energie voeding sportvoeding Sportvoeding
+ Zuivel tussendoortjes (voor thuis en onderweg) High Protein
+ High protein tussendoortjes","melkunie [SEP] protein yogurt drink aardbei & vanille [SEP] Deze heerlijk romige en vullende Melkunie protein yoghurt drink bevat 20g eiwit per portie, 0% vet en bevat geen kunstmatige zoetstoffen. Ideaal bij het sporten of tussendoor. Hoog in eiwitten (20g per flesje) Geen kunstmatige zoetstoffen Lactosevrij (lactosegehalte minder dan 0.01g / 100g) Heerlijk romig van smaak [SEP] proteine",melkunie protein yogurt drink aardbei & vanille proteine,null,null,null
+0.42756388,8329,195643,De Zaanse Hoeve,Halfvolle melk,Verse halfvolle melk Bevat calcium Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij'
+ 'Geen gluten']",Zuivel plantaardig en eieren Melk Halfvolle melk,de zaanse hoeve [SEP] halfvolle melk [SEP] Verse halfvolle melk Bevat calcium Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] halfvolle melk en magere melk,de zaanse hoeve halfvolle melk halfvolle melk en magere melk,null,null,null
+0.42648086,4629,481273,Douwe Egberts,Verwenkoffie latte vanilla,Een overheerlijke latte met een romige melkschuimlaag en zachte vanillesmaak. Maak in een handomdraai een klein feestje van je koffiemoment. Op ieder moment en overal door de handige zakjes. Geen koffiezetapparaat benodigd Smaaksegment rond: gebalanceerd  en  zoet Meest geschikt voor het zetten van: melkkoffie Vanille smaak,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Koffie Oploskoffie
+ Oploskoffie (melkbasis)",douwe egberts [SEP] verwenkoffie latte vanilla [SEP] Een overheerlijke latte met een romige melkschuimlaag en zachte vanillesmaak. Maak in een handomdraai een klein feestje van je koffiemoment. Op ieder moment en overal door de handige zakjes. Geen koffiezetapparaat benodigd Smaaksegment rond: gebalanceerd  en  zoet Meest geschikt voor het zetten van: melkkoffie Vanille smaak [SEP] oplos milk singleserve,douwe egberts verwenkoffie latte vanilla oplos milk singleserve,null,null,null
+0.42580643,13539,476427,Douwe Egberts,Warm of koud latte salted caramel,Geniet van deze heerlijke latte met de rijke smaak van gezouten karamel en lekkere melkschuimlaag. Een verwennerij waar je zowel warm als koud van kunt genieten. Op elk moment door de handige zakjes. Koude of warme melkkoffie Met magere melk Karamelsmaak,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Koffie Oploskoffie
+ Oploskoffie (melkbasis)",douwe egberts [SEP] warm of koud latte salted caramel [SEP] Geniet van deze heerlijke latte met de rijke smaak van gezouten karamel en lekkere melkschuimlaag. Een verwennerij waar je zowel warm als koud van kunt genieten. Op elk moment door de handige zakjes. Koude of warme melkkoffie Met magere melk Karamelsmaak [SEP] oplos milk singleserve,douwe egberts warm of koud latte salted caramel oplos milk singleserve,null,null,null
+0.42498988,8628,468592,Campina,Langlekker halfvolle melk voordeel 4pack,"Campina langlekker is gekoeld net zo lekker als verse melk maar wel ongeopend buiten de koelkast te bewaren. Het bevat van nature voedingsstoffen die je dagelijks nodig hebt zoals calcium en proteine. Van nature rijk aan calcium, proteine, vitamine b2 en b12 Gemaakt van Nederlandse weidemelk","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Zuivel plantaardig en eieren Melk Houdbare melk
+ Halfvolle houdbare melk","campina [SEP] langlekker halfvolle melk voordeel 4pack [SEP] Campina langlekker is gekoeld net zo lekker als verse melk maar wel ongeopend buiten de koelkast te bewaren. Het bevat van nature voedingsstoffen die je dagelijks nodig hebt zoals calcium en proteine. Van nature rijk aan calcium, proteine, vitamine b2 en b12 Gemaakt van Nederlandse weidemelk [SEP] halfvolle melk",campina langlekker halfvolle melk voordeel 4pack halfvolle melk,null,null,null
+0.42443973,8363,502518,Campina,Houdbare halfvolle melk,"Campina biologische houdbare halfvolle melk is gekoeld net zo lekker als verse melk maar wel ongeopend buiten de koelkast te bewaren. Rijke, pure smaak 100% Nederlandse weidemelk 100% klimaatneutrale verpakking Bron van calcium voor sterke botten en tanden","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Zuivel plantaardig en eieren Melk Houdbare melk
+ Halfvolle houdbare melk","campina [SEP] houdbare halfvolle melk [SEP] Campina biologische houdbare halfvolle melk is gekoeld net zo lekker als verse melk maar wel ongeopend buiten de koelkast te bewaren. Rijke, pure smaak 100% Nederlandse weidemelk 100% klimaatneutrale verpakking Bron van calcium voor sterke botten en tanden [SEP] halfvolle melk",campina houdbare halfvolle melk halfvolle melk,null,null,null
+0.42414507,8552,127224,AH Biologisch,Magere melk,Halfvolle melk van koeien die grazen op weilanden die alleen met natuurlijke middelen worden behandeld en biologisch voer krijgen Een lekkere dorstlesser Voelt fris in de mond door het lage vetgehalte,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Magere melk,ah biologisch [SEP] magere melk [SEP] Halfvolle melk van koeien die grazen op weilanden die alleen met natuurlijke middelen worden behandeld en biologisch voer krijgen Een lekkere dorstlesser Voelt fris in de mond door het lage vetgehalte [SEP] halfvolle melk en magere melk,ah biologisch magere melk halfvolle melk en magere melk,null,null,null
+0.4234949,13827,468593,Campina,Langlekker volle melk voordeel 4-pack,"Campina langlekker is gekoeld net zo lekker als verse melk maar wel ongeopend buiten de koelkast te bewaren. Het bevat van nature voedingsstoffen die je dagelijks nodig hebt zoals calcium en proteine. Van nature rijk aan calcium, proteine, vitamine b2 en b13 Gemaakt van Nederlandse weidemelk","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Zuivel plantaardig en eieren Melk Houdbare melk
+ Volle houdbare melk","campina [SEP] langlekker volle melk voordeel 4-pack [SEP] Campina langlekker is gekoeld net zo lekker als verse melk maar wel ongeopend buiten de koelkast te bewaren. Het bevat van nature voedingsstoffen die je dagelijks nodig hebt zoals calcium en proteine. Van nature rijk aan calcium, proteine, vitamine b2 en b13 Gemaakt van Nederlandse weidemelk [SEP] volle melk",campina langlekker volle melk voordeel 4-pack volle melk,null,null,null
+0.4222813,16500,515749,Beautiful Immunity,Kefir vanille,"Een melkdrank met miljarden levende culturen. Veel eiwit, vanille en zonder toegevoegde suikers. Beautiful kefir ondersteunt de natuurlijk de immuniteit en de darmgezondheid. Goed voor de darmflora Bron van vitamine b13 Geen toegevoegde suikers Perfect als toevoeging aan je ontbijt of tussendoor","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Kefir,"beautiful immunity [SEP] kefir vanille [SEP] Een melkdrank met miljarden levende culturen. Veel eiwit, vanille en zonder toegevoegde suikers. Beautiful kefir ondersteunt de natuurlijk de immuniteit en de darmgezondheid. Goed voor de darmflora Bron van vitamine b13 Geen toegevoegde suikers Perfect als toevoeging aan je ontbijt of tussendoor [SEP] probiotica",beautiful immunity kefir vanille probiotica,null,null,null
+0.42048404,974,440454,AH,Karnemelk,"Een heerlijk friszure karnemelk gemaakt van verse weidemelk in halve liter pak. Bevat geen vet Heerlijk bij ontbijt, lunch of tussendoor Weidemelk keurmerk: koeien die minimaal 120 dagen, 6uur per dag in de wei lopen Minimaal 6 dagen houdbaar","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Karnemelk,"ah [SEP] karnemelk [SEP] Een heerlijk friszure karnemelk gemaakt van verse weidemelk in halve liter pak. Bevat geen vet Heerlijk bij ontbijt, lunch of tussendoor Weidemelk keurmerk: koeien die minimaal 120 dagen, 6uur per dag in de wei lopen Minimaal 6 dagen houdbaar [SEP] karnemelk",ah karnemelk karnemelk,null,null,null
+0.42023557,18633,198385,Two cows,Melkpoeder,Instant full cream milk powder.,"['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Surinaams Antilliaans
+ Gecondenseerde melk poeder Melkpoeder",two cows [SEP] melkpoeder [SEP] Instant full cream milk powder. [SEP] surinaams,two cows melkpoeder surinaams,null,null,null
+0.42016074,3135,493088,Müller,Mullermilk choco caramel cookie,"Mullermilk is een unieke combinatie van het goede van melk met een onweerstaanbare smaak sensatie. Deze special is een limited edition, dus beschikbaar voor een korte periode! Een bron aan vitamines E, B6, B2, B1 Heeft slechts 1,6% vet Gemaakt met hoge kwaliteit s-klasse melk Mullermilk heeft een unieke vorm en is makkelijk mee te nemen","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Zuivel plantaardig en eieren
+ Chocolademelk cacao anijs Drinkyoghurt Drinkyoghurts","müller [SEP] mullermilk choco caramel cookie [SEP] Mullermilk is een unieke combinatie van het goede van melk met een onweerstaanbare smaak sensatie. Deze special is een limited edition, dus beschikbaar voor een korte periode! Een bron aan vitamines E, B6, B2, B1 Heeft slechts 1,6% vet Gemaakt met hoge kwaliteit s-klasse melk Mullermilk heeft een unieke vorm en is makkelijk mee te nemen [SEP] drinkyoghurt",müller mullermilk choco caramel cookie drinkyoghurt,null,null,null
+0.42002746,6711,443661,AH Biologisch,Halfvolle melk,Gepasteuriseerde biologische halfvolle melk van albert heijn. Van Nederlandse biologsch gehouden koeien Onze koeien staan zo veel mogelijk buiten als het weer het toelaat,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Zuivel plantaardig en eieren Melk Halfvolle melk,ah biologisch [SEP] halfvolle melk [SEP] Gepasteuriseerde biologische halfvolle melk van albert heijn. Van Nederlandse biologsch gehouden koeien Onze koeien staan zo veel mogelijk buiten als het weer het toelaat [SEP] halfvolle melk en magere melk,ah biologisch halfvolle melk halfvolle melk en magere melk,null,null,null
+0.42002362,6129,1108,AH,Halfvolle koffiemelk,"Zacht en romig van smaak Bevat 4,5% vet Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij'
+ 'Geen gluten']","Zuivel plantaardig en eieren Koffiemelk koffieroom koffiecreamers
+ Koffiemelk","ah [SEP] halfvolle koffiemelk [SEP] Zacht en romig van smaak Bevat 4,5% vet Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] koffiemelk pak",ah halfvolle koffiemelk koffiemelk pak,null,null,null
+0.4181383,12850,508290,Perla Huisblends,Dolce gusto latte caramel,"Een gelaagde koffie met heerlijke warme melk, intense koffie, zacht melkschuim en een vleugje lichtzoete karamel. Perfect voor jouw genietmomentje. Smaaksegment: zacht en lichtzoet Smaakintensiteit #4 Rainforest alliance gecertificeerd Met aandacht samengesteld samen met friesche vlag","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Koffie Koffiecups
+ Dolce Gusto compatible Dolce Gusto compatible (melkbasis)","perla huisblends [SEP] dolce gusto latte caramel [SEP] Een gelaagde koffie met heerlijke warme melk, intense koffie, zacht melkschuim en een vleugje lichtzoete karamel. Perfect voor jouw genietmomentje. Smaaksegment: zacht en lichtzoet Smaakintensiteit #4 Rainforest alliance gecertificeerd Met aandacht samengesteld samen met friesche vlag [SEP] dolce gusto milkbased",perla huisblends dolce gusto latte caramel dolce gusto milkbased,null,null,null

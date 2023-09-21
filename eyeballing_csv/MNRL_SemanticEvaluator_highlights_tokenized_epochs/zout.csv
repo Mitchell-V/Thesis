@@ -1,0 +1,642 @@
+scoreLLM score,ann,prd_id,brand,title,highlights,properties,taxonomies,full_text,full_text_no_sep,Unnamed: 0,search_query,scorePropensity score
+0.6420288,12665,3372,AH,Keukenzout met jodium,Zuiver zout van de hoogste kwaliteit Smaakmaker van elke maaltijd Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Smaakmakers Zout Zout (naturel)
+ Zout (diverse)",ah [SEP] keukenzout met jodium [SEP] Zuiver zout van de hoogste kwaliteit Smaakmaker van elke maaltijd Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] zout,ah keukenzout met jodium zout,null,null,null
+0.5952709,18989,201933,LoSalt,Mineraalzout,LoSalt mineraalzout zonder jodium. 66% minder natrium Bevat natuurlijke en nuttige mineralen,"['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)'
+ 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Soepen sauzen kruiden olie Smaakmakers Zout Zout (naturel)
+ Zout (diverse)",losalt [SEP] mineraalzout [SEP] LoSalt mineraalzout zonder jodium. 66% minder natrium Bevat natuurlijke en nuttige mineralen [SEP] zout,losalt mineraalzout zout,null,null,null
+0.59424204,17649,201965,Jozo,Low sodium salt fine,Jozo bewust zout bevat 70% minder natrium dan gewoon zout. Gevarieerde evenwichtige voeding en een gezonde levensstijl worden aanbevolen. Gebruik (zout) met mate. Bevat jodium Uitstekend geschikt voor het bereiden van je dagelijkse maaltijd In een handige verpakking: goed strooibaar en hersluitbaar,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Smaakmakers Zout Zout (naturel)
+ Zout (diverse)",jozo [SEP] low sodium salt fine [SEP] Jozo bewust zout bevat 70% minder natrium dan gewoon zout. Gevarieerde evenwichtige voeding en een gezonde levensstijl worden aanbevolen. Gebruik (zout) met mate. Bevat jodium Uitstekend geschikt voor het bereiden van je dagelijkse maaltijd In een handige verpakking: goed strooibaar en hersluitbaar [SEP] zout,jozo low sodium salt fine zout,null,null,null
+0.5849409,330,128527,LoSalt,Mineraalzout met jodium,"LoSalt mineraal zout met jodium bevat 66% minder natrium. 66%minder natrium, vervangen door natuurlijke en nuttige mineralen.","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)'
+ 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Soepen sauzen kruiden olie Smaakmakers Zout Zout (naturel)
+ Zout (diverse)","losalt [SEP] mineraalzout met jodium [SEP] LoSalt mineraal zout met jodium bevat 66% minder natrium. 66%minder natrium, vervangen door natuurlijke en nuttige mineralen. [SEP] zout",losalt mineraalzout met jodium zout,null,null,null
+0.57986796,14031,531740,Verstegen,Keukengoud het alternatief voor zout,"Keukengoud is een heerlijke combinatie van specerijen, kruiden, groenten, zeezout en miso, speciaal ontwikkeld als vervanging van zout. Zo eet je bewust minder zout, zonder in te leveren op smaak. Het alternatief voor zout Geeft een vergelijkbare smaakbeleving als zout, met slechts 16% zeezout Te gebruiken als regulier keukenzout tijdens het koken Handige voorraadverpakking met strooier","['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Soepen sauzen kruiden olie Smaakmakers Zout Zout  (kruiden),"verstegen [SEP] keukengoud het alternatief voor zout [SEP] Keukengoud is een heerlijke combinatie van specerijen, kruiden, groenten, zeezout en miso, speciaal ontwikkeld als vervanging van zout. Zo eet je bewust minder zout, zonder in te leveren op smaak. Het alternatief voor zout Geeft een vergelijkbare smaakbeleving als zout, met slechts 16% zeezout Te gebruiken als regulier keukenzout tijdens het koken Handige voorraadverpakking met strooier [SEP] zout",verstegen keukengoud het alternatief voor zout zout,null,null,null
+0.5592905,15484,173810,AH,Tafelzout met jodium,Een smaakmaker van allerhande maaltijden. Met jodium,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Smaakmakers Zout Zout (naturel)
+ Zout (diverse)",ah [SEP] tafelzout met jodium [SEP] Een smaakmaker van allerhande maaltijden. Met jodium [SEP] zout,ah tafelzout met jodium zout,null,null,null
+0.55276597,3155,173809,AH,Keukenzout met jodium,Een smaakmaker van allerhande maaltijden. Met jodium,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Smaakmakers Zout Zout (naturel)
+ Zout (diverse)",ah [SEP] keukenzout met jodium [SEP] Een smaakmaker van allerhande maaltijden. Met jodium [SEP] zout,ah keukenzout met jodium zout,null,null,null
+0.53450364,4646,160583,La Baleine,Zeezout fijn,Zeezout geoogst in een prachtig beschermd natuurgebied de Camargue. Natuurlijk geoogst zeezout Honderden plant en diersoorten kunnen leven dankzij de zoutvelden,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Smaakmakers Zout Zout (naturel)
+ Zeezout",la baleine [SEP] zeezout fijn [SEP] Zeezout geoogst in een prachtig beschermd natuurgebied de Camargue. Natuurlijk geoogst zeezout Honderden plant en diersoorten kunnen leven dankzij de zoutvelden [SEP] zout,la baleine zeezout fijn zout,null,null,null
+0.53422123,3756,531738,Drogheria,Siciliaans steenzout,"Met dit pure, natuurlijke zout breng je iedere maaltijd in een handomdraai op smaak. Handig en mooi voor op tafel natuurlijk zout om iedere maaltijd in een handomdraai op smaak te brengen Authentiek Italiaans","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']",Soepen sauzen kruiden olie Smaakmakers Zout Zout  (kruiden),"drogheria [SEP] siciliaans steenzout [SEP] Met dit pure, natuurlijke zout breng je iedere maaltijd in een handomdraai op smaak. Handig en mooi voor op tafel natuurlijk zout om iedere maaltijd in een handomdraai op smaak te brengen Authentiek Italiaans [SEP] kruiden molen",drogheria siciliaans steenzout kruiden molen,null,null,null
+0.53075117,1003,454684,La Baleine,Grof zeezout,"Zeezout, verkregen vanuit de middellandse zee. Kristalliseert op natuurlijke wijze door de invloed van de zon, zee en wind Geoogst in de camargue, zuid-frankrijk Van nature wit zeezout","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Smaakmakers Zout Zout (naturel)
+ Zeezout","la baleine [SEP] grof zeezout [SEP] Zeezout, verkregen vanuit de middellandse zee. Kristalliseert op natuurlijke wijze door de invloed van de zon, zee en wind Geoogst in de camargue, zuid-frankrijk Van nature wit zeezout [SEP] zout",la baleine grof zeezout zout,null,null,null
+0.52943754,17895,518453,Cornish Sea Salt Co,Salt & peppery,"Heerlijke mix van zeezout en 4 verschillende soorten pepers uit het zuid-engelse cornwall. Het zeezout wordt met de hand geoogst uit de zuiverste wateren Breng je vlees, groente en eigerecht op smaak Strooi eenvoudig zout en peper in een keer","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Soepen sauzen kruiden olie Smaakmakers Zout Zout  (kruiden),"cornish sea salt co [SEP] salt & peppery [SEP] Heerlijke mix van zeezout en 4 verschillende soorten pepers uit het zuid-engelse cornwall. Het zeezout wordt met de hand geoogst uit de zuiverste wateren Breng je vlees, groente en eigerecht op smaak Strooi eenvoudig zout en peper in een keer [SEP] zout",cornish sea salt co salt & peppery zout,null,null,null
+0.5257573,9004,160582,La Baleine,Zeezout grof,Zeezout geoogst in een prachtig beschermd natuurgebied de Camargue. Dankzij de zoutvelden kunnen honderden plant en diersoorten leven Natuurlijk geoogst zeezout,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Smaakmakers Zout Zout (naturel)
+ Zeezout",la baleine [SEP] zeezout grof [SEP] Zeezout geoogst in een prachtig beschermd natuurgebied de Camargue. Dankzij de zoutvelden kunnen honderden plant en diersoorten leven Natuurlijk geoogst zeezout [SEP] zout,la baleine zeezout grof zout,null,null,null
+0.525542,12318,201977,Jozo,Naturel tafelzout,"Jozo extra fijn zout is zeer fijnkorrelig, wat garant staat voor een gelijkmatige zoutsmaak. Dit zout is ideaal voor vers pastadeeg of om op een eitje te strooien. Geen jodium toegevoegd Een van de zuiverste zoutsoorten ter wereld In een handige verpakking: goed strooibaar en hersluitbaar","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Soepen sauzen kruiden olie Smaakmakers Zout Zout (naturel)
+ Zout (diverse)","jozo [SEP] naturel tafelzout [SEP] Jozo extra fijn zout is zeer fijnkorrelig, wat garant staat voor een gelijkmatige zoutsmaak. Dit zout is ideaal voor vers pastadeeg of om op een eitje te strooien. Geen jodium toegevoegd Een van de zuiverste zoutsoorten ter wereld In een handige verpakking: goed strooibaar en hersluitbaar [SEP] zout",jozo naturel tafelzout zout,null,null,null
+0.5231535,4563,414979,Verstegen,Zakje zeezout,"Zout wordt in allerlei verschillende gerechten gebruikt. Vrijwel elk stuk vlees, vis, gevogelte wordt eerst gezouten voordat het wordt bereid. Grof zeezout heeft meer aroma dan keukenzout In handig hersluitbaar zakje","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Soepen sauzen kruiden olie Smaakmakers Zout Zout (naturel)
+ Zeezout","verstegen [SEP] zakje zeezout [SEP] Zout wordt in allerlei verschillende gerechten gebruikt. Vrijwel elk stuk vlees, vis, gevogelte wordt eerst gezouten voordat het wordt bereid. Grof zeezout heeft meer aroma dan keukenzout In handig hersluitbaar zakje [SEP] kruiden zak",verstegen zakje zeezout kruiden zak,null,null,null
+0.52090275,4732,531739,Verstegen,Tafelgoud het alternatief voor zout,"Tafelgoud is een heerlijke combinatie van specerijen, kruiden, groenten, zeezout en miso, speciaal ontwikkeld als vervanging van zout. Zo eet je bewust minder zout, zonder in te leveren op smaak. Het alternatief voor zout Geeft een vergelijkbare smaakbeleving als zout, met slechts 18% zeezout Te gebruiken als regulier tafelzout De molen heeft 2 maalstanden voor een fijne en grove Maling","['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Soepen sauzen kruiden olie Smaakmakers Zout Zout  (kruiden),"verstegen [SEP] tafelgoud het alternatief voor zout [SEP] Tafelgoud is een heerlijke combinatie van specerijen, kruiden, groenten, zeezout en miso, speciaal ontwikkeld als vervanging van zout. Zo eet je bewust minder zout, zonder in te leveren op smaak. Het alternatief voor zout Geeft een vergelijkbare smaakbeleving als zout, met slechts 18% zeezout Te gebruiken als regulier tafelzout De molen heeft 2 maalstanden voor een fijne en grove Maling [SEP] zout",verstegen tafelgoud het alternatief voor zout zout,null,null,null
+0.5109345,10321,518417,Cornish Sea Salt Co,Sea salt flakes,Cornish sea salt flakes zijn pyramide-achtige kristallen met een lekkere crunch. Ze smelten in je mond en zijn zacht van smaak zo uit de zee bij het zuid-engelse cornwall. Het zeezout wordt met de hand geoogst uit de zuiverste wateren Van zee tot zout op slechts 8 meter van de kust Natuurlijk natriumarm zeezout met meer dan 60 gezonde mineralen,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Smaakmakers Zout Zout (naturel)
+ Zeezout",cornish sea salt co [SEP] sea salt flakes [SEP] Cornish sea salt flakes zijn pyramide-achtige kristallen met een lekkere crunch. Ze smelten in je mond en zijn zacht van smaak zo uit de zee bij het zuid-engelse cornwall. Het zeezout wordt met de hand geoogst uit de zuiverste wateren Van zee tot zout op slechts 8 meter van de kust Natuurlijk natriumarm zeezout met meer dan 60 gezonde mineralen [SEP] zout,cornish sea salt co sea salt flakes zout,null,null,null
+0.50870275,1009,183306,AH,Tijm & rozemarijn zoutjes met zeezout,Heerlijke combinatie van zout en kruiden In oven gebakken zoutjes,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij']",Snoep koek chips en chocolade Zoutjes Kaaszoutjes,ah [SEP] tijm & rozemarijn zoutjes met zeezout [SEP] Heerlijke combinatie van zout en kruiden In oven gebakken zoutjes [SEP] overige zoute biscuits,ah tijm & rozemarijn zoutjes met zeezout overige zoute biscuits,null,null,null
+0.505871,17350,202232,Verstegen,Zeezout grof,"Zeezout wordt gewonnen uit zeewater. Het kan zowel los gebruikt worden als in de maalmolen. Grof zeezout heeft meer aroma dan keukenzout Zout wordt in allerlei verschillende gerechten gebruikt. Vrijwel elk stuk vlees, vis, gevogelte wordt eerst gezouten voordat het wordt bereid.","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Soepen sauzen kruiden olie Smaakmakers Zout Zout (naturel)
+ Zeezout","verstegen [SEP] zeezout grof [SEP] Zeezout wordt gewonnen uit zeewater. Het kan zowel los gebruikt worden als in de maalmolen. Grof zeezout heeft meer aroma dan keukenzout Zout wordt in allerlei verschillende gerechten gebruikt. Vrijwel elk stuk vlees, vis, gevogelte wordt eerst gezouten voordat het wordt bereid. [SEP] kruiden grootverpakking",verstegen zeezout grof kruiden grootverpakking,null,null,null
+0.5033601,17554,201976,Maldon,Zeezoutvlokken,"Het zout is puur en Smaakt echt naar de zee. Het zijn mooie piramidevormige kristallen met een heerlijke crunch. Onze zoutwinners werken volgens een aloude traditionele methode Hierdoor ontstaan de unieke, kenmerkende piramidevormige kristallen Je kunt ze tussen je vingers verkruimelen of heel laten voor een extra bite All great food starts with a pinch of Maldon sea salt flakes","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Smaakmakers Zout Zout (naturel)
+ Zeezout","maldon [SEP] zeezoutvlokken [SEP] Het zout is puur en Smaakt echt naar de zee. Het zijn mooie piramidevormige kristallen met een heerlijke crunch. Onze zoutwinners werken volgens een aloude traditionele methode Hierdoor ontstaan de unieke, kenmerkende piramidevormige kristallen Je kunt ze tussen je vingers verkruimelen of heel laten voor een extra bite All great food starts with a pinch of Maldon sea salt flakes [SEP] zout",maldon zeezoutvlokken zout,null,null,null
+0.48586854,8065,65765,Drogheria,Middellandse zeezout,"Drogheria & Alimentari Middellandse zeezout heeft een heel eigen aroma en een veel mildere smaak dan gewoon tafelzout. Het wordt gewonnen uit de Middellandse zee en bevat veel calcium en magnesium. Authentiek Italiaans, gemaakt in Florence Handig & mooi voor op tafel Perfect voor zout in een handomdraai","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Smaakmakers Zout Zout (naturel)
+ Zeezout","drogheria [SEP] middellandse zeezout [SEP] Drogheria & Alimentari Middellandse zeezout heeft een heel eigen aroma en een veel mildere smaak dan gewoon tafelzout. Het wordt gewonnen uit de Middellandse zee en bevat veel calcium en magnesium. Authentiek Italiaans, gemaakt in Florence Handig & mooi voor op tafel Perfect voor zout in een handomdraai [SEP] kruiden molen",drogheria middellandse zeezout kruiden molen,null,null,null
+0.48198333,3891,197872,Jozo,Grof zeezout navulbare molen,"Jozo grof zeezout afkomstig uit de caribische zee heeft een extra grove korrel die langzaam oplost en voor een ware zoute smaakexplosie zorgt in de mond. In een handige, navulbare molen Perfect voor een finishing touch over je gerecht Ideaal in combinatie met kruiden in dipsauzen en dressings","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Smaakmakers Zout Zout (naturel)
+ Zeezout","jozo [SEP] grof zeezout navulbare molen [SEP] Jozo grof zeezout afkomstig uit de caribische zee heeft een extra grove korrel die langzaam oplost en voor een ware zoute smaakexplosie zorgt in de mond. In een handige, navulbare molen Perfect voor een finishing touch over je gerecht Ideaal in combinatie met kruiden in dipsauzen en dressings [SEP] kruiden molen",jozo grof zeezout navulbare molen kruiden molen,null,null,null
+0.47993153,7746,518923,Verstegen,Zwarte peper zeezout,"Voeg in een handomdraai jouw versgemalen peper en zout toe aan je gerecht. Zwarte peper en zeezout komen samen in een potje, ideaal voor op tafel. Deze melange kun je toevoegen aan bijna elk gerecht Lekker met vlees, vis, groenten en salades De molen heeft 2 maalstanden voor een fijne en grove Maling","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Smaakmakers Zout Zout (naturel)
+ Zeezout","verstegen [SEP] zwarte peper zeezout [SEP] Voeg in een handomdraai jouw versgemalen peper en zout toe aan je gerecht. Zwarte peper en zeezout komen samen in een potje, ideaal voor op tafel. Deze melange kun je toevoegen aan bijna elk gerecht Lekker met vlees, vis, groenten en salades De molen heeft 2 maalstanden voor een fijne en grove Maling [SEP] zout",verstegen zwarte peper zeezout zout,null,null,null
+0.46842766,18528,161651,Camargue,Fleur de sel,"Fleur de Sel is uniek zeezout met de delicate en knapperige textuur van zoutschilfers die zijn ontstaan door kristallisatie aan het wateroppervlak. Met de hand geoogst in een uniek natuurgebied Het kurken deksel is een essentieel kenmerk van ons product Fleur de Sel wordt het beste gebruikt na bereiding van de gerechten Uitstekend bij grilgerechten, vis, salades, en een gekookt eitje","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Soepen sauzen kruiden olie Smaakmakers Zout Zout (naturel)
+ Zout (diverse)","camargue [SEP] fleur de sel [SEP] Fleur de Sel is uniek zeezout met de delicate en knapperige textuur van zoutschilfers die zijn ontstaan door kristallisatie aan het wateroppervlak. Met de hand geoogst in een uniek natuurgebied Het kurken deksel is een essentieel kenmerk van ons product Fleur de Sel wordt het beste gebruikt na bereiding van de gerechten Uitstekend bij grilgerechten, vis, salades, en een gekookt eitje [SEP] zout",camargue fleur de sel zout,null,null,null
+0.4669612,6373,223825,Verstegen,Selderijzout,Selderiezout is een smaakvolle mix van gemalen selderij en zout Toepasbaar als smaakvol alternatief van keukenzout Mooie tafelstrooier met handig alfabet design,"['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen selderij'
+ 'Geen schelpdieren (schaaldieren)' 'Vegetarisch' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Geen gluten']","Soepen sauzen kruiden olie Kruiden Gedroogde kruiden Selderij
+ Selderij kruiden",verstegen [SEP] selderijzout [SEP] Selderiezout is een smaakvolle mix van gemalen selderij en zout Toepasbaar als smaakvol alternatief van keukenzout Mooie tafelstrooier met handig alfabet design [SEP] kruiden pot,verstegen selderijzout kruiden pot,null,null,null
+0.46686685,8499,531737,Drogheria,Zeezout & peper,"In deze molen worden de smaken van zout en zwarte peper gecombineerd, hierdoor worden gerechten nog makkelijker op smaak gebracht. Handig en mooi voor op tafel perfect voor zout en peper in een handomdraai Authentiek Italiaans, gemaakt in Florence","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Soepen sauzen kruiden olie Smaakmakers Zout Zout  (kruiden),"drogheria [SEP] zeezout & peper [SEP] In deze molen worden de smaken van zout en zwarte peper gecombineerd, hierdoor worden gerechten nog makkelijker op smaak gebracht. Handig en mooi voor op tafel perfect voor zout en peper in een handomdraai Authentiek Italiaans, gemaakt in Florence [SEP] kruiden molen",drogheria zeezout & peper kruiden molen,null,null,null
+0.46392822,3957,502485,AH,Zacht zoute drop,Zachte zoute drop.,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij']","Snoep koek chips en chocolade Snoep Drop Zachte snoep
+ Zoute drop Zoute drop (zacht)",ah [SEP] zacht zoute drop [SEP] Zachte zoute drop. [SEP] drop,ah zacht zoute drop drop,null,null,null
+0.46037927,20024,414956,A.Vogel,Herbamare spicy kruidenzout,"Kruidenzout met 14 kruiden en groenten. De vervanger voor tafelzout. Door het unieke productieproces geeft Herbamare Spicy je het beste van twee werelden: meer smaak, minder zout. Meer smaak, minder zout 100% natuurlijk en vegan Lactose en glutenvrij","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen selderij' 'Vegetarisch' 'Geen lupine' 'biologisch'
+ ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen gluten']","Soepen sauzen kruiden olie Kruiden Gedroogde kruiden
+ Groente kruiden","a.vogel [SEP] herbamare spicy kruidenzout [SEP] Kruidenzout met 14 kruiden en groenten. De vervanger voor tafelzout. Door het unieke productieproces geeft Herbamare Spicy je het beste van twee werelden: meer smaak, minder zout. Meer smaak, minder zout 100% natuurlijk en vegan Lactose en glutenvrij [SEP] zout",a.vogel herbamare spicy kruidenzout zout,null,null,null
+0.45589077,13616,99242,Daro,Zoutoplossing,"Een fysiologische zoutoplossing 0,9% voor het reinigen van de neus, de neusholte, ogen en wonden. Meer info? Bekijk hieronder de productinformatie Persoonlijk advies nodig? Bel gratis: 0800-4040017. Wij zijn bereikbaar van maandag t/m vrijdag van 09.00 - 17.00 uur. Of kijk op http://www.thuisarts.nl/ Wij adviseren u alleen tot aanschaf en gebruik van een zelfzorgmedicijn over te gaan indien u goed geinformeerd bent. De informatie op ah.nl vervangt niet het individueel advies van een arts, apotheker of drogist. Voor de volledige consumenten-informatie van een zelfzorgmedicijn, verwijzen wij u naar de bijsluiter van de fabrikant, zoals goedgekeurd door het College ter Beoordeling van Geneesmiddelen. AH biedt deze verwijzingen, zoals het CBG, als service aan. AH is niet verantwoordelijk voor de juistheid van de aldaar aangeboden informatie. Er geldt voor dit product een maximum van 3 stuks per bestelling.",[],"Drogisterij Gezondheid Zelfzorg Verkoudheid hoesten Neus
+ Neusspray Neusspray volwassenen","daro [SEP] zoutoplossing [SEP] Een fysiologische zoutoplossing 0,9% voor het reinigen van de neus, de neusholte, ogen en wonden. Meer info? Bekijk hieronder de productinformatie Persoonlijk advies nodig? Bel gratis: 0800-4040017. Wij zijn bereikbaar van maandag t/m vrijdag van 09.00 - 17.00 uur. Of kijk op http://www.thuisarts.nl/ Wij adviseren u alleen tot aanschaf en gebruik van een zelfzorgmedicijn over te gaan indien u goed geinformeerd bent. De informatie op ah.nl vervangt niet het individueel advies van een arts, apotheker of drogist. Voor de volledige consumenten-informatie van een zelfzorgmedicijn, verwijzen wij u naar de bijsluiter van de fabrikant, zoals goedgekeurd door het College ter Beoordeling van Geneesmiddelen. AH biedt deze verwijzingen, zoals het CBG, als service aan. AH is niet verantwoordelijk voor de juistheid van de aldaar aangeboden informatie. Er geldt voor dit product een maximum van 3 stuks per bestelling. [SEP] inactief",daro zoutoplossing inactief,null,null,null
+0.44615456,14,518441,Cornish Sea Salt Co,Really garlicky,Heerlijke mix van zeezout en geroosterde knoflook uit het zuid-engelse cornwall. Het zeezout wordt met de hand geoogst uit de zuiverste wateren Kan in elk gerecht verse knoflook vervangen Mix met ongezouten boter voor je eigen knoflookbrood Maak groente of aardappelen extra speciaal met deze mix,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']",Soepen sauzen kruiden olie Smaakmakers Zout Zout  (kruiden),cornish sea salt co [SEP] really garlicky [SEP] Heerlijke mix van zeezout en geroosterde knoflook uit het zuid-engelse cornwall. Het zeezout wordt met de hand geoogst uit de zuiverste wateren Kan in elk gerecht verse knoflook vervangen Mix met ongezouten boter voor je eigen knoflookbrood Maak groente of aardappelen extra speciaal met deze mix [SEP] zout,cornish sea salt co really garlicky zout,null,null,null
+0.43208718,16236,165120,AH,Zoutjes uit de oven pittige tomaat,"Krokante zoutjes uit de oven met pittige tomaat. Ideale snack
+				  voor een feestje! Licht en luchtig 55 % minder vet dan snackzoutjes Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Geen selderij']",Snoep koek chips en chocolade Zoutjes Zoutjes-crackers,"ah [SEP] zoutjes uit de oven pittige tomaat [SEP] Krokante zoutjes uit de oven met pittige tomaat. Ideale snack
+				  voor een feestje! Licht en luchtig 55 % minder vet dan snackzoutjes Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] verantwoorde zoute biscuits",ah zoutjes uit de oven pittige tomaat verantwoorde zoute biscuits,null,null,null
+0.43081236,8946,516979,AH,Gerookte zalm 25 % minder zout,,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Geen vis'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Vlees kip vis vega Vis Gerookte vis Gerookte zalm - stukken,ah [SEP] gerookte zalm 25 % minder zout [SEP]  [SEP] gerookte zalm,ah gerookte zalm 25 % minder zout gerookte zalm,null,null,null
+0.42876214,1957,1077,AH,Trio zoutjes sesam- & maanzaad,Hartige zoutjes Met sesam- en maanzaad,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet'
+ 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Zoutjes Zoutjes-crackers,ah [SEP] trio zoutjes sesam- & maanzaad [SEP] Hartige zoutjes Met sesam- en maanzaad [SEP] overige zoute biscuits,ah trio zoutjes sesam- & maanzaad overige zoute biscuits,null,null,null
+0.42151874,4500,164641,Drogheria,Molen roze Himalaya zout,"Drogheria Alimentari roze himalaya zout komt uit Pakistan & bevat meer dan 80 mineralen. Handig & mooi voor op tafel Mineraal zout voor uw dagelijks gebruik Gemaakt in Florence, Italië","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Soepen sauzen kruiden olie Smaakmakers Zout Zout  (kruiden),"drogheria [SEP] molen roze himalaya zout [SEP] Drogheria Alimentari roze himalaya zout komt uit Pakistan & bevat meer dan 80 mineralen. Handig & mooi voor op tafel Mineraal zout voor uw dagelijks gebruik Gemaakt in Florence, Italië [SEP] kruiden molen",drogheria molen roze himalaya zout kruiden molen,null,null,null
+0.41899776,10348,206657,AH,Kaas zoutjes luchtig,Luchtige zoutjes Met kaassmaak,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Zoutjes Kaaszoutjes,ah [SEP] kaas zoutjes luchtig [SEP] Luchtige zoutjes Met kaassmaak [SEP] overige zoute biscuits,ah kaas zoutjes luchtig overige zoute biscuits,null,null,null
+0.41735762,15564,469900,Venco,Dropmix zout,"Zout, zacht, stevig een onweerstaanbare zoute dropmix en volop variatie. Heerlijke dropjes, gemaakt met zuiver dropextract en salmiak, met ieder een kenmerkende smaak en bite. Zout, zachte en stevige dropmix Jubes, boerderijdrop, topdrop en leeuwen Voordeelverpakking","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen sulfiet' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Snoep koek chips en chocolade Snoep Drop Gemengde drop,"venco [SEP] dropmix zout [SEP] Zout, zacht, stevig een onweerstaanbare zoute dropmix en volop variatie. Heerlijke dropjes, gemaakt met zuiver dropextract en salmiak, met ieder een kenmerkende smaak en bite. Zout, zachte en stevige dropmix Jubes, boerderijdrop, topdrop en leeuwen Voordeelverpakking [SEP] drop",venco dropmix zout drop,null,null,null
+0.41651607,21,439407,Klene,Puur zout,"Klene puur, zoute drop met enkel de essentiële ingrediënten van de beste kwaliteit. Dat zorgt voor een pure smaak! De ingrediënten staan letterlijk en figuurlijk voorop! Zonder kleurstoffen en aroma's Ook beschikbaar in honing en zoet","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Snoep Drop Zachte snoep
+ Zoute drop Zoute drop (zacht)","klene [SEP] puur zout [SEP] Klene puur, zoute drop met enkel de essentiële ingrediënten van de beste kwaliteit. Dat zorgt voor een pure smaak! De ingrediënten staan letterlijk en figuurlijk voorop! Zonder kleurstoffen en aroma's Ook beschikbaar in honing en zoet [SEP] drop",klene puur zout drop,null,null,null
+0.41586465,4768,165121,AH,Ovenzoutjes sour cream onion,"Krokante zoutjes uit de oven met sour cream/ onion. Ideale
+				  snack voor een feestje! Licht en luchtig 55 % minder vet dan snackzoutjes Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Geen selderij']",Snoep koek chips en chocolade Zoutjes Zoutjes-crackers,"ah [SEP] ovenzoutjes sour cream onion [SEP] Krokante zoutjes uit de oven met sour cream/ onion. Ideale
+				  snack voor een feestje! Licht en luchtig 55 % minder vet dan snackzoutjes Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] verantwoorde zoute biscuits",ah ovenzoutjes sour cream onion verantwoorde zoute biscuits,null,null,null
+0.4141376,7413,218611,AH,Zeezout boter,SmeuÃ¯ge zeezoutboter met grof gemalen zeezout Smaak: SmeuÃ¯g & zout Lekker op een toastje of op een stukje vlees,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor op brood Kruidenboter",ah [SEP] zeezout boter [SEP] SmeuÃ¯ge zeezoutboter met grof gemalen zeezout Smaak: SmeuÃ¯g & zout Lekker op een toastje of op een stukje vlees [SEP] kzb s vers smeer,ah zeezout boter kzb s vers smeer,null,null,null
+0.40344498,14562,494107,Schär,Salti,"Glutenvrij zoutjes bereid met zeezout, geschikt als tussendoortje of bij de borrel. Glutenvrij, tarwevrij, lactosevrij","['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Vegetarisch' ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lupine'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Glutenvrij
+ Crackers rijstwafels Ontbijtgranen crackers
+ Glutenvrije crackers knackebrod","schär [SEP] salti [SEP] Glutenvrij zoutjes bereid met zeezout, geschikt als tussendoortje of bij de borrel. Glutenvrij, tarwevrij, lactosevrij [SEP] hartige snacks",schär salti hartige snacks,null,null,null
+0.3950057,16342,59533,A.Vogel,Herbamare original zeezout met kruiden,"Herbamare Original is een biologisch kruidenzout dat gerechten op smaak brengt of als tafelzout gebruikt kan worden. Herbamare kruidenzout is 100% natuurlijk. Meer smaak, minder zout 100% natuurlijk en vegan Lactosevrij en glutenvrij","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen selderij' 'Vegetarisch' 'Geen lupine' 'biologisch'
+ ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen gluten']","Soepen sauzen kruiden olie Kruiden Gedroogde kruiden
+ Groente kruiden","a.vogel [SEP] herbamare original zeezout met kruiden [SEP] Herbamare Original is een biologisch kruidenzout dat gerechten op smaak brengt of als tafelzout gebruikt kan worden. Herbamare kruidenzout is 100% natuurlijk. Meer smaak, minder zout 100% natuurlijk en vegan Lactosevrij en glutenvrij [SEP] zout",a.vogel herbamare original zeezout met kruiden zout,null,null,null
+0.3950057,13651,227388,A.Vogel,Herbamare original zeezout met kruiden,"Herbamare Original is een biologisch kruidenzout dat gerechten op smaak brengt of als tafelzout gebruikt kan worden. Herbamare kruidenzout is 100% natuurlijk. Meer smaak, minder zout 100% natuurlijk en vegan Lactosevrij en glutenvrij","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen selderij' 'Vegetarisch' 'Geen lupine' 'biologisch'
+ ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Kruiden
+ Mediterrane keuken Gedroogde kruiden Italiaanse keukenkruiden
+ Italiaanse keuken","a.vogel [SEP] herbamare original zeezout met kruiden [SEP] Herbamare Original is een biologisch kruidenzout dat gerechten op smaak brengt of als tafelzout gebruikt kan worden. Herbamare kruidenzout is 100% natuurlijk. Meer smaak, minder zout 100% natuurlijk en vegan Lactosevrij en glutenvrij [SEP] zout",a.vogel herbamare original zeezout met kruiden zout,null,null,null
+0.3748852,11747,508432,Klene,Zeezout waterwerken,"Proef de historie in deze fiere waterwerken, een stevige zoute drop met een vleugje zeezout. Stoere drop met de licht zilte prikkeling van de zee. Stevige drop bereid met echt zeezout Een heerlijk stevige structuur In een handige stazak Lekker voor thuis of onderweg","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Snoep Drop Harde snoep
+ Zoute drop Zoute drop (hard)","klene [SEP] zeezout waterwerken [SEP] Proef de historie in deze fiere waterwerken, een stevige zoute drop met een vleugje zeezout. Stoere drop met de licht zilte prikkeling van de zee. Stevige drop bereid met echt zeezout Een heerlijk stevige structuur In een handige stazak Lekker voor thuis of onderweg [SEP] drop",klene zeezout waterwerken drop,null,null,null
+0.3738827,4235,538586,AH,Zeewier rijstcrackers,"Knapperige rijstzoutjes met zeewier. Een iets meer bijzonder zoutje voor bij de borrel Met een lichte zeewiersmaak Met slechts 4 ingredienten, bestaat voor 90% uit rijst","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet'
+ 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']",Snoep koek chips en chocolade Zoutjes Rijstzoutjes,"ah [SEP] zeewier rijstcrackers [SEP] Knapperige rijstzoutjes met zeewier. Een iets meer bijzonder zoutje voor bij de borrel Met een lichte zeewiersmaak Met slechts 4 ingredienten, bestaat voor 90% uit rijst [SEP] 3v6 rijstzoutjes",ah zeewier rijstcrackers 3v6 rijstzoutjes,null,null,null
+0.37386987,2610,502037,AH,Gemengde drop zoet en zout,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Vegetarisch'
+ 'Geen selderij']",Snoep koek chips en chocolade Snoep Drop Gemengde drop,ah [SEP] gemengde drop zoet en zout [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] drop,ah gemengde drop zoet en zout drop,null,null,null
+0.36767215,13172,109232,Venco,Topdrop hard zout 4-pack,Hard-zoute dropjes in een handig rolletje. Makkelijk om mee te nemen. 4-pack Hard-zoute drop Handig om mee te nemen,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']",Snoep koek chips en chocolade Snoep Snoeprollen,venco [SEP] topdrop hard zout 4-pack [SEP] Hard-zoute dropjes in een handig rolletje. Makkelijk om mee te nemen. 4-pack Hard-zoute drop Handig om mee te nemen [SEP] drop,venco topdrop hard zout 4-pack drop,null,null,null
+0.35125053,9532,448430,Bolletje,Zoute pepsels,"Bolletje zoute pepsels zijn extra dun gebakken, dus extra knapperig. Ze bevatten nog geen 3% vet en zijn dus vetarm! Er is maar een probleem: het zakje is leeg voor je het weet. Het vetarme tussendoortje Pepsels bestrooid met zout Lekker bij de borrel of gewoon tussendoor Extra knapperig","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']",Snoep koek chips en chocolade Zoutjes Pretzels,"bolletje [SEP] zoute pepsels [SEP] Bolletje zoute pepsels zijn extra dun gebakken, dus extra knapperig. Ze bevatten nog geen 3% vet en zijn dus vetarm! Er is maar een probleem: het zakje is leeg voor je het weet. Het vetarme tussendoortje Pepsels bestrooid met zout Lekker bij de borrel of gewoon tussendoor Extra knapperig [SEP] pretzels",bolletje zoute pepsels pretzels,null,null,null
+0.3494716,17407,510950,Souq,Za'atar,"Kruidige mix van midden-oosterse oregano, sesamzaad, sumak en zout. Probeer zaatar eens bij een croissantje, met wat olijfolie bij plat brood, met gegrilde kip of geroosterde worteltjes. 100% natuurlijk Een van de bekendste kruidenmixen van het midden-oosten De beste kwaliteit za'atar uit palestina, puur natuur Lekker als dip met olijfolie, over labneh en over geroosterde groentes","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen selderij' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine'
+ 'Geen mosterd' ""Geen pinda's"" 'Laag vet' 'Geen lactose' 'Geen sulfiet'
+ 'Geen sesam' 'Veganistisch' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Kruiden
+ Arabische keuken Mediterrane keuken Gedroogde kruiden
+ Turkse kruiden Turkse keuken","souq [SEP] za'atar [SEP] Kruidige mix van midden-oosterse oregano, sesamzaad, sumak en zout. Probeer zaatar eens bij een croissantje, met wat olijfolie bij plat brood, met gegrilde kip of geroosterde worteltjes. 100% natuurlijk Een van de bekendste kruidenmixen van het midden-oosten De beste kwaliteit za'atar uit palestina, puur natuur Lekker als dip met olijfolie, over labneh en over geroosterde groentes [SEP] kruidenmix doos",souq za'atar kruidenmix doos,null,null,null
+0.34738803,16493,437472,Care Plus,O.R.S. oral rehydration salt,"Cp o.r.s. - oral rehydration salt, pomegranate/orange, 10 sachets glucose-zoutenpreparaat ter bevordering van vochtopname bij volwassenen en kinderen met een aangename smaak. Geproduceerd conform who. Bevat geen aspartaam, glutenvrij, halal en kosjr Sachets per stuks verpakt, poeder lost volledig op in water","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Drogisterij Gezondheid Zelfzorg Vitamines & supplementen
+ Supplementen Weerstand en energie supplementen Energie","care plus [SEP] o.r.s. oral rehydration salt [SEP] Cp o.r.s. - oral rehydration salt, pomegranate/orange, 10 sachets glucose-zoutenpreparaat ter bevordering van vochtopname bij volwassenen en kinderen met een aangename smaak. Geproduceerd conform who. Bevat geen aspartaam, glutenvrij, halal en kosjr Sachets per stuks verpakt, poeder lost volledig op in water [SEP] spijsvertering",care plus o.r.s. oral rehydration salt spijsvertering,null,null,null
+0.34052184,7136,547777,Klene,Zout en salmiak mix,"Daar kan je mee aankomen: allemaal lekkere zoute en salmiak drop door elkaar! Als je eenmaal begint met uitdelen, is de snoeppot zo leeg. Wie wil nu niet mee genieten van de heerlijkste mix van klene? Zoute  en  salmiak drop Een lekkere mix met voor ieder wat wils In een handige stazak Lekker voor thuis of onderweg","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Snoep koek chips en chocolade Snoep Drop Gemengde drop,"klene [SEP] zout en salmiak mix [SEP] Daar kan je mee aankomen: allemaal lekkere zoute en salmiak drop door elkaar! Als je eenmaal begint met uitdelen, is de snoeppot zo leeg. Wie wil nu niet mee genieten van de heerlijkste mix van klene? Zoute  en  salmiak drop Een lekkere mix met voor ieder wat wils In een handige stazak Lekker voor thuis of onderweg [SEP] drop",klene zout en salmiak mix drop,null,null,null
+0.33810982,6268,387135,Sourcy,Sprankelend mineraalwater,Sourcy sprankelend mineraalwater is van nature zuiver en heeft een zacht karakter door de evenwichtige mineralenbalans. Licht sprankelend mineraalwater Koolzuurhoudend 0 Kcal Geschikt als basis voor zoutarme diëten,"['Geen vis' 'Geen gluten' 'Laag zout' 'Geen lactose' 'Geen noten'
+ 'Geen soja' 'Geen sulfiet' 'Geen selderij'
+ 'Geen kreeftachtigen (schaaldieren)' 'Laag suiker' ""Geen pinda's""
+ 'Geen schelpdieren (schaaldieren)' 'Geen mosterd' 'Geen melk' 'Laag vet'
+ 'Geen lupine' 'Geen sesam' 'Geen eieren']","Frisdrank sappen koffie thee Water Koolzuurhoudend water
+ Flessen water (koolzuurhoudend)",sourcy [SEP] sprankelend mineraalwater [SEP] Sourcy sprankelend mineraalwater is van nature zuiver en heeft een zacht karakter door de evenwichtige mineralenbalans. Licht sprankelend mineraalwater Koolzuurhoudend 0 Kcal Geschikt als basis voor zoutarme diëten [SEP] water bruisend gvp,sourcy sprankelend mineraalwater water bruisend gvp,null,null,null
+0.329626,14479,508428,Klene,Muntdrop zout suikervrij,"Klene suikervrije muntdrop is stevige drop, bereid volgens authentiek recept. Nu ook in zoute smaak. Suikervrije zoute muntdrop, onbetaalbaar lekker! Zoute drop Suikervrij Met hersluitbare sticker Lekker voor thuis of onderweg","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Snoep Drop
+ Suikerbewust Suikervrije drop","klene [SEP] muntdrop zout suikervrij [SEP] Klene suikervrije muntdrop is stevige drop, bereid volgens authentiek recept. Nu ook in zoute smaak. Suikervrije zoute muntdrop, onbetaalbaar lekker! Zoute drop Suikervrij Met hersluitbare sticker Lekker voor thuis of onderweg [SEP] bewust snoep drop",klene muntdrop zout suikervrij bewust snoep drop,null,null,null
+0.3294251,18201,496225,AH,Vissaus,De rijke smaak van azie. Vissaus (nuoc Man) is een zoute saus gemaakt van gedroogde vis en vindt z'n oorsprong in Thailand. Deze aromatische saus is geschikt als smaakmaker van vele roerbakgerechten,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Geen vis' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij'
+ 'Geen gluten']","Soepen sauzen kruiden olie Smaakmakers Tafelsauzen toevoegingen
+ Vissaus","ah [SEP] vissaus [SEP] De rijke smaak van azie. Vissaus (nuoc Man) is een zoute saus gemaakt van gedroogde vis en vindt z'n oorsprong in Thailand. Deze aromatische saus is geschikt als smaakmaker van vele roerbakgerechten [SEP] ketjap, soja- en aziat. sauzen","ah vissaus ketjap, soja- en aziat. sauzen",null,null,null
+0.32721972,18077,173426,AH,Ovenzoutjes Kaas,"Deze zoutjes uit de oven met olijf/oregano zijn licht, luchtig en krokant. Altijd een succes op de borreltafel, tijdens een feestje, of gewoon als knapperige snack tussendoor. Licht en luchtig 55% minder vet dan snackzoutjes Met de Mediterrane smaak van olijf en oregano De ideale borrelsnack Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score C'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']",Snoep koek chips en chocolade Zoutjes Zoutjes-crackers,"ah [SEP] ovenzoutjes kaas [SEP] Deze zoutjes uit de oven met olijf/oregano zijn licht, luchtig en krokant. Altijd een succes op de borreltafel, tijdens een feestje, of gewoon als knapperige snack tussendoor. Licht en luchtig 55% minder vet dan snackzoutjes Met de Mediterrane smaak van olijf en oregano De ideale borrelsnack Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] verantwoorde zoute biscuits",ah ovenzoutjes kaas verantwoorde zoute biscuits,null,null,null
+0.32602233,7992,165117,AH,Mega mix,Knapperige mix van zoutjes in verschillende smaken. De perfecte smaakmaker tijdens een feestje! In de oven gebakken Met een knapperige bite Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij']",Snoep koek chips en chocolade Zoutjes Pretzels,ah [SEP] mega mix [SEP] Knapperige mix van zoutjes in verschillende smaken. De perfecte smaakmaker tijdens een feestje! In de oven gebakken Met een knapperige bite Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] pretzels,ah mega mix pretzels,null,null,null
+0.32598406,17472,383071,Oldtimers,Zoute ruiten,"Mildzoute drop van alleen de beste pure ingrediënten zoals echte Arabische gom voor een stevige structuur en zoethout voor de rijke, onvergelijkbare smaak van drop. Mildzoute drop Vegan/ gelatinevrij Glutenvrij Bevat alleen natuurlijke kleur- en smaakstoffen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Snoep Drop Harde snoep
+ Zoute drop Zoute drop (hard)","oldtimers [SEP] zoute ruiten [SEP] Mildzoute drop van alleen de beste pure ingrediënten zoals echte Arabische gom voor een stevige structuur en zoethout voor de rijke, onvergelijkbare smaak van drop. Mildzoute drop Vegan/ gelatinevrij Glutenvrij Bevat alleen natuurlijke kleur- en smaakstoffen [SEP] drop",oldtimers zoute ruiten drop,null,null,null
+0.32426822,18470,174222,Otrivin,Zoutoplossing neusspray,"Otrivin zoutoplossing neusspray reinigt je neus zachtjes (bv. Bij een verstopte neus tijdens een verkhoudheid). Dit is een medisch hulpmiddel. Lees voor gebruik de gebruiksaanwijzing. Otrivin zoutoplossing is geschikt voor babys, kinderen en volwassenen Otrivin zoutoplossing helpt een verstopte neus te voorkomen en verlichten Otrivin zoutoplossing mag langere tijd gebruikt worden",['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Gezondheid Zelfzorg Verkoudheid hoesten Neus
+ Neusspray Neusspray volwassenen","otrivin [SEP] zoutoplossing neusspray [SEP] Otrivin zoutoplossing neusspray reinigt je neus zachtjes (bv. Bij een verstopte neus tijdens een verkhoudheid). Dit is een medisch hulpmiddel. Lees voor gebruik de gebruiksaanwijzing. Otrivin zoutoplossing is geschikt voor babys, kinderen en volwassenen Otrivin zoutoplossing helpt een verstopte neus te voorkomen en verlichten Otrivin zoutoplossing mag langere tijd gebruikt worden [SEP] otc hoest verkoudheid griep",otrivin zoutoplossing neusspray otc hoest verkoudheid griep,null,null,null
+0.32346112,8490,387134,Sourcy,Naturel mineraalwater,Sourcy natuurlijk mineraalwater is van nature zuiver en heeft een zacht karakter door de evenwichtige mineralenbalans. Koolzuurvrij mineraalwater 0 Kcal Geschikt als basis voor babyvoeding en zoutarme diëten,"['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen lupine' 'Geen noten' ""Geen pinda's"" 'Laag vet' 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Frisdrank sappen koffie thee Water Koolzuurvrij water
+ Flessen water (koolzuurvrij)",sourcy [SEP] naturel mineraalwater [SEP] Sourcy natuurlijk mineraalwater is van nature zuiver en heeft een zacht karakter door de evenwichtige mineralenbalans. Koolzuurvrij mineraalwater 0 Kcal Geschikt als basis voor babyvoeding en zoutarme diëten [SEP] water koolzuurvrij gvp,sourcy naturel mineraalwater water koolzuurvrij gvp,null,null,null
+0.32046878,17402,123423,AH,Mineraalwater koolzuurvrij,,"['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen lupine' 'Geen noten' ""Geen pinda's"" 'Laag vet' 'Geen selderij'
+ 'Geen mosterd' 'Nutri-Score A' 'Geen lactose' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Frisdrank sappen koffie thee Water Koolzuurhoudend water
+ Flesjes water (koolzuurhoudend)",ah [SEP] mineraalwater koolzuurvrij [SEP]  [SEP] water koolzuurvrij kvp,ah mineraalwater koolzuurvrij water koolzuurvrij kvp,null,null,null
+0.31973606,20168,410597,Weleda,Saline tandpasta,Natuurlijke bescherming tegen tandbederf en tandsteen. Reinigt het gebit op basis van zoutkristallen en plantenextracten Helpt tandbederf en vorming tandsteen voorkomen Neutraliseert het zuurgehalte in de mond Geeft een frisse smaak en langdurig frisse adem,[],"Drogisterij Verzorging Mondhygiene Tandpasta
+ Tandpasta sterke tanden",weleda [SEP] saline tandpasta [SEP] Natuurlijke bescherming tegen tandbederf en tandsteen. Reinigt het gebit op basis van zoutkristallen en plantenextracten Helpt tandbederf en vorming tandsteen voorkomen Neutraliseert het zuurgehalte in de mond Geeft een frisse smaak en langdurig frisse adem [SEP] ,weleda saline tandpasta ,null,null,null
+0.31959933,3869,547743,Venco,Droptoppers zacht & salmiak,"Als je van zout houdt, zijn deze lekkere droptoppers jouw keuze: een heerlijke salmiak dropmix met ieder zijn eigen karakteristieke smaak en een verrassend pittige twist. Zachte, salmiak dropmix Een blend van dropextract, salmiakzout, honing en jalapeno Verrassend pittige twist De verhouding tussen de dropjes in de mix kan varieren","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij']","Snoep koek chips en chocolade Snoep Drop Zachte snoep
+ Zoute drop Zoute drop (zacht)","venco [SEP] droptoppers zacht & salmiak [SEP] Als je van zout houdt, zijn deze lekkere droptoppers jouw keuze: een heerlijke salmiak dropmix met ieder zijn eigen karakteristieke smaak en een verrassend pittige twist. Zachte, salmiak dropmix Een blend van dropextract, salmiakzout, honing en jalapeno Verrassend pittige twist De verhouding tussen de dropjes in de mix kan varieren [SEP] drop",venco droptoppers zacht & salmiak drop,null,null,null
+0.31696963,17467,415006,Verstegen,Uienpoeder,Uienpoeder is de gedroogde en gemalen vorm van ui en heeft met de bekende zoete ui smaak. Je kan een vleugje uienpoeder toevoegen aan zo'n beetje alles dat zout is. Goede vervanging van verse uien Uitgesproken geur en smaak In handige strooi verpakking,"['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Soepen sauzen kruiden olie Kruiden Gedroogde kruiden
+ Uienpoeder",verstegen [SEP] uienpoeder [SEP] Uienpoeder is de gedroogde en gemalen vorm van ui en heeft met de bekende zoete ui smaak. Je kan een vleugje uienpoeder toevoegen aan zo'n beetje alles dat zout is. Goede vervanging van verse uien Uitgesproken geur en smaak In handige strooi verpakking [SEP] kruiden pot,verstegen uienpoeder kruiden pot,null,null,null
+0.31645977,5819,133707,AH,Smeuge pindakaas arm in natrium,Pindakaas zoutarm is een smeuïge pindakaas met een zoete twist en makkelijk smeerbaar! Rijk aan vitamine E Past in een zoutarm dieet,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'natriumarm' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Bewuste voeding Natriumarm
+ Hartig broodbeleg Natriumarme pindakaas",ah [SEP] smeuge pindakaas arm in natrium [SEP] Pindakaas zoutarm is een smeuïge pindakaas met een zoete twist en makkelijk smeerbaar! Rijk aan vitamine E Past in een zoutarm dieet [SEP] pindakaas,ah smeuge pindakaas arm in natrium pindakaas,null,null,null
+0.3161131,6308,449713,Verstegen,Sweet chili zonder suiker,"Sweet Chilisaus zonder toegevoegde suikers en zoetstoffen, met de rijke smaak van kruiden en specerijen. 0% toegevoegd suiker en je mist het niet Geen gebruik van sucralose De sauzen zijn gemaakt van de beste kruiden en specerijen Er worden geen suikervervangers of zoetstoffen gebruikt. En dat is uniek","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Oosterse keuken Sauzen Chinees Snacksauzen mayonaise
+ Chinese chilisaus Chilisaus","verstegen [SEP] sweet chili zonder suiker [SEP] Sweet Chilisaus zonder toegevoegde suikers en zoetstoffen, met de rijke smaak van kruiden en specerijen. 0% toegevoegd suiker en je mist het niet Geen gebruik van sucralose De sauzen zijn gemaakt van de beste kruiden en specerijen Er worden geen suikervervangers of zoetstoffen gebruikt. En dat is uniek [SEP] chilisauzen",verstegen sweet chili zonder suiker chilisauzen,null,null,null
+0.31547892,16293,223824,Verstegen,Maanzaad,"Maanzaad wordt met name gebruikt in zoete producten zoals brood, gebak en koekjes Licht zoutachtige smaak Het product behoudt zijn smaak en geur langer als zaadje dan als gemalen poeder","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']",Soepen sauzen kruiden olie Kruiden Gedroogde kruiden Maanzaad,"verstegen [SEP] maanzaad [SEP] Maanzaad wordt met name gebruikt in zoete producten zoals brood, gebak en koekjes Licht zoutachtige smaak Het product behoudt zijn smaak en geur langer als zaadje dan als gemalen poeder [SEP] kruiden pot",verstegen maanzaad kruiden pot,null,null,null
+0.31378406,12158,199611,Schär,Salinis,"Kleine, knapperige zoute krakelingen. Een smakelijke aanvulling  bij elke gelegenheid. Gluten-, tarwe- en lactosevrij.","['Geen melk' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']",Snoep koek chips en chocolade Zoutjes Pretzels,"schär [SEP] salinis [SEP] Kleine, knapperige zoute krakelingen. Een smakelijke aanvulling  bij elke gelegenheid. Gluten-, tarwe- en lactosevrij. [SEP] hartige snacks",schär salinis hartige snacks,null,null,null
+0.3122479,12900,193657,AH,Pikantjes,Rijst- en maïszoutjes,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij']",Snoep koek chips en chocolade Zoutjes Rijstzoutjes,ah [SEP] pikantjes [SEP] Rijst- en maïszoutjes [SEP] rijstzoutjes,ah pikantjes rijstzoutjes,null,null,null
+0.31131846,16821,518842,Verstegen,World spice blend za'atar,"Za'atar is een midden-oosterse kruidenmelange. De smaak is exotisch: een combinatie van het milde, nootachtige aroma van sesamzaad, de zoete tonen van sumak en een licht bittere toon van tijm. 100% natuurlijk Zonder toegevoegd zout Lekker bij flatbread, ovengroente en hummus","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Kruiden Maaltijd Kruidenmixen
+ Gedroogde kruiden","verstegen [SEP] world spice blend za'atar [SEP] Za'atar is een midden-oosterse kruidenmelange. De smaak is exotisch: een combinatie van het milde, nootachtige aroma van sesamzaad, de zoete tonen van sumak en een licht bittere toon van tijm. 100% natuurlijk Zonder toegevoegd zout Lekker bij flatbread, ovengroente en hummus [SEP] kruiden pot",verstegen world spice blend za'atar kruiden pot,null,null,null
+0.3094914,657,510948,Souq,Sumak,"Sumak is een friszuur bloemig poeder van het mediterrane sumakbesje. Voor ons is sumak net zo onmisbaar en als peper en zout, om mee te koken en om een gerecht aan tafel mee af te maken. 100% natuurlijk Gebruik als peper en zout voor een friszure touch Lekker gestrooid over eitjes, hummus, labneh en in marinades Ook lekker in limonades, cocktails, over desserts en in fruitsalades","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen selderij' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine'
+ 'Geen mosterd' ""Geen pinda's"" 'Laag vet' 'Geen lactose' 'Geen sulfiet'
+ 'Geen sesam' 'Veganistisch' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Kruiden
+ Arabische keuken Mediterrane keuken Gedroogde kruiden
+ Turkse kruiden Turkse keuken","souq [SEP] sumak [SEP] Sumak is een friszuur bloemig poeder van het mediterrane sumakbesje. Voor ons is sumak net zo onmisbaar en als peper en zout, om mee te koken en om een gerecht aan tafel mee af te maken. 100% natuurlijk Gebruik als peper en zout voor een friszure touch Lekker gestrooid over eitjes, hummus, labneh en in marinades Ook lekker in limonades, cocktails, over desserts en in fruitsalades [SEP] kruidenmix doos",souq sumak kruidenmix doos,null,null,null
+0.30721286,6320,168956,AH,Kruidenmix met zout aardappel mini jar,"AH mix voor aardappels om aardappels op smaak te brengen Met ui, knoflook en komijn","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Kruiden Gedroogde kruiden
+ Aardappelkruiden","ah [SEP] kruidenmix met zout aardappel mini jar [SEP] AH mix voor aardappels om aardappels op smaak te brengen Met ui, knoflook en komijn [SEP] kruidenmix bus",ah kruidenmix met zout aardappel mini jar kruidenmix bus,null,null,null
+0.3068552,843,164631,AH,Kruidenm voor zalm,AH mix voor zalm om zalm op smaak te brengen Zelf toevoegen: zalm Met de inhoud van deze bus kan 4 kilo zalm op smaak worden gebracht Met peper en dille,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij']","Soepen sauzen kruiden olie Kruiden Gedroogde kruiden
+ Viskruiden",ah [SEP] kruidenm voor zalm [SEP] AH mix voor zalm om zalm op smaak te brengen Zelf toevoegen: zalm Met de inhoud van deze bus kan 4 kilo zalm op smaak worden gebracht Met peper en dille [SEP] kruidenmix bus,ah kruidenm voor zalm kruidenmix bus,null,null,null
+0.3068471,16905,386201,Verstegen,Salieblad,Salie behoort tot een mintfamilie en heeft viltige grijsgroene bladeren. Wordt veel gebruikt in de Italiaanse keuken. Scherp van smaak en enigszins bitter Heerlijk bij varkensvlees en kip Mooie tafelstrooier met handig alfabet design,"['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Soepen sauzen kruiden olie Kruiden Gedroogde kruiden Salie
+ Salie kruiden",verstegen [SEP] salieblad [SEP] Salie behoort tot een mintfamilie en heeft viltige grijsgroene bladeren. Wordt veel gebruikt in de Italiaanse keuken. Scherp van smaak en enigszins bitter Heerlijk bij varkensvlees en kip Mooie tafelstrooier met handig alfabet design [SEP] kruiden pot,verstegen salieblad kruiden pot,null,null,null
+0.3060549,18944,538587,AH,Sweet chili rijstcrackers,Knapperige rijstzoutjes met zoete Chilismaak. Ideaal voor bij de borrel Verrijkt met sojaboontjes Bevat een laag zoutgehalte,"['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']",Snoep koek chips en chocolade Zoutjes Rijstzoutjes,ah [SEP] sweet chili rijstcrackers [SEP] Knapperige rijstzoutjes met zoete Chilismaak. Ideaal voor bij de borrel Verrijkt met sojaboontjes Bevat een laag zoutgehalte [SEP] 3v6 rijstzoutjes,ah sweet chili rijstcrackers 3v6 rijstzoutjes,null,null,null
+0.30585262,171,388182,AH,Sweet chili sauce,Zoete chilisaus. Zoete pittige saus Lekker bij loempia's en kip Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score D' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Oosterse keuken Sauzen Snacksauzen mayonaise Indonesisch
+ Chilisaus Indonesische chilisaus",ah [SEP] sweet chili sauce [SEP] Zoete chilisaus. Zoete pittige saus Lekker bij loempia's en kip Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] chilisauzen,ah sweet chili sauce chilisauzen,null,null,null
+0.30433887,15948,39993,AH,Zure zult,"Gesneden zure zult met frisse stukjes augurk, lekker op een witte of bruine boterham! Ook voor op toast Voor tijdens het ontbijt of de lunch, of ieder ander moment van de dag","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Zure zult Zure zult (versafdeling)","ah [SEP] zure zult [SEP] Gesneden zure zult met frisse stukjes augurk, lekker op een witte of bruine boterham! Ook voor op toast Voor tijdens het ontbijt of de lunch, of ieder ander moment van de dag [SEP] slagers keuze",ah zure zult slagers keuze,null,null,null
+0.30395025,2153,168744,Van Wijngaarden's,Zaanse mayonaise natriumarm,"Ondanks dat de originele Zaanse Mayonaise al zeer laag is in zout, is er toch een speciale variant ontwikkelt voor het dieetschap.","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Geen mosterd' 'Geen eieren' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Mayonaise (natriumarm)","van wijngaarden's [SEP] zaanse mayonaise natriumarm [SEP] Ondanks dat de originele Zaanse Mayonaise al zeer laag is in zout, is er toch een speciale variant ontwikkelt voor het dieetschap. [SEP] mayonaise",van wijngaarden's zaanse mayonaise natriumarm mayonaise,null,null,null
+0.3027389,19155,550383,Rio,Sucralose zoetstof,"Zoetstof op basis van erythritol en sucralose. 4 keer zo zoet als suiker, maar zonder calorieen en een glycemische index van 0. 4 keer zo zoet als suiker 0 calorieen Geen invloed op de bloedsuikerspiegel Ronde smaak, lijkt veel op suiker","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Bewuste voeding Koffie
+ Suikerbewust Koffieverrijkers Zoetstof (suikerbewust)
+ Koffiefilters suiker Zoetstof","rio [SEP] sucralose zoetstof [SEP] Zoetstof op basis van erythritol en sucralose. 4 keer zo zoet als suiker, maar zonder calorieen en een glycemische index van 0. 4 keer zo zoet als suiker 0 calorieen Geen invloed op de bloedsuikerspiegel Ronde smaak, lijkt veel op suiker [SEP] zoetstoffen multiserve",rio sucralose zoetstof zoetstoffen multiserve,null,null,null
+0.3021978,4730,234763,Verstegen,Korianderzaad,Strooier korianderza.,"['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Soepen sauzen kruiden olie Kruiden Gedroogde kruiden Koriander
+ Koriander kruiden",verstegen [SEP] korianderzaad [SEP] Strooier korianderza. [SEP] kruiden pot,verstegen korianderzaad kruiden pot,null,null,null
+0.30208033,1314,187874,AH,Popcorn Zout,Met een zoute knapperige bite Gepoft in zonnebloemolie Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,['Prijsfavoriet'],Snoep koek chips en chocolade Popcorn,ah [SEP] popcorn zout [SEP] Met een zoute knapperige bite Gepoft in zonnebloemolie Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] popcorn,ah popcorn zout popcorn,null,null,null
+0.29867867,1581,67675,AH,Yamato mix,Rijstzoutjesmix met sojasaus en stukjes zeewier Minder dan 1% vet,"['Geen gluten' 'Geen melk' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen selderij']",Snoep koek chips en chocolade Zoutjes Rijstzoutjes,ah [SEP] yamato mix [SEP] Rijstzoutjesmix met sojasaus en stukjes zeewier Minder dan 1% vet [SEP] rijstzoutjes,ah yamato mix rijstzoutjes,null,null,null
+0.29820162,933,486801,Oldtimers,Jochums favorieten volzoet & mildzout,"Dropmix van volzoet tot subtielzout en van zacht en chewy tot lekker stevig. Van alleen de beste ingredienten zoals arabische gom voor de structuur en zoethout voor de onvergelijkbare dropsmaak. Dropmix van zoete, zoute en salmiakdrop Vegan/ gelatinevrij Glutenvrij Bevat alleen natuurlijke kleur- en smaakstoffen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Snoep Drop Zachte snoep
+ Zoete drop Zoete drop (zacht)","oldtimers [SEP] jochums favorieten volzoet & mildzout [SEP] Dropmix van volzoet tot subtielzout en van zacht en chewy tot lekker stevig. Van alleen de beste ingredienten zoals arabische gom voor de structuur en zoethout voor de onvergelijkbare dropsmaak. Dropmix van zoete, zoute en salmiakdrop Vegan/ gelatinevrij Glutenvrij Bevat alleen natuurlijke kleur- en smaakstoffen [SEP] drop",oldtimers jochums favorieten volzoet & mildzout drop,null,null,null
+0.29690582,5451,168430,Duyvis,Cashews sea salt,"Heerlijke cashewnoten die op smaak zijn gebracht met natuurlijk, grof gemalen zeezout Geen kunstmatige kleur- en smaakstoffen Bevat 4-5 porties","['Geen gluten' 'Geen melk' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score D' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']","Snoep koek chips en chocolade Noten Noten in zak
+ Cashewnoten (zakje)","duyvis [SEP] cashews sea salt [SEP] Heerlijke cashewnoten die op smaak zijn gebracht met natuurlijk, grof gemalen zeezout Geen kunstmatige kleur- en smaakstoffen Bevat 4-5 porties [SEP] gezouten noten",duyvis cashews sea salt gezouten noten,null,null,null
+0.29614502,16350,510986,Souq,Baharat,"Baharat is een warme en geurige specerijenmix, met o.a. Piment, gember en kaneel. Lekker met kip, rijst, peulvruchten en vleesgerechten. 100% natuurlijk Kruidige mix van o.a. Piment, kaneel, korianderzaad, gember, nootmuskaat Gebruik voor kip, rijstgerechten of stoofgerechten Authentieke smaakmaker","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen selderij' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine'
+ 'Geen mosterd' ""Geen pinda's"" 'Laag vet' 'Geen lactose' 'Geen sulfiet'
+ 'Geen sesam' 'Veganistisch' 'Geen gluten']","Soepen sauzen kruiden olie Kruiden Maaltijd Kruidenmixen
+ Gedroogde kruiden","souq [SEP] baharat [SEP] Baharat is een warme en geurige specerijenmix, met o.a. Piment, gember en kaneel. Lekker met kip, rijst, peulvruchten en vleesgerechten. 100% natuurlijk Kruidige mix van o.a. Piment, kaneel, korianderzaad, gember, nootmuskaat Gebruik voor kip, rijstgerechten of stoofgerechten Authentieke smaakmaker [SEP] kruidenmix doos",souq baharat kruidenmix doos,null,null,null
+0.2953701,11142,547775,Klene,Salmiak riksen,"De salmiakriksen behoren tot onze klassiekers. Lekkere zachte drop, met een herkenbare zoute salmiaksmaak. Typisch een dropje voor de dropliefhebber die niet terugdeinst voor een beetje zout. Zacht zout Knapperig van buiten en zacht van binnen, dus extra genieten In een handige stazak Lekker voor thuis of onderweg","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Snoep Drop Zachte snoep
+ Zoute drop Zoute drop (zacht)","klene [SEP] salmiak riksen [SEP] De salmiakriksen behoren tot onze klassiekers. Lekkere zachte drop, met een herkenbare zoute salmiaksmaak. Typisch een dropje voor de dropliefhebber die niet terugdeinst voor een beetje zout. Zacht zout Knapperig van buiten en zacht van binnen, dus extra genieten In een handige stazak Lekker voor thuis of onderweg [SEP] drop",klene salmiak riksen drop,null,null,null
+0.29510823,12694,447645,AH,Ham & kaas smaak zoutjes,Voor de hartige trek: lekker luchtige maiszoutjes met ham-kaassmaak. De snack voor tussendoor. Met een brosse bite Bereid met zonnebloemolie Bevat ca. 6 porties Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij']",Snoep koek chips en chocolade Zoutjes Kaaszoutjes,ah [SEP] ham & kaas smaak zoutjes [SEP] Voor de hartige trek: lekker luchtige maiszoutjes met ham-kaassmaak. De snack voor tussendoor. Met een brosse bite Bereid met zonnebloemolie Bevat ca. 6 porties Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] snacks,ah ham & kaas smaak zoutjes snacks,null,null,null
+0.2942294,3633,460468,AH,Robuuste chips zeezout,"Robuuste chips zeezout. Deze goudgele chips worden dik gesneden en vervolgens in zonnebloemolie lekker knapperig gebakken. Een sterk staaltje vakmanschap, en dat proef je! Dikgesneden goudgele chips Heerlijk hartig","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']",Snoep koek chips en chocolade Chips Luxe chips,"ah [SEP] robuuste chips zeezout [SEP] Robuuste chips zeezout. Deze goudgele chips worden dik gesneden en vervolgens in zonnebloemolie lekker knapperig gebakken. Een sterk staaltje vakmanschap, en dat proef je! Dikgesneden goudgele chips Heerlijk hartig [SEP] premium chips",ah robuuste chips zeezout premium chips,null,null,null
+0.29420364,15298,449715,Koh Thai,Vissaus,"nam pla - vissaus - is de smaakmaker van de thaise keuken. De saus wordt gemaakt van gefermenteerde gezouten (ansjo)vis. Vissaus wordt gebruikt zoals wij zout gebruiken. Basisingredient voor de aziatische keuken Gebruik om gerechten op smaak te brengen Geen conserveermiddelen en toegevoegde smaakversterkers Voeg toe aan (wok)gerechten, soepen en dressings","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Geen vis' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Oosterse keuken Sauzen Woksauzen Thais Thaise woksaus Woksaus","koh thai [SEP] vissaus [SEP] nam pla - vissaus - is de smaakmaker van de thaise keuken. De saus wordt gemaakt van gefermenteerde gezouten (ansjo)vis. Vissaus wordt gebruikt zoals wij zout gebruiken. Basisingredient voor de aziatische keuken Gebruik om gerechten op smaak te brengen Geen conserveermiddelen en toegevoegde smaakversterkers Voeg toe aan (wok)gerechten, soepen en dressings [SEP] authentiek thais",koh thai vissaus authentiek thais,null,null,null
+0.29197735,18803,547722,Venco,Jubes,"Deze zachte jubes hebben een smaak van zuiver dropextract en salmiak. Volop te genieten van de originele, zoutzoete dropsmaak. Ons beste recept! Zoute dropjes Zuiver dropextract en salmiak Zachte bite Recyclebaar","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Snoep Drop Zachte snoep
+ Zoute drop Zoute drop (zacht)","venco [SEP] jubes [SEP] Deze zachte jubes hebben een smaak van zuiver dropextract en salmiak. Volop te genieten van de originele, zoutzoete dropsmaak. Ons beste recept! Zoute dropjes Zuiver dropextract en salmiak Zachte bite Recyclebaar [SEP] drop",venco jubes drop,null,null,null
+0.2917601,9723,468155,AH,Pikante rijstzoutjes,Voor op de borreltafel: krokant geroosterde rijstzoutjes met de smaken van curry kruiden en licht pittige Chili. Licht pittig van smaak Gebakken in zonnebloemolie Op basis van rijst,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij']",Snoep koek chips en chocolade Zoutjes Rijstzoutjes,ah [SEP] pikante rijstzoutjes [SEP] Voor op de borreltafel: krokant geroosterde rijstzoutjes met de smaken van curry kruiden en licht pittige Chili. Licht pittig van smaak Gebakken in zonnebloemolie Op basis van rijst [SEP] gezouten noten,ah pikante rijstzoutjes gezouten noten,null,null,null
+0.2917035,16044,37506,Knorr,Smaakverfijner aromat natriumarm,"Is een rijk bouquet van kruiden en specerijen, zorgvuldig geselecteerd om vele gerechten op een verfijnde Manier op smaak te brengen, zoals soepen, sauzen, ei- en vleesgerechten. Ideaal voor soep, saus, ei- en vleesgerechten Voor een natrium arm dieet Navulbaar Handig strooibusje","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Geen eieren']",Soepen sauzen kruiden olie Kruiden Aromat,"knorr [SEP] smaakverfijner aromat natriumarm [SEP] Is een rijk bouquet van kruiden en specerijen, zorgvuldig geselecteerd om vele gerechten op een verfijnde Manier op smaak te brengen, zoals soepen, sauzen, ei- en vleesgerechten. Ideaal voor soep, saus, ei- en vleesgerechten Voor een natrium arm dieet Navulbaar Handig strooibusje [SEP] aroma's",knorr smaakverfijner aromat natriumarm aroma's,null,null,null
+0.29169253,15813,403361,AH,Sucralose vloeibaar,"Ideaal voor het zoeten van koffie, thee of andere warme en koude dranken of bijvoorbeeld yoghurt. Vloeibare zoetstof op basis van Sucralose Om mee te koken en te bakken Bevat geen aspartaam","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)'
+ 'Vegetarisch' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Nutri-Score B'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Geen gluten']","Frisdrank sappen koffie thee Koffie Koffieverrijkers
+ Koffiefilters suiker Zoetstof Zoetstof tabletten vloeibaar","ah [SEP] sucralose vloeibaar [SEP] Ideaal voor het zoeten van koffie, thee of andere warme en koude dranken of bijvoorbeeld yoghurt. Vloeibare zoetstof op basis van Sucralose Om mee te koken en te bakken Bevat geen aspartaam [SEP] zoetstoffen vloeibaar",ah sucralose vloeibaar zoetstoffen vloeibaar,null,null,null
+0.29072312,17836,200547,AH,Salie,"Salie is een kruid met fluweelachtige, zachte blaadjes. De kleur is groengrijs tot zilvergrijs en de vorm langwerpig en spits. Salieblaadjes hebben
+een zeer aromatische geur. Salie is ook bekend om zijn geneeskrachtige werking.","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Soepen sauzen kruiden olie Kruiden
+ Kruiden knoflook pepers Verse kruiden Salie Salie (vers)","ah [SEP] salie [SEP] Salie is een kruid met fluweelachtige, zachte blaadjes. De kleur is groengrijs tot zilvergrijs en de vorm langwerpig en spits. Salieblaadjes hebben
+een zeer aromatische geur. Salie is ook bekend om zijn geneeskrachtige werking. [SEP] obw kruiden",ah salie obw kruiden,null,null,null
+0.29061195,6725,508475,Klene,Suikervrij zoute ovaaltjes,"Laat u eens verrassen door de suikervrije zoute ovaaltjes. Een heerlijk zout dropje bereid volgens authentiek recept met echte arabische gom. Suikervrije zoute ovaaltjes, ronduit lekkere drop. Zoute drop Suikervrij Met hersluitbare sticker Lekker voor thuis of onderweg","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Bewuste voeding Snoep koek chips en chocolade Snoep Drop
+ Suikerbewust Suikervrije drop","klene [SEP] suikervrij zoute ovaaltjes [SEP] Laat u eens verrassen door de suikervrije zoute ovaaltjes. Een heerlijk zout dropje bereid volgens authentiek recept met echte arabische gom. Suikervrije zoute ovaaltjes, ronduit lekkere drop. Zoute drop Suikervrij Met hersluitbare sticker Lekker voor thuis of onderweg [SEP] bewust snoep drop",klene suikervrij zoute ovaaltjes bewust snoep drop,null,null,null
+0.2889627,3594,115257,AH,Kruidenzuurkool,"Kruidenzuurkool is een geconserveerde groente die ontstaat tijdens een natuurlijk proces waarbij gesneden witte kool met zout, specerijen en kruiden wordt omgezet in zuurkool. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen mosterd' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Groente Koolsoorten Zuurkool
+ Kruidenzuurkool","ah [SEP] kruidenzuurkool [SEP] Kruidenzuurkool is een geconserveerde groente die ontstaat tijdens een natuurlijk proces waarbij gesneden witte kool met zout, specerijen en kruiden wordt omgezet in zuurkool. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] zuurkool",ah kruidenzuurkool zuurkool,null,null,null
+0.28842276,16453,494566,AH,Tzatziki,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Prijsfavoriet' 'Geen noten' 'Geen mosterd' 'Geen selderij' 'Geen eieren'
+ 'Geen gluten']","Kaas vleeswaren tapas Soepen sauzen kruiden olie Sauzen
+ Smeersels & dips Dip Dipsaus Dipsaus (vers)",ah [SEP] tzatziki [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] smeer saus,ah tzatziki smeer saus,null,null,null
+0.28791007,207,472377,AH,Mexicaantjes,Rijstzoutjes met Chili-kaassmaak. Rijstzoutjes gebakken in zonnebloemolie Mild van smaak,"['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Vegetarisch'
+ 'Geen selderij']","Snoep koek chips en chocolade Noten Noten in zak
+ ""Pindas (zakje)""",ah [SEP] mexicaantjes [SEP] Rijstzoutjes met Chili-kaassmaak. Rijstzoutjes gebakken in zonnebloemolie Mild van smaak [SEP] mb luxe multimix,ah mexicaantjes mb luxe multimix,null,null,null
+0.28733638,7593,236467,Go-Tan,Sweet chilli sauce,"Een pittige, licht zoete chillisaus (zonder knoflook) met een structuur van een fijne saus zonder grove peperpitjes. Vegetarisch en veganistisch Glutenvrij Kan als tafelsaus en kooksaus gebruikt worden Heerlijk bij de bbq","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Oosterse keuken Sauzen Snacksauzen mayonaise Indonesisch
+ Chilisaus Indonesische chilisaus","go-tan [SEP] sweet chilli sauce [SEP] Een pittige, licht zoete chillisaus (zonder knoflook) met een structuur van een fijne saus zonder grove peperpitjes. Vegetarisch en veganistisch Glutenvrij Kan als tafelsaus en kooksaus gebruikt worden Heerlijk bij de bbq [SEP] chilisauzen",go-tan sweet chilli sauce chilisauzen,null,null,null
+0.2872815,12039,236468,Go-Tan,Chilli saus hot,"Een extra pittige chillisaus met een structuur van een fijne saus zonder grove peperpitjes. Kan over de maaltijd gebruikt worden. Kan zowel als tafelsaus als kooksaus gebruikt worden Glutenvrij, vegetarisch","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Oosterse keuken Sauzen Snacksauzen mayonaise Indonesisch
+ Chilisaus Indonesische chilisaus","go-tan [SEP] chilli saus hot [SEP] Een extra pittige chillisaus met een structuur van een fijne saus zonder grove peperpitjes. Kan over de maaltijd gebruikt worden. Kan zowel als tafelsaus als kooksaus gebruikt worden Glutenvrij, vegetarisch [SEP] chilisauzen",go-tan chilli saus hot chilisauzen,null,null,null
+0.28706723,14222,67630,AH,Hot krokantjes,Rijstzoutjes Licht pittig,"['Geen gluten' 'Geen melk' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']",Snoep koek chips en chocolade Zoutjes Rijstzoutjes,ah [SEP] hot krokantjes [SEP] Rijstzoutjes Licht pittig [SEP] rijstzoutjes,ah hot krokantjes rijstzoutjes,null,null,null
+0.28697485,7210,168436,LU,Tuc mini original,"Het vertrouwde krokant gezouten tucje, maar dan net even wat kleiner. Ideaal voor een feestje, tijdens de borrel of gewoon 's avonds lekker op de bank. Ovengebakken Extra klein, extra lekker Smakelijk en krokant","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen sulfiet'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Zoutjes Zoutjes-crackers,"lu [SEP] tuc mini original [SEP] Het vertrouwde krokant gezouten tucje, maar dan net even wat kleiner. Ideaal voor een feestje, tijdens de borrel of gewoon 's avonds lekker op de bank. Ovengebakken Extra klein, extra lekker Smakelijk en krokant [SEP] zoute crackers",lu tuc mini original zoute crackers,null,null,null
+0.28678244,16001,38077,AH,Huzarensalade,Frisse huzarensalade Smaakvolle salade met frisse  						ingrediënten Met knapperige wortel en zoetzure augurk Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen selderij' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Prijsfavoriet' 'Geen mosterd' 'Vegetarisch' 'Geen eieren' 'Geen gluten']","Kaas vleeswaren tapas Salades pizza maaltijden Salades
+ Brood- en toastsalades Salades (groot)
+ Huzarensalades rundvleessalades en slaatjes Huzarensalades",ah [SEP] huzarensalade [SEP] Frisse huzarensalade Smaakvolle salade met frisse  						ingrediënten Met knapperige wortel en zoetzure augurk Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] salades maaltijd,ah huzarensalade salades maaltijd,null,null,null
+0.2864665,7607,1498,AH,Slagroom,Vol en romig van smaak Voor mooie en lekkere toefjes,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Zuivel plantaardig en eieren
+ Creme fraiche slagroom kookroom kokosmelk Slagroom",ah [SEP] slagroom [SEP] Vol en romig van smaak Voor mooie en lekkere toefjes [SEP] keukenzuivel,ah slagroom keukenzuivel,null,null,null
+0.2862605,11286,913,AH,Zilveruitjes zoetzuur,"Sappig, met een knapperige beet Ook lekker in stoofgerechten Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen sulfiet' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Conserven Groenteconserven
+ Augurken uitjes Zilveruitjes","ah [SEP] zilveruitjes zoetzuur [SEP] Sappig, met een knapperige beet Ook lekker in stoofgerechten Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] uien",ah zilveruitjes zoetzuur uien,null,null,null
+0.28406158,15852,547746,Klene,Zakkenrollers,"Klene zakkenrollers, de gevaarlijke lekkere mix van licht zoute en salmiak drop. Pas op voor zakkenrollers, wie eenmaal aan de zak begint, kan maar moeilijk ophouden. Zout  en  salmiak Een lekkere mix met voor ieder wat wils In een handige stazak Lekker voor thuis of onderweg","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Snoep koek chips en chocolade Snoep Drop Gemengde drop,"klene [SEP] zakkenrollers [SEP] Klene zakkenrollers, de gevaarlijke lekkere mix van licht zoute en salmiak drop. Pas op voor zakkenrollers, wie eenmaal aan de zak begint, kan maar moeilijk ophouden. Zout  en  salmiak Een lekkere mix met voor ieder wat wils In een handige stazak Lekker voor thuis of onderweg [SEP] drop",klene zakkenrollers drop,null,null,null
+0.2832116,12200,518874,Verstegen,Sumak gemalen,"Sumak zijn rode besjes van de sumakplant. Een populaire specerij in het midden-oosten. De bessen hebben een friszure smaak die erg op citroen lijkt, maar dan aromatischer. 100% natuurlijk Door de frisse citroenachtige smaak past het bij veel gerechten Lekker bij vlees, vis, kip of een salade Voeg tijm en sesam toe aan sumak en je krijgt za'atar","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Kruiden
+ Arabische keuken Marokkaanse kruiden Marokkaans","verstegen [SEP] sumak gemalen [SEP] Sumak zijn rode besjes van de sumakplant. Een populaire specerij in het midden-oosten. De bessen hebben een friszure smaak die erg op citroen lijkt, maar dan aromatischer. 100% natuurlijk Door de frisse citroenachtige smaak past het bij veel gerechten Lekker bij vlees, vis, kip of een salade Voeg tijm en sesam toe aan sumak en je krijgt za'atar [SEP] kruiden zak",verstegen sumak gemalen kruiden zak,null,null,null
+0.28309846,19987,429902,Lucovitaal,Magnesium spierolie spray,"Bevat pure magnesiumchloride uit de zechstein formatie welke direct door de huid wordt opgenomen.. Directe opname door de huid Zeer zuivere bron van magnesium 100% zuivere zechstein magnesium, zonder enkele toevoegingen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Drogisterij Gezondheid Vitamines & supplementen Mineralen
+ Magnesium","lucovitaal [SEP] magnesium spierolie spray [SEP] Bevat pure magnesiumchloride uit de zechstein formatie welke direct door de huid wordt opgenomen.. Directe opname door de huid Zeer zuivere bron van magnesium 100% zuivere zechstein magnesium, zonder enkele toevoegingen [SEP] vit mineralen en suppl",lucovitaal magnesium spierolie spray vit mineralen en suppl,null,null,null
+0.2825552,3482,438888,Verkade,Nizza karamel zeezout,Nizza Karamel-Zeezout is een luchtig biscuitje met de heerlijke smaak van karamel en een vleugje zeezout - bestrooid met suiker. heerlijke karamelsmaak met een vleugje zeezout en een knisperend laagje suiker,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Veganistisch' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen selderij' 'Geen eieren']",Snoep koek chips en chocolade Koek Alledaagse koeken,verkade [SEP] nizza karamel zeezout [SEP] Nizza Karamel-Zeezout is een luchtig biscuitje met de heerlijke smaak van karamel en een vleugje zeezout - bestrooid met suiker. heerlijke karamelsmaak met een vleugje zeezout en een knisperend laagje suiker [SEP] verpakt trommel,verkade nizza karamel zeezout verpakt trommel,null,null,null
+0.28164896,13136,137776,AH,Mineraalwater koolzuurvrij,Verfrissen mineraalwater zonder koolzuur De ideale dorstlesser Smaakt gekoeld het lekkerst! Tip: voeg wat munt of citroen toe,"['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Frisdrank sappen koffie thee Water Koolzuurvrij water
+ Flessen water (koolzuurvrij)",ah [SEP] mineraalwater koolzuurvrij [SEP] Verfrissen mineraalwater zonder koolzuur De ideale dorstlesser Smaakt gekoeld het lekkerst! Tip: voeg wat munt of citroen toe [SEP] water koolzuurvrij gvp,ah mineraalwater koolzuurvrij water koolzuurvrij gvp,null,null,null
+0.28139207,7018,480505,AH,Borreltoast zeezout,"Borreltoast met zeezout Onmisbaar op een borrelplank Lekker bij kaas, salades of om te dippen.","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen sulfiet'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij']","Kaas vleeswaren tapas Snoep koek chips en chocolade Toastjes
+ Borrelhapjes Luxe toast","ah [SEP] borreltoast zeezout [SEP] Borreltoast met zeezout Onmisbaar op een borrelplank Lekker bij kaas, salades of om te dippen. [SEP] toast",ah borreltoast zeezout toast,null,null,null

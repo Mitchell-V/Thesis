@@ -1,0 +1,769 @@
+scoreLLM score,ann,prd_id,brand,title,highlights,properties,taxonomies,full_text,full_text_no_sep,Unnamed: 0,search_query,scorePropensity score
+0.66806966,208,146483,AH,Pastasaus 5 kazen,Lekkere romige saus Heerlijk voor bij de verse pasta,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Salades pizza maaltijden Verse pasta en pastasaus Sauzen
+ Pasta rijst noedels Mediterrane keuken Pastasaus (vers)
+ Pasta sauzen Italiaanse keuken Pasta Italiaanse pasta",ah [SEP] pastasaus 5 kazen [SEP] Lekkere romige saus Heerlijk voor bij de verse pasta [SEP] pastasaus,ah pastasaus 5 kazen pastasaus,null,null,null
+0.6516059,10571,162601,AH,Pasta geraspte kaas,"Speciaal voor Pasta, een melange van maasdammer en Goudse jong belegen kaas. Smaak: Extra smeuïg Gemaakt van: Koemelk","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']",Kaas vleeswaren tapas Kaas Kaas voor maaltijden Geraspte kaas,"ah [SEP] pasta geraspte kaas [SEP] Speciaal voor Pasta, een melange van maasdammer en Goudse jong belegen kaas. Smaak: Extra smeuïg Gemaakt van: Koemelk [SEP] kzb k rasp specialiteit",ah pasta geraspte kaas kzb k rasp specialiteit,null,null,null
+0.60587645,5188,416656,AH,Basis pastasaus Italiaanse kruiden,Met deze basis pastasaus zet je in een handomdraai een op-en-top Italiaanse pasta op tafel. Buon appetito! Pastasaus vol Italiaanse kruiden Ook voor het bereiden van een heerlijke lasagnemaaltijd Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot",ah [SEP] basis pastasaus italiaanse kruiden [SEP] Met deze basis pastasaus zet je in een handomdraai een op-en-top Italiaanse pasta op tafel. Buon appetito! Pastasaus vol Italiaanse kruiden Ook voor het bereiden van een heerlijke lasagnemaaltijd Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] pastasaus pak,ah basis pastasaus italiaanse kruiden pastasaus pak,null,null,null
+0.5866023,1084,416663,AH,Pastasaus basis pikant,Met deze pikante basis pastasaus zet je in een handomdraai een op-en-top Italiaanse pasta op tafel. Buon appetito! Pikante pastasaus met kruiden en extra virgine olijfolie Ook voor het bereiden van een heerlijke lasagnemaaltijd Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen mosterd' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot",ah [SEP] pastasaus basis pikant [SEP] Met deze pikante basis pastasaus zet je in een handomdraai een op-en-top Italiaanse pasta op tafel. Buon appetito! Pikante pastasaus met kruiden en extra virgine olijfolie Ook voor het bereiden van een heerlijke lasagnemaaltijd Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] pastasaus pak,ah pastasaus basis pikant pastasaus pak,null,null,null
+0.5777998,10443,96778,AH,Pastasaus carbonara,Romige saus met spekjes Heerlijk voor bij de verse pasta,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Salades pizza maaltijden Verse pasta en pastasaus Sauzen
+ Pasta rijst noedels Mediterrane keuken Pastasaus (vers)
+ Pasta sauzen Italiaanse keuken Pasta Italiaanse pasta",ah [SEP] pastasaus carbonara [SEP] Romige saus met spekjes Heerlijk voor bij de verse pasta [SEP] pastasaus,ah pastasaus carbonara pastasaus,null,null,null
+0.5650942,17415,461894,Mutti,Pastasaus Parmigiano Reggiano,Tomatensaus op basis van polpa (fijngesneden tomaten) en op smaak gebracht met pure ingredienten. Je proeft het heerlijke italie! Gebruik de sauzen voor 100% pasta succes. Pastasaus met parmigiano reggiano kaas 100% italiaans Kant-en-klaar voor gebruik Voor heerlijke pastagerechten,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot",mutti [SEP] pastasaus parmigiano reggiano [SEP] Tomatensaus op basis van polpa (fijngesneden tomaten) en op smaak gebracht met pure ingredienten. Je proeft het heerlijke italie! Gebruik de sauzen voor 100% pasta succes. Pastasaus met parmigiano reggiano kaas 100% italiaans Kant-en-klaar voor gebruik Voor heerlijke pastagerechten [SEP] pastasaus pot,mutti pastasaus parmigiano reggiano pastasaus pot,null,null,null
+0.56122446,18995,416646,AH,Pastasaus tradizionale,"Zet een op-en-top Italiaans gerecht op tafel met de AH vernieuwde pastasauzen. Onweerstaanbaar rijk van smaak, en bovendien zonder toegevoegd suiker en verlaagd in zout met 25% of meer. Buon appetito! Voor een supersnelle pasta Verlaagd in zout >25% Zonder toegevoegd suiker Voeg ingrediënten naar smaak toe","['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot","ah [SEP] pastasaus tradizionale [SEP] Zet een op-en-top Italiaans gerecht op tafel met de AH vernieuwde pastasauzen. Onweerstaanbaar rijk van smaak, en bovendien zonder toegevoegd suiker en verlaagd in zout met 25% of meer. Buon appetito! Voor een supersnelle pasta Verlaagd in zout >25% Zonder toegevoegd suiker Voeg ingrediënten naar smaak toe [SEP] pastasaus pot",ah pastasaus tradizionale pastasaus pot,null,null,null
+0.56122446,5319,416644,AH,Pastasaus tradizionale,"Zet een op-en-top Italiaans gerecht op tafel met de AH vernieuwde pastasauzen. Onweerstaanbaar rijk van smaak, en bovendien zonder toegevoegd suiker en verlaagd in zout met 25% of meer. Buon appetito! Voor een supersnelle pasta Verlaagd in zout >25% Zonder toegevoegd suiker Voeg ingrediënten naar smaak toe","['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot","ah [SEP] pastasaus tradizionale [SEP] Zet een op-en-top Italiaans gerecht op tafel met de AH vernieuwde pastasauzen. Onweerstaanbaar rijk van smaak, en bovendien zonder toegevoegd suiker en verlaagd in zout met 25% of meer. Buon appetito! Voor een supersnelle pasta Verlaagd in zout >25% Zonder toegevoegd suiker Voeg ingrediënten naar smaak toe [SEP] pastasaus pot",ah pastasaus tradizionale pastasaus pot,null,null,null
+0.55419046,5973,416654,AH,Pastasaus basis basilicum,Met deze basis pastasaus zet je in een handomdraai een op-en-top Italiaanse pasta op tafel. Buon appetito! Pastasaus met basilicum en knoflook Ook voor het bereiden van een heerlijke lasagnemaaltijd Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot",ah [SEP] pastasaus basis basilicum [SEP] Met deze basis pastasaus zet je in een handomdraai een op-en-top Italiaanse pasta op tafel. Buon appetito! Pastasaus met basilicum en knoflook Ook voor het bereiden van een heerlijke lasagnemaaltijd Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] pastasaus pak,ah pastasaus basis basilicum pastasaus pak,null,null,null
+0.5527947,3340,96779,AH,Pastasaus napolitana,Kruidige tomatensaus Heerlijk voor bij de verse pasta,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Salades pizza maaltijden Verse pasta en pastasaus Sauzen
+ Pasta rijst noedels Mediterrane keuken Pastasaus (vers)
+ Pasta sauzen Italiaanse keuken Pasta Italiaanse pasta",ah [SEP] pastasaus napolitana [SEP] Kruidige tomatensaus Heerlijk voor bij de verse pasta [SEP] pastasaus,ah pastasaus napolitana pastasaus,null,null,null
+0.5524689,11588,395368,Grand' Italia,Romana met italiaanse kazen,In de Grand'Italia romana kaassaus worden lekkerste Italiaanse kazen gecombineerd met een basis van room. Geschikt voor 2 personen. Ricetta italiana - volgens italiaans recept Met Italiaanse kazen Direct klaar voor gebruik Glutenvrij,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot",grand' italia [SEP] romana met italiaanse kazen [SEP] In de Grand'Italia romana kaassaus worden lekkerste Italiaanse kazen gecombineerd met een basis van room. Geschikt voor 2 personen. Ricetta italiana - volgens italiaans recept Met Italiaanse kazen Direct klaar voor gebruik Glutenvrij [SEP] pastasaus pot,grand' italia romana met italiaanse kazen pastasaus pot,null,null,null
+0.55088025,4063,120332,AH,Pastasaus tomaat mascarpone,Met tomaat en mascarpone Heerlijk voor bij de verse pasta,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Salades pizza maaltijden Verse pasta en pastasaus Sauzen
+ Pasta rijst noedels Mediterrane keuken Pastasaus (vers)
+ Pasta sauzen Italiaanse keuken Pasta Italiaanse pasta",ah [SEP] pastasaus tomaat mascarpone [SEP] Met tomaat en mascarpone Heerlijk voor bij de verse pasta [SEP] pastasaus,ah pastasaus tomaat mascarpone pastasaus,null,null,null
+0.545923,1900,416669,AH,Pastasaus classic,Tomaat-basilicum saus voor de pasta. Voeg zelf groenten of vlees naar smaak toe Voor een supersnelle pasta Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot",ah [SEP] pastasaus classic [SEP] Tomaat-basilicum saus voor de pasta. Voeg zelf groenten of vlees naar smaak toe Voor een supersnelle pasta Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] pastasaus pot,ah pastasaus classic pastasaus pot,null,null,null
+0.5412741,2377,163822,AH,Parmigiano Reggiano DOP 32+,"Deze typisch Italiaanse kaas, ook wel bekend onder de naam Parmezaanse kaas, wordt geroemd om haar karaktervolle smaak en korrelige structuur. Een harde kaas van koemelk met een kruidige en pikante smaak door het zouten en de minimale rijping van maar liefst 22 maanden. Dé finishing touch van je pastamaaltijd en vele andere gerechten. Smaak: Karakteristiek en rijk Herkomst: Italië Gemaakt van: Rauwe koemelk","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Kaas vleeswaren tapas Kaas Kaas voor borrel
+ Kaas voor maaltijden Grano padano parmezaanse kaas
+ Parmezaanse kaas","ah [SEP] parmigiano reggiano dop 32+ [SEP] Deze typisch Italiaanse kaas, ook wel bekend onder de naam Parmezaanse kaas, wordt geroemd om haar karaktervolle smaak en korrelige structuur. Een harde kaas van koemelk met een kruidige en pikante smaak door het zouten en de minimale rijping van maar liefst 22 maanden. Dé finishing touch van je pastamaaltijd en vele andere gerechten. Smaak: Karakteristiek en rijk Herkomst: Italië Gemaakt van: Rauwe koemelk [SEP] kb k rasp specialiteit",ah parmigiano reggiano dop 32+ kb k rasp specialiteit,null,null,null
+0.54114175,1829,227239,AH,Stoommaaltijd pasta pesto,"Stoommaaltijd met gemarineerde conchigli pasta, courgette,
+				  spinazie en basilicum-roomsaus. We garanderen dat bij aflevering van dit product nog
+				  minimaal 2 dagen (incl. leveringsdag) houdbaarheid op het product zit. Inhoud: courgette, spinazie, rode paprika, 						conchigli pasta, cherrytomaat, basilicum-roomsaus, zongedroogde tomaat en 						kaaschilfers. Kaasschilfers met de volle smaak van parmezaanse 						kaas Met knapperige courgette en romige 						basilicum-roomsaus","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet'
+ 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij']","Salades pizza maaltijden Verse kant- en-klaar maaltijden
+ Stoommaaltijden","ah [SEP] stoommaaltijd pasta pesto [SEP] Stoommaaltijd met gemarineerde conchigli pasta, courgette,
+				  spinazie en basilicum-roomsaus. We garanderen dat bij aflevering van dit product nog
+				  minimaal 2 dagen (incl. leveringsdag) houdbaarheid op het product zit. Inhoud: courgette, spinazie, rode paprika, 						conchigli pasta, cherrytomaat, basilicum-roomsaus, zongedroogde tomaat en 						kaaschilfers. Kaasschilfers met de volle smaak van parmezaanse 						kaas Met knapperige courgette en romige 						basilicum-roomsaus [SEP] stoommaaltijden",ah stoommaaltijd pasta pesto stoommaaltijden,null,null,null
+0.53785443,2801,364395,AH,Pastasaus Funghi,"Met mascarpone,room, paddenstoelenmix en marsalawijn Glutenvrij","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Salades pizza maaltijden Verse pasta en pastasaus Sauzen
+ Pasta rijst noedels Mediterrane keuken Pastasaus (vers)
+ Pasta sauzen Italiaanse keuken Pasta Italiaanse pasta","ah [SEP] pastasaus funghi [SEP] Met mascarpone,room, paddenstoelenmix en marsalawijn Glutenvrij [SEP] pastasaus",ah pastasaus funghi pastasaus,null,null,null
+0.5370197,12421,191461,Grand' Italia,Formaggio pastasaus,Grand'italia formaggio is een heerlijke pastasaus op basis van tomaten met smaakvolle en karakteristieke Italiaanse kazen. Geschikt voor 4 personen. Prodotto italiano - gemaakt met italiaans product Met Italiaanse kazen Direct klaar voor gebruik Glutenvrij,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen noten' 'Vegetarisch' 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot",grand' italia [SEP] formaggio pastasaus [SEP] Grand'italia formaggio is een heerlijke pastasaus op basis van tomaten met smaakvolle en karakteristieke Italiaanse kazen. Geschikt voor 4 personen. Prodotto italiano - gemaakt met italiaans product Met Italiaanse kazen Direct klaar voor gebruik Glutenvrij [SEP] pastasaus pot,grand' italia formaggio pastasaus pastasaus pot,null,null,null
+0.53597325,12059,515262,AH,Pasta ham kaas salade specialiteit,,"['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Vegetarisch' 'Geen selderij'
+ 'Geen eieren']","Kaas vleeswaren tapas Salades pizza maaltijden Salades
+ Brood- en toastsalades Salades (groot)
+ Huzarensalades rundvleessalades en slaatjes Vleessalade",ah [SEP] pasta ham kaas salade specialiteit [SEP]  [SEP] salades maaltijd,ah pasta ham kaas salade specialiteit salades maaltijd,null,null,null
+0.5297022,8944,160917,AH,Pestosaus groen,"Met basilicum, kaas en pijnboompitten Heerlijk over de verse pasta","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Kaas vleeswaren tapas
+ Mediterrane keuken Smeersels & dips Pesto Italiaanse keuken
+ Pesto (vers)","ah [SEP] pestosaus groen [SEP] Met basilicum, kaas en pijnboompitten Heerlijk over de verse pasta [SEP] pastasaus",ah pestosaus groen pastasaus,null,null,null
+0.52876097,2017,217090,AH,Pastasaus pomod basil,"Een heerlijke saus bij gevulde verse pasta of
+				gecombineerd met kip en roerbakgroente bij bijvoorbeeld spaghetti.","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Salades pizza maaltijden Verse pasta en pastasaus Sauzen
+ Pasta rijst noedels Mediterrane keuken Pastasaus (vers)
+ Pasta sauzen Italiaanse keuken Pasta Italiaanse pasta","ah [SEP] pastasaus pomod basil [SEP] Een heerlijke saus bij gevulde verse pasta of
+				gecombineerd met kip en roerbakgroente bij bijvoorbeeld spaghetti. [SEP] pastasaus",ah pastasaus pomod basil pastasaus,null,null,null
+0.5285075,7520,416631,AH,Pastasaus bolognese,"Met deze AH vernieuwde pastasaus zet je een op-en-top Italiaans gerecht op tafel. Onweerstaanbaar rijk van smaak, en bovendien zonder toegevoegd suiker en verlaagd in zout met 25% of meer. Complimenten verzekerd! Voor een supersnelle pasta Verlaagd in zout >25% Zonder toegevoegd suiker Voeg ingrediënten naar smaak toe","['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Vegetarisch' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot","ah [SEP] pastasaus bolognese [SEP] Met deze AH vernieuwde pastasaus zet je een op-en-top Italiaans gerecht op tafel. Onweerstaanbaar rijk van smaak, en bovendien zonder toegevoegd suiker en verlaagd in zout met 25% of meer. Complimenten verzekerd! Voor een supersnelle pasta Verlaagd in zout >25% Zonder toegevoegd suiker Voeg ingrediënten naar smaak toe [SEP] pastasaus pot",ah pastasaus bolognese pastasaus pot,null,null,null
+0.5282336,5785,539533,Parrano,Strooikaas,"Door onze unieke receptuur geeft de kaas meer smaak en maak je jouw gerecht echt af. Parrano originale strooikaas geraspte en gedroogde poederkaas 45+ Heerlijke strooikaas met een licht zoete, nootachtige smaak Parrano is speciaal gemaakt voor jouw favoriete pasta, lasagne, risotto en salade Extra lang houdbaar","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Kaas vleeswaren tapas Kaas Kaas voor maaltijden Geraspte kaas,"parrano [SEP] strooikaas [SEP] Door onze unieke receptuur geeft de kaas meer smaak en maak je jouw gerecht echt af. Parrano originale strooikaas geraspte en gedroogde poederkaas 45+ Heerlijke strooikaas met een licht zoete, nootachtige smaak Parrano is speciaal gemaakt voor jouw favoriete pasta, lasagne, risotto en salade Extra lang houdbaar [SEP] kzb k rasp specialiteit",parrano strooikaas kzb k rasp specialiteit,null,null,null
+0.52764,15656,80126,Grand' Italia,4 Formaggi saus,"Tomatensaus met 4 soorten heerlijke Italiaanse kaas: milde mascarpone, rijke gorgonzola, pecorino en Grana Padano kaas, voor de lekkerste Italiaanse gerechten! Geschikt voor 2 personen. Prodotto italiano - gemaakt met italiaans product Met 4 soorten Italiaanse kaas Direct klaar voor gebruik Glutenvrij","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen selderij' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen noten' 'Vegetarisch' 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot","grand' italia [SEP] 4 formaggi saus [SEP] Tomatensaus met 4 soorten heerlijke Italiaanse kaas: milde mascarpone, rijke gorgonzola, pecorino en Grana Padano kaas, voor de lekkerste Italiaanse gerechten! Geschikt voor 2 personen. Prodotto italiano - gemaakt met italiaans product Met 4 soorten Italiaanse kaas Direct klaar voor gebruik Glutenvrij [SEP] pastasaus pot",grand' italia 4 formaggi saus pastasaus pot,null,null,null
+0.5274751,823,160918,AH,Pastasaus spinazie ricotta,Pastasaus spinazie-ricotta.,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen selderij' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score B'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Salades pizza maaltijden Verse pasta en pastasaus Sauzen
+ Pasta rijst noedels Mediterrane keuken Pastasaus (vers)
+ Pasta sauzen Italiaanse keuken Pasta Italiaanse pasta",ah [SEP] pastasaus spinazie ricotta [SEP] Pastasaus spinazie-ricotta. [SEP] pastasaus,ah pastasaus spinazie ricotta pastasaus,null,null,null
+0.52716017,4058,416651,AH Biologisch,Pastasaus tradizionale,"Met deze AH vernieuwde pastasaus zet je een op-en-top Italiaans gerecht op tafel. Onweerstaanbaar rijk van smaak, en bovendien zonder toegevoegd suiker en verlaagd in zout met 25% of meer. Complimenten verzekerd! Voor een supersnelle pasta Verlaagd in zout >25% Zonder toegevoegd suiker Voeg ingrediënten naar smaak toe","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'biologisch' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen selderij'
+ 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot","ah biologisch [SEP] pastasaus tradizionale [SEP] Met deze AH vernieuwde pastasaus zet je een op-en-top Italiaans gerecht op tafel. Onweerstaanbaar rijk van smaak, en bovendien zonder toegevoegd suiker en verlaagd in zout met 25% of meer. Complimenten verzekerd! Voor een supersnelle pasta Verlaagd in zout >25% Zonder toegevoegd suiker Voeg ingrediënten naar smaak toe [SEP] pastasaus pot",ah biologisch pastasaus tradizionale pastasaus pot,null,null,null
+0.52675617,117,478224,Zanetti,Parmigiano Reggiano 30+,"Deze typisch italiaanse kaas, ook wel bekend onder de naam parmezaanse kaas, karaktervolle van smaak met een korrelige structuur. Een harde kaas van koemelk met een kruidige en pikante smaak. Perfect in te raspen over italiaanse gerechten. Smaak: karakteristiek en rijk Herkomst: italie Gemaakt van: rauwe koemelk Ideaal over italiaanse gerechten","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Kaas vleeswaren tapas Kaas Kaas voor borrel
+ Kaas voor maaltijden Grano padano parmezaanse kaas
+ Parmezaanse kaas","zanetti [SEP] parmigiano reggiano 30+ [SEP] Deze typisch italiaanse kaas, ook wel bekend onder de naam parmezaanse kaas, karaktervolle van smaak met een korrelige structuur. Een harde kaas van koemelk met een kruidige en pikante smaak. Perfect in te raspen over italiaanse gerechten. Smaak: karakteristiek en rijk Herkomst: italie Gemaakt van: rauwe koemelk Ideaal over italiaanse gerechten [SEP] kzb k maaltijd",zanetti parmigiano reggiano 30+ kzb k maaltijd,null,null,null
+0.52667284,1494,525821,AH,Pastasaus alla norma,,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Salades pizza maaltijden Verse pasta en pastasaus Sauzen
+ Pasta rijst noedels Mediterrane keuken Pastasaus (vers)
+ Pasta sauzen Italiaanse keuken Pasta Italiaanse pasta",ah [SEP] pastasaus alla norma [SEP]  [SEP] pastasaus,ah pastasaus alla norma pastasaus,null,null,null
+0.525447,13686,365392,AH,Pastasalade pesto,"Rijke, smaakvolle pastasalade met courgette, rucola, kaasschilfers, pijnboompitjes en groene pestodressing. Geschikt als lunch of avondmaaltijd Dressing is vrij van kunstmatige geur- en smaakstoffen Ook heerlijk voor bij de barbecue, gourmet of picknick","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Nutri-Score B'
+ 'Geen sulfiet' 'Geen sesam' 'Geen vis' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Geen eieren']","Aardappel groente fruit Salades pizza maaltijden Groente
+ Salades Kleine salades Sla rauwkost salade Salade","ah [SEP] pastasalade pesto [SEP] Rijke, smaakvolle pastasalade met courgette, rucola, kaasschilfers, pijnboompitjes en groene pestodressing. Geschikt als lunch of avondmaaltijd Dressing is vrij van kunstmatige geur- en smaakstoffen Ook heerlijk voor bij de barbecue, gourmet of picknick [SEP] pasta en noodlesalades",ah pastasalade pesto pasta en noodlesalades,null,null,null
+0.52422667,9661,497578,Parrano,Robusto poeder,"Parrano robusto poeder is een heerlijke verse kaaspoeder met een licht pittige, nootachtige en intense smaak. Door onze unieke receptuur smelt de kaas perfect en maak je elk gerecht echt lekker! Parrano is speciaal gemaakt voor jouw favoriete pasta, lasagne of risotto Vegetarisch Parrano kaaspoeder 35+","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Kaas vleeswaren tapas Kaas Kaas voor maaltijden Geraspte kaas,"parrano [SEP] robusto poeder [SEP] Parrano robusto poeder is een heerlijke verse kaaspoeder met een licht pittige, nootachtige en intense smaak. Door onze unieke receptuur smelt de kaas perfect en maak je elk gerecht echt lekker! Parrano is speciaal gemaakt voor jouw favoriete pasta, lasagne of risotto Vegetarisch Parrano kaaspoeder 35+ [SEP] kzb k rasp specialiteit",parrano robusto poeder kzb k rasp specialiteit,null,null,null
+0.5235515,7716,478231,Zanetti,Parmigiano reggiano flakes,"Deze typisch italiaanse kaas, ook wel bekend onder de naam parmezaanse kaas, karaktervolle van smaak. Een harde kaas van koemelk met een kruidige en pikante smaak. Smaak: karakteristiek en rijk Herkomst: italie Gemaakt van: rauwe koemelk Ideaal over italiaanse gerechten","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Kaas vleeswaren tapas Kaas Kaas voor maaltijden Geraspte kaas,"zanetti [SEP] parmigiano reggiano flakes [SEP] Deze typisch italiaanse kaas, ook wel bekend onder de naam parmezaanse kaas, karaktervolle van smaak. Een harde kaas van koemelk met een kruidige en pikante smaak. Smaak: karakteristiek en rijk Herkomst: italie Gemaakt van: rauwe koemelk Ideaal over italiaanse gerechten [SEP] kzb k maaltijd",zanetti parmigiano reggiano flakes kzb k maaltijd,null,null,null
+0.52269685,13049,476247,AH,Verse pastasaus bolognese,Ah verse pastasaus bolognese. Met rundergehakt en tomaat Heerlijk voor bij de verse pasta,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot",ah [SEP] verse pastasaus bolognese [SEP] Ah verse pastasaus bolognese. Met rundergehakt en tomaat Heerlijk voor bij de verse pasta [SEP] pastasaus,ah verse pastasaus bolognese pastasaus,null,null,null
+0.51097214,6646,132975,Grand' Italia,Besciamella,"Deze romige kaassaus is zeer geschikt voor pastagerechten uit de oven, bijvoorbeeld lasagne. Ook lekker om groente mee te gratineren. Gemaakt in italie - ricetta italiana Direct klaar voor gebruik","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Vegetarisch' 'Geen selderij' 'Geen eieren']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot","grand' italia [SEP] besciamella [SEP] Deze romige kaassaus is zeer geschikt voor pastagerechten uit de oven, bijvoorbeeld lasagne. Ook lekker om groente mee te gratineren. Gemaakt in italie - ricetta italiana Direct klaar voor gebruik [SEP] specialiteiten en oven",grand' italia besciamella specialiteiten en oven,null,null,null
+0.50687444,1415,541117,AH,Italiaanse lasagne verspakket,"Met dit pakket heb je alles bij de hand om een lekkere Italiaanse lasagne te maken, die je met trots op tafel kunt zetten. Dit pakket bevat: AH Italiaanse lasagne verspakket 1x AH Rundergehakt 300 gram 1x AH Halfvolle melk 0,5l 1x AH Geraspte Goudse belegen kaas 30+ 150 gram 1x",[],"Aardappel groente fruit Salades pizza maaltijden Groente
+ Verspakket Maaltijdpakketten (vers) Groentepakket
+ Mediterrane maaltijdpakketten (vers)","ah [SEP] italiaanse lasagne verspakket [SEP] Met dit pakket heb je alles bij de hand om een lekkere Italiaanse lasagne te maken, die je met trots op tafel kunt zetten. Dit pakket bevat: AH Italiaanse lasagne verspakket 1x AH Rundergehakt 300 gram 1x AH Halfvolle melk 0,5l 1x AH Geraspte Goudse belegen kaas 30+ 150 gram 1x [SEP] ",ah italiaanse lasagne verspakket ,null,null,null
+0.50221944,3496,59296,AH,Verse ravioli formaggio e pomodoro,Verse eierpasta gevuld met kaas en tomaat Gemaakt in Italië,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja' 'Geen selderij'
+ 'Geen kreeftachtigen (schaaldieren)' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Nutri-Score B' 'Geen sulfiet'
+ 'Geen sesam' 'Geen vis' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen mosterd'
+ 'Geen eieren']","Pasta rijst en wereldkeuken Salades pizza maaltijden
+ Verse pasta en pastasaus Pasta rijst noedels Mediterrane keuken
+ Pasta Verse pasta Italiaanse keuken Ravioli Italiaanse pasta",ah [SEP] verse ravioli formaggio e pomodoro [SEP] Verse eierpasta gevuld met kaas en tomaat Gemaakt in Italië [SEP] pasta gevuld,ah verse ravioli formaggio e pomodoro pasta gevuld,null,null,null
+0.50008094,13734,421315,Unox,Goodpasta romige kaassaus,Snelle pasta snack voor de lekkere trek. Is een snelle pastasnack Ideaal als je tussendoor Trek hebt Klaar in 5 minuten In een handige cup met duidelijke gebruiksaanwijzing,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Geen eieren']",Tussendoortjes Pasta (tussendoor) Warm tussendoor,unox [SEP] goodpasta romige kaassaus [SEP] Snelle pasta snack voor de lekkere trek. Is een snelle pastasnack Ideaal als je tussendoor Trek hebt Klaar in 5 minuten In een handige cup met duidelijke gebruiksaanwijzing [SEP] stevig tussendoor cup,unox goodpasta romige kaassaus stevig tussendoor cup,null,null,null
+0.49995536,15851,416640,AH,Pastasaus basillico,"Met deze AH vernieuwde pastasaus zet je een op-en-top Italiaans gerecht op tafel. Onweerstaanbaar rijk van smaak, en bovendien zonder toegevoegd suiker en verlaagd in zout met 25% of meer. Complimenten verzekerd! Voor een supersnelle pasta Verlaagd in zout >25% Zonder toegevoegd suiker Voeg ingrediënten naar smaak toe","['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Geen selderij' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot","ah [SEP] pastasaus basillico [SEP] Met deze AH vernieuwde pastasaus zet je een op-en-top Italiaans gerecht op tafel. Onweerstaanbaar rijk van smaak, en bovendien zonder toegevoegd suiker en verlaagd in zout met 25% of meer. Complimenten verzekerd! Voor een supersnelle pasta Verlaagd in zout >25% Zonder toegevoegd suiker Voeg ingrediënten naar smaak toe [SEP] pastasaus pot",ah pastasaus basillico pastasaus pot,null,null,null
+0.49995536,12086,416638,AH,Pastasaus basillico,"Met deze AH vernieuwde pastasaus zet je een op-en-top Italiaans gerecht op tafel. Onweerstaanbaar rijk van smaak, en bovendien zonder toegevoegd suiker en verlaagd in zout met 25% of meer. Complimenten verzekerd! Voor een supersnelle pasta Verlaagd in zout >25% Zonder toegevoegd suiker Voeg ingrediënten naar smaak toe","['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Geen selderij' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot","ah [SEP] pastasaus basillico [SEP] Met deze AH vernieuwde pastasaus zet je een op-en-top Italiaans gerecht op tafel. Onweerstaanbaar rijk van smaak, en bovendien zonder toegevoegd suiker en verlaagd in zout met 25% of meer. Complimenten verzekerd! Voor een supersnelle pasta Verlaagd in zout >25% Zonder toegevoegd suiker Voeg ingrediënten naar smaak toe [SEP] pastasaus pot",ah pastasaus basillico pastasaus pot,null,null,null
+0.49842787,15616,461886,Mutti,Pastasaus Verdure,Tomatensaus op basis van polpa (fijngesneden tomaten) en op smaak gebracht met pure ingredienten. Je proeft het heerlijke italie! Gebruik de sauzen voor 100% pasta succes. Pastasaus met gegrilde groenten 100% italiaans Kant-en-klaar voor gebruik Voor heerlijke pastagerechten,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot",mutti [SEP] pastasaus verdure [SEP] Tomatensaus op basis van polpa (fijngesneden tomaten) en op smaak gebracht met pure ingredienten. Je proeft het heerlijke italie! Gebruik de sauzen voor 100% pasta succes. Pastasaus met gegrilde groenten 100% italiaans Kant-en-klaar voor gebruik Voor heerlijke pastagerechten [SEP] pastasaus pot,mutti pastasaus verdure pastasaus pot,null,null,null
+0.49818486,10444,33648,Parrano,Rasp originale,"Parrano originale rasp is een heerlijke geraspte kaas met een licht zoete en nootachtige smaak. Door onze unieke receptuur smelt de kaas perfect en maak je elk gerecht echt lekker! Parrano is speciaal gemaakt voor jouw favoriete pasta, lasagne of risotto Vegetarisch Parrano kaasrasp 45+","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Kaas vleeswaren tapas Kaas Kaas voor maaltijden Geraspte kaas,"parrano [SEP] rasp originale [SEP] Parrano originale rasp is een heerlijke geraspte kaas met een licht zoete en nootachtige smaak. Door onze unieke receptuur smelt de kaas perfect en maak je elk gerecht echt lekker! Parrano is speciaal gemaakt voor jouw favoriete pasta, lasagne of risotto Vegetarisch Parrano kaasrasp 45+ [SEP] kzb k rasp specialiteit",parrano rasp originale kzb k rasp specialiteit,null,null,null
+0.49668396,14697,164082,Spagheroni,Tradizionale,Een rijke pastasaus bereid met stukjes groenten en fijne kruiden volgens origineel recept. Voor 2-3 personen Perfect met een Italiaanse groentemix (250g) en pasta Gemaakt met 148 gram tomaten per 100 gram pastasaus,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot",spagheroni [SEP] tradizionale [SEP] Een rijke pastasaus bereid met stukjes groenten en fijne kruiden volgens origineel recept. Voor 2-3 personen Perfect met een Italiaanse groentemix (250g) en pasta Gemaakt met 148 gram tomaten per 100 gram pastasaus [SEP] pastasaus pot,spagheroni tradizionale pastasaus pot,null,null,null
+0.49594462,5248,416642,AH,Pastasaus piccante,"Zin in iets pittigs vol smaak op je bord? Zet een op-en-top Italiaans gerecht op tafel met de AH vernieuwde pastasauzen. Onweerstaanbaar rijk van smaak, en bovendien zonder toegevoegd suiker en verlaagd in zout met 25% of meer. Buon appetito! Voor een supersnelle pasta Verlaagd in zout >25% Zonder toegevoegd suiker Voeg ingrediënten naar smaak toe","['Geen melk' 'Geen noten' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot","ah [SEP] pastasaus piccante [SEP] Zin in iets pittigs vol smaak op je bord? Zet een op-en-top Italiaans gerecht op tafel met de AH vernieuwde pastasauzen. Onweerstaanbaar rijk van smaak, en bovendien zonder toegevoegd suiker en verlaagd in zout met 25% of meer. Buon appetito! Voor een supersnelle pasta Verlaagd in zout >25% Zonder toegevoegd suiker Voeg ingrediënten naar smaak toe [SEP] pastasaus pot",ah pastasaus piccante pastasaus pot,null,null,null
+0.49519795,12693,416504,AH,Pastasaus carbonara,"Met deze AH vernieuwde pastasaus zet je een op-en-top Italiaans gerecht op tafel. Onweerstaanbaar rijk van smaak, en bovendien zonder toegevoegd suiker en verlaagd in zout met 25% of meer. Complimenten verzekerd! Voor een supersnelle pasta Verlaagd in zout >25% Zonder toegevoegd suiker Voeg ingrediënten naar smaak toe","['Geen lactose' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Vegetarisch' 'Geen selderij'
+ 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot","ah [SEP] pastasaus carbonara [SEP] Met deze AH vernieuwde pastasaus zet je een op-en-top Italiaans gerecht op tafel. Onweerstaanbaar rijk van smaak, en bovendien zonder toegevoegd suiker en verlaagd in zout met 25% of meer. Complimenten verzekerd! Voor een supersnelle pasta Verlaagd in zout >25% Zonder toegevoegd suiker Voeg ingrediënten naar smaak toe [SEP] pastasaus pot",ah pastasaus carbonara pastasaus pot,null,null,null
+0.49473196,16465,416666,AH,Pastasaus pikant,Hou je van een beetje pit? Deze pittige tomatensaus is de ideale basis voor je pasta. Tomatensaus met extra specerijen Extra gekruide tomaat-basilicum saus voor pasta Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot",ah [SEP] pastasaus pikant [SEP] Hou je van een beetje pit? Deze pittige tomatensaus is de ideale basis voor je pasta. Tomatensaus met extra specerijen Extra gekruide tomaat-basilicum saus voor pasta Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] pastasaus pot,ah pastasaus pikant pastasaus pot,null,null,null
+0.4928087,5774,197154,AH,Geraspte kaas speciaal voor pizza,"Speciaal voor Pizza, gemaakt van mozzarella, goudse jong belegen en regato kaas. Smaak: Mild & extra smeuïg Gemaakt van: Koemelk Ideaal om over pizza's te strooien!","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']",Kaas vleeswaren tapas Kaas Kaas voor maaltijden Geraspte kaas,"ah [SEP] geraspte kaas speciaal voor pizza [SEP] Speciaal voor Pizza, gemaakt van mozzarella, goudse jong belegen en regato kaas. Smaak: Mild & extra smeuïg Gemaakt van: Koemelk Ideaal om over pizza's te strooien! [SEP] kzb k rasp specialiteit",ah geraspte kaas speciaal voor pizza kzb k rasp specialiteit,null,null,null
+0.4921196,13334,3853,AH,Goudse oud 48+ geraspt,"Lekkere volrijpe Goudse oude kaas. Om je een eindje op weg te helpen is deze kaas alvast geraspt. Voor eindeloos veel combinaties: over de pasta, bovenop de ovenschotel, op een matze, in een wrap etc. Smaak: krachtig Gemaakt van: koemelk ""Lekker & eindeloos combineren altijd handig om in huis te hebben!""","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Kaas vleeswaren tapas Kaas Kaas voor maaltijden Geraspte kaas,"ah [SEP] goudse oud 48+ geraspt [SEP] Lekkere volrijpe Goudse oude kaas. Om je een eindje op weg te helpen is deze kaas alvast geraspt. Voor eindeloos veel combinaties: over de pasta, bovenop de ovenschotel, op een matze, in een wrap etc. Smaak: krachtig Gemaakt van: koemelk ""Lekker & eindeloos combineren altijd handig om in huis te hebben!"" [SEP] kzb k rasp basis",ah goudse oud 48+ geraspt kzb k rasp basis,null,null,null
+0.49135152,11304,80173,Grand' Italia,Toscana pastasaus,"Deze saus is gemaakt met zongedroogde tomaten, gerijpt in de zon. Een vleugje balsamico azijn zorgt voor de 'final touch' van deze overheerlijke saus. Geschikt voor 2 personen. Prodotto italiano - gemaakt met italiaans product Met zongedroogde tomaten Direct klaar voor gebruik Glutenvrij","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen noten' 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot","grand' italia [SEP] toscana pastasaus [SEP] Deze saus is gemaakt met zongedroogde tomaten, gerijpt in de zon. Een vleugje balsamico azijn zorgt voor de 'final touch' van deze overheerlijke saus. Geschikt voor 2 personen. Prodotto italiano - gemaakt met italiaans product Met zongedroogde tomaten Direct klaar voor gebruik Glutenvrij [SEP] pastasaus pot",grand' italia toscana pastasaus pastasaus pot,null,null,null
+0.49107778,17642,461887,Mutti,Pastasaus Basilico,Tomatensaus op basis van polpa (fijngesneden tomaten) en op smaak gebracht met pure ingredienten. Je proeft het heerlijke italie! Gebruik de sauzen voor 100% pasta succes. Pastasaus met basilicum 100% italiaans Kant-en-klaar voor gebruik Voor heerlijke pastagerechten,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot",mutti [SEP] pastasaus basilico [SEP] Tomatensaus op basis van polpa (fijngesneden tomaten) en op smaak gebracht met pure ingredienten. Je proeft het heerlijke italie! Gebruik de sauzen voor 100% pasta succes. Pastasaus met basilicum 100% italiaans Kant-en-klaar voor gebruik Voor heerlijke pastagerechten [SEP] pastasaus pot,mutti pastasaus basilico pastasaus pot,null,null,null
+0.4910478,16204,531184,AH,Pasta puttanesca,,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Geen vis' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']","Salades pizza maaltijden Verse kant- en-klaar maaltijden
+ Italiaanse maaltijden Traditionele Italiaanse gerechten",ah [SEP] pasta puttanesca [SEP]  [SEP] verse maaltijd,ah pasta puttanesca verse maaltijd,null,null,null
+0.4903229,4568,378610,Heinz,Traditional pasta sauce,Heinz traditional pastasaus is een heerlijke pastasaus bereid met stukjes tomaten en fijne kruiden. Een pastasaus met karakter en de onmiskenbare smaak van heinz. Seriously good! Gemaakt met kwaliteitstomaten Perfect voor uw pasta gerechten Makkelijke voorbereiding en smaakvolle saus,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot",heinz [SEP] traditional pasta sauce [SEP] Heinz traditional pastasaus is een heerlijke pastasaus bereid met stukjes tomaten en fijne kruiden. Een pastasaus met karakter en de onmiskenbare smaak van heinz. Seriously good! Gemaakt met kwaliteitstomaten Perfect voor uw pasta gerechten Makkelijke voorbereiding en smaakvolle saus [SEP] pastasaus pot,heinz traditional pasta sauce pastasaus pot,null,null,null
+0.48906964,9393,416658,AH Biologisch,Pastasaus basilicum,"Met deze biologische basis pastasaus zet je in een handomdraai een op-en-top Italiaanse pasta op tafel. Buon appetito! 100% biologisch Biologische basilicum, knoflook en extra virgine olijfolie Ook voor het bereiden van een heerlijke lasagnemaaltijd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot","ah biologisch [SEP] pastasaus basilicum [SEP] Met deze biologische basis pastasaus zet je in een handomdraai een op-en-top Italiaanse pasta op tafel. Buon appetito! 100% biologisch Biologische basilicum, knoflook en extra virgine olijfolie Ook voor het bereiden van een heerlijke lasagnemaaltijd [SEP] pastasaus pak",ah biologisch pastasaus basilicum pastasaus pak,null,null,null
+0.48277158,9131,142435,AH,Verse ravioli 5 formaggio,"Proef het echte Italië! Serveer deze Italiaanse ravioli met 5 verschillende kazen met gesmolten boter, walnoot- of een kaassaus en bestrooi met geraspte kaas. Verse eierpasta van 14% uitloopeieren Gemaakt in Italië Met gorgonzola, edammerkaas, bergaderkaas, ricotta en Grana Padanokaas Voor gemiddeld 3 porties","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja' 'Geen selderij'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Geen vis' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen mosterd' 'Vegetarisch' 'Geen eieren']","Pasta rijst en wereldkeuken Salades pizza maaltijden
+ Verse pasta en pastasaus Pasta rijst noedels Mediterrane keuken
+ Pasta Verse pasta Italiaanse keuken Ravioli Italiaanse pasta","ah [SEP] verse ravioli 5 formaggio [SEP] Proef het echte Italië! Serveer deze Italiaanse ravioli met 5 verschillende kazen met gesmolten boter, walnoot- of een kaassaus en bestrooi met geraspte kaas. Verse eierpasta van 14% uitloopeieren Gemaakt in Italië Met gorgonzola, edammerkaas, bergaderkaas, ricotta en Grana Padanokaas Voor gemiddeld 3 porties [SEP] pasta gevuld",ah verse ravioli 5 formaggio pasta gevuld,null,null,null
+0.4823746,15014,543820,AH,Kaassticks,,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij']",Diepvries Diepvries snacks Ovensnacks Kaashapjes (oven),ah [SEP] kaassticks [SEP]  [SEP] kaas,ah kaassticks kaas,null,null,null
+0.47981453,5546,461884,Mutti,Pastasaus Olive,Tomatensaus op basis van polpa (fijngesneden tomaten) en op smaak gebracht met pure ingredienten. Je proeft het heerlijke italie! Gebruik de sauzen voor 100% pasta succes. Pastasaus met zwarte en groene olijven 100% italiaans Kant-en-klaar voor gebruik Voor heerlijke pastagerechten,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot",mutti [SEP] pastasaus olive [SEP] Tomatensaus op basis van polpa (fijngesneden tomaten) en op smaak gebracht met pure ingredienten. Je proeft het heerlijke italie! Gebruik de sauzen voor 100% pasta succes. Pastasaus met zwarte en groene olijven 100% italiaans Kant-en-klaar voor gebruik Voor heerlijke pastagerechten [SEP] pastasaus pot,mutti pastasaus olive pastasaus pot,null,null,null
+0.47948864,6167,168206,AH,Verse spaghetti all'uovo,"Verse eierpasta gemaakt met uitloopeieren. Serveer met bijvoorbeeld tomatensaus, pesto, bolognesesaus, walnootsaus of kaassaus, lekker met een beetje geraspte kaas. Verse eierpasta van 23% uitloopeieren Gemaakt in Italië Voor gemiddeld 3 porties","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja' 'Laag suiker'
+ 'Geen selderij' 'Geen kreeftachtigen (schaaldieren)' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Nutri-Score A'
+ 'Geen sulfiet' 'Geen sesam' 'Geen vis' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren']","Pasta rijst en wereldkeuken Salades pizza maaltijden
+ Verse pasta en pastasaus Pasta rijst noedels Mediterrane keuken
+ Pasta Verse pasta Italiaanse keuken Ravioli Italiaanse pasta","ah [SEP] verse spaghetti all'uovo [SEP] Verse eierpasta gemaakt met uitloopeieren. Serveer met bijvoorbeeld tomatensaus, pesto, bolognesesaus, walnootsaus of kaassaus, lekker met een beetje geraspte kaas. Verse eierpasta van 23% uitloopeieren Gemaakt in Italië Voor gemiddeld 3 porties [SEP] pasta basis",ah verse spaghetti all'uovo pasta basis,null,null,null
+0.4794476,2463,477906,Grand' Italia,Salade pasta casarecce,Grand'Italia Salade Pasta is gemaakt van 100% natuurlijke ingrediënten. Maak heerlijke pastasalades met deze speciale pasta. Door de speciale vorm hecht de dressing perfect aan de pasta. Voor de perfecte pasta salade 100% natuurlijke ingrediënten Geeft een heerlijke 'al dente' bite aan salades Met harde tarwe en de smaak van tomaat en spinazie,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Pasta rijst noedels
+ Mediterrane keuken Pasta Italiaanse keuken Italiaanse pasta
+ Fusilli casareccia trottole Fusilli casareccia",grand' italia [SEP] salade pasta casarecce [SEP] Grand'Italia Salade Pasta is gemaakt van 100% natuurlijke ingrediënten. Maak heerlijke pastasalades met deze speciale pasta. Door de speciale vorm hecht de dressing perfect aan de pasta. Voor de perfecte pasta salade 100% natuurlijke ingrediënten Geeft een heerlijke 'al dente' bite aan salades Met harde tarwe en de smaak van tomaat en spinazie [SEP] harde tarwe basis,grand' italia salade pasta casarecce harde tarwe basis,null,null,null
+0.47902772,13431,47365,AH,Geitenkaas oud 50+ plakken,Geitenkaas gemaakt van 100% geitenmelk met milde lichtzure smaak. Lekker op een ciabattabroodje met geroosterde paprika en rucola. Krachtig en mild Tip! Maak ook eens een lasagnemaaltijd met geitenkaas i.p.v. bechamelsaus.,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Kaas Kaas beleg
+ Geitenkaas broodbeleg Kaas voor beleg Plakken kaas
+ Geitenkaas (plakken)",ah [SEP] geitenkaas oud 50+ plakken [SEP] Geitenkaas gemaakt van 100% geitenmelk met milde lichtzure smaak. Lekker op een ciabattabroodje met geroosterde paprika en rucola. Krachtig en mild Tip! Maak ook eens een lasagnemaaltijd met geitenkaas i.p.v. bechamelsaus. [SEP] kb bb plak variatie,ah geitenkaas oud 50+ plakken kb bb plak variatie,null,null,null
+0.4788946,10599,497561,Zanetti,Pecorino Romano DOP 32+,"Een harde italiaanse schapenkaas met een zilte, pittige smaak dankzij de schapenmelk. Zeer geschikt als kaas om mee te koken (raspen). Smaak: krachtig en ziltpikant Herkomst: Italië Gemaakt van: rauwe schapenmelk Ideaal om over italiaanse gerechten te raspen.","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Kaas vleeswaren tapas Kaas Kaas voor borrel
+ Kaas voor maaltijden Grano padano parmezaanse kaas Grano Padano","zanetti [SEP] pecorino romano dop 32+ [SEP] Een harde italiaanse schapenkaas met een zilte, pittige smaak dankzij de schapenmelk. Zeer geschikt als kaas om mee te koken (raspen). Smaak: krachtig en ziltpikant Herkomst: Italië Gemaakt van: rauwe schapenmelk Ideaal om over italiaanse gerechten te raspen. [SEP] kzb k component",zanetti pecorino romano dop 32+ kzb k component,null,null,null
+0.47776282,9323,202722,Bertolli,Pastasaus in zak carbonara,"Een heerlijk romige pastasaus voor 3-4 personen. Naar het beroemde traditioneel italiaans recept, met gerookte pancetta, room, eigeel en 100% Italiaanse kaas. Pastasaus met gerookte pancetta, room, eigeel en 100% Italiaanse kaas Naar tradioneel italiaans recept, met Grana Padano bob en pecorino romano Bereid met natuurlijke ingredienten Met een scheutje extra vergine oilijfolie","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in zak","bertolli [SEP] pastasaus in zak carbonara [SEP] Een heerlijk romige pastasaus voor 3-4 personen. Naar het beroemde traditioneel italiaans recept, met gerookte pancetta, room, eigeel en 100% Italiaanse kaas. Pastasaus met gerookte pancetta, room, eigeel en 100% Italiaanse kaas Naar tradioneel italiaans recept, met Grana Padano bob en pecorino romano Bereid met natuurlijke ingredienten Met een scheutje extra vergine oilijfolie [SEP] pastasaus zak",bertolli pastasaus in zak carbonara pastasaus zak,null,null,null
+0.4773153,11805,160914,AH,Lasagne all uovo,"Verse lasagne gemaakt met vrije-uitloopeieren
+
+
+	Aha'tje: voeg mozzarella toe door de lasagne voor een extra romige smaak","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja' 'Laag suiker'
+ 'Geen selderij' 'Geen kreeftachtigen (schaaldieren)' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Nutri-Score A'
+ 'Geen sulfiet' 'Geen sesam' 'Geen vis' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren']","Pasta rijst en wereldkeuken Salades pizza maaltijden
+ Verse pasta en pastasaus Pasta rijst noedels Mediterrane keuken
+ Pasta Verse pasta Italiaanse keuken Ravioli Italiaanse pasta","ah [SEP] lasagne all uovo [SEP] Verse lasagne gemaakt met vrije-uitloopeieren
+
+
+	Aha'tje: voeg mozzarella toe door de lasagne voor een extra romige smaak [SEP] pasta basis",ah lasagne all uovo pasta basis,null,null,null
+0.47563428,9879,212511,CasArrigoni,Taleggio,Heerlijk grotgerijpte Italiaanse kaas. Naarmate de kaas langer heeft gerijpt wordt de smaak sterker. De rossige korst van de kaas kenmerkt zich door de strepen met daarin een lichte blauwgrijze schimmel. Eetbare korst! Smaak: Zacht en licht pittig Herkomst: Italië Gemaakt van: Koemelk,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Kaas vleeswaren tapas Kaas Kaas voor borrel
+ Rode korst kaas port salut",casarrigoni [SEP] taleggio [SEP] Heerlijk grotgerijpte Italiaanse kaas. Naarmate de kaas langer heeft gerijpt wordt de smaak sterker. De rossige korst van de kaas kenmerkt zich door de strepen met daarin een lichte blauwgrijze schimmel. Eetbare korst! Smaak: Zacht en licht pittig Herkomst: Italië Gemaakt van: Koemelk [SEP] kb s rode korst,casarrigoni taleggio kb s rode korst,null,null,null
+0.47511214,9573,477987,Grand' Italia,Salade Pasta Penne,Grand'Italia Salade Pasta is gemaakt van 100% natuurlijke ingrediënten. Maak heerlijke pastasalades met deze speciale pasta die door de lekkere bite perfect past bij verse ingrediënten. Voor de perfecte pasta salade 100% natuurlijke ingrediënten Geeft een heerlijke 'al dente' bite aan salades Met harde tarwe en de smaak van tomaat en spinazie,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Pasta rijst noedels
+ Mediterrane keuken Pasta Italiaanse keuken Italiaanse pasta
+ Penne rigatoni elicoidali Penne",grand' italia [SEP] salade pasta penne [SEP] Grand'Italia Salade Pasta is gemaakt van 100% natuurlijke ingrediënten. Maak heerlijke pastasalades met deze speciale pasta die door de lekkere bite perfect past bij verse ingrediënten. Voor de perfecte pasta salade 100% natuurlijke ingrediënten Geeft een heerlijke 'al dente' bite aan salades Met harde tarwe en de smaak van tomaat en spinazie [SEP] harde tarwe basis,grand' italia salade pasta penne harde tarwe basis,null,null,null
+0.4747923,17029,538674,Unox,Volkoren goodpasta spinazie kaas,"Unox volkoren good pasta spinazie kaas: een snelle pastasnack voor de lekkere trek. Unox volkoren good pasta spinazie kaas: volkoren pasta met een romige saus Een snelle, makkelijke maaltijd of ideaal tussendoortje als je Trek hebt Heerlijk vegetarisch volkoren pastagerecht met spinazie en een kaassaus Unox volkoren good pasta spinazie kaas is klaar in 5 minuten","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen sulfiet'
+ 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Vegetarisch' 'Geen eieren']",Tussendoortjes Pasta (tussendoor) Warm tussendoor,"unox [SEP] volkoren goodpasta spinazie kaas [SEP] Unox volkoren good pasta spinazie kaas: een snelle pastasnack voor de lekkere trek. Unox volkoren good pasta spinazie kaas: volkoren pasta met een romige saus Een snelle, makkelijke maaltijd of ideaal tussendoortje als je Trek hebt Heerlijk vegetarisch volkoren pastagerecht met spinazie en een kaassaus Unox volkoren good pasta spinazie kaas is klaar in 5 minuten [SEP] stevig tussendoor cup",unox volkoren goodpasta spinazie kaas stevig tussendoor cup,null,null,null
+0.4744783,5300,411089,AH Biologisch,Verse tagliatelle all'uovo,Met deze eierpasta zet je een op-en-top Italiaanse pastamaaltijd op tafel. Biologische pasta gemaakt met vrije-uitloopeieren Pasta uit Italië Voor een supersnelle pasta Voor 2 personen,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij' 'Geen eieren']","Pasta rijst en wereldkeuken Salades pizza maaltijden
+ Verse pasta en pastasaus Pasta rijst noedels Mediterrane keuken
+ Pasta Verse pasta Italiaanse keuken Ravioli Italiaanse pasta",ah biologisch [SEP] verse tagliatelle all'uovo [SEP] Met deze eierpasta zet je een op-en-top Italiaanse pastamaaltijd op tafel. Biologische pasta gemaakt met vrije-uitloopeieren Pasta uit Italië Voor een supersnelle pasta Voor 2 personen [SEP] pasta basis,ah biologisch verse tagliatelle all'uovo pasta basis,null,null,null
+0.4741763,5558,398522,Maggi,Kaas saus mix,"Maggi kaas saus is extra romig en geeft je Hollandse maaltijd een extra lekkere smaak. Een verrijking van veel maaltijden, waarvan iedereen aan tafel geniet! Toevoegen: water Lekker voor bij de groente, maar ook vlees of als pastasaus Geschikt voor 5 personen Binnen 5 minuten op tafel","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen selderij'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Geen mosterd' 'Vegetarisch' 'Geen eieren']",Soepen sauzen kruiden olie Sauzen Groentesaus Kaassaus,"maggi [SEP] kaas saus mix [SEP] Maggi kaas saus is extra romig en geeft je Hollandse maaltijd een extra lekkere smaak. Een verrijking van veel maaltijden, waarvan iedereen aan tafel geniet! Toevoegen: water Lekker voor bij de groente, maar ook vlees of als pastasaus Geschikt voor 5 personen Binnen 5 minuten op tafel [SEP] sauzen warm droog",maggi kaas saus mix sauzen warm droog,null,null,null
+0.47360572,10412,173093,Grand' Italia,Carbonara met bacon en kaas,"Carbonarasaus is een echte Italiaanse klassieker gemaakt naar traditioneel recept. De combinatie van room, knapperige pancetta, kaas en ei zorgt voor een volle romige smaak. Gemaakt in italie - ricetta italiana Direct klaar voor gebruikt Glutenvrij Geschikt voor 2 personen","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot","grand' italia [SEP] carbonara met bacon en kaas [SEP] Carbonarasaus is een echte Italiaanse klassieker gemaakt naar traditioneel recept. De combinatie van room, knapperige pancetta, kaas en ei zorgt voor een volle romige smaak. Gemaakt in italie - ricetta italiana Direct klaar voor gebruikt Glutenvrij Geschikt voor 2 personen [SEP] pastasaus pot",grand' italia carbonara met bacon en kaas pastasaus pot,null,null,null
+0.47205877,5754,130836,AH,Goudse belegen 30+ geraspt,"Lekkere gerijpte Goudse belegen kaas, alvast geraspt. Deze kaas is gemaakt van 100% natuurlijke weidemelkkaas en dat proef je! Voor eindeloos veel combinaties: over de pasta, bovenop de ovenschotel, op een pizza, in een wrap etc. Smaak: Licht pittig en minder vet Herkomst: Nederland Gemaakt van: Koemelk Rijping: minimaal 16 weken","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Kaas vleeswaren tapas Kaas Kaas voor maaltijden Geraspte kaas,"ah [SEP] goudse belegen 30+ geraspt [SEP] Lekkere gerijpte Goudse belegen kaas, alvast geraspt. Deze kaas is gemaakt van 100% natuurlijke weidemelkkaas en dat proef je! Voor eindeloos veel combinaties: over de pasta, bovenop de ovenschotel, op een pizza, in een wrap etc. Smaak: Licht pittig en minder vet Herkomst: Nederland Gemaakt van: Koemelk Rijping: minimaal 16 weken [SEP] kzb k rasp basis",ah goudse belegen 30+ geraspt kzb k rasp basis,null,null,null
+0.47138518,5977,136425,AH,Verse pappardelle all'uovo,"Proef het echte Italië met deze pappardelle all'uovo. Lekker met verse roerbakmix, gebakken spekjes en room. Verse eierpasta van 23% uitloopeieren Gemaakt in Italië Voor gemiddeld 3 porties","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja' 'Laag suiker'
+ 'Geen selderij' 'Geen kreeftachtigen (schaaldieren)' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Nutri-Score A'
+ 'Geen sulfiet' 'Geen sesam' 'Geen vis' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren']","Pasta rijst en wereldkeuken Salades pizza maaltijden
+ Verse pasta en pastasaus Pasta rijst noedels Mediterrane keuken
+ Pasta Verse pasta Italiaanse keuken Ravioli Italiaanse pasta","ah [SEP] verse pappardelle all'uovo [SEP] Proef het echte Italië met deze pappardelle all'uovo. Lekker met verse roerbakmix, gebakken spekjes en room. Verse eierpasta van 23% uitloopeieren Gemaakt in Italië Voor gemiddeld 3 porties [SEP] pasta basis",ah verse pappardelle all'uovo pasta basis,null,null,null
+0.4702975,15401,450402,De Cecco,PAPPARDELLE MATASSINE UOVO,Durum tarwe griesmeel pasta met ei Gebruik van verse eersteklas categorie scharreleieren,"['Geen gluten' 'Laag zout' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Veganistisch'
+ 'Laag suiker' 'Geen schelpdieren (schaaldieren)' 'Vegetarisch'
+ 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen eieren']","Pasta rijst en wereldkeuken Pasta rijst noedels
+ Mediterrane keuken Pasta Italiaanse keuken Italiaanse pasta
+ Pappardelle Pappardelle (houdbaar)",de cecco [SEP] pappardelle matassine uovo [SEP] Durum tarwe griesmeel pasta met ei Gebruik van verse eersteklas categorie scharreleieren [SEP] harde tarwe authent italiaans,de cecco pappardelle matassine uovo harde tarwe authent italiaans,null,null,null
+0.467763,2892,226973,AH,Italiaanse lasagne verspakket,"Wat handig! Met dit pakket maak je in een handomdraai een lekkere Italiaanse lasagne, die je met trots op tafel kunt zetten. Zo heb je altijd een bijzondere maaltijd paraat, met heerlijke ingredienten en veel groente. En het mooie is: het pakket bevat precies de juiste hoeveelheden. No waste, dus. Voor 4 personen Zelf toevoegen: 300 g rundergehakt, 300 ml halfvolle melk, 150 g geraspte belegen kaas, 2 el (olijf)olie Tip: ook lekker met dunne plakken mozzarella.","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij']","Aardappel groente fruit Salades pizza maaltijden Groente
+ Verspakket Maaltijdpakketten (vers) Groentepakket
+ Mediterrane maaltijdpakketten (vers)","ah [SEP] italiaanse lasagne verspakket [SEP] Wat handig! Met dit pakket maak je in een handomdraai een lekkere Italiaanse lasagne, die je met trots op tafel kunt zetten. Zo heb je altijd een bijzondere maaltijd paraat, met heerlijke ingredienten en veel groente. En het mooie is: het pakket bevat precies de juiste hoeveelheden. No waste, dus. Voor 4 personen Zelf toevoegen: 300 g rundergehakt, 300 ml halfvolle melk, 150 g geraspte belegen kaas, 2 el (olijf)olie Tip: ook lekker met dunne plakken mozzarella. [SEP] onbewerkt verspakket maaltijd",ah italiaanse lasagne verspakket onbewerkt verspakket maaltijd,null,null,null
+0.46723953,7194,63231,Grand' Italia,Pesto rosso,"Pesto Rosso is een bekende smaakmaker met zongedroogde tomaten uit de authentieke Italiaanse keuken. Lekker door de pasta, als saladedressing of om vis- en vleesgerechten mee op smaak te brengen. Ricetta Italiana - Volgens Italiaans recept Met zongedroogde tomaten Tip: Lekker als dressing door een pastasalade Glutenvrij","['Geen lactose' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Vegetarisch' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Kaas vleeswaren tapas
+ Smeersels & dips Mediterrane keuken Pesto Italiaanse keuken
+ Pesto in pot","grand' italia [SEP] pesto rosso [SEP] Pesto Rosso is een bekende smaakmaker met zongedroogde tomaten uit de authentieke Italiaanse keuken. Lekker door de pasta, als saladedressing of om vis- en vleesgerechten mee op smaak te brengen. Ricetta Italiana - Volgens Italiaans recept Met zongedroogde tomaten Tip: Lekker als dressing door een pastasalade Glutenvrij [SEP] pesto",grand' italia pesto rosso pesto,null,null,null
+0.46723953,2810,36585,Grand' Italia,Pesto rosso,"Pesto Rosso is een bekende smaakmaker met zongedroogde tomaten uit de authentieke Italiaanse keuken. Lekker door de pasta, als saladedressing of om vis- en vleesgerechten mee op smaak te brengen. Ricetta Italiana - Volgens Italiaans recept Met zongedroogde tomaten Tip: Lekker als dressing door een pastasalade Glutenvrij","['Geen lactose' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Vegetarisch' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Kaas vleeswaren tapas
+ Smeersels & dips Mediterrane keuken Pesto Italiaanse keuken
+ Pesto in pot","grand' italia [SEP] pesto rosso [SEP] Pesto Rosso is een bekende smaakmaker met zongedroogde tomaten uit de authentieke Italiaanse keuken. Lekker door de pasta, als saladedressing of om vis- en vleesgerechten mee op smaak te brengen. Ricetta Italiana - Volgens Italiaans recept Met zongedroogde tomaten Tip: Lekker als dressing door een pastasalade Glutenvrij [SEP] pesto",grand' italia pesto rosso pesto,null,null,null
+0.46707088,8219,500626,AH,Oven kaaskroket,"Met parmezaanse, goudse en gruyere kaas. 6 stuks","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Vegetarisch' 'Geen selderij'
+ 'Geen eieren']",Diepvries Diepvries snacks Ovensnacks Kaashapjes (oven),"ah [SEP] oven kaaskroket [SEP] Met parmezaanse, goudse en gruyere kaas. 6 stuks [SEP] kroket",ah oven kaaskroket kroket,null,null,null
+0.46643075,7965,216434,AH,Verse pasta carbonara,"Op de Italiaanse toer met deze Pasta Carbonara met penne rigate, mascarponesaus, kastanjechampignons, spekjes, rode ui en peterselie. In een handomdraai op tafel.. Buon appetito! Dagelijks vers bereid Een supersnelle pasta vol smaakmakers uit de Italiaanse keuken Een slim idee voor avondeten of lunch!","['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen selderij' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score B'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch']","Salades pizza maaltijden Verse kant- en-klaar maaltijden
+ Italiaanse maaltijden Traditionele Italiaanse gerechten","ah [SEP] verse pasta carbonara [SEP] Op de Italiaanse toer met deze Pasta Carbonara met penne rigate, mascarponesaus, kastanjechampignons, spekjes, rode ui en peterselie. In een handomdraai op tafel.. Buon appetito! Dagelijks vers bereid Een supersnelle pasta vol smaakmakers uit de Italiaanse keuken Een slim idee voor avondeten of lunch! [SEP] verse maaltijd",ah verse pasta carbonara verse maaltijd,null,null,null
+0.466198,1408,121125,Zanetti,Parmigiano Reggiano,"Parmigiano reggiano kruimels, beter bekend als parmezaanse kaas. Een harde kaas van koemelk met een kruidige en pikante smaak. Perfect om over italiaanse gerechten te strooien. Smaak: pikant Herkomst: italie Gemaakt van: rauwe koemelk","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Kaas vleeswaren tapas Kaas Kaas voor maaltijden Geraspte kaas,"zanetti [SEP] parmigiano reggiano [SEP] Parmigiano reggiano kruimels, beter bekend als parmezaanse kaas. Een harde kaas van koemelk met een kruidige en pikante smaak. Perfect om over italiaanse gerechten te strooien. Smaak: pikant Herkomst: italie Gemaakt van: rauwe koemelk [SEP] kzb k rasp specialiteit",zanetti parmigiano reggiano kzb k rasp specialiteit,null,null,null
+0.46591413,9312,514075,Lazy Vegan,Pasta al pesto,"Lazy vegan biedt een range aan maaltijden die vliegensvlug op tafel staan. Ideaal voor de drukke dagen waarop je weinig tijd hebt om te koken, maar wel voedzaam en bewust wilt eten. Nutri-score a: 100% natuurlijke en plantaardige ingredienten Boordevol groenten (224 gr.) en eiwitten (21 gr.) Vrij van conserveermiddelen, gluten en soja Vriesvers voor optimaal behoud van smaak en voedingswaarden","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Diepvries Salades pizza maaltijden
+ Diepvries kant-en-klaar maaltijden Italiaanse diepvries maaltijd","lazy vegan [SEP] pasta al pesto [SEP] Lazy vegan biedt een range aan maaltijden die vliegensvlug op tafel staan. Ideaal voor de drukke dagen waarop je weinig tijd hebt om te koken, maar wel voedzaam en bewust wilt eten. Nutri-score a: 100% natuurlijke en plantaardige ingredienten Boordevol groenten (224 gr.) en eiwitten (21 gr.) Vrij van conserveermiddelen, gluten en soja Vriesvers voor optimaal behoud van smaak en voedingswaarden [SEP] maaltijden pan",lazy vegan pasta al pesto maaltijden pan,null,null,null
+0.46530634,9903,46564,AH,Goudse jong 48+ geraspt,"Lekker smeuïge Goudse jonge kaas. Om je een eindje op weg te helpen is deze kaas alvast geraspt. Voor eindeloos veel combinaties: over de pasta, bovenop de ovenschotel, op een matze, in een wrap etc. Smaak: zacht Gemaakt van: koemelk Lekker & eindeloos combineren","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']",Kaas vleeswaren tapas Kaas Kaas voor maaltijden Geraspte kaas,"ah [SEP] goudse jong 48+ geraspt [SEP] Lekker smeuïge Goudse jonge kaas. Om je een eindje op weg te helpen is deze kaas alvast geraspt. Voor eindeloos veel combinaties: over de pasta, bovenop de ovenschotel, op een matze, in een wrap etc. Smaak: zacht Gemaakt van: koemelk Lekker & eindeloos combineren [SEP] kzb k rasp basis",ah goudse jong 48+ geraspt kzb k rasp basis,null,null,null
+0.46491623,10879,238913,AH Biologisch,Parmigiano Reggiano stuk,"Een mooie harde typisch Italiaanse kaas gemaakt van biologische koemelk. De kaas krijgt een mooie volle kruidige en pikante smaak door het zouten en de langzame rijping met een minimale rijping van 22 maanden. Smaak: Puur en karakteristiek Herkomst: Italië Gemaakt van: Rauwe koemelk Een heerlijk product dat zeker past in warme gerecht door het perfect smeltgedrag, maar ook lekker als snippers door de salade","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Kaas vleeswaren tapas Kaas Kaas voor borrel
+ Kaas voor maaltijden Grano padano parmezaanse kaas
+ Parmezaanse kaas","ah biologisch [SEP] parmigiano reggiano stuk [SEP] Een mooie harde typisch Italiaanse kaas gemaakt van biologische koemelk. De kaas krijgt een mooie volle kruidige en pikante smaak door het zouten en de langzame rijping met een minimale rijping van 22 maanden. Smaak: Puur en karakteristiek Herkomst: Italië Gemaakt van: Rauwe koemelk Een heerlijk product dat zeker past in warme gerecht door het perfect smeltgedrag, maar ook lekker als snippers door de salade [SEP] kb k rasp specialiteit",ah biologisch parmigiano reggiano stuk kb k rasp specialiteit,null,null,null
+0.4637491,9699,382416,Grand' Italia,Carbonara saus,"Carbonarasaus is een echte Italiaanse klassieker gemaakt naar traditioneel recept. De combinatie van room, knapperige pancetta, kaas en ei zorgt voor een volle romige smaak. Geschikt voor 4 personen. Ricetta italiana - volgens italiaans recept Met pancetta Direct klaar voor gebruik Glutenvrij","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot","grand' italia [SEP] carbonara saus [SEP] Carbonarasaus is een echte Italiaanse klassieker gemaakt naar traditioneel recept. De combinatie van room, knapperige pancetta, kaas en ei zorgt voor een volle romige smaak. Geschikt voor 4 personen. Ricetta italiana - volgens italiaans recept Met pancetta Direct klaar voor gebruik Glutenvrij [SEP] pastasaus pot",grand' italia carbonara saus pastasaus pot,null,null,null
+0.46348286,5901,461885,Mutti,Pastasaus Peperoncino,Tomatensaus op basis van polpa (fijngesneden tomaten) en op smaak gebracht met pure ingredienten. Je proeft het heerlijke italie! Gebruik de sauzen voor 100% pasta succes. Pastasaus met Chilipeper 100% italiaans Kant-en-klaar voor gebruik Voor heerlijke pastagerechten,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot",mutti [SEP] pastasaus peperoncino [SEP] Tomatensaus op basis van polpa (fijngesneden tomaten) en op smaak gebracht met pure ingredienten. Je proeft het heerlijke italie! Gebruik de sauzen voor 100% pasta succes. Pastasaus met Chilipeper 100% italiaans Kant-en-klaar voor gebruik Voor heerlijke pastagerechten [SEP] pastasaus pot,mutti pastasaus peperoncino pastasaus pot,null,null,null
+0.46345377,11917,2065,Grand' Italia,Penne tradizionali,"Penne is een gedroogde holle pastasoort, die daardoor een wat grovere saus perfect vasthoudt. Grand'Italia pasta tradizionali wordt gemaakt van harde tarwe. Prodotto italiano - gemaakt in zuid-italie Gemaakt van 100% durum tarwe Heerlijke smaak en 'al dente' bite Holle 'ganzeveer' pasta","['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Pasta rijst en wereldkeuken Pasta rijst noedels
+ Mediterrane keuken Pasta Italiaanse keuken Italiaanse pasta
+ Penne rigatoni elicoidali Penne","grand' italia [SEP] penne tradizionali [SEP] Penne is een gedroogde holle pastasoort, die daardoor een wat grovere saus perfect vasthoudt. Grand'Italia pasta tradizionali wordt gemaakt van harde tarwe. Prodotto italiano - gemaakt in zuid-italie Gemaakt van 100% durum tarwe Heerlijke smaak en 'al dente' bite Holle 'ganzeveer' pasta [SEP] harde tarwe basis",grand' italia penne tradizionali harde tarwe basis,null,null,null
+0.46327138,6451,62027,AH,Penne,"Italiaanse pasta met een lekkere, stevige bite Van de beste kwaliteit harde tarwe Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen noten'
+ 'Geen selderij' 'Geen eieren']","Pasta rijst en wereldkeuken Pasta rijst noedels
+ Mediterrane keuken Pasta Italiaanse keuken Italiaanse pasta
+ Penne rigatoni elicoidali Penne","ah [SEP] penne [SEP] Italiaanse pasta met een lekkere, stevige bite Van de beste kwaliteit harde tarwe Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] harde tarwe basis",ah penne harde tarwe basis,null,null,null
+0.46113953,12333,199935,Bertolli,Pastasaus in zak tomaat en kaas,"Een heerlijke pastasaus voor 3-4 personen. Naar traditioneel italiaans recept, met permezaanse kaas, basilicum en 100% zongerijpte Italiaanse tomaten. Pastasaus met parmezaanse kaas en basilicum Naar tradioneel italiaans recept, met 100% zongerijpte Italiaanse tomaten Bereid met natuurlijke ingredienten Met een scheutje extra vergine oilijfolie","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in zak","bertolli [SEP] pastasaus in zak tomaat en kaas [SEP] Een heerlijke pastasaus voor 3-4 personen. Naar traditioneel italiaans recept, met permezaanse kaas, basilicum en 100% zongerijpte Italiaanse tomaten. Pastasaus met parmezaanse kaas en basilicum Naar tradioneel italiaans recept, met 100% zongerijpte Italiaanse tomaten Bereid met natuurlijke ingredienten Met een scheutje extra vergine oilijfolie [SEP] pastasaus zak",bertolli pastasaus in zak tomaat en kaas pastasaus zak,null,null,null
+0.46012574,4324,525358,AH,Cappelletti prosciutto crudo,,"['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Nutri-Score B'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Vegetarisch' 'Geen selderij' 'Geen eieren']","Pasta rijst en wereldkeuken Salades pizza maaltijden
+ Verse pasta en pastasaus Pasta rijst noedels Mediterrane keuken
+ Pasta Verse pasta Italiaanse keuken Ravioli Italiaanse pasta",ah [SEP] cappelletti prosciutto crudo [SEP]  [SEP] pasta gevuld,ah cappelletti prosciutto crudo pasta gevuld,null,null,null
+0.46003693,17381,166292,AH,Pesto rosso,"Rijke italiaanse rode pesto van zongedroogde tomaten, basilicum en kaas. Serveer, net als de italianen, direct op de pasta Ook voor het marineren van vlees en vis Serveer als antipasti op een stukje geroosterd stokbrood","['Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Nutri-Score D'
+ 'Geen sulfiet' 'Geen sesam' 'Geen vis' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen mosterd' 'Vegetarisch'
+ 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Kaas vleeswaren tapas
+ Smeersels & dips Mediterrane keuken Pesto Italiaanse keuken
+ Pesto in pot","ah [SEP] pesto rosso [SEP] Rijke italiaanse rode pesto van zongedroogde tomaten, basilicum en kaas. Serveer, net als de italianen, direct op de pasta Ook voor het marineren van vlees en vis Serveer als antipasti op een stukje geroosterd stokbrood [SEP] pesto",ah pesto rosso pesto,null,null,null
+0.457968,13582,525352,AH Biologisch,Lasagne volkoren,,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij' 'Geen eieren']","Pasta rijst en wereldkeuken Salades pizza maaltijden
+ Verse pasta en pastasaus Pasta rijst noedels Mediterrane keuken
+ Pasta Verse pasta Italiaanse keuken Ravioli Italiaanse pasta",ah biologisch [SEP] lasagne volkoren [SEP]  [SEP] pasta basis,ah biologisch lasagne volkoren pasta basis,null,null,null
+0.45763558,7125,159760,AH Biologisch,Spaghetti,Pure pasta uit Puglia 8 minuten koken Ook te gebruiken voor het maken van hartige taarten,"['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'biologisch' ""Geen pinda's"" 'Geen lupine' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij' 'Geen eieren']","Pasta rijst en wereldkeuken Pasta rijst noedels
+ Mediterrane keuken Pasta Italiaanse keuken Italiaanse pasta
+ Spaghetti Spaghetti (houdbaar)",ah biologisch [SEP] spaghetti [SEP] Pure pasta uit Puglia 8 minuten koken Ook te gebruiken voor het maken van hartige taarten [SEP] harde tarwe basis,ah biologisch spaghetti harde tarwe basis,null,null,null
+0.45738944,13545,450537,Grand' Italia,Penne all'uovo,"Penne all'uovo is een gedroogde holle pastasoort met ei, die daardoor een wat grovere saus perfect vasthoudt. Grand'Italia pasta all'uovo wordt gemaakt van harde tarwe en vrije uitloop eieren. Prodotto italiano - gemaakt in zuid-italie Gemaakt van 100% durum tarwe en vrije uitloop eieren Heerlijke volle smaak en 'al dente' bite Holle 'ganzeveer' pasta","['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen selderij'
+ 'Geen eieren']","Pasta rijst en wereldkeuken Pasta rijst noedels
+ Mediterrane keuken Pasta Italiaanse keuken Italiaanse pasta
+ Penne rigatoni elicoidali Penne","grand' italia [SEP] penne all'uovo [SEP] Penne all'uovo is een gedroogde holle pastasoort met ei, die daardoor een wat grovere saus perfect vasthoudt. Grand'Italia pasta all'uovo wordt gemaakt van harde tarwe en vrije uitloop eieren. Prodotto italiano - gemaakt in zuid-italie Gemaakt van 100% durum tarwe en vrije uitloop eieren Heerlijke volle smaak en 'al dente' bite Holle 'ganzeveer' pasta [SEP] harde tarwe basis",grand' italia penne all'uovo harde tarwe basis,null,null,null
+0.45613974,8468,123123,Zanetti,Grana padano,Een harde milde Italiaanse kaas. Smaak: Smaakvol Herkomst: Italië Gemaakt van: Koemelk,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Kaas vleeswaren tapas Kaas Kaas voor borrel
+ Kaas voor maaltijden Grano padano parmezaanse kaas Grano Padano",zanetti [SEP] grana padano [SEP] Een harde milde Italiaanse kaas. Smaak: Smaakvol Herkomst: Italië Gemaakt van: Koemelk [SEP] kzb k rasp specialiteit,zanetti grana padano kzb k rasp specialiteit,null,null,null
+0.45335078,14009,547281,Costa Ligure,Pesto genovese vegan mozzarisella,"Deze vegan pesto alla genovese wordt naar traditioneel recept gemaakt in de bakermat van de pesto, ligurie. Wat deze heerlijke pesto uniek maakt is het gebruik van de vegan mozzerisella. Gemaakt in ligurie, italie, naar traditioneel recept Met basilicum, pijnboompitten en extra virgine olijfolie Gemaakt met mozzarisella , een vegan kaas die geen soja bevat Soja-vrij","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Kaas vleeswaren tapas
+ Smeersels & dips Mediterrane keuken Pesto Italiaanse keuken
+ Pesto in pot","costa ligure [SEP] pesto genovese vegan mozzarisella [SEP] Deze vegan pesto alla genovese wordt naar traditioneel recept gemaakt in de bakermat van de pesto, ligurie. Wat deze heerlijke pesto uniek maakt is het gebruik van de vegan mozzerisella. Gemaakt in ligurie, italie, naar traditioneel recept Met basilicum, pijnboompitten en extra virgine olijfolie Gemaakt met mozzarisella , een vegan kaas die geen soja bevat Soja-vrij [SEP] pesto",costa ligure pesto genovese vegan mozzarisella pesto,null,null,null
+0.45316616,8411,56027,AH,Verse tagliatelle all'uovo,"Proef het echte Italië met deze verse tagliatelle all'uovo. Combineer de pasta eens met zalm, rucola en roomsaus. Verse eierpasta van 23% uitloopeieren Gemaakt in Italië Voor gemiddeld 3 porties","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja' 'Laag suiker'
+ 'Geen selderij' 'Geen kreeftachtigen (schaaldieren)' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Nutri-Score A'
+ 'Geen sulfiet' 'Geen sesam' 'Geen vis' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren']","Pasta rijst en wereldkeuken Salades pizza maaltijden
+ Verse pasta en pastasaus Pasta rijst noedels Mediterrane keuken
+ Pasta Verse pasta Italiaanse keuken Ravioli Italiaanse pasta","ah [SEP] verse tagliatelle all'uovo [SEP] Proef het echte Italië met deze verse tagliatelle all'uovo. Combineer de pasta eens met zalm, rucola en roomsaus. Verse eierpasta van 23% uitloopeieren Gemaakt in Italië Voor gemiddeld 3 porties [SEP] pasta basis",ah verse tagliatelle all'uovo pasta basis,null,null,null
+0.4530352,6788,395315,Grand' Italia,Pancetta,Heerlijk smaakvolle pastasaus met gerookte pancetta en Montepulciano Dabruzzo rode wijn D.O.C. Geschikt voor 4 personen. Prodotto Italiano - Gemaakt met Italiaans product Met gerookte pancetta en Montepulciano Dabruzzo rode wijn D.O.C. Direct klaar voor gebruik Glutenvrij,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Vegetarisch'
+ 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot",grand' italia [SEP] pancetta [SEP] Heerlijk smaakvolle pastasaus met gerookte pancetta en Montepulciano Dabruzzo rode wijn D.O.C. Geschikt voor 4 personen. Prodotto Italiano - Gemaakt met Italiaans product Met gerookte pancetta en Montepulciano Dabruzzo rode wijn D.O.C. Direct klaar voor gebruik Glutenvrij [SEP] pastasaus pot,grand' italia pancetta pastasaus pot,null,null,null
+0.45197403,5224,470190,Parrano,Snippers robusto,"Parrano robusto snippers zijn heerlijke kaassnippers met een licht pittige, nootachtige en intense smaak. Dooronze unieke receptuur geeft de kaas meer smaak en maak je elk gerecht echt lekker!. Parrano is speciaal gemaakt voor jouw favoriete pasta, lasagne of risotto Vegetarisch Parrano kaasrasp 40+ met natuurlijk aroma","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Kaas vleeswaren tapas Kaas Kaas voor borrel
+ Kaas voor maaltijden Grano padano parmezaanse kaas Grano Padano","parrano [SEP] snippers robusto [SEP] Parrano robusto snippers zijn heerlijke kaassnippers met een licht pittige, nootachtige en intense smaak. Dooronze unieke receptuur geeft de kaas meer smaak en maak je elk gerecht echt lekker!. Parrano is speciaal gemaakt voor jouw favoriete pasta, lasagne of risotto Vegetarisch Parrano kaasrasp 40+ met natuurlijk aroma [SEP] kzb k rasp specialiteit",parrano snippers robusto kzb k rasp specialiteit,null,null,null
+0.451456,14897,440350,Grand' Italia,Pesto Tartufo,"Grand'Italia Pasta Pesto Tartufo is een kant-en-klaar te gebruiken pestosaus met truffel, die speciaal is ontwikkeld om makkelijk te combineren voor een pasta pesto. Geschikt voor 4 personen. Ricetta Italiana - Volgens Italiaans recept Met 100% Italiaanse truffel en ricotta Direct klaar voor gebruik Glutenvrij","['Geen lactose' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Vegetarisch' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Kaas vleeswaren tapas
+ Smeersels & dips Mediterrane keuken Pesto Italiaanse keuken
+ Pesto in pot","grand' italia [SEP] pesto tartufo [SEP] Grand'Italia Pasta Pesto Tartufo is een kant-en-klaar te gebruiken pestosaus met truffel, die speciaal is ontwikkeld om makkelijk te combineren voor een pasta pesto. Geschikt voor 4 personen. Ricetta Italiana - Volgens Italiaans recept Met 100% Italiaanse truffel en ricotta Direct klaar voor gebruik Glutenvrij [SEP] pesto",grand' italia pesto tartufo pesto,null,null,null
+0.4512326,11303,106257,Grand' Italia,Basilico,"Tomatensaus met basilicum, voor de lekkerste italiaanse gerechten. Direct klaar voor gebruik Glutenvrij Geschikt voor 2 personen","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen noten' 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot","grand' italia [SEP] basilico [SEP] Tomatensaus met basilicum, voor de lekkerste italiaanse gerechten. Direct klaar voor gebruik Glutenvrij Geschikt voor 2 personen [SEP] pastasaus pot",grand' italia basilico pastasaus pot,null,null,null
+0.45055622,7144,462708,AH,Witte kaas plak,"Ah witte kaasplak is een stevige verse kaas met een romige smaak. Lekker in salades, gerechten of als ingredient om mee te koken. Zachte  en  romige smaak Tip! Lekker in een couscoussalade of een gevulde paprika Voor warme en koude gerechten Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Kaas vleeswaren tapas Kaas Kaas voor maaltijden
+ Feta geitenkaas witte kaas Witte kaas","ah [SEP] witte kaas plak [SEP] Ah witte kaasplak is een stevige verse kaas met een romige smaak. Lekker in salades, gerechten of als ingredient om mee te koken. Zachte  en  romige smaak Tip! Lekker in een couscoussalade of een gevulde paprika Voor warme en koude gerechten Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] kzb k component",ah witte kaas plak kzb k component,null,null,null
+0.45041186,17851,378612,Heinz,Hot pasta sauce,Heinz hot pastasaus is een heerlijk pittige tomatensaus bereid met kwaliteit tomaten en fijne kruiden. Een pastasaus met karakter en de onmiskenbare smaak van heinz! Gemaakt met kwaliteitstomaten Perfect voor uw pasta gerechten Makkelijke voorbereiding en smaakvolle saus,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot",heinz [SEP] hot pasta sauce [SEP] Heinz hot pastasaus is een heerlijk pittige tomatensaus bereid met kwaliteit tomaten en fijne kruiden. Een pastasaus met karakter en de onmiskenbare smaak van heinz! Gemaakt met kwaliteitstomaten Perfect voor uw pasta gerechten Makkelijke voorbereiding en smaakvolle saus [SEP] pastasaus pot,heinz hot pasta sauce pastasaus pot,null,null,null
+0.45021945,5058,416525,Grand' Italia,Romige pesto alla genovese,Grand'italia romige pesto alla genovese is een romige pestosaus gemaakt met verse Italiaanse basilicum. Met de pesto bereid je gemakkelijk een heerlijke romige pasta pesto. Geschikt voor 4 personen. Ricetta italiana - gemaakt volgens italiaans recept Met verse Italiaanse basilicum Direct klaar voor gebruik Glutenvrij,"['Geen lactose' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Vegetarisch' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot",grand' italia [SEP] romige pesto alla genovese [SEP] Grand'italia romige pesto alla genovese is een romige pestosaus gemaakt met verse Italiaanse basilicum. Met de pesto bereid je gemakkelijk een heerlijke romige pasta pesto. Geschikt voor 4 personen. Ricetta italiana - gemaakt volgens italiaans recept Met verse Italiaanse basilicum Direct klaar voor gebruik Glutenvrij [SEP] pesto,grand' italia romige pesto alla genovese pesto,null,null,null
+0.44841158,16396,547282,Costa Ligure,Pesto rosso vegan mozzarisella,"Deze vegan pesto rosso wordt naar traditioneel recept gemaakt in de bakermat van de pesto, ligurie. Wat deze heerlijke pesto uniek maakt is het gebruik van de vegan mozzerisella. Gemaakt in ligurie, italie, naar traditioneel recept Met zongerijpte Italiaanse tomaten en extra virgine olijfolie Gemaakt met mozzarisella , een vegan kaas die geen soja bevat Soja-vrij","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Kaas vleeswaren tapas
+ Smeersels & dips Mediterrane keuken Pesto Italiaanse keuken
+ Pesto in pot","costa ligure [SEP] pesto rosso vegan mozzarisella [SEP] Deze vegan pesto rosso wordt naar traditioneel recept gemaakt in de bakermat van de pesto, ligurie. Wat deze heerlijke pesto uniek maakt is het gebruik van de vegan mozzerisella. Gemaakt in ligurie, italie, naar traditioneel recept Met zongerijpte Italiaanse tomaten en extra virgine olijfolie Gemaakt met mozzarisella , een vegan kaas die geen soja bevat Soja-vrij [SEP] pesto",costa ligure pesto rosso vegan mozzarisella pesto,null,null,null
+0.4483009,5663,519078,La Tur,Italiaanse kaas,"Deze Italiaanse kaas is een echte specialiteit, een zachte, rijke en romige kaas voor bij de borrel. De kaas komt uit de Piemonte regio, bij Milaan. Smaak: Zachtromig, verfijnd en nootachtig Herkomst: Italië Gemaakt van: Koe-, geit en schapenmelk Lekker met een soepele Italiaanse rode wijn",[],"Kaas vleeswaren tapas Kaas Kaas voor borrel
+ Witte korst kaas brie","la tur [SEP] italiaanse kaas [SEP] Deze Italiaanse kaas is een echte specialiteit, een zachte, rijke en romige kaas voor bij de borrel. De kaas komt uit de Piemonte regio, bij Milaan. Smaak: Zachtromig, verfijnd en nootachtig Herkomst: Italië Gemaakt van: Koe-, geit en schapenmelk Lekker met een soepele Italiaanse rode wijn [SEP] kb s geit schaap",la tur italiaanse kaas kb s geit schaap,null,null,null
+0.44812953,9326,163821,AH,Pecorino Romano,"Een harde italiaanse schapenkaas met een zilte, pittige smaak dankzij de schapenmelk. Pecorino romano wordt uitsluitend geproduceerd in de regio's van sardinie, lazio en grosseto. Zeer geschikt als kaas om mee te koken (raspen). Smaak: krachtig en ziltpikant Herkomst: italie Gemaakt van: rauwe schapenmelk Genieten met een goed glas wijn en een stuk vijg of peer, wat brood of balsamicoglazuur","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Kaas vleeswaren tapas Kaas Kaas voor borrel
+ Kaas voor maaltijden Grano padano parmezaanse kaas Grano Padano","ah [SEP] pecorino romano [SEP] Een harde italiaanse schapenkaas met een zilte, pittige smaak dankzij de schapenmelk. Pecorino romano wordt uitsluitend geproduceerd in de regio's van sardinie, lazio en grosseto. Zeer geschikt als kaas om mee te koken (raspen). Smaak: krachtig en ziltpikant Herkomst: italie Gemaakt van: rauwe schapenmelk Genieten met een goed glas wijn en een stuk vijg of peer, wat brood of balsamicoglazuur [SEP] kb k rasp specialiteit",ah pecorino romano kb k rasp specialiteit,null,null,null
+0.44691452,12733,365390,AH,Pastasalade kip bacon,"Smaakvolle pastasalade met gegrilde kipfilet, bacon en rode
+				  paprika. Geschikt als lunch of avondmaaltijd Dressing is vrij van kunstmatige geur- en  						smaakstoffen Ook lekker voor bij de barbecue, gourmet of  						picknick Handig om mee te nemen","['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score B' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij']","Aardappel groente fruit Salades pizza maaltijden Groente
+ Salades Kleine salades Sla rauwkost salade Salade","ah [SEP] pastasalade kip bacon [SEP] Smaakvolle pastasalade met gegrilde kipfilet, bacon en rode
+				  paprika. Geschikt als lunch of avondmaaltijd Dressing is vrij van kunstmatige geur- en  						smaakstoffen Ook lekker voor bij de barbecue, gourmet of  						picknick Handig om mee te nemen [SEP] pasta en noodlesalades",ah pastasalade kip bacon pasta en noodlesalades,null,null,null
+0.4467533,1775,106229,Grand' Italia,Toscana met zongedroogde tomaten,"Deze saus is gemaakt met zongedroogde tomaten, gerijpt in de zon. Een vleugje balsamico azijn zorgt voor de 'final touch' van deze overheerlijke saus. Geschikt voor 4 personen. Prodotto italiano - gemaakt met italiaans product Met zongedroogde tomaten Direct klaar voor gebruik Glutenvrij","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Veganistisch'
+ 'Geen sesam' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen noten' 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot","grand' italia [SEP] toscana met zongedroogde tomaten [SEP] Deze saus is gemaakt met zongedroogde tomaten, gerijpt in de zon. Een vleugje balsamico azijn zorgt voor de 'final touch' van deze overheerlijke saus. Geschikt voor 4 personen. Prodotto italiano - gemaakt met italiaans product Met zongedroogde tomaten Direct klaar voor gebruik Glutenvrij [SEP] pastasaus pot",grand' italia toscana met zongedroogde tomaten pastasaus pot,null,null,null
+0.44642526,7652,206455,AH,Paddenstoelen voor pasta,"Met kastanjechampignon, oesterzwam, bundelzwam, tijm en oregano. Zacht en nootachtig van smaak","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Groente Paddenstoelen
+ Paddenstoelen-melange","ah [SEP] paddenstoelen voor pasta [SEP] Met kastanjechampignon, oesterzwam, bundelzwam, tijm en oregano. Zacht en nootachtig van smaak [SEP] specials",ah paddenstoelen voor pasta specials,null,null,null
+0.44537672,6173,217603,Schär,Lasagne,"Italiaanse lasagne met grana padano kaas, verse groente en vlees. Gluten- en tarwevrij Kant-en-klare maaltijd","['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Geen selderij' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen noten' 'Vegetarisch' 'Geen eieren' 'Geen gluten']","Diepvries Bewuste voeding Salades pizza maaltijden Glutenvrij
+ Diepvries kant-en-klaar maaltijden Kant-en-klaar maaltijden
+ Glutenvrije maaltijden","schär [SEP] lasagne [SEP] Italiaanse lasagne met grana padano kaas, verse groente en vlees. Gluten- en tarwevrij Kant-en-klare maaltijd [SEP] glutenvrij",schär lasagne glutenvrij,null,null,null
+0.44425166,11374,199926,Grand' Italia,Bolognese saus met rundvlees,Met deze heerlijke tomatensaus met rundvlees en oregano maak je de lekkerste italiaanse gerechten! Geschikt voor 6 personen. 100% natuurlijke ingredienten Direct klaar voor gebruik Glutenvrij,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen selderij' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen noten' 'Vegetarisch' 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot",grand' italia [SEP] bolognese saus met rundvlees [SEP] Met deze heerlijke tomatensaus met rundvlees en oregano maak je de lekkerste italiaanse gerechten! Geschikt voor 6 personen. 100% natuurlijke ingredienten Direct klaar voor gebruik Glutenvrij [SEP] pastasaus pot,grand' italia bolognese saus met rundvlees pastasaus pot,null,null,null
+0.44317836,4280,525329,AH,Mezzelune formaggio di capra,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja' 'Geen selderij'
+ 'Geen kreeftachtigen (schaaldieren)' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Nutri-Score C' 'Geen sulfiet'
+ 'Geen sesam' 'Geen vis' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen mosterd'
+ 'Geen eieren']","Pasta rijst en wereldkeuken Salades pizza maaltijden
+ Verse pasta en pastasaus Pasta rijst noedels Mediterrane keuken
+ Pasta Verse pasta Italiaanse keuken Ravioli Italiaanse pasta",ah [SEP] mezzelune formaggio di capra [SEP]  [SEP] pasta gevuld,ah mezzelune formaggio di capra pasta gevuld,null,null,null
+0.4431088,3057,398756,Grand' Italia,Pesto peperoni e noci,"Grand'Italia Pasta Pesto Peperoni e Noci is een kant-en-klaar te gebruiken pestosaus, die speciaal is ontwikkeld om makkelijk te combineren voor een pasta pesto. Geschikt voor 4 personen. Ricetta Italiana - Volgens Italiaans recept Met paprika en walnoten Direct klaar voor gebruik Glutenvrij","['Geen lactose' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Vegetarisch' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Kaas vleeswaren tapas
+ Smeersels & dips Mediterrane keuken Pesto Italiaanse keuken
+ Pesto in pot","grand' italia [SEP] pesto peperoni e noci [SEP] Grand'Italia Pasta Pesto Peperoni e Noci is een kant-en-klaar te gebruiken pestosaus, die speciaal is ontwikkeld om makkelijk te combineren voor een pasta pesto. Geschikt voor 4 personen. Ricetta Italiana - Volgens Italiaans recept Met paprika en walnoten Direct klaar voor gebruik Glutenvrij [SEP] pesto",grand' italia pesto peperoni e noci pesto,null,null,null
+0.44220263,1779,395314,Grand' Italia,Tartufo met italiaanse truffel,"Met deze heerlijke romige saus gemaakt met Italiaanse truffel, room en kaas, geef je aan je pastagerecht een unieke smaak. Geschikt voor 2 personen. Ricetta italiana - volgens italiaans recept Met Italiaanse truffel Direct klaar voor gebruik Glutenvrij","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie Sauzen
+ Mediterrane keuken Pasta sauzen Italiaanse keuken
+ Pastasaus in pot","grand' italia [SEP] tartufo met italiaanse truffel [SEP] Met deze heerlijke romige saus gemaakt met Italiaanse truffel, room en kaas, geef je aan je pastagerecht een unieke smaak. Geschikt voor 2 personen. Ricetta italiana - volgens italiaans recept Met Italiaanse truffel Direct klaar voor gebruik Glutenvrij [SEP] pastasaus pot",grand' italia tartufo met italiaanse truffel pastasaus pot,null,null,null

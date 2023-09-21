@@ -1,0 +1,640 @@
+scoreLLM score,ann,prd_id,brand,title,highlights,properties,taxonomies,full_text,full_text_no_sep,Unnamed: 0,search_query,scorePropensity score
+0.15400636,9118,224851,Johma,Twents kruidentuintje salade,"Een heerlijke zachtromige salade op basis van tuinkruiden, prei en frisse komkommer en een vleugje knoflook. Lekker op brood, toast of als groentedip Bereid met crème fraîche, komkommer, prei en knoflook","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja' 'Geen selderij'
+ 'Geen kreeftachtigen (schaaldieren)' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen sulfiet' 'Geen sesam'
+ 'Geen vis' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen mosterd' 'Geen eieren']","Ontbijtgranen en beleg Kaas vleeswaren tapas Beleg salades
+ Brood- en toastsalades Boerensalades Salades (klein)
+ Groentesalades (beleg)","johma [SEP] twents kruidentuintje salade [SEP] Een heerlijke zachtromige salade op basis van tuinkruiden, prei en frisse komkommer en een vleugje knoflook. Lekker op brood, toast of als groentedip Bereid met crème fraîche, komkommer, prei en knoflook [SEP] smeer groente",johma twents kruidentuintje salade smeer groente,null,null,null
+0.1490249,5415,54074,AH,Komkommer,"Komkommer heeft een frisse, knapperige, neutrale smaak. Heerlijk door een salade of als gezonde snack. Smaak: Komkommer heeft een frisse, knapperige, neutrale smaak. Bewaren: Buiten de koelkast. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Aardappel groente fruit Seizoensgroente (lente)
+ Seizoensgroente (zomer) Groente Komkommer Komkommer avocado
+ Komkommer (vers)","ah [SEP] komkommer [SEP] Komkommer heeft een frisse, knapperige, neutrale smaak. Heerlijk door een salade of als gezonde snack. Smaak: Komkommer heeft een frisse, knapperige, neutrale smaak. Bewaren: Buiten de koelkast. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] vruchtgroenten komkommer",ah komkommer vruchtgroenten komkommer,null,null,null
+0.14641646,1640,160926,AH,Hollandse stamppot bloemkool-broccoli,"Bloemkool-broccolistamppot met gehaktballetjes en jus Zonder toegevoegd suiker Bereiden: Magnetron: Gaatjes prikken en verwarmen op  						700 Watt : 6 minuten - 1000 Watt : 5 minuten Hoofdingredienten : bloemkool-broccolistamppot  						(aardappel, bloemkool, broccoli), gehaktballetjes (varkensvlees, rundvlees),  						jus","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Geen sulfiet'
+ 'Laag suiker' 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Nutri-Score B' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen mosterd' 'Vegetarisch'
+ 'Geen eieren']","Salades pizza maaltijden Verse kant- en-klaar maaltijden
+ Hollandse maaltijden Stamppot","ah [SEP] hollandse stamppot bloemkool-broccoli [SEP] Bloemkool-broccolistamppot met gehaktballetjes en jus Zonder toegevoegd suiker Bereiden: Magnetron: Gaatjes prikken en verwarmen op  						700 Watt : 6 minuten - 1000 Watt : 5 minuten Hoofdingredienten : bloemkool-broccolistamppot  						(aardappel, bloemkool, broccoli), gehaktballetjes (varkensvlees, rundvlees),  						jus [SEP] langer vers hollands",ah hollandse stamppot bloemkool-broccoli langer vers hollands,null,null,null
+0.14620058,9518,4099,AH,IJsbergsla,"Ijsbergsla heeft stevige, knapperige, frisse bladeren. Heerlijk om een salade mee te maken, op een sandwich of als gezonde aanvulling in een wrap. Elke dag vers van onze teler. Smaak: ijsbergsla heeft een friss, knapperige, iets zoete smaak. Bewaren: In de koelkast. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Seizoensgroente (lente)
+ Seizoensgroente (herfst) Groente Sla Sla rauwkost salade
+ IJsbergsla IJsbergsla (krop)","ah [SEP] ijsbergsla [SEP] Ijsbergsla heeft stevige, knapperige, frisse bladeren. Heerlijk om een salade mee te maken, op een sandwich of als gezonde aanvulling in een wrap. Elke dag vers van onze teler. Smaak: ijsbergsla heeft een friss, knapperige, iets zoete smaak. Bewaren: In de koelkast. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] bladgroenten sla",ah ijsbergsla bladgroenten sla,null,null,null
+0.14445142,466,522401,AH,Groentespread komkommer tomaat,Gezonde veggie spread op basis van tomaat en komkommer. Te serveren op brood en toast Nutri-score a Extra groente en peulvruchten Vegan,"['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Laag vet' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij']","Ontbijtgranen en beleg Kaas vleeswaren tapas Hartig broodbeleg
+ Smeersels & dips Spread Groentespread",ah [SEP] groentespread komkommer tomaat [SEP] Gezonde veggie spread op basis van tomaat en komkommer. Te serveren op brood en toast Nutri-score a Extra groente en peulvruchten Vegan [SEP] smeer vegan,ah groentespread komkommer tomaat smeer vegan,null,null,null
+0.14429465,1239,238968,AH,Koriander,"Deze koriander met een zachtzoete, anijsachtige smaak is een krachtige smaakmaker in stoofschotels, kipgerechten, salades en sauzen. Fijngehakt blad is te gebruiken als smaakmaker en als garnering Bewaren thuis: in de koelkast Op het laatste moment toevoegen tijdens bereiding","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Soepen sauzen kruiden olie Kruiden
+ Kruiden knoflook pepers Verse kruiden Koriander
+ Koriander (vers)","ah [SEP] koriander [SEP] Deze koriander met een zachtzoete, anijsachtige smaak is een krachtige smaakmaker in stoofschotels, kipgerechten, salades en sauzen. Fijngehakt blad is te gebruiken als smaakmaker en als garnering Bewaren thuis: in de koelkast Op het laatste moment toevoegen tijdens bereiding [SEP] obw kruiden",ah koriander obw kruiden,null,null,null
+0.14185405,3770,375965,AH,Komkommer salade,Frisse komkommersalade Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Prijsfavoriet' 'Geen noten' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Beleg salades
+ Brood- en toastsalades Salades (klein) Groentesalades (beleg)
+ Komkommer salade",ah [SEP] komkommer salade [SEP] Frisse komkommersalade Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] smeer groente,ah komkommer salade smeer groente,null,null,null
+0.13904741,14556,197939,AH,Bakcamembert,Na het verwarmen smeuiïg en krachtig van smaak. Ideaal op een salade of als vleesvervanger bij de warme maaltijd. Lekker makkelijk! Eetbare korst! Smaak: Krachtig Gemaakt van: Koemelk Herkomst: Duitsland Lekkere combinatie met cranberry saus.,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij']","Kaas vleeswaren tapas Kaas Kaas voor borrel
+ Witte korst kaas brie",ah [SEP] bakcamembert [SEP] Na het verwarmen smeuiïg en krachtig van smaak. Ideaal op een salade of als vleesvervanger bij de warme maaltijd. Lekker makkelijk! Eetbare korst! Smaak: Krachtig Gemaakt van: Koemelk Herkomst: Duitsland Lekkere combinatie met cranberry saus. [SEP] kb k component,ah bakcamembert kb k component,null,null,null
+0.13595478,5990,101130,AH Biologisch,Komkommer,"Komkommer heeft een frisse, knapperige, neutrale smaak. Heerlijk door een salade of als gezonde snack. Smaak: De komkommer heeft een frisse, knapperige, neutrale smaak. Bewaren: Buiten de koelkast. Gezondheid: 100% Biologisch.","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Seizoensgroente (lente)
+ Seizoensgroente (zomer) Groente Komkommer Komkommer avocado
+ Komkommer (vers)","ah biologisch [SEP] komkommer [SEP] Komkommer heeft een frisse, knapperige, neutrale smaak. Heerlijk door een salade of als gezonde snack. Smaak: De komkommer heeft een frisse, knapperige, neutrale smaak. Bewaren: Buiten de koelkast. Gezondheid: 100% Biologisch. [SEP] vruchtgroenten komkommer",ah biologisch komkommer vruchtgroenten komkommer,null,null,null
+0.13570344,15346,52625,Johma,Huzarensalade,Een heerlijke salade in een fijne structuur met frisse groente en corned beef Lekker bij de BBQ of tussendoor Bevat gestoomde aardappels Tip: beleg eens een plak boerenbrood met huzarensalade en ijsbergsla,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja' 'Laag suiker'
+ 'Geen selderij' 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen sulfiet' 'Geen sesam'
+ 'Geen vis' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen mosterd' 'Vegetarisch' 'Geen eieren']","Kaas vleeswaren tapas Salades pizza maaltijden Salades
+ Brood- en toastsalades Salades (groot)
+ Huzarensalades rundvleessalades en slaatjes Huzarensalades",johma [SEP] huzarensalade [SEP] Een heerlijke salade in een fijne structuur met frisse groente en corned beef Lekker bij de BBQ of tussendoor Bevat gestoomde aardappels Tip: beleg eens een plak boerenbrood met huzarensalade en ijsbergsla [SEP] salades maaltijd,johma huzarensalade salades maaltijd,null,null,null
+0.13398263,14171,444052,Remia,Like! mayo 100% plantaardig,"Remia like!mayo is een ei-vrije mayo, heerlijk zacht en romig van smaak. Like!mayo is 100% plantaardig, allergenenvrij, eivrij en lactosevrij Geschikt voor vegetariers en veganisten Deze mayo Smaakt heerlijk bij de frites en gebakken aardappels Vrij van kunstmatige kleur-, geur- en smaakstoffen","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Mayonaise Mayonaise (in pot)","remia [SEP] like! mayo 100% plantaardig [SEP] Remia like!mayo is een ei-vrije mayo, heerlijk zacht en romig van smaak. Like!mayo is 100% plantaardig, allergenenvrij, eivrij en lactosevrij Geschikt voor vegetariers en veganisten Deze mayo Smaakt heerlijk bij de frites en gebakken aardappels Vrij van kunstmatige kleur-, geur- en smaakstoffen [SEP] mayonaise",remia like! mayo 100% plantaardig mayonaise,null,null,null
+0.13312967,12382,526208,AH,appeltaart pakket compleet,Wat handig! Met dit pakket maak je snel en makkelijk verse appeltaart. AH Mix voor appeltaart 1x AH Roomboter ongezouten 1x AH Elstar appels 1x AH Rozijnen 1x Verse scharreleieren M 1x,[],"Pasta rijst en wereldkeuken niet gekoppelde tax elementen
+ Bakkerij en banket Snoep koek chips en chocolade Zelf bakken
+ Taart Gebak Bakproducten Taart bakken Bak mixen Appeltaartmix",ah [SEP] appeltaart pakket compleet [SEP] Wat handig! Met dit pakket maak je snel en makkelijk verse appeltaart. AH Mix voor appeltaart 1x AH Roomboter ongezouten 1x AH Elstar appels 1x AH Rozijnen 1x Verse scharreleieren M 1x [SEP] ,ah appeltaart pakket compleet ,null,null,null
+0.13137932,1983,455381,AH,Luxe roerbak Hollands,"Grofgesneden hollandse mix van rode spitskool, broccoli en pompoen. Ideaal voor hollandse roerbakmaaltijden. Het snijwerk is alvast voor je gedaan, dat scheelt veel tijd Lekker met aardappel, gehaktbal en mosterdjus Verhit vloeibare margarine of (olijf)olie en wok de groente in 4-6 min beetgaar","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Groente Groentemix Roerbakmix
+ Roerbakmix (vers)","ah [SEP] luxe roerbak hollands [SEP] Grofgesneden hollandse mix van rode spitskool, broccoli en pompoen. Ideaal voor hollandse roerbakmaaltijden. Het snijwerk is alvast voor je gedaan, dat scheelt veel tijd Lekker met aardappel, gehaktbal en mosterdjus Verhit vloeibare margarine of (olijf)olie en wok de groente in 4-6 min beetgaar [SEP] overige landenkeukens",ah luxe roerbak hollands overige landenkeukens,null,null,null
+0.13017458,14639,421273,Milner,Komijn 30+ plakken,Milner 30+ komijnekaas is niet alleen lekker maar bevat ook nog eens 40% minder vet. Zo kun je gewoon genieten van je boterham met kaas en ben je ook nog eens lekker bezig! 40% minder vet Rijk aan eiwit Licht pittig van smaak Gemaakt van halfvolle 100% weidemelk,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Kaas vleeswaren tapas Kaas Kaas voor beleg Plakken kaas
+ Gekruide kaas (plakken)",milner [SEP] komijn 30+ plakken [SEP] Milner 30+ komijnekaas is niet alleen lekker maar bevat ook nog eens 40% minder vet. Zo kun je gewoon genieten van je boterham met kaas en ben je ook nog eens lekker bezig! 40% minder vet Rijk aan eiwit Licht pittig van smaak Gemaakt van halfvolle 100% weidemelk [SEP] kzb bb bewust plak,milner komijn 30+ plakken kzb bb bewust plak,null,null,null
+0.12850007,2557,502176,Always,Ultra secure night extra wings,Always ultra secure night extra maandverband (maat 5) met vleugels hebben 3 beschermingsfuncties zodat je s nachts niet moet opstaan om te controleren of je maandverband lekt of om het te vervangen. Maandverband met tot 12 uur bescherming Ze zijn groter aan de voorkant en aan de achterkant t.o.v. Ultra normal De leakguard-beschermrandjes helpen lekken voorkomen Superabsorberend maandverband met instantdry-systeem,['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Verzorging Lichaamsverzorging Persoonlijke hygiëne
+ Maandverband Maandverband (nacht)",always [SEP] ultra secure night extra wings [SEP] Always ultra secure night extra maandverband (maat 5) met vleugels hebben 3 beschermingsfuncties zodat je s nachts niet moet opstaan om te controleren of je maandverband lekt of om het te vervangen. Maandverband met tot 12 uur bescherming Ze zijn groter aan de voorkant en aan de achterkant t.o.v. Ultra normal De leakguard-beschermrandjes helpen lekken voorkomen Superabsorberend maandverband met instantdry-systeem [SEP] dameshygiene,always ultra secure night extra wings dameshygiene,null,null,null
+0.12712686,3358,214658,Croma,Bakken en braden,"Croma vloeibare bakboter voor perfect vlees - Croma is de expert voor het bakken en braden van alle soorten vlees.. 91% plantaardige olien en vetten, dus spat niet van zichzelf Schroeit het vlees direct dicht, daarom malser Geeft je een heerlijke jus Geeft het vlees een mooie bruin kleur","['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor de keuken Vloeibare margarine","croma [SEP] bakken en braden [SEP] Croma vloeibare bakboter voor perfect vlees - Croma is de expert voor het bakken en braden van alle soorten vlees.. 91% plantaardige olien en vetten, dus spat niet van zichzelf Schroeit het vlees direct dicht, daarom malser Geeft je een heerlijke jus Geeft het vlees een mooie bruin kleur [SEP] margarine vloeibaar",croma bakken en braden margarine vloeibaar,null,null,null
+0.12712415,14001,224358,AH,Appelkruimelvlaai half,"1/2 Ambachtelijk vlaai uit Limburg rijk gevuld met verse
+					 appels en rozijnen. Daar bovenop krokant kruimels en afgewerkt met
+					 poedersuiker. Echte Limburgse vlaai Appels van hollandse bodem","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Bakkerij en banket Gebak Vlaai,"ah [SEP] appelkruimelvlaai half [SEP] 1/2 Ambachtelijk vlaai uit Limburg rijk gevuld met verse
+					 appels en rozijnen. Daar bovenop krokant kruimels en afgewerkt met
+					 poedersuiker. Echte Limburgse vlaai Appels van hollandse bodem [SEP] vlaaien",ah appelkruimelvlaai half vlaaien,null,null,null
+0.12670213,14642,430098,AH,Vlaaipunten mix,"Vind je het moeilijk om te kiezen? Dat hoeft niet meer met dit assortiment van de meest geliefde smaken Limburgse vlaai. De vlaaipuntenmix bestaat uit: 2 punten kersenvlaai, 2 punten abrikozenvlaai en 2 punten appelkruimel. Echte Limburgse vlaai Voor bij de koffie of thee, tijdens een feestje of gewoon als je er zin hebt","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']",Bakkerij en banket Gebak Vlaai,"ah [SEP] vlaaipunten mix [SEP] Vind je het moeilijk om te kiezen? Dat hoeft niet meer met dit assortiment van de meest geliefde smaken Limburgse vlaai. De vlaaipuntenmix bestaat uit: 2 punten kersenvlaai, 2 punten abrikozenvlaai en 2 punten appelkruimel. Echte Limburgse vlaai Voor bij de koffie of thee, tijdens een feestje of gewoon als je er zin hebt [SEP] vlaaien",ah vlaaipunten mix vlaaien,null,null,null
+0.12666184,46,214660,Croma,Bakken en braden voordeelfles,"Croma vloeibare bakboter voor perfect vlees - Croma is de expert voor het bakken en braden van alle soorten vlees.. 91% plantaardige olien en vetten, dus spat niet van zichzelf Schroeit het vlees direct dicht, daarom malser Geeft je een heerlijke jus Geeft het vlees een mooie bruin kleur","['Geen lactose' 'Geen soja' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor de keuken Vloeibare margarine","croma [SEP] bakken en braden voordeelfles [SEP] Croma vloeibare bakboter voor perfect vlees - Croma is de expert voor het bakken en braden van alle soorten vlees.. 91% plantaardige olien en vetten, dus spat niet van zichzelf Schroeit het vlees direct dicht, daarom malser Geeft je een heerlijke jus Geeft het vlees een mooie bruin kleur [SEP] margarine vloeibaar",croma bakken en braden voordeelfles margarine vloeibaar,null,null,null
+0.12597363,12811,195844,De Zaanse Hoeve,Slagroom,Verse slagroom 30% vet Vol en romig van smaak Opkloppen tussen 4 - 7 graden Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen selderij'
+ 'Geen gluten']","Zuivel plantaardig en eieren
+ Creme fraiche slagroom kookroom kokosmelk Slagroom",de zaanse hoeve [SEP] slagroom [SEP] Verse slagroom 30% vet Vol en romig van smaak Opkloppen tussen 4 - 7 graden Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] keukenzuivel,de zaanse hoeve slagroom keukenzuivel,null,null,null
+0.12451859,2774,456173,AH,Broodje frikandel,"Trek in zo'n lekker broodje frikandel met ketchup en mayo? dit zachte broodje met een frikandel, ketchup en mayo hoef je alleen maar even op te warmen. Ingredienten: broodje, frikandel, ketchup en mayo Bereiden: magnetron 750 watt ca 60 seconden Ook te bereiden in een oven (170  graden celsius) 11 minuten Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Nutri-Score C'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen noten'
+ 'Geen mosterd' 'Vegetarisch' 'Geen selderij' 'Geen eieren']",Salades pizza maaltijden Snel snacken Overige,"ah [SEP] broodje frikandel [SEP] Trek in zo'n lekker broodje frikandel met ketchup en mayo? dit zachte broodje met een frikandel, ketchup en mayo hoef je alleen maar even op te warmen. Ingredienten: broodje, frikandel, ketchup en mayo Bereiden: magnetron 750 watt ca 60 seconden Ook te bereiden in een oven (170  graden celsius) 11 minuten Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] gekoelde snack",ah broodje frikandel gekoelde snack,null,null,null
+0.124169126,9380,80770,Always,Ultra day & night wings maandverband,Neem geen genoegen met minder dan drievoudige bescherming met Always ultra day  en  night (maat 3) maandverbandmet vleugels. Drievoudige bescherming voor een fris en droog voelt Superabsorberend maandverband met instantdry-systeem De leakguard-beschermrandjes sluiten vocht in en helpen lekken voorkomen Always ultra maandverband met odourblock-technologie,['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Verzorging Lichaamsverzorging Persoonlijke hygiëne
+ Maandverband Maandverband (nacht)",always [SEP] ultra day & night wings maandverband [SEP] Neem geen genoegen met minder dan drievoudige bescherming met Always ultra day  en  night (maat 3) maandverbandmet vleugels. Drievoudige bescherming voor een fris en droog voelt Superabsorberend maandverband met instantdry-systeem De leakguard-beschermrandjes sluiten vocht in en helpen lekken voorkomen Always ultra maandverband met odourblock-technologie [SEP] dameshygiene,always ultra day & night wings maandverband dameshygiene,null,null,null
+0.12407587,8669,197393,AH,Bananen tros,Bananen met een zachte en zoete smaak. Lekker om zo te eten als gezond tussendoortje. Lekker in smoothies of fruitsalades Bewaren: buiten de koelkast Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Aardappel groente fruit Fruit Bananen,ah [SEP] bananen tros [SEP] Bananen met een zachte en zoete smaak. Lekker om zo te eten als gezond tussendoortje. Lekker in smoothies of fruitsalades Bewaren: buiten de koelkast Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] bananen verpakt,ah bananen tros bananen verpakt,null,null,null
+0.12353612,15635,142055,Always,Ultra day long wings maandverband,Neem geen genoegen met minder dan drievoudige bescherming met Always ultra long (maat 2) maandverbandmet vleugels. Drievoudige bescherming voor een fris en droog voelt Superabsorberend maandverband met instantdry-systeem De leakguard-beschermrandjes sluiten vocht in en helpen lekken voorkomen Always ultra maandverband met odourblock-technologie,['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Verzorging Lichaamsverzorging Persoonlijke hygiëne
+ Maandverband Maandverband (dag)",always [SEP] ultra day long wings maandverband [SEP] Neem geen genoegen met minder dan drievoudige bescherming met Always ultra long (maat 2) maandverbandmet vleugels. Drievoudige bescherming voor een fris en droog voelt Superabsorberend maandverband met instantdry-systeem De leakguard-beschermrandjes sluiten vocht in en helpen lekken voorkomen Always ultra maandverband met odourblock-technologie [SEP] dameshygiene,always ultra day long wings maandverband dameshygiene,null,null,null
+0.12320222,8084,498565,Servero,Fruitcompote appel kers cranberry,"Servero 100% fruitcompote appel kers cranberry. Natuurlijk gemaakt van 100% fruit en verder niets. Dus ook zonder toegevoegde suikers. Zo fris, zoet en lekker, daar hebben we niets aan toe te voegen! 100% fruit, 100% smaak Geen toevoegingen, dus ook geen suiker Past in de schijf van vijf Mooie grove structuur, ideaal om mee te bakken","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Tussendoortjes Fruitsnacks,"servero [SEP] fruitcompote appel kers cranberry [SEP] Servero 100% fruitcompote appel kers cranberry. Natuurlijk gemaakt van 100% fruit en verder niets. Dus ook zonder toegevoegde suikers. Zo fris, zoet en lekker, daar hebben we niets aan toe te voegen! 100% fruit, 100% smaak Geen toevoegingen, dus ook geen suiker Past in de schijf van vijf Mooie grove structuur, ideaal om mee te bakken [SEP] moezen",servero fruitcompote appel kers cranberry moezen,null,null,null
+0.12308672,943,187466,AH,Roomboter appeltaartje,"Puur genot zit in een stukje roomboter appeltaart met een kruimige bodem, zoete appelstukjes en rozijnen. Koffie of thee? Daar hoort iets lekkers bij! Visite? Gegarandeerd succes met deze appeltaart Voor 5-6 personen Met een lekker krokante korst","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","niet gekoppelde tax elementen Bakkerij en banket Taart Gebak
+ Taart (vers)","ah [SEP] roomboter appeltaartje [SEP] Puur genot zit in een stukje roomboter appeltaart met een kruimige bodem, zoete appelstukjes en rozijnen. Koffie of thee? Daar hoort iets lekkers bij! Visite? Gegarandeerd succes met deze appeltaart Voor 5-6 personen Met een lekker krokante korst [SEP] bo banket zoet",ah roomboter appeltaartje bo banket zoet,null,null,null
+0.122871816,4489,458966,AH,Wokgarnalen,"Deze garnalen zijn een gouden match met wokmaaltijden en curry's. Het is zo snel en eenvoudig. Groente in de pan of wok, curry en eventueel kokosmelk toevoegen en tot slot de garnalen (mee)verwarmen. Eet smakelijk! Snel en makkelijk te bereiden De garnalen zijn alvast gekookt en gepeld Ook lekker voor in de salade Asc gecertificeerd","['Geen melk' 'Geen soja' 'Geen vis' 'Geen sulfiet' 'Laag suiker'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Vis Schaal- & schelpdieren Garnalen
+ Verse vis Garnalen (vers)","ah [SEP] wokgarnalen [SEP] Deze garnalen zijn een gouden match met wokmaaltijden en curry's. Het is zo snel en eenvoudig. Groente in de pan of wok, curry en eventueel kokosmelk toevoegen en tot slot de garnalen (mee)verwarmen. Eet smakelijk! Snel en makkelijk te bereiden De garnalen zijn alvast gekookt en gepeld Ook lekker voor in de salade Asc gecertificeerd [SEP] tropische garnalen",ah wokgarnalen tropische garnalen,null,null,null
+0.12252113,4284,368209,AH,Sap avocado komkommer,"Lekker fris! Onze verse sappen worden iedere ochtend koudgeperst. Door alleen verse ingrediënten te gebruiken en het sap nooit te verhitten blijven vitamines en mineralen maximaal behouden. Vandaag geperst, morgen in jouw koelkast. Zonder toevoegingen, verser & gemakkelijker kan niet. Dit groentesap bevat meer dan 50% verse groente Geniet van een verse & koudgeperst groentesap op ieder moment van de dag Voor ontbijt, lunch of tussendoor","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Frisdrank sappen koffie thee
+ Vruchtensappen & drank Koudgeperste sappen & smoothies
+ Verse sappen & smoothies Multivruchtensap & drank
+ Multivruchtensap (vers) Verse sappen","ah [SEP] sap avocado komkommer [SEP] Lekker fris! Onze verse sappen worden iedere ochtend koudgeperst. Door alleen verse ingrediënten te gebruiken en het sap nooit te verhitten blijven vitamines en mineralen maximaal behouden. Vandaag geperst, morgen in jouw koelkast. Zonder toevoegingen, verser & gemakkelijker kan niet. Dit groentesap bevat meer dan 50% verse groente Geniet van een verse & koudgeperst groentesap op ieder moment van de dag Voor ontbijt, lunch of tussendoor [SEP] ultra vers sap",ah sap avocado komkommer ultra vers sap,null,null,null
+0.12229529,9854,537156,AH,Traybake kriel paprika verspakket,,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Salades pizza maaltijden Groente
+ Verspakket Maaltijdpakketten (vers) Groentepakket
+ Hollandse maaltijdpakketten (vers)",ah [SEP] traybake kriel paprika verspakket [SEP]  [SEP] onbewerkt verspakket maaltijd,ah traybake kriel paprika verspakket onbewerkt verspakket maaltijd,null,null,null
+0.12209326,12453,237426,AH,Salade erbij witlof appel,"Smaakvolle gemengde salade met witlof, bosui, rode appel, rozijnen, walnootstukjes en een romige dressing. Lekker voor bij de maaltijd of als lunch Ook handig om mee te nemen!","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen mosterd'
+ 'Geen selderij' 'Geen eieren' 'Geen gluten']","Aardappel groente fruit Salades pizza maaltijden Groente
+ Salades Sla rauwkost salade Groene salade Salade","ah [SEP] salade erbij witlof appel [SEP] Smaakvolle gemengde salade met witlof, bosui, rode appel, rozijnen, walnootstukjes en een romige dressing. Lekker voor bij de maaltijd of als lunch Ook handig om mee te nemen! [SEP] salade erbij",ah salade erbij witlof appel salade erbij,null,null,null
+0.12193627,2908,207077,AH,Koriander grootverpakking,Koriander heeft een frisse smaak en heeft iets weg van een combinatie van peterselie en citroen. Koriander wordt veel gebruikt in de aziatische keuken en bij de indiase curry's Bewaren: in de koelkast,"['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Soepen sauzen kruiden olie Kruiden
+ Kruiden knoflook pepers Verse kruiden Koriander
+ Koriander (vers)",ah [SEP] koriander grootverpakking [SEP] Koriander heeft een frisse smaak en heeft iets weg van een combinatie van peterselie en citroen. Koriander wordt veel gebruikt in de aziatische keuken en bij de indiase curry's Bewaren: in de koelkast [SEP] obw kruiden,ah koriander grootverpakking obw kruiden,null,null,null
+0.12179981,5129,476691,Fanta,Lemon no sugar 4-pack,"Proef de verfrissende citroensmaak van Fanta lemon no sugar. Een combinatie van sprankelend water en citrus vruchten sap, maar dan zonder suiker. Frisdrank met citroensmaak Zonder suiker Met natuurlijke aroma's Geen toegevoegde kleurstoffen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Frisdrank Lemon lime dranken
+ Lemon lime dranken (blik)","fanta [SEP] lemon no sugar 4-pack [SEP] Proef de verfrissende citroensmaak van Fanta lemon no sugar. Een combinatie van sprankelend water en citrus vruchten sap, maar dan zonder suiker. Frisdrank met citroensmaak Zonder suiker Met natuurlijke aroma's Geen toegevoegde kleurstoffen [SEP] fruitsmaken overig kvp",fanta lemon no sugar 4-pack fruitsmaken overig kvp,null,null,null
+0.12166943,1859,179751,Always,Ultra day long wings maandverband,Neem geen genoegen met minder dan drievoudige bescherming met Always ultra long (maat 2) maandverband. Drievoudige bescherming voor een fris en droog voelt Superabsorberend maandverband met instantdry-systeem De leakguard-beschermrandjes sluiten vocht in en helpen lekken voorkomen Always ultra maandverband met odourblock-technologie,['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Verzorging Lichaamsverzorging Persoonlijke hygiëne
+ Maandverband Maandverband (dag)",always [SEP] ultra day long wings maandverband [SEP] Neem geen genoegen met minder dan drievoudige bescherming met Always ultra long (maat 2) maandverband. Drievoudige bescherming voor een fris en droog voelt Superabsorberend maandverband met instantdry-systeem De leakguard-beschermrandjes sluiten vocht in en helpen lekken voorkomen Always ultra maandverband met odourblock-technologie [SEP] dameshygiene,always ultra day long wings maandverband dameshygiene,null,null,null
+0.121362746,10496,220411,Beckers,Frikandellen,"Beckers Frikandellen zijn van hoogstaande kwaliteit, hebben een malse beet en dé unieke kruidenmix Uitvinder van de frikandel Los ingevroren, plakken niet aan elkaar Gemaakt met de unieke Beckers kruidenmix De nummer 1 snack van Nederland","['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij']","Diepvries Diepvries snacks Maaltijdsnacks Frikandel
+ Frikandel (frituur)","beckers [SEP] frikandellen [SEP] Beckers Frikandellen zijn van hoogstaande kwaliteit, hebben een malse beet en dé unieke kruidenmix Uitvinder van de frikandel Los ingevroren, plakken niet aan elkaar Gemaakt met de unieke Beckers kruidenmix De nummer 1 snack van Nederland [SEP] frikandel",beckers frikandellen frikandel,null,null,null
+0.120923646,16271,215097,Always,Ultra secure night wings maandverband,Always ultra secure night maandverband (maat 4) met vleugels hebben 3 beschermingsfuncties zodat je je s nachts niet moet opstaan om te controleren of je maandverband lekt of om het te vervangen. Maandverband met tot 10 uur bescherming Het is groter aan de achterkant in vergelijking met Always ultra normal De leakguard-beschermrandjes helpen lekken voorkomen Superabsorberend maandverband met instantdry-systeem,['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Verzorging Lichaamsverzorging Persoonlijke hygiëne
+ Maandverband Maandverband (dag)",always [SEP] ultra secure night wings maandverband [SEP] Always ultra secure night maandverband (maat 4) met vleugels hebben 3 beschermingsfuncties zodat je je s nachts niet moet opstaan om te controleren of je maandverband lekt of om het te vervangen. Maandverband met tot 10 uur bescherming Het is groter aan de achterkant in vergelijking met Always ultra normal De leakguard-beschermrandjes helpen lekken voorkomen Superabsorberend maandverband met instantdry-systeem [SEP] dameshygiene,always ultra secure night wings maandverband dameshygiene,null,null,null
+0.120923646,7505,215096,Always,Ultra secure night wings maandverband,Always ultra secure night maandverband (maat 4) met vleugels hebben 3 beschermingsfuncties zodat je je s nachts niet moet opstaan om te controleren of je maandverband lekt of om het te vervangen. Maandverband met tot 10 uur bescherming Het is groter aan de achterkant in vergelijking met Always ultra normal De leakguard-beschermrandjes helpen lekken voorkomen Superabsorberend maandverband met instantdry-systeem,['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Verzorging Lichaamsverzorging Persoonlijke hygiëne
+ Maandverband Maandverband (dag)",always [SEP] ultra secure night wings maandverband [SEP] Always ultra secure night maandverband (maat 4) met vleugels hebben 3 beschermingsfuncties zodat je je s nachts niet moet opstaan om te controleren of je maandverband lekt of om het te vervangen. Maandverband met tot 10 uur bescherming Het is groter aan de achterkant in vergelijking met Always ultra normal De leakguard-beschermrandjes helpen lekken voorkomen Superabsorberend maandverband met instantdry-systeem [SEP] dameshygiene,always ultra secure night wings maandverband dameshygiene,null,null,null
+0.12057049,4562,498727,Servero,Appelcompote,"Servero 100% appelcompote. Natuurlijk gemaakt van 100% appel en verder niets. Dus ook zonder toegevoegde suikers. Zo fris, zoet en lekker, daar hebben we niets aan toe te voegen! 100% appel, 100% smaak Geen toevoegingen, dus ook geen suiker Past in de schijf van vijf Mooie grove structuur, ideaal om mee te bakken","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Tussendoortjes Fruitsnacks,"servero [SEP] appelcompote [SEP] Servero 100% appelcompote. Natuurlijk gemaakt van 100% appel en verder niets. Dus ook zonder toegevoegde suikers. Zo fris, zoet en lekker, daar hebben we niets aan toe te voegen! 100% appel, 100% smaak Geen toevoegingen, dus ook geen suiker Past in de schijf van vijf Mooie grove structuur, ideaal om mee te bakken [SEP] moezen",servero appelcompote moezen,null,null,null
+0.12005368,19849,520389,AH,Bakcamembert 4-pack,AH Excellent Bakcamembert 4-pack AH Excellent Bakcamembert 4x,[],"Kaas vleeswaren tapas Kaas Kaas voor borrel
+ Witte korst kaas brie",ah [SEP] bakcamembert 4-pack [SEP] AH Excellent Bakcamembert 4-pack AH Excellent Bakcamembert 4x [SEP] ,ah bakcamembert 4-pack ,null,null,null
+0.11992943,17251,142054,Always,Ultra day normal wings maandverband,Neem geen genoegen met minder dan drievoudige bescherming met Always ultra normal (maat 1) maandverband met vleugels. Drievoudige bescherming voor een fris en droog voelt Superabsorberend maandverband met instantdry-systeem De leakguard-beschermrandjes sluiten vocht in en helpen lekken voorkomen Always ultra maandverband met odourblock-technologie,['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Verzorging Lichaamsverzorging Persoonlijke hygiëne
+ Maandverband Maandverband (dag)",always [SEP] ultra day normal wings maandverband [SEP] Neem geen genoegen met minder dan drievoudige bescherming met Always ultra normal (maat 1) maandverband met vleugels. Drievoudige bescherming voor een fris en droog voelt Superabsorberend maandverband met instantdry-systeem De leakguard-beschermrandjes sluiten vocht in en helpen lekken voorkomen Always ultra maandverband met odourblock-technologie [SEP] dameshygiene,always ultra day normal wings maandverband dameshygiene,null,null,null
+0.11887895,12685,224709,AH,Salade erbij tomaat komkommer,"Ga voor groen met deze smaakvolle gemengde salade met krulsla, tomaat, komkommer, spitskool, scharrelei en honing-mosterddressing. Lekker voor bij de maaltijd of als lunch Dressing is vrij van kunstmatige geur- en smaakstoffen Ook handig om mee te nemen","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Geen noten'
+ 'Geen mosterd' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Aardappel groente fruit Salades pizza maaltijden Groente
+ Salades Sla rauwkost salade Groene salade Salade","ah [SEP] salade erbij tomaat komkommer [SEP] Ga voor groen met deze smaakvolle gemengde salade met krulsla, tomaat, komkommer, spitskool, scharrelei en honing-mosterddressing. Lekker voor bij de maaltijd of als lunch Dressing is vrij van kunstmatige geur- en smaakstoffen Ook handig om mee te nemen [SEP] salade erbij",ah salade erbij tomaat komkommer salade erbij,null,null,null
+0.11878344,16849,520769,Servero,Slurpfruit bio appel pompoen banaan,"Biologische Servero slurpfruit is een verantwoord fruit en groente tussendoortje. Deze fruitsnack is gemaakt van 100% fruit en groente zonder toevoegingen. Het knijpzakje is ideaal voor onderweg. Geen toevoegingen, dus ook geen toegevoegde suikers 100% van biologische groenten en fruit Knijpfruit als verantwoord tussendoortje, traktatie, of voor onderweg 4x biologische appel, pompoen, banaan knijpzakjes","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']",Tussendoortjes Fruitsnacks,"servero [SEP] slurpfruit bio appel pompoen banaan [SEP] Biologische Servero slurpfruit is een verantwoord fruit en groente tussendoortje. Deze fruitsnack is gemaakt van 100% fruit en groente zonder toevoegingen. Het knijpzakje is ideaal voor onderweg. Geen toevoegingen, dus ook geen toegevoegde suikers 100% van biologische groenten en fruit Knijpfruit als verantwoord tussendoortje, traktatie, of voor onderweg 4x biologische appel, pompoen, banaan knijpzakjes [SEP] moezen",servero slurpfruit bio appel pompoen banaan moezen,null,null,null
+0.118660435,485,162735,Bonduelle,Bloemkoolroosjes,"Bloemkool. Hollandser wordt het niet. Deze populaire knapperige roosjes worden na de oogst los ingevroren en in een recyclebare zak gestopt. Altijd vers uit het seizoen Vol gezonde voedingsstoffen en zonder toevoegingen Altijd de juiste hoeveelheid bij de hand: more taste, less waste Lekker in wokschotels, quiches, smoothies of gewoon zo","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen selderij' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen gluten']","Aardappel groente fruit Diepvries Groente Diepvries groente
+ Koolsoorten Bloemkool (diepvries) Bloemkool","bonduelle [SEP] bloemkoolroosjes [SEP] Bloemkool. Hollandser wordt het niet. Deze populaire knapperige roosjes worden na de oogst los ingevroren en in een recyclebare zak gestopt. Altijd vers uit het seizoen Vol gezonde voedingsstoffen en zonder toevoegingen Altijd de juiste hoeveelheid bij de hand: more taste, less waste Lekker in wokschotels, quiches, smoothies of gewoon zo [SEP] groente basis",bonduelle bloemkoolroosjes groente basis,null,null,null
+0.11830246,8066,222563,Amstel,Radler 0.0 citroen 6-pack,"Amstel Radler 0.0% is de dorstlessende mix van alcoholvrij Amstel bier en citroenwater. Lekker verfrissend op elk moment van de dag. Radler Bier Smaak: met een perfecte, frisse smaak Categorie: Fruitig & Fris Alcoholpercentage: 0,0%","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']","Bier en aperitieven Alcoholvrij bier en bier laag in alcohol Bier
+ Radler 0.0 Radler cider fruitbier Mexicaans Radler","amstel [SEP] radler 0.0 citroen 6-pack [SEP] Amstel Radler 0.0% is de dorstlessende mix van alcoholvrij Amstel bier en citroenwater. Lekker verfrissend op elk moment van de dag. Radler Bier Smaak: met een perfecte, frisse smaak Categorie: Fruitig & Fris Alcoholpercentage: 0,0% [SEP] 0.0 fruitig",amstel radler 0.0 citroen 6-pack 0.0 fruitig,null,null,null
+0.11830246,7990,222510,Amstel,Radler 0.0 citroen 6-pack,"Amstel Radler 0.0% is de dorstlessende mix van alcoholvrij Amstel bier en citroenwater. Lekker verfrissend op elk moment van de dag. Radler Bier Smaak: met een perfecte, frisse smaak Categorie: Fruitig & Fris Alcoholpercentage: 0,0%","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']","Bier en aperitieven Alcoholvrij bier en bier laag in alcohol Bier
+ Radler 0.0 Radler cider fruitbier Mexicaans Radler","amstel [SEP] radler 0.0 citroen 6-pack [SEP] Amstel Radler 0.0% is de dorstlessende mix van alcoholvrij Amstel bier en citroenwater. Lekker verfrissend op elk moment van de dag. Radler Bier Smaak: met een perfecte, frisse smaak Categorie: Fruitig & Fris Alcoholpercentage: 0,0% [SEP] 0.0 fruitig",amstel radler 0.0 citroen 6-pack 0.0 fruitig,null,null,null
+0.118269116,44,128131,AH,Salade erbij boeren mix,"Smaakvolle gemengde salade met ijsbergsla, rode paprika, rode ui, goudse belegen kaas en yoghurtdressing. Klaar om je vork in te prikken Ook handig om mee te nemen","['Geen lactose' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen sulfiet' 'Laag suiker' 'Geen lupine'
+ ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score B'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Vegetarisch'
+ 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Salades pizza maaltijden Groente
+ Salades Sla rauwkost salade Groene salade Salade","ah [SEP] salade erbij boeren mix [SEP] Smaakvolle gemengde salade met ijsbergsla, rode paprika, rode ui, goudse belegen kaas en yoghurtdressing. Klaar om je vork in te prikken Ook handig om mee te nemen [SEP] salade erbij",ah salade erbij boeren mix salade erbij,null,null,null
+0.118195534,2858,80635,Always,Ultra day normal wings maandverband,Neem geen genoegen met minder dan drievoudige bescherming met Always ultra normal (maat 1) maandverbandmet vleugels. Drievoudige bescherming voor een fris en droog voelt Superabsorberend maandverband met instantdry-systeem De leakguard-beschermrandjes sluiten vocht in en helpen lekken voorkomen Always ultra maandverband met odourblock-technologie,['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Verzorging Lichaamsverzorging Persoonlijke hygiëne
+ Maandverband Maandverband (dag)",always [SEP] ultra day normal wings maandverband [SEP] Neem geen genoegen met minder dan drievoudige bescherming met Always ultra normal (maat 1) maandverbandmet vleugels. Drievoudige bescherming voor een fris en droog voelt Superabsorberend maandverband met instantdry-systeem De leakguard-beschermrandjes sluiten vocht in en helpen lekken voorkomen Always ultra maandverband met odourblock-technologie [SEP] dameshygiene,always ultra day normal wings maandverband dameshygiene,null,null,null
+0.11790644,1443,476158,AH,Appelkruimel koeken,,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score E' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen selderij'
+ 'Geen eieren']","Bakkerij en banket Snoep koek chips en chocolade Koek Banket
+ Verse koeken",ah [SEP] appelkruimel koeken [SEP]  [SEP] banket overig,ah appelkruimel koeken banket overig,null,null,null
+0.11781845,9778,193684,Koopmans,Mix voor appelkruimeltaart,Koopmans appelkruimeltaart is een bakmix waarmee je eenvoudig een heerlijke appelkruimeltaart bakt. Vul de keuken met de geur van versgebakken appeltaart en geniet van een lekker stuk taart. Lekker krokant Eenvoudig te maken Met circa 12 taartpunten is het perfect voor visite Erg leuk voor een middag bakken met kinderen,"['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen noten' 'Geen selderij' 'Geen eieren']","Pasta rijst en wereldkeuken niet gekoppelde tax elementen
+ Bakkerij en banket Snoep koek chips en chocolade Zelf bakken
+ Taart Gebak Bakproducten Taart bakken Bak mixen Appeltaartmix",koopmans [SEP] mix voor appelkruimeltaart [SEP] Koopmans appelkruimeltaart is een bakmix waarmee je eenvoudig een heerlijke appelkruimeltaart bakt. Vul de keuken met de geur van versgebakken appeltaart en geniet van een lekker stuk taart. Lekker krokant Eenvoudig te maken Met circa 12 taartpunten is het perfect voor visite Erg leuk voor een middag bakken met kinderen [SEP] zm taart,koopmans mix voor appelkruimeltaart zm taart,null,null,null
+0.11743205,17430,420703,AH,Bakpapier,"Bakpapier is de ideale keukenhulp, het voorkomt hechting van producten aan elkaar en aan bakplaten. Zowel in de oven als in de diepvriezer. Voorkomt kleven en aanbakken Maakt invetten overbodig Voorkomt ook vastvriezen van producten Voor bakplaten, roosters en in bakvormen Prijsfavorieten: topkwaliteit en altijd laaggeprijsd",['Laag zout' 'Laag vet' 'Prijsfavoriet' 'Laag suiker'],"Huishouden Huishoudfolies huishoudzakken Folie bakpapier
+ Bakpapier","ah [SEP] bakpapier [SEP] Bakpapier is de ideale keukenhulp, het voorkomt hechting van producten aan elkaar en aan bakplaten. Zowel in de oven als in de diepvriezer. Voorkomt kleven en aanbakken Maakt invetten overbodig Voorkomt ook vastvriezen van producten Voor bakplaten, roosters en in bakvormen Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] bakpapier",ah bakpapier bakpapier,null,null,null
+0.11727433,8339,502305,AH,Snoepgroente komkommer,,"['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Tussendoortjes Seizoensgroente (lente)
+ Groente Snoepgroente Komkommer (snoepgroente) Komkommer
+ Komkommer avocado",ah [SEP] snoepgroente komkommer [SEP]  [SEP] komkommer,ah snoepgroente komkommer komkommer,null,null,null
+0.116987005,4507,541499,Bonduelle,Groente rondo's pompoen & pastinaak,"Bonduelle groente rondos - gevuld met pompoen en pastinaak - zijn een verrassende en smakelijke variatie op je dagelijkse portie groenten. Lekker in traybakes, bij de salade of als kidsproof meal! Een lekkere combinatie groenten in een vrolijke vorm Makkelijk en snel te bereiden in de oven, airfryer of pan Duurzaam verpakt in een recyclebare zak","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Geen selderij' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score A' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen eieren'
+ 'Geen gluten']","Aardappel groente fruit Diepvries Groente Diepvries groente
+ Pompoen (diepvries) Aubergine courgette pompoen Pompoen","bonduelle [SEP] groente rondo's pompoen & pastinaak [SEP] Bonduelle groente rondos - gevuld met pompoen en pastinaak - zijn een verrassende en smakelijke variatie op je dagelijkse portie groenten. Lekker in traybakes, bij de salade of als kidsproof meal! Een lekkere combinatie groenten in een vrolijke vorm Makkelijk en snel te bereiden in de oven, airfryer of pan Duurzaam verpakt in een recyclebare zak [SEP] groente mix",bonduelle groente rondo's pompoen & pastinaak groente mix,null,null,null
+0.116781905,8384,518778,Philadelphia,Extra protein,"Een eiwitrijke variant met behoud van de unieke, romige Philadelphia smaak! Hoog proteinegehalte (11%) Verminderd vetgehalte (max. 3%) Heerlijk op je brood, in salades, of in een saus Geeft je work-out een nieuwe smaak","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Kaas
+ Hartig broodbeleg Kaas beleg Roomkaas Kaas voor borrel
+ Zuivelspread Kaas voor beleg Roomkaas (naturel)
+ Smeerkaas roomkaas cottage cheese","philadelphia [SEP] extra protein [SEP] Een eiwitrijke variant met behoud van de unieke, romige Philadelphia smaak! Hoog proteinegehalte (11%) Verminderd vetgehalte (max. 3%) Heerlijk op je brood, in salades, of in een saus Geeft je work-out een nieuwe smaak [SEP] kzb bb smeer",philadelphia extra protein kzb bb smeer,null,null,null
+0.116576545,1739,383074,Oldtimers,Salmiak klinkers,"Salmiakdrop van alleen de beste ingredienten zoals arabische gom voor de robuuste structuur, zoethout voor de rijke dropsmaak en een poederzacht laagje zwart-witpoeder voor de ultieme mondsensatie. Salmiakdrop met zwart-wit poeder Vegan/ gelatinevrij Glutenvrij Bevat alleen natuurlijke kleur- en smaakstoffen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Snoep koek chips en chocolade Snoep Drop Harde snoep
+ Zoute drop Zoute drop (hard)","oldtimers [SEP] salmiak klinkers [SEP] Salmiakdrop van alleen de beste ingredienten zoals arabische gom voor de robuuste structuur, zoethout voor de rijke dropsmaak en een poederzacht laagje zwart-witpoeder voor de ultieme mondsensatie. Salmiakdrop met zwart-wit poeder Vegan/ gelatinevrij Glutenvrij Bevat alleen natuurlijke kleur- en smaakstoffen [SEP] drop",oldtimers salmiak klinkers drop,null,null,null
+0.116541155,8856,32937,De Ruijter,Anijshagel,"Heerlijke hagelslag met anijs smaak om wat-dan-ook lekker mee te versieren. Lekker als broodbeleg, door yoghurt, door havermout, of op een cupcake Voor ieder moment De ruijter. Sinds voor altijd","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij']","Ontbijtgranen en beleg Zoet broodbeleg Hagelslag en vlokken
+ Vruchtenhagel","de ruijter [SEP] anijshagel [SEP] Heerlijke hagelslag met anijs smaak om wat-dan-ook lekker mee te versieren. Lekker als broodbeleg, door yoghurt, door havermout, of op een cupcake Voor ieder moment De ruijter. Sinds voor altijd [SEP] overig strooibaar",de ruijter anijshagel overig strooibaar,null,null,null
+0.116415486,3431,389027,Mekkafood,Frikandellen,"Heerlijk gekruid, mals én lekker stevig, precies zoals een Frikandel hoort te zijn! Met deze specialiteit kun je eindeloos variëren: bij de frietjes, lekker met mayonaise of juist op een broodje. . Volledig halal gecertificeerd Eenvoudig te bereiden in de pan, oven, magnetron of op de grill. Geen kunstmatige geur-, kleur- en smaakstoffen De verpakking bevat 10 frikandellen van 70 gram","['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen lupine' ""Geen pinda's"" 'Laag vet' 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Vegetarisch'
+ 'Geen selderij' 'Geen eieren']","Diepvries Diepvries snacks Maaltijdsnacks Frikandel
+ Frikandel (frituur)","mekkafood [SEP] frikandellen [SEP] Heerlijk gekruid, mals én lekker stevig, precies zoals een Frikandel hoort te zijn! Met deze specialiteit kun je eindeloos variëren: bij de frietjes, lekker met mayonaise of juist op een broodje. . Volledig halal gecertificeerd Eenvoudig te bereiden in de pan, oven, magnetron of op de grill. Geen kunstmatige geur-, kleur- en smaakstoffen De verpakking bevat 10 frikandellen van 70 gram [SEP] frikandel",mekkafood frikandellen frikandel,null,null,null
+0.11631283,15049,104815,AH,Granny Smith zak,"De Granny Smith is een citrusfrisse dorstlesser, een knapperig handappeltje met een felgroene kleur. Dankzij zijn frisse smaak doet ie het ook heel goed in vele gerechten en salades. Smaak: friszuur Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Lekker als gezond tussendoortje of in de salade","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Zakken en boxen","ah [SEP] granny smith zak [SEP] De Granny Smith is een citrusfrisse dorstlesser, een knapperig handappeltje met een felgroene kleur. Dankzij zijn frisse smaak doet ie het ook heel goed in vele gerechten en salades. Smaak: friszuur Bereiden: de appel wassen en eventueel schillen Bewaren: appels na aankoop bewaren in de koelkast Lekker als gezond tussendoortje of in de salade [SEP] appels zak",ah granny smith zak appels zak,null,null,null
+0.116141066,1076,386195,Verstegen,Korianderblad,"Koriander heeft een sterke smaak van salie, peterselie en citroen. Toepasbaar in o.a. gehaktschotels, visgerechten, stoofpotten en soepen. Koriander stimuleert de eetlust Bevat veel antioxidanten Mooie tafelstrooier met handig alfabet design","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Soepen sauzen kruiden olie Kruiden Gedroogde kruiden Koriander
+ Koriander kruiden","verstegen [SEP] korianderblad [SEP] Koriander heeft een sterke smaak van salie, peterselie en citroen. Toepasbaar in o.a. gehaktschotels, visgerechten, stoofpotten en soepen. Koriander stimuleert de eetlust Bevat veel antioxidanten Mooie tafelstrooier met handig alfabet design [SEP] kruiden pot",verstegen korianderblad kruiden pot,null,null,null
+0.11570453,1630,179811,Always,Ultra day long maandverband,Neem geen genoegen met minder dan drievoudige bescherming met Always ultra long (maat 2) maandverband. Drievoudige bescherming voor een fris en droog voelt Superabsorberend maandverband met instantdry-systeem De leakguard-beschermrandjes sluiten vocht in en helpen lekken voorkomen Always ultra maandverband met odourblock-technologie,['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Verzorging Lichaamsverzorging Persoonlijke hygiëne
+ Maandverband Maandverband (dag)",always [SEP] ultra day long maandverband [SEP] Neem geen genoegen met minder dan drievoudige bescherming met Always ultra long (maat 2) maandverband. Drievoudige bescherming voor een fris en droog voelt Superabsorberend maandverband met instantdry-systeem De leakguard-beschermrandjes sluiten vocht in en helpen lekken voorkomen Always ultra maandverband met odourblock-technologie [SEP] dameshygiene,always ultra day long maandverband dameshygiene,null,null,null
+0.11549862,9676,435499,AH,IJsbergsla melange,"Een lekkere salade is in een handomdraai gemaakt met deze knapperige ijsbergsla met radicchio sla, witte kool en wortel. Fris en knapperig Gewassen in ijswater voor behoud van versheid","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Seizoensgroente (lente)
+ Seizoensgroente (herfst) Groente Sla Sla rauwkost salade
+ Gemengde sla","ah [SEP] ijsbergsla melange [SEP] Een lekkere salade is in een handomdraai gemaakt met deze knapperige ijsbergsla met radicchio sla, witte kool en wortel. Fris en knapperig Gewassen in ijswater voor behoud van versheid [SEP] sla melange",ah ijsbergsla melange sla melange,null,null,null
+0.11524996,5753,506230,AH,Zuivelspread knoflook kruiden,"Albert heijn zuivelspread is een zachte en lichte zuivelspread met knoflook en kruiden. Makkelijk smeerbaar Lekker voor op brood, toast of stokbrood Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen lactose' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Nutri-Score D' 'Geen sulfiet'
+ 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Kaas Kaas beleg
+ Roomkaas Kaas voor borrel Kaas voor beleg Roomkaas (kruiden)
+ Smeerkaas roomkaas cottage cheese","ah [SEP] zuivelspread knoflook kruiden [SEP] Albert heijn zuivelspread is een zachte en lichte zuivelspread met knoflook en kruiden. Makkelijk smeerbaar Lekker voor op brood, toast of stokbrood Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] kzb bb smeer",ah zuivelspread knoflook kruiden kzb bb smeer,null,null,null
+0.114035256,4120,404569,AH,Rozijnen brood,"Heerlijk mals vruchtenbrood als tussendoortje, bij de lunch of ontbijt. Om zo te eten of helemaal naar eigen smaak te beleggen. Gevuld met zoete kleine rozijntjes Tip: beleg een sneetje met margarine of een plakje kaas Ook lekker bij de koffie Neem mee! In de broodtrommel","['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' ""Geen pinda's""
+ 'Geen melk' 'Geen mosterd' 'Geen lupine' 'Nutri-Score C' 'Geen sulfiet'
+ 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Vegetarisch' 'Geen selderij']",Bakkerij en banket Brood Rozijnenbrood Rozijnen brood,"ah [SEP] rozijnen brood [SEP] Heerlijk mals vruchtenbrood als tussendoortje, bij de lunch of ontbijt. Om zo te eten of helemaal naar eigen smaak te beleggen. Gevuld met zoete kleine rozijntjes Tip: beleg een sneetje met margarine of een plakje kaas Ook lekker bij de koffie Neem mee! In de broodtrommel [SEP] hbs grootbrood",ah rozijnen brood hbs grootbrood,null,null,null
+0.11403161,12025,467990,AH,Extra lang lekker rozijnen krentebollen,De volkoren rozijnen krentenbollen zijn malse volkoren bolletjes rijkelijk gevuld met rozijnen en krenten Gemaakt met volkorenmeel en fijn gemalen zemelen Met een vleugje kaneel Om direct te eten of in te vriezen Blijft minimaal 4 dagen extra lang lekker,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Nutri-Score C'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen selderij']",Bakkerij en banket Bolletjes Krentenbollen,ah [SEP] extra lang lekker rozijnen krentebollen [SEP] De volkoren rozijnen krentenbollen zijn malse volkoren bolletjes rijkelijk gevuld met rozijnen en krenten Gemaakt met volkorenmeel en fijn gemalen zemelen Met een vleugje kaneel Om direct te eten of in te vriezen Blijft minimaal 4 dagen extra lang lekker [SEP] dv kleinbrood gevuld,ah extra lang lekker rozijnen krentebollen dv kleinbrood gevuld,null,null,null
+0.11402607,7197,58367,AH,Rode kool met appel,Heerlijk bij stamppot of hachee. Maar probeer het ook als koude salade! Friszoet van smaak Makkelijk en snel te bereiden,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Soepen sauzen kruiden olie Conserven
+ Groente Koolsoorten Groenteconserven Koolsoorten (conserven)
+ Rode kool Rode kool (conserven)",ah [SEP] rode kool met appel [SEP] Heerlijk bij stamppot of hachee. Maar probeer het ook als koude salade! Friszoet van smaak Makkelijk en snel te bereiden [SEP] traditionele groente,ah rode kool met appel traditionele groente,null,null,null
+0.11402147,17096,414966,Verstegen,Zakje kruidnagel heel,"Kruidnagelen kunnen worden gebruikt bij stoofgerechten, soepen en saladedressings. Ook in zoete gerechten komt het goed tot zijn recht. Fruitig, maar scherpe smaak In handig hersluitbaar zakje","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Vegetarisch'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Geen gluten']","Soepen sauzen kruiden olie Kruiden Gedroogde kruiden
+ Kruidnagel Kruidnagel (heel)","verstegen [SEP] zakje kruidnagel heel [SEP] Kruidnagelen kunnen worden gebruikt bij stoofgerechten, soepen en saladedressings. Ook in zoete gerechten komt het goed tot zijn recht. Fruitig, maar scherpe smaak In handig hersluitbaar zakje [SEP] kruiden zak",verstegen zakje kruidnagel heel kruiden zak,null,null,null
+0.11387281,14740,446798,Servero,100% Appelmoes Biologisch,"Servero biologische appelmoes is gemaakt van zorgvuldig geselecteerde appels zonder toevoegingen. De moes is een heerlijke aanvulling op de maaltijd, bij de bbq, frietjes en te gebruiken in recepten. Geen toevoegingen, dus ook geen toegevoegde suikers 100% van biologische appels Appelmoes met friszoete smaak Kort verhit, waardoor smaakvoller","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Conserven Fruitconserven
+ Appelmoes appelcompote Appelmoes (in pot)","servero [SEP] 100% appelmoes biologisch [SEP] Servero biologische appelmoes is gemaakt van zorgvuldig geselecteerde appels zonder toevoegingen. De moes is een heerlijke aanvulling op de maaltijd, bij de bbq, frietjes en te gebruiken in recepten. Geen toevoegingen, dus ook geen toegevoegde suikers 100% van biologische appels Appelmoes met friszoete smaak Kort verhit, waardoor smaakvoller [SEP] moezen",servero 100% appelmoes biologisch moezen,null,null,null
+0.11387281,6312,428754,Servero,100% Appelmoes biologisch,"Servero biologische appelmoes is gemaakt van zorgvuldig geselecteerde appels zonder toevoegingen. De moes is een heerlijke aanvulling op de maaltijd, bij de bbq, frietjes en te gebruiken in recepten. Geen toevoegingen, dus ook geen toegevoegde suikers 100% van biologische appels Appelmoes met friszoete smaak Kort verhit, waardoor smaakvoller","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Conserven Fruitconserven
+ Appelmoes appelcompote Appelmoes (in pot)","servero [SEP] 100% appelmoes biologisch [SEP] Servero biologische appelmoes is gemaakt van zorgvuldig geselecteerde appels zonder toevoegingen. De moes is een heerlijke aanvulling op de maaltijd, bij de bbq, frietjes en te gebruiken in recepten. Geen toevoegingen, dus ook geen toegevoegde suikers 100% van biologische appels Appelmoes met friszoete smaak Kort verhit, waardoor smaakvoller [SEP] moezen",servero 100% appelmoes biologisch moezen,null,null,null
+0.1138068,13765,543345,AH,Achterham,Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Vleeswaren
+ Vleeswaren beleg Voorverpakt Ham Ham broodbeleg
+ Achterham (voorverpakt) Achterham",ah [SEP] achterham [SEP] Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] kookham plakjes hb,ah achterham kookham plakjes hb,null,null,null
+0.11370091,2874,161332,Fanta,Lemon no sugar,"Proef de verfrissende citroensmaak van Fanta lemon no sugar. Een combinatie van sprankelend water en citrus vruchten sap, maar dan zonder suiker. Frisdrank met citroensmaak Zonder suiker Met natuurlijke aroma's, geen toegevoegde kleurstoffen Pet-fles van 100% gerecycled plastic","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'light'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Frisdrank sappen koffie thee Frisdrank Lemon lime dranken
+ Lemon lime dranken (fles)","fanta [SEP] lemon no sugar [SEP] Proef de verfrissende citroensmaak van Fanta lemon no sugar. Een combinatie van sprankelend water en citrus vruchten sap, maar dan zonder suiker. Frisdrank met citroensmaak Zonder suiker Met natuurlijke aroma's, geen toegevoegde kleurstoffen Pet-fles van 100% gerecycled plastic [SEP] fruitsmaken overig gvp",fanta lemon no sugar fruitsmaken overig gvp,null,null,null
+0.1136896,8525,444831,Smaakt,Kimchi,"Smaakt kimchi is rauwe, gefermenteerde groente en is rijk aan vitamine c. Dit typische koreaanse gerecht is heerlijk als bijgerecht, maar ook lekker in soepen, salades en rijstgerechten. Biologisch Vrij van kunstmatige conserveermiddelen en geur,- kleur - en smaakstoffen Rijk aan vitamine c Vegan","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' 'biologisch' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Pasta rijst en wereldkeuken Oosterse keuken
+ Maaltijdpakketten mixen Koreaans Maaltijdmixen Koreaanse mix","smaakt [SEP] kimchi [SEP] Smaakt kimchi is rauwe, gefermenteerde groente en is rijk aan vitamine c. Dit typische koreaanse gerecht is heerlijk als bijgerecht, maar ook lekker in soepen, salades en rijstgerechten. Biologisch Vrij van kunstmatige conserveermiddelen en geur,- kleur - en smaakstoffen Rijk aan vitamine c Vegan [SEP] bio maaltijden",smaakt kimchi bio maaltijden,null,null,null
+0.11327368,5773,195026,AH,Hollandse garnalen,"Een klassieker! Wie kent 'm niet? Met wat frisse sla, romige cocktailsaus en een takje dille, staat er in no time een culinair voorgerecht op tafel. Lekker met een glas koele Chardonnay. Verfijnde smaak Romig en een tikje zoet Gekookt en gepeld Gevangen in de Noordzee","['Geen melk' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Vis Schaal- & schelpdieren Garnalen
+ Verse vis Garnalen (vers)","ah [SEP] hollandse garnalen [SEP] Een klassieker! Wie kent 'm niet? Met wat frisse sla, romige cocktailsaus en een takje dille, staat er in no time een culinair voorgerecht op tafel. Lekker met een glas koele Chardonnay. Verfijnde smaak Romig en een tikje zoet Gekookt en gepeld Gevangen in de Noordzee [SEP] hollandse garnalen",ah hollandse garnalen hollandse garnalen,null,null,null
+0.11299574,16774,497585,AH,Aioli,Volle en romige knoflook dip. Te serveren op brood en toast of bij de bbq Heerlijk bij de borrel Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Prijsfavoriet' 'Geen noten' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Kaas vleeswaren tapas Soepen sauzen kruiden olie Sauzen
+ Smeersels & dips Snacksauzen mayonaise Aioli boter
+ Knoflooksaus aioli",ah [SEP] aioli [SEP] Volle en romige knoflook dip. Te serveren op brood en toast of bij de bbq Heerlijk bij de borrel Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] smeer saus,ah aioli smeer saus,null,null,null
+0.112546176,16514,476692,Fanta,Cassis 4-pack,Proef de heerlijke cassisverfrissing van fanta. Fanta cassis is een combinatie van sprankelend water en zwarte bessensap. Het multipack 4 x 250ml is ideaal om mee naar thuis te nemen. Frisdrank met fruitsmaak Met natuurlijke aroma's Geen toegevoegde kleurstoffen,"['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Frisdrank sappen koffie thee Frisdrank Cassis,fanta [SEP] cassis 4-pack [SEP] Proef de heerlijke cassisverfrissing van fanta. Fanta cassis is een combinatie van sprankelend water en zwarte bessensap. Het multipack 4 x 250ml is ideaal om mee naar thuis te nemen. Frisdrank met fruitsmaak Met natuurlijke aroma's Geen toegevoegde kleurstoffen [SEP] cassis kvp,fanta cassis 4-pack cassis kvp,null,null,null
+0.112264276,6009,190838,Bonduelle,Reuzenbonen,"Deze Bonduelle reuzenboon zijn groot van formaat en in smaak. Deze cremekleurige boon is dan ook reuzelekker. Boordevol vezels en eiwitten. En met een stevige bite! Echte kampioenen, dus. Met stoom bereid Geniet van de volle smaak en heerlijke bite Boordevol vezels Heerlijk met appel of limoen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Conserven Groenteconserven
+ Bonen peulvruchten (conserven) Spaanse reuzenbonen
+ Spaanse reuzenbonen (conserven)","bonduelle [SEP] reuzenbonen [SEP] Deze Bonduelle reuzenboon zijn groot van formaat en in smaak. Deze cremekleurige boon is dan ook reuzelekker. Boordevol vezels en eiwitten. En met een stevige bite! Echte kampioenen, dus. Met stoom bereid Geniet van de volle smaak en heerlijke bite Boordevol vezels Heerlijk met appel of limoen [SEP] exotische bonen",bonduelle reuzenbonen exotische bonen,null,null,null
+0.11184903,15342,228557,Amstel,Radler 0.0 citroen,"Amstel Radler 0.0% is de dorstlessende mix van alcoholvrij Amstel bier en citroenwater. Lekker verfrissend op elk moment van de dag. Categorie: Radler Smaak: Met een perfecte, frisse smaak Alcoholpercentage: 0.0% Fles (300ml)","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']","Bier en aperitieven Alcoholvrij bier en bier laag in alcohol Bier
+ Radler 0.0 Radler cider fruitbier Mexicaans Radler","amstel [SEP] radler 0.0 citroen [SEP] Amstel Radler 0.0% is de dorstlessende mix van alcoholvrij Amstel bier en citroenwater. Lekker verfrissend op elk moment van de dag. Categorie: Radler Smaak: Met een perfecte, frisse smaak Alcoholpercentage: 0.0% Fles (300ml) [SEP] 0.0 fruitig",amstel radler 0.0 citroen 0.0 fruitig,null,null,null
+0.111305475,18338,142053,Always,Ultra day normal maandverband,Neem geen genoegen met minder dan drievoudige bescherming met Always ultra normal (maat 1) maandverband. Drievoudige bescherming voor een fris en droog voelt Superabsorberend maandverband met instantdry-systeem De leakguard-beschermrandjes sluiten vocht in en helpen lekken voorkomen Always ultra maandverband met odourblock-technologie,['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Verzorging Lichaamsverzorging Persoonlijke hygiëne
+ Maandverband Maandverband (dag)",always [SEP] ultra day normal maandverband [SEP] Neem geen genoegen met minder dan drievoudige bescherming met Always ultra normal (maat 1) maandverband. Drievoudige bescherming voor een fris en droog voelt Superabsorberend maandverband met instantdry-systeem De leakguard-beschermrandjes sluiten vocht in en helpen lekken voorkomen Always ultra maandverband met odourblock-technologie [SEP] dameshygiene,always ultra day normal maandverband dameshygiene,null,null,null
+0.111305475,9957,154784,Always,Ultra day normal maandverband,Neem geen genoegen met minder dan drievoudige bescherming met Always ultra normal (maat 1) maandverband. Drievoudige bescherming voor een fris en droog voelt Superabsorberend maandverband met instantdry-systeem De leakguard-beschermrandjes sluiten vocht in en helpen lekken voorkomen Always ultra maandverband met odourblock-technologie,['Laag zout' 'Laag vet' 'Laag suiker'],"Drogisterij Verzorging Lichaamsverzorging Persoonlijke hygiëne
+ Maandverband Maandverband (dag)",always [SEP] ultra day normal maandverband [SEP] Neem geen genoegen met minder dan drievoudige bescherming met Always ultra normal (maat 1) maandverband. Drievoudige bescherming voor een fris en droog voelt Superabsorberend maandverband met instantdry-systeem De leakguard-beschermrandjes sluiten vocht in en helpen lekken voorkomen Always ultra maandverband met odourblock-technologie [SEP] dameshygiene,always ultra day normal maandverband dameshygiene,null,null,null
+0.11109511,6830,120877,AH,Salade erbij Caesar mix,"Ga voor groen met deze smaakvolle gemengde salade met romaine sla, croutons, scharrelei, regato kaas en caesardressing. Klaar om je vork in te prikken Ook handig om mee te nemen","['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Geen vis'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen noten' 'Geen mosterd' 'Vegetarisch' 'Geen selderij' 'Geen eieren']","Aardappel groente fruit Salades pizza maaltijden Groente
+ Salades Sla rauwkost salade Groene salade Salade","ah [SEP] salade erbij caesar mix [SEP] Ga voor groen met deze smaakvolle gemengde salade met romaine sla, croutons, scharrelei, regato kaas en caesardressing. Klaar om je vork in te prikken Ook handig om mee te nemen [SEP] salade erbij",ah salade erbij caesar mix salade erbij,null,null,null
+0.11105089,3783,413926,AH,AH cocktailprikkers krul,"Deze cocktailprikkers van bamboe zijn niet alleen reuzehandig voor het bijeen rijgen van al je hapjes, ze zijn nog decoratief ook! O.a. voor het serveren van hapjes of finger sandwiches Handig voor feestjes en borrels",['Laag zout' 'Laag vet' 'Laag suiker'],"Koken tafelen vrije tijd Koken Feestje gelegenheid
+ Feestje - servies Keukengerei Prikkers touw","ah [SEP] ah cocktailprikkers krul [SEP] Deze cocktailprikkers van bamboe zijn niet alleen reuzehandig voor het bijeen rijgen van al je hapjes, ze zijn nog decoratief ook! O.a. voor het serveren van hapjes of finger sandwiches Handig voor feestjes en borrels [SEP] keukenhulpen",ah ah cocktailprikkers krul keukenhulpen,null,null,null
+0.11093804,12609,127726,AH Biologisch,Vastkokend,"De vastkokende aardappelen behouden na het koken hun vorm en blijven stevig van structuur. Stevig en vol van smaak Zeer geschikt om te bakken en voor in salades. Ook in de schil te bereiden Bron van vitamine c en b6 Bewaren: bewaar de aardappelen op een koele, donkere en droge plek","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' 'biologisch' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Aardappelen Aardappel - ongeschild
+ Hele aardappel - vastkokend Aardappel vastkokend - met schil","ah biologisch [SEP] vastkokend [SEP] De vastkokende aardappelen behouden na het koken hun vorm en blijven stevig van structuur. Stevig en vol van smaak Zeer geschikt om te bakken en voor in salades. Ook in de schil te bereiden Bron van vitamine c en b6 Bewaren: bewaar de aardappelen op een koele, donkere en droge plek [SEP] kleinverpakking",ah biologisch vastkokend kleinverpakking,null,null,null
+0.11084481,6987,129672,Hero,Cassis blikjes frisdrank 4-pack,"Blikjes frisdrank met de volle, ronde smaak van zwarte bessen uit Zeeland. Dat maakt Hero cassis de enige echte cassis, the original. De enige echte Hero cassis, al sinds 1938 Blikjes frisdrank gemaakt met het sap van zwarte bessen Met gefermenteerd fruit voor die unieke, volle ronde smaak","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Frisdrank sappen koffie thee Frisdrank Cassis,"hero [SEP] cassis blikjes frisdrank 4-pack [SEP] Blikjes frisdrank met de volle, ronde smaak van zwarte bessen uit Zeeland. Dat maakt Hero cassis de enige echte cassis, the original. De enige echte Hero cassis, al sinds 1938 Blikjes frisdrank gemaakt met het sap van zwarte bessen Met gefermenteerd fruit voor die unieke, volle ronde smaak [SEP] cassis kvp",hero cassis blikjes frisdrank 4-pack cassis kvp,null,null,null
+0.11031058,9353,239726,Remia,Curry saus pittig gekruid,"Remia curry saus is pikant en kruidig van smaak. Lekker bij een frikandel, frietje speciaal, hamburger of tosti Met deze knijpfles kunt u eenvoudig doseren Bevat geen gluten Dit product is 100% plantaardig","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Sauzen Snacksauzen mayonaise
+ Currysaus","remia [SEP] curry saus pittig gekruid [SEP] Remia curry saus is pikant en kruidig van smaak. Lekker bij een frikandel, frietje speciaal, hamburger of tosti Met deze knijpfles kunt u eenvoudig doseren Bevat geen gluten Dit product is 100% plantaardig [SEP] curry",remia curry saus pittig gekruid curry,null,null,null
+0.11018275,5634,376549,AH,Komkommersalade,"Heerlijke frisse komkommersalade op smaak gebracht met bieslook, dille en peterselie. Zonder kunstmatige geur- en smaakstoffen Met vrije uitloopeieren De perfecte match met een boterham of toastje! Serveer ook eens op een geroosterd stokbroodje tijdens de borrel!","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen noten' 'Geen selderij' 'Geen eieren' 'Geen gluten']","Ontbijtgranen en beleg Kaas vleeswaren tapas Beleg salades
+ Brood- en toastsalades Salades (klein) Groentesalades (beleg)
+ Komkommer salade","ah [SEP] komkommersalade [SEP] Heerlijke frisse komkommersalade op smaak gebracht met bieslook, dille en peterselie. Zonder kunstmatige geur- en smaakstoffen Met vrije uitloopeieren De perfecte match met een boterham of toastje! Serveer ook eens op een geroosterd stokbroodje tijdens de borrel! [SEP] smeer groente",ah komkommersalade smeer groente,null,null,null
+0.11010958,9374,123866,AH,Vastkokend,"De vastkokende aardappelen behouden na het koken hun vorm en blijven stevig van structuur. Stevig en vol van smaak Zeer geschikt om te bakken en voor in salades. Ook in de schil te bereiden Bron van vitamine c en b6 Bewaren: bewaar de aardappelen op een koele, donkere en droge plek Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Prijsfavoriet' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Aardappelen Aardappel - ongeschild
+ Hele aardappel - vastkokend Aardappel vastkokend - met schil","ah [SEP] vastkokend [SEP] De vastkokende aardappelen behouden na het koken hun vorm en blijven stevig van structuur. Stevig en vol van smaak Zeer geschikt om te bakken en voor in salades. Ook in de schil te bereiden Bron van vitamine c en b6 Bewaren: bewaar de aardappelen op een koele, donkere en droge plek Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] kleinverpakking",ah vastkokend kleinverpakking,null,null,null
+0.11001817,13716,128780,AH,Appelen,"Heerlijke volzoete tot friszoete appels in een zak van 2,5 kilo, genoeg voor het hele gezin! Smaak: volzoet tot friszoet Bereiden: de appel wassen en eventueel schillen Na aankoop bewaren in de koelkast Geschikt voor: snack, bakken, salade","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Fruit Seizoensfruit (herfst) Appels
+ Zakken en boxen","ah [SEP] appelen [SEP] Heerlijke volzoete tot friszoete appels in een zak van 2,5 kilo, genoeg voor het hele gezin! Smaak: volzoet tot friszoet Bereiden: de appel wassen en eventueel schillen Na aankoop bewaren in de koelkast Geschikt voor: snack, bakken, salade [SEP] appels zak",ah appelen appels zak,null,null,null
+0.10966269,6460,515675,Maggi,Saus voor groente kant-en-klaar,"Met de kant-en-klare sauzen van Maggi heb je makkelijk een smaakvolle en rijke saus voor elke maaltijd. Kant-en-klaar, je hoeft niets toe te voegen Alleen nog even op warmen in een pan of magnetron Binnen 2 minuten op tafel","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen melk'
+ 'Laag vet' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen mosterd'
+ 'Geen eieren']",Soepen sauzen kruiden olie Sauzen Groentesaus Groentesauzen,"maggi [SEP] saus voor groente kant-en-klaar [SEP] Met de kant-en-klare sauzen van Maggi heb je makkelijk een smaakvolle en rijke saus voor elke maaltijd. Kant-en-klaar, je hoeft niets toe te voegen Alleen nog even op warmen in een pan of magnetron Binnen 2 minuten op tafel [SEP] sauzen warm nat",maggi saus voor groente kant-en-klaar sauzen warm nat,null,null,null
+0.109584935,17383,551093,AH,Traybake kriel paprika verspakket,"Wat handig! Met dit pakket maak je in een handomdraai een lekkere traybake met krieltjes, paprika en courgette, die je met trots op tafel kunt zetten. Zo heb je altijd een bijzondere maaltijd paraat, met heerlijke ingrediënten en veel groente. AH Traybake kriel paprika verspakket 1x AH Griekse feta 200 gram 1x",[],"Aardappel groente fruit Salades pizza maaltijden Groente
+ Verspakket Maaltijdpakketten (vers) Groentepakket
+ Hollandse maaltijdpakketten (vers)","ah [SEP] traybake kriel paprika verspakket [SEP] Wat handig! Met dit pakket maak je in een handomdraai een lekkere traybake met krieltjes, paprika en courgette, die je met trots op tafel kunt zetten. Zo heb je altijd een bijzondere maaltijd paraat, met heerlijke ingrediënten en veel groente. AH Traybake kriel paprika verspakket 1x AH Griekse feta 200 gram 1x [SEP] ",ah traybake kriel paprika verspakket ,null,null,null
+0.109399185,12853,210141,Amstel,Radler citroen 6-pack,"Amstel Radler citroen is een natuurlijke mix van Amstel bier en sprankelend citroenwater. Amstel Radler is dubbel verfrissend en bevat 2% alcohol. Radler Bier Smaak: dubbel verfrissend Categorie: Fruitig & Fris Alcoholpercentage: 2,0%","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij']","Bier en aperitieven Bier Radler cider fruitbier Mexicaans
+ Radler Radler met alcohol Radler citroen","amstel [SEP] radler citroen 6-pack [SEP] Amstel Radler citroen is een natuurlijke mix van Amstel bier en sprankelend citroenwater. Amstel Radler is dubbel verfrissend en bevat 2% alcohol. Radler Bier Smaak: dubbel verfrissend Categorie: Fruitig & Fris Alcoholpercentage: 2,0% [SEP] laag alcohol fruitig",amstel radler citroen 6-pack laag alcohol fruitig,null,null,null
+0.10939917,2104,210142,Amstel,Radler citroen 6-pack,"Amstel Radler citroen is een natuurlijke mix van Amstel bier en sprankelend citroenwater. Amstel Radler is dubbel verfrissend en bevat 2% alcohol. Radler Bier Smaak: dubbel verfrissend Categorie: Fruitig & Fris Alcoholpercentage: 2,0%","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij']","Bier en aperitieven Bier Radler cider fruitbier Mexicaans
+ Radler Radler met alcohol Radler citroen","amstel [SEP] radler citroen 6-pack [SEP] Amstel Radler citroen is een natuurlijke mix van Amstel bier en sprankelend citroenwater. Amstel Radler is dubbel verfrissend en bevat 2% alcohol. Radler Bier Smaak: dubbel verfrissend Categorie: Fruitig & Fris Alcoholpercentage: 2,0% [SEP] laag alcohol fruitig",amstel radler citroen 6-pack laag alcohol fruitig,null,null,null
+0.10939472,5483,497624,AH,Extra lang lekker mini rozijnenbol,"De mini rozijnen krentenbollen zijn zachte witte bolletjes, rijkelijk gevuld met rozijnen en krenten. Romige smaak door toevoeging van boter Om direct te eten of in te vriezen Blijft minimaal 8 dagen extra lang lekker Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Nutri-Score C'
+ 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen eieren' 'Geen noten' 'Geen selderij']",Bakkerij en banket Bolletjes Krentenbollen,"ah [SEP] extra lang lekker mini rozijnenbol [SEP] De mini rozijnen krentenbollen zijn zachte witte bolletjes, rijkelijk gevuld met rozijnen en krenten. Romige smaak door toevoeging van boter Om direct te eten of in te vriezen Blijft minimaal 8 dagen extra lang lekker Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] hbs kleinbrood",ah extra lang lekker mini rozijnenbol hbs kleinbrood,null,null,null
+0.10925655,13147,197384,AH,Rauwkost komkommer,"Deze lekkere frisse rauwkost is rijkelijk gevuld met komkommer, augurk, ui en paprika. Met deze rauwkost kun je alle kanten op. Heerlijk als losse salade, bij vis of door wat sla. Lekker naast de maaltijd, door een salade of op een broodje","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen selderij'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Aardappel groente fruit Groente Sla rauwkost salade Rauwkost
+ Rauwkost groente","ah [SEP] rauwkost komkommer [SEP] Deze lekkere frisse rauwkost is rijkelijk gevuld met komkommer, augurk, ui en paprika. Met deze rauwkost kun je alle kanten op. Heerlijk als losse salade, bij vis of door wat sla. Lekker naast de maaltijd, door een salade of op een broodje [SEP] rauwkost",ah rauwkost komkommer rauwkost,null,null,null
+0.10901959,5198,401385,Remia,Bakken en braden,"Met Remia vloeibaar bakken en braden wordt uw vlees lekker mals, sappig en prachtig bruin van kleur. Van nature rijk aan omega 3 vetzuren Met deze handige knijptube kunt u eenvoudig doseren Bevat geen water, spat niet en geeft een heerlijke jus Bakken en braden: een uitvinding van remia","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor de keuken Vloeibare margarine","remia [SEP] bakken en braden [SEP] Met Remia vloeibaar bakken en braden wordt uw vlees lekker mals, sappig en prachtig bruin van kleur. Van nature rijk aan omega 3 vetzuren Met deze handige knijptube kunt u eenvoudig doseren Bevat geen water, spat niet en geeft een heerlijke jus Bakken en braden: een uitvinding van remia [SEP] margarine vloeibaar",remia bakken en braden margarine vloeibaar,null,null,null
+0.108738296,17580,470162,AH Biologisch,Bessenmix,"Deze biologische superfruitmix met incabes, gojibes, moerbei en friszoete cranberry is een verrassende mix van zowel zoet als friszure smaken. Ideaal voor zoet bakken, hartig koken, gezond ontbijten of als tussendoortje. De cranberries zijn gezoet met appelsapconcentraat in plaats van suiker Tip: combineer met een handje noten Of neem mee als biologische fruitsnack tussendoor","['Geen melk' 'Geen noten' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'biologisch' 'Geen mosterd'
+ 'Geen lactose' 'Nutri-Score B' 'Geen sulfiet' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen eieren' 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Pasta rijst en wereldkeuken
+ Bewuste voeding Bakkerij en banket Snoep koek chips en chocolade
+ Zelf bakken Wholefoods Fruit Bakproducten
+ Fruit en bessen (superfoods) Toevoegingen toppings versiering
+ Gedroogd fruit Gedroogd fruit (diverse)","ah biologisch [SEP] bessenmix [SEP] Deze biologische superfruitmix met incabes, gojibes, moerbei en friszoete cranberry is een verrassende mix van zowel zoet als friszure smaken. Ideaal voor zoet bakken, hartig koken, gezond ontbijten of als tussendoortje. De cranberries zijn gezoet met appelsapconcentraat in plaats van suiker Tip: combineer met een handje noten Of neem mee als biologische fruitsnack tussendoor [SEP] bio gedroogd fruit",ah biologisch bessenmix bio gedroogd fruit,null,null,null
+0.10830202,7929,117618,AH,"Broccoli, wortel, bloemkool","Groentemix met broccoli, bloemkool en Parijse worteltjes. Gesneden en gewassen in ijswater.","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Laag suiker' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen selderij' 'Geen gluten']","Aardappel groente fruit Groente Groentemix Groentemixen
+ Groentemix (vers)","ah [SEP] broccoli, wortel, bloemkool [SEP] Groentemix met broccoli, bloemkool en Parijse worteltjes. Gesneden en gewassen in ijswater. [SEP] kookgroente overig","ah broccoli, wortel, bloemkool kookgroente overig",null,null,null
+0.10826726,16890,118067,AH Excellent,Hollandse garnalen,"De Hollandse garnaal is als hij gevangen wordt grijs van kleur. Aan boord van het schip wordt de garnaal direct gekookt waardoor hij roodbruin van kleur wordt. 
+
+Kies je voor gemak? Kies voor deze garnalen, want je kunt ze direct gebruiken. Bijvoorbeeld als voorgerecht, in een salade of op brood. Tip: lekker met cocktailsaus en avocado Eiwitrijk","['Geen melk' 'Geen soja' 'Geen vis' 'Laag suiker'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine' ""Geen pinda's""
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Laag vet' 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij' 'Geen gluten']","Vlees kip vis vega Vis Schaal- & schelpdieren Garnalen
+ Verse vis Garnalen (vers)","ah excellent [SEP] hollandse garnalen [SEP] De Hollandse garnaal is als hij gevangen wordt grijs van kleur. Aan boord van het schip wordt de garnaal direct gekookt waardoor hij roodbruin van kleur wordt. 
+
+Kies je voor gemak? Kies voor deze garnalen, want je kunt ze direct gebruiken. Bijvoorbeeld als voorgerecht, in een salade of op brood. Tip: lekker met cocktailsaus en avocado Eiwitrijk [SEP] hollandse garnalen",ah excellent hollandse garnalen hollandse garnalen,null,null,null
+0.10820389,1531,465865,Remia,Bakken & Braden,"Met Remia vloeibaar bakken en braden wordt uw vlees lekker mals, sappig en prachtig bruin van kleur. Van nature rijk aan omega 3 vetzuren Met deze handige knijptube kunt u eenvoudig doseren Bevat geen water, spat niet en geeft een heerlijke jus Bakken en braden: een uitvinding van remia","['Geen gluten' 'Geen lactose' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij']","Ontbijtgranen en beleg Zuivel plantaardig en eieren Boter
+ Boter voor de keuken Vloeibare margarine","remia [SEP] bakken & braden [SEP] Met Remia vloeibaar bakken en braden wordt uw vlees lekker mals, sappig en prachtig bruin van kleur. Van nature rijk aan omega 3 vetzuren Met deze handige knijptube kunt u eenvoudig doseren Bevat geen water, spat niet en geeft een heerlijke jus Bakken en braden: een uitvinding van remia [SEP] margarine vloeibaar",remia bakken & braden margarine vloeibaar,null,null,null
+0.10804386,4486,447333,Maggi,Opkikker drinkbouillon tuinkruiden,"Maggi opkikker tuinkruiden is een verantwoord hartig tussendoortje dat je snel klaarmaakt. Deze drinkbouillon bevat slechts 8 kcal per portie. Ook geschikt om noodlesoep mee te maken Lekker vol van smaak, daar kikker je helemaal van op Met zorg geselecteerde ingredienten waaronder tomaat, ui en peterselie Binnen 3 minuten klaar","['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen selderij' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Geen mosterd' 'Geen sulfiet'
+ 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Geen noten' 'Geen eieren']","Soepen sauzen kruiden olie Tussendoortjes Soep (tussendoor)
+ Warm tussendoor Soepen Kopsoep","maggi [SEP] opkikker drinkbouillon tuinkruiden [SEP] Maggi opkikker tuinkruiden is een verantwoord hartig tussendoortje dat je snel klaarmaakt. Deze drinkbouillon bevat slechts 8 kcal per portie. Ook geschikt om noodlesoep mee te maken Lekker vol van smaak, daar kikker je helemaal van op Met zorg geselecteerde ingredienten waaronder tomaat, ui en peterselie Binnen 3 minuten klaar [SEP] drinkbouillon",maggi opkikker drinkbouillon tuinkruiden drinkbouillon,null,null,null
+0.10759189,12435,471110,AH,Diepvries frikandelbroodjes,Het frikandelbroodje bak je nu in eigen oven. Altijd warme vers afgebakken frikandelbroodjes in perfect luchtig en krokant bladerdeeg in huis. Altijd warme frikandelbroodjes in huis De heerlijke frikandelbroodjes van albert heijn,"['Geen gluten' 'Geen lactose' 'Geen noten' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen vis' 'Laag suiker'
+ 'Geen selderij' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen lupine'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Geen mosterd' 'Vegetarisch'
+ 'Geen eieren']","Bakkerij en banket Diepvries Kerst Salades pizza maaltijden
+ Snel snacken Afbakbrood Diepvries snacks Gebak brood bladerdeeg
+ Kerstontbijt Worstenbroodjes Hartige broodjes Snackbroodjes
+ Worstenbroodje (diepvries)",ah [SEP] diepvries frikandelbroodjes [SEP] Het frikandelbroodje bak je nu in eigen oven. Altijd warme vers afgebakken frikandelbroodjes in perfect luchtig en krokant bladerdeeg in huis. Altijd warme frikandelbroodjes in huis De heerlijke frikandelbroodjes van albert heijn [SEP] hbs diepvriesbrood,ah diepvries frikandelbroodjes hbs diepvriesbrood,null,null,null
+0.10720308,9636,386522,Go-Tan,Original wok chilli garlic,"Maak met groenten, vlees of vis een knapperig en gezond wokgerecht. Original Wok Chilli-Garlic is gemaakt op basis van o.a. knoflook, rode pepers en tomaat. Zonder conserveermiddelen Zonder toegevoegde smaakversterkers Zonder kunstmatige kleur- en smaakstoffen","['Geen gluten' 'Geen melk' 'Geen soja'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen lupine'
+ 'Geen schelpdieren (schaaldieren)' ""Geen pinda's"" 'Laag vet'
+ 'Geen mosterd' 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Geen vis'
+ 'Laag zout' 'Veganistisch' 'Laag suiker' 'Geen eieren' 'Geen noten'
+ 'Vegetarisch' 'Geen selderij']","Pasta rijst en wereldkeuken Soepen sauzen kruiden olie
+ Oosterse keuken Sauzen Woksauzen Indonesisch
+ Indonesische woksaus Woksaus","go-tan [SEP] original wok chilli garlic [SEP] Maak met groenten, vlees of vis een knapperig en gezond wokgerecht. Original Wok Chilli-Garlic is gemaakt op basis van o.a. knoflook, rode pepers en tomaat. Zonder conserveermiddelen Zonder toegevoegde smaakversterkers Zonder kunstmatige kleur- en smaakstoffen [SEP] woksauzen",go-tan original wok chilli garlic woksauzen,null,null,null
+0.10658408,7911,532212,Hero,Fruitspread aardbeien,"Fruitige vruchtenspread met de natuurlijke smaak van zoete aardbeien. Beleg je boterham, beschuit of cracker met deze zachte fruitspread en geniet van jam met lekker veel fruit. Vruchtenspread bereid met 50 gram fruit per 100 gram Deze fruitspread bevat enkel natuurlijke ingredienten Marmelade met extra veel aardbeien van de hoogste kwaliteit Confiture zonder geur-, kleur- en smaakstoffen","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']",Ontbijtgranen en beleg Zoet broodbeleg Jam Aardbeienjam,"hero [SEP] fruitspread aardbeien [SEP] Fruitige vruchtenspread met de natuurlijke smaak van zoete aardbeien. Beleg je boterham, beschuit of cracker met deze zachte fruitspread en geniet van jam met lekker veel fruit. Vruchtenspread bereid met 50 gram fruit per 100 gram Deze fruitspread bevat enkel natuurlijke ingredienten Marmelade met extra veel aardbeien van de hoogste kwaliteit Confiture zonder geur-, kleur- en smaakstoffen [SEP] jam",hero fruitspread aardbeien jam,null,null,null
+0.106345564,11615,4183,AH,Bloemkool,"Bloemkool is nog altijd één van de meest gegeten
+				  groente in Nederland. De bloemkool is heerlijk om te koken, of om te gebruiken
+				  in een soep, om te wokken of in een stamppot. Elke dag vers van onze teler. Smaak:Bloemkool heeft een zachte, typische 						koolsmaak. Bewaren: In de koelkast. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd","['Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja'
+ 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Prijsfavoriet' 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's""
+ 'Laag vet' 'Geen selderij' 'Geen mosterd' 'Geen lactose' 'Nutri-Score A'
+ 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Aardappel groente fruit Seizoensgroente (zomer)
+ Seizoensgroente (herfst) Groente Koolsoorten Bloemkool (vers)
+ Bloemkool","ah [SEP] bloemkool [SEP] Bloemkool is nog altijd één van de meest gegeten
+				  groente in Nederland. De bloemkool is heerlijk om te koken, of om te gebruiken
+				  in een soep, om te wokken of in een stamppot. Elke dag vers van onze teler. Smaak:Bloemkool heeft een zachte, typische 						koolsmaak. Bewaren: In de koelkast. Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] koolsoorten",ah bloemkool koolsoorten,null,null,null
+0.10615714,2893,398861,AH,Roomboter appeltaart (8 punten),Een heerlijk roomboter appeltaartje met grove stukken appel en een vleugje kaneel. Lekker met een toefje slagroom Alvast gesneden in 8 porties Visite? Altijd iets lekkers paraat met dit appeltaartje Prijsfavorieten: topkwaliteit en altijd laaggeprijsd,"['Geen gluten' 'Geen lactose' 'Geen noten'
+ 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis' 'Vegetarisch'
+ 'Geen lupine' ""Geen pinda's"" 'Geen melk' 'Laag vet' 'Geen mosterd'
+ 'Nutri-Score D' 'Geen sulfiet' 'Geen sesam' 'Laag zout' 'Veganistisch'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Prijsfavoriet'
+ 'Geen selderij' 'Geen eieren']","Diepvries niet gekoppelde tax elementen Bakkerij en banket
+ Gebak brood bladerdeeg Taart Gebak Diepvries gebak
+ Taart (diepvries)",ah [SEP] roomboter appeltaart (8 punten) [SEP] Een heerlijk roomboter appeltaartje met grove stukken appel en een vleugje kaneel. Lekker met een toefje slagroom Alvast gesneden in 8 porties Visite? Altijd iets lekkers paraat met dit appeltaartje Prijsfavorieten: topkwaliteit en altijd laaggeprijsd [SEP] gebak,ah roomboter appeltaart (8 punten) gebak,null,null,null
+0.105981894,1252,130275,AH,Verse smoothie appel banaan aardbei,"Lekker fris! Onze verse sappen worden iedere ochtend koudgeperst. Door alleen verse ingrediënten te gebruiken en het sap nooit te verhitten blijven vitamines en mineralen maximaal behouden. Vandaag geperst, morgen in jouw koelkast. Zonder toevoegingen, verser & gemakkelijker kan niet. Met vitamine C en foliumzuur Geniet van een verse & koudgeperste smoothie op ieder moment van de dag Voor ontbijt, lunch of tussendoor","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen lupine' ""Geen pinda's"" 'Geen selderij'
+ 'Geen mosterd' 'Geen lactose' 'Nutri-Score C' 'Geen sulfiet' 'Geen sesam'
+ 'Geen gluten']","Aardappel groente fruit Frisdrank sappen koffie thee Smoothie
+ Koudgeperste sappen & smoothies Verse sappen & smoothies
+ Smoothie-fruit (vers) Verse smoothies","ah [SEP] verse smoothie appel banaan aardbei [SEP] Lekker fris! Onze verse sappen worden iedere ochtend koudgeperst. Door alleen verse ingrediënten te gebruiken en het sap nooit te verhitten blijven vitamines en mineralen maximaal behouden. Vandaag geperst, morgen in jouw koelkast. Zonder toevoegingen, verser & gemakkelijker kan niet. Met vitamine C en foliumzuur Geniet van een verse & koudgeperste smoothie op ieder moment van de dag Voor ontbijt, lunch of tussendoor [SEP] smoothies",ah verse smoothie appel banaan aardbei smoothies,null,null,null
+0.10597917,15203,548315,Servero,100% Fruitmoesjes appel aardbei framboos,"Servero fruitmoesjes zijn gemaakt van een heerlijke combinatie fruitsoorten zonder toevoegingen. De moes is een ideaal tussendoortje, heerlijke aanvulling bij het ontbijt of te gebruiken als dessert.. 100% van fruit Geen toevoegingen, dus ook geen toegevoegde suikers Fruitmoes in 4 handige portieverpakkingen Fruitsnack als verantwoord tussendoortje","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Geen schelpdieren (schaaldieren)' 'Laag suiker' 'Geen eieren'
+ 'Geen noten' 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Conserven Fruitconserven
+ Fruitmix (conserven)","servero [SEP] 100% fruitmoesjes appel aardbei framboos [SEP] Servero fruitmoesjes zijn gemaakt van een heerlijke combinatie fruitsoorten zonder toevoegingen. De moes is een ideaal tussendoortje, heerlijke aanvulling bij het ontbijt of te gebruiken als dessert.. 100% van fruit Geen toevoegingen, dus ook geen toegevoegde suikers Fruitmoes in 4 handige portieverpakkingen Fruitsnack als verantwoord tussendoortje [SEP] moezen",servero 100% fruitmoesjes appel aardbei framboos moezen,null,null,null
+0.105758965,8377,119017,De Ruijter,Vruchten hagel,"Heerlijke fruitige hagelslag in vrolijke kleuren om wat-dan-ook lekker mee te versieren. Lekker als broodbeleg, door yoghurt, door havermout, of op een cupcake Voor ieder moment De ruijter. Sinds voor altijd","['Geen gluten' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd'
+ 'Geen lactose' 'Geen sulfiet' 'Geen sesam' 'Laag vet' 'Laag zout'
+ 'Veganistisch' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Vegetarisch' 'Geen selderij']","Ontbijtgranen en beleg Zoet broodbeleg Hagelslag en vlokken
+ Vruchtenhagel","de ruijter [SEP] vruchten hagel [SEP] Heerlijke fruitige hagelslag in vrolijke kleuren om wat-dan-ook lekker mee te versieren. Lekker als broodbeleg, door yoghurt, door havermout, of op een cupcake Voor ieder moment De ruijter. Sinds voor altijd [SEP] overig strooibaar",de ruijter vruchten hagel overig strooibaar,null,null,null
+0.105633736,18640,435896,Servero,100% Appelmoes Original,"Servero appelmoes is gemaakt van zorgvuldig geselecteerde appels zonder toevoegingen. De moes is een heerlijke aanvulling op de maaltijd, bij de bbq, frietjes en te gebruiken in recepten. Geen toevoegingen, dus ook geen toegevoegde suikers 100% van appels Appelmoes met friszoete smaak Kort verhit, waardoor smaakvoller","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Conserven Fruitconserven
+ Appelmoes appelcompote Appelmoes (in pot)","servero [SEP] 100% appelmoes original [SEP] Servero appelmoes is gemaakt van zorgvuldig geselecteerde appels zonder toevoegingen. De moes is een heerlijke aanvulling op de maaltijd, bij de bbq, frietjes en te gebruiken in recepten. Geen toevoegingen, dus ook geen toegevoegde suikers 100% van appels Appelmoes met friszoete smaak Kort verhit, waardoor smaakvoller [SEP] moezen",servero 100% appelmoes original moezen,null,null,null
+0.105633736,11389,428749,Servero,100% Appelmoes original,"Servero appelmoes is gemaakt van zorgvuldig geselecteerde appels zonder toevoegingen. De moes is een heerlijke aanvulling op de maaltijd, bij de bbq, frietjes en te gebruiken in recepten. Geen toevoegingen, dus ook geen toegevoegde suikers 100% van appels Appelmoes met friszoete smaak Kort verhit, waardoor smaakvoller","['Geen melk' 'Geen kreeftachtigen (schaaldieren)' 'Geen soja' 'Geen vis'
+ 'Vegetarisch' 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Veganistisch' 'Geen sesam' 'Laag vet'
+ 'Laag zout' 'Geen schelpdieren (schaaldieren)' 'Laag suiker'
+ 'Geen eieren' 'Geen noten' 'Geen selderij' 'Geen gluten']","Soepen sauzen kruiden olie Conserven Fruitconserven
+ Appelmoes appelcompote Appelmoes (in pot)","servero [SEP] 100% appelmoes original [SEP] Servero appelmoes is gemaakt van zorgvuldig geselecteerde appels zonder toevoegingen. De moes is een heerlijke aanvulling op de maaltijd, bij de bbq, frietjes en te gebruiken in recepten. Geen toevoegingen, dus ook geen toegevoegde suikers 100% van appels Appelmoes met friszoete smaak Kort verhit, waardoor smaakvoller [SEP] moezen",servero 100% appelmoes original moezen,null,null,null
+0.10558537,14028,162984,Koopmans,Mix voor appeltaart,"Koopmans appeltaart is een echte klassieker! Met deze bakmix maak je eenvoudig de enige echte hollandse appeltaart en maak je een gewone dag per stuk versgebakken appeltaart een stuk feestelijker. De enige echte hollandse appeltaart, met lekkere brosse bodem Met circa 12 taartpunten ideaal voor bezoek Voor ieder moment van de dag Ook lekker met een toefje slagroom of Bolletje roomijs","['Geen gluten' 'Geen lactose' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Vegetarisch' 'Geen lupine' ""Geen pinda's""
+ 'Geen melk' 'Laag vet' 'Geen mosterd' 'Geen sulfiet' 'Geen sesam'
+ 'Laag zout' 'Veganistisch' 'Geen schelpdieren (schaaldieren)'
+ 'Laag suiker' 'Geen noten' 'Geen selderij' 'Geen eieren']","Pasta rijst en wereldkeuken niet gekoppelde tax elementen
+ Bakkerij en banket Snoep koek chips en chocolade Zelf bakken
+ Taart Gebak Bakproducten Taart bakken Bak mixen Appeltaartmix","koopmans [SEP] mix voor appeltaart [SEP] Koopmans appeltaart is een echte klassieker! Met deze bakmix maak je eenvoudig de enige echte hollandse appeltaart en maak je een gewone dag per stuk versgebakken appeltaart een stuk feestelijker. De enige echte hollandse appeltaart, met lekkere brosse bodem Met circa 12 taartpunten ideaal voor bezoek Voor ieder moment van de dag Ook lekker met een toefje slagroom of Bolletje roomijs [SEP] zm taart",koopmans mix voor appeltaart zm taart,null,null,null
+0.10557754,8326,41084,AH,Roerbakgroente Hollands,"Zak, panklaar. Met peen, bleekselderij, broccoli, paprika, bloemkool en sperziebonen om een roerbakgerecht te bereiden.","['Laag vet' 'Laag zout' 'Geen melk' 'Geen kreeftachtigen (schaaldieren)'
+ 'Geen soja' 'Geen vis' 'Laag suiker' 'Geen selderij'
+ 'Geen schelpdieren (schaaldieren)' 'Geen eieren' 'Geen noten'
+ 'Geen lupine' ""Geen pinda's"" 'Geen mosterd' 'Geen lactose'
+ 'Nutri-Score A' 'Geen sulfiet' 'Geen sesam' 'Geen gluten']","Aardappel groente fruit Groente Groentemix Roerbakmix
+ Roerbakmix (vers)","ah [SEP] roerbakgroente hollands [SEP] Zak, panklaar. Met peen, bleekselderij, broccoli, paprika, bloemkool en sperziebonen om een roerbakgerecht te bereiden. [SEP] overige landenkeukens",ah roerbakgroente hollands overige landenkeukens,null,null,null
