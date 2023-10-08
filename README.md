@@ -11,3 +11,5 @@ The Search Dataset folder contains the data files from the public data set that 
 # Thesis title: Semantic Search & Language Modeling at Albert Heijn
 
 The document that contains the thesis can also be found in this repository.
+
+The model file can be found in the specified folder.
