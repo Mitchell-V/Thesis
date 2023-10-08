@@ -12,4 +12,4 @@ The Search Dataset folder contains the data files from the public data set that 
 
 The document that contains the thesis can also be found in this repository.
 
-The model file can be found in the specified folder.
+The model file can be found in the following Google Drive folder: https://drive.google.com/drive/folders/1ndmxsYGXVFnvYEognJ1AyZlZhqkG0vjZ?usp=sharing
